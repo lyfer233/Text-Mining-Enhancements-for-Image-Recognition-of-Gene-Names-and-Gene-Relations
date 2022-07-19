@@ -1,0 +1,1674 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+      <journal-title-group>
+        <journal-title>Scientific Reports</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2045-2322</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group UK</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">28769055</article-id>
+      <article-id pub-id-type="pmc">5541090</article-id>
+      <article-id pub-id-type="publisher-id">6522</article-id>
+      <article-id pub-id-type="doi">10.1038/s41598-017-06522-3</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>High-Coverage Whole-Exome Sequencing Identifies Candidate Genes for Suicide in Victims with Major Depressive Disorder</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Tomb&#xE1;cz</surname>
+            <given-names>D&#xF3;ra</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Mar&#xF3;ti</surname>
+            <given-names>Zolt&#xE1;n</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0419-2009</contrib-id>
+          <name>
+            <surname>Kalm&#xE1;r</surname>
+            <given-names>Tibor</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Csabai</surname>
+            <given-names>Zsolt</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bal&#xE1;zs</surname>
+            <given-names>Zsolt</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Takahashi</surname>
+            <given-names>Shinichi</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Palkovits</surname>
+            <given-names>Mikl&#xF3;s</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Snyder</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <address>
+            <email>mpsnyder@stanford.edu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Boldogk&#x151;i</surname>
+            <given-names>Zsolt</given-names>
+          </name>
+          <address>
+            <email>boldogkoi.zsolt@med.u-szeged.hu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1016 9625</institution-id><institution-id institution-id-type="GRID">grid.9008.1</institution-id><institution>Department of Medical Biology, Faculty of Medicine, </institution><institution>University of Szeged, </institution></institution-wrap>Somogyi B. u. 4., Szeged, H-6720 Hungary </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000000419368956</institution-id><institution-id institution-id-type="GRID">grid.168010.e</institution-id><institution>Department of Genetics, </institution><institution>School of Medicine, Stanford University, </institution></institution-wrap>300 Pasteur Dr., Stanford, CA 94305-5120 USA </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1016 9625</institution-id><institution-id institution-id-type="GRID">grid.9008.1</institution-id><institution>Department of Paediatrics, Faculty of Medicine, </institution><institution>University of Szeged, </institution></institution-wrap>Kor&#xE1;nyi fasor 14-15., Szeged, H-6720 Hungary </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0942 9821</institution-id><institution-id institution-id-type="GRID">grid.11804.3c</institution-id><institution>Neuromorphological and Neuroendocrine Research Laboratory, Department of Anatomy, Histology and Embryology, </institution><institution>Semmelweis University, </institution></institution-wrap>Budapest, &#xDC;ll&#x151;i u. 26., H-1085 Hungary </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>2</day>
+        <month>8</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>2</day>
+        <month>8</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>7</volume>
+      <elocation-id>7106</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>6</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2017</copyright-statement>
+        <license license-type="OpenAccess">
+          <license-p>
+<bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article&#x2019;s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x2019;s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">We carried out whole-exome ultra-high throughput sequencing in brain samples of suicide victims who had suffered from major depressive disorder and control subjects who had died from other causes. This study aimed to reveal the selective accumulation of rare variants in the coding and the UTR sequences within the genes of suicide victims. We also analysed the potential effect of STR and CNV variations, as well as the infection of the brain with neurovirulent viruses in this behavioural disorder. As a result, we have identified several candidate genes, among others three calcium channel genes that may potentially contribute to completed suicide. We also explored the potential implication of the TGF-&#x3B2; signalling pathway in the pathogenesis of suicidal behaviour. To our best knowledge, this is the first study that uses whole-exome sequencing for the investigation of suicide.</p>
+      </abstract>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2017</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p id="Par2">Close to 20 million suicides are attempted annually worldwide, of which more than one million are completed<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. Suicide is the 10<sup>th</sup> leading cause of mortality in the world, which supports the importance of better defining the genetic causes and social basis of this disorder, and to identify individuals at risk. Suicide is a complex behaviour, determined by the interaction between proximal and distant risk factors. The proximal factors include recent life events, substance abuse and mental disorders, such as major depressive disorder (MDD), bipolar disorder and schizophrenia. The most important distal factors are the genetic and epigenetic factors, family history, early-life adversity and personality<sup><xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref></sup> The most common underlying disorder is MDD, which is the leading cause of disability worldwide<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>; more than 50% of suicide victims suffer from this disease, which increases the risk of suicide by up to twentyfold<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>. A number of studies have shown a familial accumulation of suicidal behaviour including suicide completion and attempt<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>.Twin and adoption studies have revealed that the heritability of suicide ranges between 30&#x2013;55%<sup><xref ref-type="bibr" rid="CR7">7</xref></sup>.</p>
+      <p id="Par3">According to the current consensus, depression is etiologically a heterogeneous disease with overlapping causal pathways<sup><xref ref-type="bibr" rid="CR8">8</xref></sup>, but logically, completed suicide with MDD may have a much less diverse genetic background. The heritable components of suicidal behaviour have until recently only been investigated either by hypothesis-driven research that focuses on preselected candidate genes<sup><xref ref-type="bibr" rid="CR9">9</xref>&#x2013;<xref ref-type="bibr" rid="CR11">11</xref></sup>, or by the comparison of the frequencies of common genetic variants<sup><xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref></sup>. Neurobiological evidence implicates the dysfunction of the HPA axis<sup><xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref></sup>, as well as the serotonergic<sup><xref ref-type="bibr" rid="CR16">16</xref>&#x2013;<xref ref-type="bibr" rid="CR18">18</xref></sup>, the dopaminergic<sup><xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref></sup> and other systems in suicidality.</p>
+      <p id="Par4">The candidate gene approach has to date yielded very few results with general consensus. Genome-wide association studies (GWASs), in spite of their large sample sizes have not explored any association signals in depression<sup><xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref></sup>, which may be in connection with the heterogeneous genetic background of MDD or it may also be possible that the causative genetic factors of depression could lie outside of the scope of these studies. In contrast to candidate gene and GWASs, whole-exome studies (WES) or whole-genome studies (WGS) allow for the comparison of genomes with base pair precision, and are therefore capable of revealing rare genetic variants that potentially play a causative role in suicidal behaviour. Additionally, WES and WGS techniques allow the examination of the potential pathogenic role of expansion of short tandem repeats (STRs), copy number variations (CNV) and infection by viruses.</p>
+      <p id="Par5">Until recently, the common disease-common variant hypothesis has been the ruling concept, and has been the theoretical basis for GWAS. However, it turns out that common alleles can explain only a fraction of the heritability of common diseases<sup><xref ref-type="bibr" rid="CR23">23</xref></sup>. Today, we are witnessing the emergence of the common disease&#x2013;rare variant hypothesis<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>, which proposes that rare variants may also be an underlying factor in common diseases, meaning that the same common disease can have different rare causative variants in different individuals. WES analysis is able to identify novel rare genetic variants, as well as common variants associated with monogenic<sup><xref ref-type="bibr" rid="CR25">25</xref></sup> and complex diseases<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. WES platforms can be especially successful in the identification of heterogeneous single-gene disorders (umbrella diseases), which can be caused by multiple high-penetrance rare genetic factors.</p>
+      <p id="Par6">In principle, suicide may be a heterogeneous Mendelian phenotype or, it may also be possible that genes that are known to cause single gene disorders may also confer risk of suicide in a certain percentage of patients. Indeed, an investigation of the medical records of 110 million patients demonstrated an association between monogenic disorders and complex diseases, such as MDD, bipolar disorder, and schizophrenia<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>.</p>
+      <p id="Par7">In this study, we applied an Illumina HighSeq platform-based high-coverage WES technique, which, in addition to the exons, allows the determination of 5&#x2032;- and 3&#x2032;-UTRs, promoters to a certain length, along with off-target sequences, such as introns, intergenic regions and infecting viruses. The limitation of the WES platform is that it is not able to study potential factors located in the inter-genomic or deep intronic regions. However, it is estimated that 85% of penetrant disease-causing mutations reside in the coding regions of the genome<sup><xref ref-type="bibr" rid="CR28">28</xref></sup>; therefore WES analysis has the potential to uncover the causes of rare variants of both homogeneous and heterogeneous monogenic disorders. In our study, all suicide victims suffered from MDD. We analysed the Hungarian population, which is known to have a high incidence of suicide<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>. To our best knowledge, until now no WES platform has been used for studying suicide, but a low-coverage WGS study on MDD has recently been published<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>.</p>
+    </sec>
+    <sec id="Sec2" sec-type="results">
+      <title>Results</title>
+      <sec id="Sec3">
+        <title>Analysis of biallelic variants</title>
+        <p id="Par8">Based on the hypothesized molecular basis (risk/protective alleles and rare variants), we carried out specific bioinformatic analyses to investigate the potential genetic factors contributing to suicide. We assumed that within the suicide cohort the random distribution of high impact (HI) mutations throughout a gene represents loss-of-function variants, whereas an accumulation of mutations at specific regions within a gene is supposed to indicate a gain-of-function mechanism through altering the operation of protein domains or regulatory sequences. We assumed that genes having HI common variants with MAF higher than the incidence of suicide cannot be accountable in the loss-of-function model, and so we excluded them from the analysis.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Analysis of region-specific accumulation of rare genetic variants</title>
+        <p id="Par9">Gene function can be changed either by domain-specific mutations of the exonic regions resulting in altered protein function, or by mutations in the regulatory motifs that could lead to abnormal level or pattern of gene expression. Contrary to the loss-of-function mutations, which can be randomly distributed along the entire gene, gain-of-function mutations are supposed to be localized in well-defined regions. In the examined 594,910 genomic regions we identified 14,393 rare (AF&#x2009;&lt;&#x2009;1/5,000) variants that were not present in the Hungarian controls. The vast majority of the genomic regions contained no rare variants, 13,459 regions had only a single rare variant, in 808 regions 2, in 101 regions 3, and in 21 regions, at least 4 suicide samples had rare variants in the same genomic region (Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Genomic region-dependent accumulation of rare variants in suicide samples.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>SAMPLE COUNT</th><th>NUMBER OF VARIANTS</th><th>GENOMIC RANGE</th><th>GENE</th><th>REGION</th><th>SUICIDE SAMPLE ID</th></tr></thead><tbody><tr><td>7</td><td>1</td><td>19:535931-536148</td><td>CDC34*</td><td>UPSTREAM</td><td>Y482,Y375,Y393,Y426,Y532,Y787,Y919</td></tr><tr><td>6</td><td>1</td><td>5:111091613-111091736</td><td>NREP*</td><td>SPLICE</td><td>BIB82,Y316,Y331,Y482,Y516,Y558</td></tr><tr><td>6</td><td>4</td><td>2:242666998-242668839</td><td>ING5*</td><td>3' UTR</td><td>Y166,Y292,Y591,Y724,Y988,Y787</td></tr><tr><td>5</td><td>4</td><td>11:117156433-117160295</td><td>BACE1</td><td>3' UTR</td><td>BrA206,Y331,Y645,Y919,Y292</td></tr><tr><td>5</td><td>2</td><td>22:23505688-23506663</td><td>RAB36</td><td>3' UTR</td><td>Br333,Y331,Br857,Y166,Y558</td></tr><tr><td>5</td><td>5</td><td>1:118507671-118509205</td><td>SPAG17*</td><td>3' UTR</td><td>Y375,Y393,Y421,Y520,Y532</td></tr><tr><td>5</td><td>5</td><td>2:240504919-240507676</td><td>ENST00000358775*</td><td>3' UTR</td><td>BIB82,Y375,Y426,Y532,Y724</td></tr><tr><td>4</td><td>4</td><td>X:17750592-17754159</td><td>NHS</td><td>3' UTR</td><td>Y426,Y516,Y532,Y919</td></tr><tr><td>4</td><td>1</td><td>15:20875075-20875135</td><td>NBEAP1*</td><td>INTRON</td><td>BIB82,BrA206,Y724,Y919</td></tr><tr><td>4</td><td>1</td><td>5:147649533-147649718</td><td>SPINK13</td><td>INTRON</td><td>Y331,Y393,Y532,Y591</td></tr><tr><td>4</td><td>1</td><td>20:2732322-2732689</td><td>EBF4</td><td>UPSTREAM</td><td>BIB82,Y393,Y516,Y558</td></tr><tr><td>4</td><td>2</td><td>3:130282083-130282518</td><td>COL6A6*</td><td>EXONIC</td><td>Y166,Y292,Y724,Y482</td></tr><tr><td>4</td><td>2</td><td>12:42475627-42481688</td><td>GXYLT1*</td><td>3' UTR</td><td>Y166,Y591,Y919,Y787</td></tr><tr><td>4</td><td>3</td><td>2:210884434-210885839</td><td>RPE</td><td>3' UTR</td><td>Br857,Y919,Y558,Y591</td></tr><tr><td>4</td><td>3</td><td>7:139246399-139257490</td><td>HIPK2*</td><td>3' UTR</td><td>Y166,Y787,Y292,Y516</td></tr><tr><td>4</td><td>3</td><td>9:87486857-87492822</td><td>NTRK2</td><td>3' UTR</td><td>Br333,Y375,Y426,Y645</td></tr><tr><td>4</td><td>4</td><td>18:11852188-11853806</td><td>GNAL</td><td>3' UTR</td><td>Br857,Y292,Y421,Y787</td></tr><tr><td>4</td><td>4</td><td>1:3350379-3355244</td><td>PRDM16</td><td>3' UTR</td><td>Y292,Y421,Y426,Y988</td></tr><tr><td>4</td><td>4</td><td>7:141356464-141362505</td><td>KIAA1147*</td><td>3' UTR</td><td>Br333,Y292,Y375,Y645</td></tr><tr><td>4</td><td>4</td><td>4:164445811-164449937</td><td>MARCH1*</td><td>3' UTR</td><td>Y166,Y516,Y532,Y988</td></tr><tr><td>4</td><td>4</td><td>15:67482895-67487583</td><td>SMAD3</td><td>3' UTR</td><td>Br857,BrA206,Y421,Y532</td></tr></tbody></table><table-wrap-foot><p>This table lists the genomic regions in which at least 4 suicide samples had rare variant(s). The SAMPLE COUNT column contains the number of suicide victims with rare variants in the same gene, the NUMBER OF VARIANTS column contains the number of individual variants within the gene, the GENOMIC RANGE column shows the GRCh37 start/end coordinates of the region, the GENE column contains the name of the gene, the REGION column contains the type of the genomic region, the SAMPLE ID column contains the suicide sample IDs with the rare variant in the given genomic regions.</p><p>*denotes genes without disease association in MalaCards and OMIM.</p></table-wrap-foot></table-wrap>
+</p>
+        <p id="Par10">We identified a single exonic location (in COL6A6 gene encoding the alpha 6 chain of collagen type VI, which plays a role in axon guidance) that accumulated rare variants in more than 17% of the suicide cohort. Intriguingly, COL6A6 was also identified as a candidate gene in our recessive loss-of-function analysis (see below). Among the related pathways of this cell-binding protein are the interleukin and GM-CSF signalling and NCAM1 interactions<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>.</p>
+        <p id="Par11">Additionally, we identified 20 non-exonic (putative regulatory) regions that contained rare variants in ~20% of suicide patients, which may contribute to the completed suicide. We must note that some of the variants in the list may be population-specific low MAF variants that were obtained because of the high number (594,910) of genomic regions examined in this study and the random selection of the individuals. The GNAL gene has been shown to contribute to schizophrenia<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>, the BACE1 gene is a candidate for Alzheimer&#x2019;s disease<sup><xref ref-type="bibr" rid="CR33">33</xref></sup>, while the NREP gene is associated with neural regeneration. In this analysis, we observed the highest enrichment in the CDC34 with 7 sample counts; this gene encodes an ubiquitin-conjugating enzyme playing a role in the control of cell cycle<sup><xref ref-type="bibr" rid="CR34">34</xref></sup>. For the detailed list of the 64 individual variants, see Table&#xA0;<xref rid="MOESM2" ref-type="media">S1</xref>.</p>
+        <p id="Par12">Together, this part of our study revealed that there is no such gene in our cohort that could alone be accountable for causing suicide by domain-specific exonic alterations, but some rare alleles may play a non-exclusive causative role in this disorder.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Identification of putative dominant loss-of-function rare variants</title>
+        <p id="Par13">We identified 61 different protein damaging mutations (19 frameshift, 21 splice site, 3 start-loss, 5 stop-loss, and 13 stop-gain mutations), which were found exclusively in the suicide patients (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>). Only a single HI mutation (stop-loss, gene MRPL45) was present in two suicide individuals. MRPL45, encoding a component of the large subunit of the mitochondrial ribosome, is a Y-linked gene that if truly proves to be a risk factor, may explain the higher incidence of males for committing suicide.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Putative dominant loss-of-function candidate genes where at least one sample had a rare protein disruptive variant in the suicide samples.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>GENE</th><th>CHR</th><th>POS</th><th>REF</th><th>ALT</th><th>CONSEQUENCE</th><th>SAMPLE ID</th></tr></thead><tbody><tr><td>MRPL45*</td><td>17</td><td>36478478</td><td>A</td><td>C</td><td>stop-loss</td><td>BrA206,Y426</td></tr><tr><td>CACNA2D4</td><td>12</td><td>2024019</td><td>C</td><td>A</td><td>splice donor &amp; intron</td><td>Y516</td></tr><tr><td>OTOGL</td><td>12</td><td>80764471</td><td>T</td><td>C</td><td>splice donor &amp; intron</td><td>Y591</td></tr><tr><td>CWC27</td><td>5</td><td>64084836</td><td>C</td><td>T</td><td>stop-gain</td><td>Y520</td></tr><tr><td>SPATA31C2*</td><td>9</td><td>90748568</td><td>T</td><td>A</td><td>splice acceptor &amp; intron</td><td>Y558</td></tr><tr><td>RGL4*</td><td>22</td><td>24041028</td><td>CAGCTACAAGCTGT</td><td>C</td><td>splice acceptor &amp; splice region &amp; intron &amp; non-coding transcript exon</td><td>Y331</td></tr><tr><td>PMCH</td><td>12</td><td>102591506</td><td>AAGTT</td><td>A</td><td>frameshift</td><td>Y532</td></tr><tr><td>TRIM15*</td><td>6</td><td>30131613</td><td>CG</td><td>C</td><td>frameshift</td><td>Br333</td></tr><tr><td>CEP85L</td><td>6</td><td>118880200</td><td>T</td><td>G</td><td>stop-gain</td><td>Y166</td></tr><tr><td>NME1</td><td>17</td><td>49231585</td><td>G</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y166</td></tr><tr><td>ZNF718*</td><td>4</td><td>60294</td><td>T</td><td>C</td><td>stop-loss &amp; splice region</td><td>Y375</td></tr><tr><td>CENPC</td><td>4</td><td>68385221</td><td>C</td><td>G</td><td>splice acceptor &amp; intron</td><td>Y724</td></tr><tr><td>CDK14*</td><td>7</td><td>90338857</td><td>T</td><td>C</td><td>start-loss</td><td>Y591</td></tr><tr><td>RAB3GAP2</td><td>1</td><td>220363490</td><td>T</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y292</td></tr><tr><td>PMM2</td><td>16</td><td>8900171</td><td>A</td><td>G</td><td>splice acceptor &amp; intron</td><td>Y375</td></tr><tr><td>TMPRSS11F*</td><td>4</td><td>68919659</td><td>G</td><td>A</td><td>stop-gain</td><td>Y919</td></tr><tr><td>SURF4*</td><td>9</td><td>136233553</td><td>T</td><td>A</td><td>splice acceptor &amp; intron</td><td>Y482</td></tr><tr><td>CKB</td><td>14</td><td>103988441</td><td>G</td><td>A</td><td>stop-gain</td><td>Y919</td></tr><tr><td>PCYOX1L*</td><td>5</td><td>148742545</td><td>CAA</td><td>C</td><td>frameshift</td><td>Y532</td></tr><tr><td>MIXL1</td><td>1</td><td>226413300</td><td>T</td><td>A</td><td>stop-gain</td><td>Y516</td></tr><tr><td>D2HGDH</td><td>2</td><td>242688420</td><td>CCCTGTGAGGATGGT</td><td>C</td><td>splice donor &amp; splice region &amp; intron</td><td>Y724</td></tr><tr><td>PSKH1*</td><td>16</td><td>67961717</td><td>C</td><td>T</td><td>splice acceptor &amp; intron</td><td>Y316</td></tr><tr><td>BRMS1L</td><td>14</td><td>36333074</td><td>A</td><td>G</td><td>splice acceptor &amp; intron</td><td>Y919</td></tr><tr><td>ST14</td><td>11</td><td>130058476</td><td>AT</td><td>A</td><td>frameshift</td><td>Y591</td></tr><tr><td>STRA8*</td><td>7</td><td>134925307</td><td>CA</td><td>C</td><td>frameshift</td><td>Y919</td></tr><tr><td>ARRDC2*</td><td>19</td><td>18120687</td><td>C</td><td>T</td><td>stop-gain</td><td>Y292</td></tr><tr><td>BOD1L1*</td><td>4</td><td>13629016</td><td>GC</td><td>G</td><td>frameshift</td><td>Y292</td></tr><tr><td>H2AFZ*</td><td>4</td><td>100871387</td><td>T</td><td>C</td><td>splice donor &amp; intron</td><td>Y426</td></tr><tr><td>CFAP70*</td><td>10</td><td>75056798</td><td>A</td><td>G</td><td>splice donor &amp; intron</td><td>Y166</td></tr><tr><td>SKOR2*</td><td>18</td><td>44746383</td><td>T</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y558</td></tr><tr><td>PRKAG2</td><td>7</td><td>151573704</td><td>A</td><td>G</td><td>start-loss</td><td>Y316</td></tr><tr><td>ADRA1A</td><td>8</td><td>26636945</td><td>C</td><td>A</td><td>stop-gain &amp; splice region</td><td>Y516</td></tr><tr><td>TMEM132C*</td><td>12</td><td>129189800</td><td>G</td><td>T</td><td>stop gain</td><td>Y421</td></tr><tr><td>S100A13*</td><td>1</td><td>153600595</td><td>A</td><td>AC</td><td>splice donor &amp; intron</td><td>Y724</td></tr><tr><td>DLG2</td><td>11</td><td>83191415</td><td>G</td><td>A</td><td>stop-gain &amp; splice region</td><td>Y331</td></tr><tr><td>PCSK5</td><td>9</td><td>78790138</td><td>AAATGGAATGGAATGAAATGGAATGGAATGGAATGG</td><td>A</td><td>frameshift</td><td>Y421</td></tr><tr><td>C1orf226*</td><td>1</td><td>162353052</td><td>CCA</td><td>C</td><td>frameshift</td><td>Y426</td></tr><tr><td>EPS15</td><td>1</td><td>51946947</td><td>GTC</td><td>G</td><td>frameshift</td><td>Y482</td></tr><tr><td>WDR12*</td><td>2</td><td>203749260</td><td>T</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y375</td></tr><tr><td>TMA16*</td><td>4</td><td>164415989</td><td>G</td><td>A</td><td>splice donor &amp; intron</td><td>Y645</td></tr><tr><td>LOC100507443*</td><td>2</td><td>208993176</td><td>C</td><td>CA</td><td>frameshift</td><td>Y516</td></tr><tr><td>CES4A*</td><td>16</td><td>67035297</td><td>TC</td><td>T</td><td>frameshift</td><td>Y558</td></tr><tr><td>NUDCD3*</td><td>7</td><td>44530037</td><td>G</td><td>GCT</td><td>frameshift</td><td>Y724</td></tr><tr><td>TP53RK</td><td>20</td><td>45315393</td><td>T</td><td>C</td><td>stop-loss</td><td>Y331</td></tr><tr><td>RABGGTA</td><td>14</td><td>24737761</td><td>C</td><td>T</td><td>stop-gain</td><td>Y919</td></tr><tr><td>UBE2E3*</td><td>2</td><td>181846846</td><td>AC</td><td>A</td><td>frameshift</td><td>Y166</td></tr><tr><td>MPDZ</td><td>9</td><td>13140066</td><td>A</td><td>G</td><td>start-loss</td><td>Br857</td></tr><tr><td>TNFRSF11B</td><td>8</td><td>119936822</td><td>G</td><td>A</td><td>stop-gain</td><td>Y919</td></tr><tr><td>ABI1</td><td>10</td><td>27054244</td><td>TC</td><td>T</td><td>frameshift &amp; splice region</td><td>Y919</td></tr><tr><td>HAPLN1</td><td>5</td><td>82940440</td><td>TGA</td><td>T</td><td>frameshift</td><td>BrA206</td></tr><tr><td>MRAP2</td><td>6</td><td>84772679</td><td>C</td><td>CT</td><td>frameshift</td><td>Y591</td></tr><tr><td>CAND2*</td><td>3</td><td>12854548</td><td>G</td><td>T</td><td>stop-gain</td><td>Y393</td></tr><tr><td>CACNA1C</td><td>12</td><td>2659708</td><td>A</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y988</td></tr><tr><td>KRTAP2-4*</td><td>17</td><td>39221826</td><td>G</td><td>GA</td><td>frameshift</td><td>BrA206</td></tr><tr><td>SORL1</td><td>11</td><td>121502724</td><td>G</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y520</td></tr><tr><td>LRRC37A4P*</td><td>17</td><td>43585907</td><td>T</td><td>C</td><td>splice acceptor &amp; intron</td><td>Y482</td></tr><tr><td>PEMT</td><td>17</td><td>17409148</td><td>T</td><td>G</td><td>stop-loss</td><td>Y645</td></tr><tr><td>RBMXL2</td><td>11</td><td>7110854</td><td>GC</td><td>G</td><td>frameshift</td><td>Br333</td></tr><tr><td>ZNF646*</td><td>16</td><td>31091705</td><td>C</td><td>T</td><td>stop-gain</td><td>Br857</td></tr><tr><td>RBM12B*</td><td>8</td><td>94752787</td><td>T</td><td>A</td><td>stop-loss</td><td>Y787</td></tr><tr><td>TGIF2LY*</td><td>Y</td><td>3447816</td><td>GCC</td><td>G</td><td>frameshift</td><td>Y645</td></tr></tbody></table><table-wrap-foot><p>Each genetic variant was a heterozygote. GENE is the name of gene; CHR and POS shows the GRCh37 coordinate of the variant, REF/ALT columns shows the reference and alternate alleles, CONSEQUENCE is the type of the protein disruption, and the SAMPLE ID column contains the sample names in which the given variant was found.</p><p>*denotes genes without disease association in MalaCards and OMIM.</p></table-wrap-foot></table-wrap>
+</p>
+        <p id="Par14">From this cohort, 31 had no disease association in MalaCards and OMIM (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>). We found a male specific (Y chromosome) HI mutation in the TGIF2LY gene, too. Among the remaining 30 disease-associated genes, eight genes have been shown to contribute to neurological disorders. Note that CACNA1C encode a calcium ion channel, such as we found in the analysis of common variant risk factors (CACNA1B). Intriguingly, a genome-wide analysis has also revealed that CACNA1B along with the CACNA1A gene play a shared effect on 5 major psychiatric disorders, including MDD<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. In this part of our study, we identified another calcium channel protein, CACNA2D4, which has been shown to play a role in the pathogenesis of bipolar disorder<sup><xref ref-type="bibr" rid="CR36">36</xref></sup>.</p>
+        <p id="Par15">In the second part of this study, we broadened our scope by including MI variants in the analysis. We selected genes in which at least two suicide samples had a rare variant (AF&#x2009;&lt;&#x2009;1/5,000 in databases; and so, it is not found in the Hungarian controls). We identified altogether 42 genes with 86 possibly protein damaging mutations found exclusively in the individuals who committed suicide (Table&#xA0;<xref rid="Tab3" ref-type="table">3</xref>). The DOT1L and TTC28 genes were detected in four samples. None of these genes has been associated with any diseases so far. For five genes (TTC34, SCLY, SPHKAP, SOGA1, YES1) we found MI rare variants in 3 samples, all the other genes had only MI mutations in two samples (Table&#xA0;<xref rid="Tab3" ref-type="table">3</xref>). In this cohort, seven genes have already been associated with neurological disorders (MNX1, NINJ1, PER2, PHF20, PRSS56, RPH3A, and SBF1) in MalaCards and OMIM. See the detailed list containing information about the individual variants in Table&#xA0;<xref rid="MOESM3" ref-type="media">S2</xref>.<table-wrap id="Tab3"><label>Table 3</label><caption><p>List of putative dominant loss of function candidate genes where at least two samples had rare potentially damaging variants exclusively in the suicide samples.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>GENE</th><th>SUICIDE SAMPLE COUNT</th></tr></thead><tbody><tr><td>DOT1L*, TTC28*</td><td>4</td></tr><tr><td>TTC34*, SCLY*, SPHKAP*, SOGA1*, YES1</td><td>3</td></tr><tr><td>OTOG, PIK3R4*, SHISA6*, ZBTB49*, TATDN2*, DEDD2*, MAP3K14-AS1*, SMARCC1*, TXLNA*, DGKA*, C1QTNF7*, ZFC3H1*, BIK*, STC2*, GMEB2*, KLF7*,APLP2*, DCC, TNS1, PER2, MIXL1, KIAA1429, MCAM, LAMA3, MNX1, PRSS56, KIAA1549, SBF1, MRPL45, MYBPC1, PHF20, VAC14, RPH3A, NINJ1, REST</td><td>2</td></tr></tbody></table><table-wrap-foot><p>Each variant was a heterozygote and only counted if located in the same transcript of the gene. The GENE column contains the identified genes, the SAMPLE COUNT column contains the number of suicide samples in which a rare potentially damaging variant was found in the given genes.</p><p>*denotes genes without disease association in MalaCards and OMIM.</p></table-wrap-foot></table-wrap>
+</p>
+        <p id="Par16">From these results, we can conclude that suicide is unlikely to be caused by a single dominantly inherited genetic allele.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Identification of potentially recessive loss-of-function rare variants</title>
+        <p id="Par17">In this study, no HI homo- or hemizygote (X-linked) variants were identified; except the ZSCAN1 gene, which had two HI variants in the same individual that complies with recessive inheritance. This gene encodes a zinc finger-domain transcription factor, which is expressed in the brain, but thus far has not been associated with any human disease (Table&#xA0;<xref rid="Tab4" ref-type="table">4</xref>).<table-wrap id="Tab4"><label>Table 4</label><caption><p>Putative recessive loss of function candidate gene with two rare protein disruptive variants.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>GENE</th><th>CHR</th><th>POS</th><th>REF</th><th>ALT</th><th>CONSEQUENCE</th><th>SAMPLE ID</th></tr></thead><tbody><tr><td>ZSCAN1*</td><td>19</td><td>58549663</td><td>TC</td><td>T</td><td>frameshift variant</td><td>Y591</td></tr><tr><td>ZSCAN1*</td><td>19</td><td>58549495</td><td>G</td><td>A</td><td>stop-gain variant</td><td>Y591</td></tr></tbody></table><table-wrap-foot><p>CHR and POS show the GRCh37 coordinate of the variant; the REF/ALT columns shows the reference and alternate alleles; the CONSEQUENCE is the type of the protein disruption; the SAMPLE ID column contains the sample name in which the given variant was found in a heterozygote state.</p><p>*denotes gene without disease association in MalaCards and OMIM.</p></table-wrap-foot></table-wrap>
+</p>
+        <p id="Par18">In the second part of this analysis, we also included MI variants in the study. We selected genes, where at least one suicide sample had an HI/MI variant in homo-, hemi- or compound heterozygous state. We excluded variants that were in the same allele, in the cases where we had phasing information. Only COL6A6 showed at least two heterozygote variants in three samples, all other genes had such variants in one sample only.</p>
+        <p id="Par19">Among the 79 identified genes, 60 genes were on autosomal chromosome (Table&#xA0;<xref rid="MOESM4" ref-type="media">S3</xref>). We found the following 12 genes, which were associated with neurological disorders: DNAH5, CTTNBP2, TSC2, NAV2, TG, PARD3B, CREB1, KCNB1, MAN1B1, NSD1, RERE, and ERCC5.</p>
+        <p id="Par20">We also identified 19 X-linked candidate genes with hemizygous MI variants in male suicide individuals that fit to our criteria, but only one of these (RP2 gene) had been found in two male suicide victims (Table&#xA0;<xref rid="Tab5" ref-type="table">5</xref>). We identified four genes that had already been associated with neurological disorders (AFF2, ALG13, OPHN1, and RBM10).<table-wrap id="Tab5"><label>Table 5</label><caption><p>Putative recessive loss of function X-linked candidate genes with hemizygous variants in male suicide victims.</p></caption><table frame="hsides" rules="groups"><tbody><tr><td>GENE</td><td>CHR</td><td>POS</td><td>REF</td><td>ALT</td><td>CONSEQUENCE</td><td>SAMPLE ID</td></tr><tr><td>RP2</td><td>X</td><td>46696585</td><td>C</td><td>T</td><td>missense variant</td><td>Y558</td></tr><tr><td>RP2</td><td>X</td><td>46696543</td><td>G</td><td>C</td><td>missense variant</td><td>Y591</td></tr><tr><td>LINC00632*</td><td>X</td><td>139795826</td><td>G</td><td>A</td><td>missense variant</td><td>Y645</td></tr><tr><td>TSPAN6</td><td>X</td><td>99890198</td><td>C</td><td>T</td><td>missense variant</td><td>BrA206</td></tr><tr><td>PBDC1*</td><td>X</td><td>75397790</td><td>A</td><td>C</td><td>missense variant</td><td>Y482</td></tr><tr><td>NR0B1</td><td>X</td><td>30326933</td><td>C</td><td>A</td><td>missense variant</td><td>Y482</td></tr><tr><td>TIMP1</td><td>X</td><td>47444635</td><td>C</td><td>G</td><td>missense variant</td><td>BIB82</td></tr><tr><td>TFE3</td><td>X</td><td>48888013</td><td>C</td><td>T</td><td>missense variant</td><td>BrA206</td></tr><tr><td>TAB3*</td><td>X</td><td>30864180</td><td>A</td><td>G</td><td>missense variant</td><td>Y591</td></tr><tr><td>CXorf23*</td><td>X</td><td>19948685</td><td>G</td><td>A</td><td>missense variant</td><td>Y558</td></tr><tr><td>MAMLD1</td><td>X</td><td>149681090</td><td>A</td><td>C</td><td>missense variant</td><td>Y591</td></tr><tr><td>STARD8</td><td>X</td><td>67937097</td><td>A</td><td>G</td><td>missense variant</td><td>Y919</td></tr><tr><td>RBM10</td><td>X</td><td>47006890</td><td>G</td><td>A</td><td>missense variant</td><td>Y919</td></tr><tr><td>MAP3K15*</td><td>X</td><td>19398252</td><td>C</td><td>T</td><td>missense variant</td><td>Y645</td></tr><tr><td>ALG13</td><td>X</td><td>111003183</td><td>G</td><td>A</td><td>missense variant</td><td>Y787</td></tr><tr><td>ATP11C*</td><td>X</td><td>138884497</td><td>G</td><td>A</td><td>missense variant &amp; splice region variant</td><td>Y166</td></tr><tr><td>TRO</td><td>X</td><td>54956296</td><td>G</td><td>A</td><td>missense variant</td><td>Y482</td></tr><tr><td>AFF2</td><td>X</td><td>148037417</td><td>G</td><td>T</td><td>missense variant</td><td>BIB82</td></tr><tr><td>DMD</td><td>X</td><td>31366742</td><td>C</td><td>T</td><td>missense variant</td><td>Y482</td></tr><tr><td>OPHN1</td><td>X</td><td>67273643</td><td>T</td><td>C</td><td>missense variant</td><td>BrA206</td></tr></tbody></table><table-wrap-foot><p>CHR and POS show the GRCh37 coordinate of the variant; the REF/ALT columns shows the reference and alternate alleles; the CONSEQUENCE is the type of the protein disruption; the SAMPLE ID column contains the sample name in which the given variants were found in heterozygote state.</p><p>*denotes gene without disease association in MalaCards and OMIM.</p></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Microsatellite analysis</title>
+        <p id="Par21">STRs are composed of 2&#x2013;6 bp DNA motifs that repeated approximately 5 to 50 times. STRViper and lobSTR analyses were carried out to investigate the potential role of these microsatellites within the exonic, intronic, and UTR sequences, as well as whether in the proximal promoter regions these could serve as genetic factors in suicide. In this analysis, we tested the hypothesis of whether the length of the repeat region may be an important factor. The LobSTR-based method is capable of analysing the short repeat sequences (&lt;100&#x2009;bp), where the reads fully contained the repeat. As a result of this approach, we could not detect significant differences in the lengths of STRs between the suicide and control groups. The STRviper approach is capable of analysing larger repeats<sup><xref ref-type="bibr" rid="CR37">37</xref></sup>, but no single large STR expansion or contraction (as is the cause for example Huntington disease) were detected in any of the suicide samples. From this study, we can conclude that large STR-based variations do not support the monogenic disorder hypothesis. However, we mention here that longer repeats with minor variations cannot be examined with short-read sequencing.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Analysis of copy number variation</title>
+        <p id="Par22">The high coverage of sequencing reads allowed us to analyse the CNV polymorphism. In this part of the study, we investigated 286,754 high coverage (average coverage &gt;20-fold) regions. Wilcoxon Rank-Sum test with Bonferroni multiple hypothesis testing correlation did not reveal any significant differences in the copy number of the investigated regions between control and suicide samples; thus, this kind of polymorphism alone is unlikely be responsible for suicidal behaviour.</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Gene network analysis</title>
+        <p id="Par23">Of the 201 genes implicated by our analyses, 191 genes had an entry in the STRING database. 88 out of the 191 genes were interconnected; while 20 genes had interactions with experimental evidence forming a network as shown in Figs&#xA0;<xref rid="MOESM1" ref-type="media">S1</xref> and <xref rid="MOESM1" ref-type="media">S2</xref>. The biggest hub in this network was SMAD3.The Enrichment Analysis function on the Gene Ontology (GO) website was used to identify gene sets from the obtained candidate genes, which cluster into gene networks. Four genes belonging to the transforming growth factor beta (TGF-&#x3B2;) signalling pathway have been found to be enriched (p&#x2009;=&#x2009;0.0225; with &#x3B1;&#x2009;=&#x2009;0.01 following Bonferroni correction) in the dataset obtained from the analysis of region-dependent accumulation of rare variants. Genes NREP, SMAD3, HIPK2 and PRDM16 are all members of the TGF-&#x3B2; pathway and the regulation of cellular response to TGF-&#x3B2; (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). The SMAD3 is a transcriptional modulator, while the rest of the genes code for transcription factors. We have identified mutations in the 3&#x2032;-UTRs of the SMAD3; HIPK2; and PRDM16 in 4&#x2013;4 subjects each. Mutations of the NREP gene are accumulated in the splice region in six subjects. Note that SMAD3 is a hub protein with multiple interactions (Fig.&#xA0;<xref rid="MOESM1" ref-type="media">S1</xref>), and that NREP directly acts on TGF-&#x3B2;.<fig id="Fig1"><label>Figure 1</label><caption><p>NREP, HIPK2, PRDM16, SMAD3 and their roles in the canonical TGF-&#x3B2; signalling pathway. The region-dependent accumulation of rare variants dataset was significantly enriched in the genes connected to the TGF-&#x3B2; pathway. Highlighted are the four genes contained in the dataset. Interactions were drawn using Pathvisio 3.2.4.</p></caption><graphic xlink:href="41598_2017_6522_Fig1_HTML" id="d29e2998"/></fig>
+</p>
+        <p id="Par24">Altogether, 15 suicide subjects had 18 variants, which may affect the function of the TGF-&#x3B2; pathway. The members of the TGF-&#x3B2; superfamily have been shown to play an important role in the formation of synapses and neural development<sup><xref ref-type="bibr" rid="CR38">38</xref></sup>. The TGF-&#x3B2;1 itself was first implicated in the pathogenesis of depression when Myint and colleagues<sup><xref ref-type="bibr" rid="CR39">39</xref></sup> found significantly lower levels of this protein in the blood of patients diagnosed with MDD than in the control group. Since then numerous studies have confirmed the connection between MDD and TGF-&#x3B2;<sup><xref ref-type="bibr" rid="CR40">40</xref>&#x2013;<xref ref-type="bibr" rid="CR43">43</xref></sup>. Studies were able to associate low levels of TGF-&#x3B2;1 with MDD but they have failed to associate TGF-&#x3B2; with suicidal behaviour. However, Lee and Kim<sup><xref ref-type="bibr" rid="CR44">44</xref></sup> examined attempted suicide, while O&#x2019;Donovan and colleagues<sup><xref ref-type="bibr" rid="CR45">45</xref></sup> investigated suicide ideation, in contrast to our work, in which we investigated completed suicide. Furthermore, these reports examined the TGF-&#x3B2; itself, while our work detected four other genes of the TGF-&#x3B2; pathway as candidates for suicide. We did not obtain a significant enrichment of genes within a gene network for the rest of the datasets.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Detection of viral DNA in the brain</title>
+        <p id="Par25">We took advantage of the off-target reads and analysed them for the presence of virus sequences. We could detect human herpes virus 6 (HHV6) in the autopsy brain samples of suicide victims (HHV6B in two victims and HHV6A in one of the HHV6B-infected individuals); these sequences were not identified in the controls. The herpesviruses have been considered to play a role in the development of various neurological diseases including multiple sclerosis<sup><xref ref-type="bibr" rid="CR46">46</xref></sup>, Parkinson&#x2019;s disease, Alzheimer&#x2019;s disease<sup><xref ref-type="bibr" rid="CR47">47</xref></sup> and epilepsy<sup><xref ref-type="bibr" rid="CR48">48</xref>, <xref ref-type="bibr" rid="CR49">49</xref></sup>. However, due to the low sample size and frequency of infection, we cannot state for sure that HHV6 infection is a risk factor for suicide.</p>
+      </sec>
+    </sec>
+    <sec id="Sec11" sec-type="discussion">
+      <title>Discussion</title>
+      <p id="Par26">In this report, we performed WES analysis in brain samples of suicide victims, who suffered from MDD and control subjects who died from other causes. We searched for rare minor alleles found only in the suicide victims and not in our controls nor in the available human genome/exome databases. We also analysed the genes and intragenic sequences for potential multiple variants, the differences in the lengths of microsatellites and the CNV of the covered genomic regions. Additionally, gene network analysis of the candidate genes was also carried out. We also investigated the presence of potentially pathogenic viruses in the brain tissues. The effect of sampling bias was minimized by using gender-ratio-matched ethnic group (Hungarian) controls. In our suicide cohort, the male victims chose more extreme method of suicide (hanging or jumping; 14 out of 15 victims), while females chose less extreme means, namely drug overdose (5 out of 8 victims).</p>
+      <p id="Par27">This genomic analysis focuses on the accumulation of genetic variants within the genes instead of individual variants. From our results, we can conclude that suicide is unlikely caused by a single gene, instead, it may be either an umbrella disease-like disorder caused by multiple high-penetrance genes, or it may be determined by the concerted action of multiple genes and the environment. We detected rare genetic variants, which potentially could be the causes of suicide. We emphasize the potential significance of the three calcium ion channel genes (CACNA1B, -1C, and -2D4), which we identified in two different analyses. The CACNA1A, another calcium channel gene, has also been proposed by others as a candidate gene for MDD<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. This report also identified several candidate genes that have not been associated with any diseases until now. Additionally, our study also revealed that the TGF-&#x3B2; signalling pathway may play a causative role in the completed suicide (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>), which is a confirmation of earlier studies that proposed a role for TGF-&#x3B2; in MDD<sup><xref ref-type="bibr" rid="CR40">40</xref>&#x2013;<xref ref-type="bibr" rid="CR44">44</xref></sup>. Members of the TGF-&#x3B2; superfamily have been shown to play an important role in the formation of synapses and neural development in invertebrates<sup><xref ref-type="bibr" rid="CR50">50</xref>, <xref ref-type="bibr" rid="CR51">51</xref></sup> and in vertebrates<sup><xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR52">52</xref></sup> as well. Alteration in TGF-&#x3B2; signalling may also shift the balance of pro-inflammatory and anti-inflammatory cytokines, as proposed in MDD<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>. However, since no other controls (non-suicide MDD patients and non-MDD suicide victims) were used in this study, the identified candidate genes and the TGF-&#x3B2; signalling pathway may be general genetic factors for the depression or for the suicide, instead of having potential exclusive roles for the completed suicide in MDD patients.</p>
+    </sec>
+    <sec id="Sec12" sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <sec id="Sec13">
+        <title>Clinical samples and ethical statements</title>
+        <p id="Par28">Brains from suicide victims (n&#x2009;=&#x2009;23; 15 males and eight female) and from control participants (n&#x2009;=&#x2009;21; 14 males and seven females) were used for whole-exome sequencing. Samples were taken from the occipital cortex, cerebellar cortex and somatomotor cortex of individuals. All patients died suddenly from causes not directly involving any CNS diseases. Tissue samples were obtained by autopsy at the Department of Forensic Medicine of the Semmelweis University Medical School. In the case of suicide victims, a psychiatric diagnosis of MDD was on record. These were done and/or confirmed by experienced psychiatrists on the basis of criteria defined in the fourth edition of Diagnostic and Statistical Manual of Mental Disorders. Suicide victims died by hanging (n&#x2009;=&#x2009;16), drug overdose (n&#x2009;=&#x2009;6), or jump from height (n&#x2009;=&#x2009;1). Causes of death in control subjects were the following: acute heart failure (n&#x2009;=&#x2009;4), myocardial infarction (n&#x2009;=&#x2009;6), cardiorespiratory insufficiency (n&#x2009;=&#x2009;4), chronic hepatitis (n&#x2009;=&#x2009;2), chronic bronchitis (n&#x2009;=&#x2009;1), Alzheimer&#x2019;s disease (n&#x2009;=&#x2009;2), acute cardiopulmonary insufficiency (n&#x2009;=&#x2009;1), and stroke (n&#x2009;=&#x2009;1). Examination of medical records of control subjects at the autopsy confirmed the absence of psychiatric illness within the past 10 years. All of the controls and suicide victims were Caucasians of Hungarian ethnicity (Budapest region). Harvesting of tissues was approved by the local ethics committee<sup><xref ref-type="bibr" rid="CR53">53</xref></sup>. Data were analysed anonymously.</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Whole exome sequencing</title>
+        <p id="Par29">Whole-exome sequencing was carried out in DNAs of 23 suicide victims and 21 controls using <italic>post mortem</italic> brain tissues as a source. Genomic DNA samples were purified from the cortex regions using the DNeasy Blood and Tissue Kit (Qiagen) according to the manufacturer&#x2019;s protocol. (30&#x2009;mg tissue was used from each sample for the DNA extraction.) The qualified genomic DNA (200&#x2009;ng from each sample) were fragmented by Covaris technology with resultant library fragments of 200&#x2013;450&#x2009;bp. Whole exome sequencing was performed as previously described (Chen <italic>et al</italic>., 2013) with slight modifications. In brief, whole exome enrichment was performed with the Agilent SureSelect Human All Exon V5+UTRs kit (Agilent Technologies, Santa Clara, CA), following the kit&#x2019;s recommendations and sequenced with the Illumina HiSeq. 2000 sequencer (Illumina, San Diego, CA) to generate 100&#x2009;bp-paired end reads. BWA MEM (version 0.7.9a-r786) was used to align reads to the GRCh37 reference genome. Genome Analysis Toolkit (GATK) HaplotypeCaller (version 3.5) best practices<sup><xref ref-type="bibr" rid="CR54">54</xref></sup> were used to generate final quality recalibrated BAM files for downstream analysis and variant calling. SnpEff<sup><xref ref-type="bibr" rid="CR55">55</xref></sup> (version 4.3) with GRCh37.75 data set was used for annotating variants. We obtained very high coverage per base position in both cohorts; in the Hungarian control cohort 96.3&#x2013;97.5% (quartiles) of target regions had higher than 20-fold and 81.6&#x2013;91.6% of target regions had higher than 40-fold coverage. In the suicide cohort these values were 95.4&#x2013;97.5% for 20-fold and 82.8&#x2013;90.5% for 40-fold coverage, respectively. We obtained on average ~130,000 variants per sample using the SureSelect V5 Plus all Exon kit for the exome sequencing. We identified 442,270 unique variants in the suicide and control cohorts altogether. In the study of biallelic variants, we excluded 11,634 multiallelic-, 2,344 pseudogenic-, and 6,234 refseq errors, as well as, 27,565 low complexity-, 32,025 uncertain-, and 68,015 low-depth variants. Among the remaining 294,453 high quality, biallelic variants 30,206 had no MAF values and 264,247 biallelic variants had known MAF values in the public (dbSNP and/or EVS) databases.</p>
+      </sec>
+      <sec id="Sec15">
+        <title>Analysis of biallelic variants</title>
+        <p id="Par30">To filter out high quality biallelic variants that follow HWE, we used the following criteria for the exclusion: variants failed PASS filter for &gt;10% of samples; variants where coverage were &lt;10x for &gt;10% of samples; variants in low complexity repetitive regions were excluded (the analysis was based on the Dust score of flanking 15 bases of the reference sequence 5&#x2032; and 3&#x2032; around the variant); technical errors (wetlab or bioinformatic) and pseudogenic variants that violated HW equilibrium in controls. We defined common variants that had minor allele frequency (MAF) in dbSNP (build 146 GRCh37); ~6,000 exome data of Exome Variant Server (EVS); ~60,000 exome data of ExAC database; or it was found in more than two samples in Hungarian control group. We investigated rare variants with MAF&#x2009;&lt;&#x2009;1/5,000 values in the public databases (dbSNP, EVS, ExAC), assuming dominant, and MAF&#x2009;&lt;&#x2009;1/<inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sqrt{\text{5,000}}$$\end{document}</tex-math><mml:math id="M2"><mml:msqrt><mml:mrow><mml:mtext>5,000</mml:mtext></mml:mrow></mml:msqrt></mml:math><inline-graphic xlink:href="41598_2017_6522_Article_IEq1.gif"/></alternatives></inline-formula>, assuming recessive Mendelian inheritance. The following two scenarios were tested: in the gain-of-function scenario, we tried to find putative regulatory or coding regions of the genes exhibiting region-specific accumulation of mutations in the suicide cohort but not in the control group; in the loss-of-function scenario, we assumed random distribution for the potentially protein-disrupting variants (high- or moderate-impact (MI) mutations) throughout the coding and UTR regions of the genes.</p>
+        <sec id="Sec16">
+          <title>Analysis of rare variants - region dependent accumulation</title>
+          <p id="Par31">For this analysis, we created a bed coordinate list based on the original SureSelect V5 All exon&#x2009;+&#x2009;UTR Plus target region that contained all 5&#x2032; UTR, 5&#x2032; flanking intronic, exonic, 3&#x2032; flanking intronic, and 3&#x2032; UTR regions separately. We investigated all regions searching for the accumulation of rare (AF&#x2009;&lt;&#x2009;1/5000) variants in the control and the suicide cohorts. Similarly to the approach that is used at ExAC<sup><xref ref-type="bibr" rid="CR56">56</xref></sup> for the classification of genes by the ratios of expected and observed synonymous and potentially damaging mutations, for each bed coordinate the count of rare variants was determined for both control and suicide cohorts. The analysed regions have been ranked on the basis of accumulation differences in rare variants between the control (expected) and suicide (observed) cohorts. Assuming random distribution of rare variants Monte Carlo simulation showed that the chance of having at least 4 rare variants (out of 14,393 rare variants in the suicide cohort) in any region (594,910 regions in total) is approximately 1%. Thus, a region with 4 or more rare variants observed in suicide cohort compared to the controls was considered a candidate.</p>
+        </sec>
+        <sec id="Sec17">
+          <title>Analysis of rare variants - Loss-of-function &#x2013; putative dominant mutation</title>
+          <p id="Par32">Based on SnpEff annotation of variants we selected rare variants that had HI or MI in any of the transcripts of genes covered in the exome kit (see SnpEff classification); those that had MAF&#x2009;&lt;&#x2009;1/5000 (assuming ~1:5000 incidence of suicide in Hungary) and more than two suicide patients had at least one of such variant in the same transcript. We also selected all HI variants in the cohort of suicide patients. From both lists we excluded bogus transcripts (no START codon, multiple STOP codons, incomplete transcript) and those transcripts that had any high- impact variant in public databases or in Hungarian controls that had MAF higher than 1/5000.</p>
+        </sec>
+        <sec id="Sec18">
+          <title>Analysis of Low-frequency variants - Loss-of-function &#x2013; putative recessive mutation</title>
+          <p id="Par33">Based on SnpEff annotation of variants we selected rare variants that had HI or MI in any of the transcripts of genes covered in the exome kit; had MAF&#x2009;&lt;&#x2009;1/71 (considering ~1:5000 incidence in Hungary, and recessive/homozygote/p<sup>2</sup>/frequency) and more than two suicide patients had at least two (or one homo- or hemizygote) of such variants in the same transcript. Furthermore, we excluded those variants that were located in the same allele, where we had phasing information (variant distance &lt;100&#x2009;bp read length). We selected transcripts which contained homozygote, hemizygote or compound heterozygote HI variants (compound heterozygosity: both alleles are mutated but at different locations). We also created a list where at least two HI heterozygote variants (or one homo-, hemizygote) were found in the same transcript in any of the suicide patients. From both lists we excluded bogus transcripts (no START codon, multiple STOP codons, incomplete transcript) and those transcripts that had any HI variant in public databases or in Hungarian controls that had MAF higher than 1/71.</p>
+        </sec>
+      </sec>
+      <sec id="Sec19">
+        <title>Microsatellite analysis</title>
+        <p id="Par34">We used STRViper<sup><xref ref-type="bibr" rid="CR37">37</xref></sup> to identify possible large STR expansions or contractions and lobSTR (version 3.0.2) according to its best practice guides for exome data analysis<sup><xref ref-type="bibr" rid="CR57">57</xref></sup> to calculate exact STR counts of smaller repeats that were entirely spanned by the reads. STR counts of suicide and control were analysed by Wilcoxon Rank-Sum test with Bonferroni multiple hypothesis test correction. Wilcoxon-Mann-Whitney power analysis (alpha&#x2009;=&#x2009;1.472e-4, SD&#x2009;=&#x2009;1.07) showed that at the given sample size only large repeat differences (two or more repeats) between the two cohorts could be statistically analysed.</p>
+      </sec>
+      <sec id="Sec20">
+        <title>Analysis of copy number variation</title>
+        <p id="Par35">In this analysis, we first refined the target regions specified in the original SureSelect V5 All exon&#x2009;+&#x2009;UTR Plus target region to contain only the actual high coverage BED coordinates from the empirical sequence data of the control group using &#x201C;samtools depth&#x201D; algorithm (avg coverage &gt;20x). &#x201C;Samtools bedcov&#x201D; algorithm has been applied on the high coverage BED coordinates identified in the previous step in order to calculate the coverage of sequencing reads for individual regions. Coverage data was normalised by the total GRCh37 mapped reads for each individuals and regions. Finally, matrix of 286,754&#x2009;&#xD7;&#x2009;23 and 286,754&#x2009;&#xD7;&#x2009;21 region/coverage data were obtained for the suicide and control groups, respectively. Due to the possibility of biological CNV variation, the more robust Wilcoxon-Mann-Whitney test has been applied for data and power analysis and to calculate the p values. Power analysis showed that at 0.95 power, alpha&#x2009;=&#x2009;1.74e-7 (multiple hypothesis test correction to 286,754 regions), considering 50 percent coverage change between the two groups, 19 control and 19 suicide samples (Wilcoxon-Mann-Whitney test, with SD&#x2009;=&#x2009;0.17) are needed to reveal significant differences.</p>
+      </sec>
+      <sec id="Sec21">
+        <title>Gene network analysis</title>
+        <p id="Par36">All the genes implicated by our analyses were considered for gene network analysis. The STRING database was used to search for experimentally proven interactions between our candidate genes. In order to determine whether genes connected to suicidal behaviour are significantly enriched in a gene network, we used the Enrichment Analysis function on the Gene Ontology (GO) website (www.geneontology.org)<sup><xref ref-type="bibr" rid="CR58">58</xref></sup>, which combines the GO database with the PANTHER database<sup><xref ref-type="bibr" rid="CR59">59</xref></sup>. We conducted separate searches for each of the four sets of genes (Table&#xA0;<xref rid="MOESM5" ref-type="media">S4</xref>) identified as potential genetic factors for suicide. We also conducted an enrichment analysis containing all the genes in the four datasets.</p>
+      </sec>
+      <sec id="Sec22">
+        <title>Detection of viruses in the brain</title>
+        <p id="Par37">In this analysis, we extracted all the reads that were not mapped to human GRCh37 reference sequence in each sample from the corresponding BAM files. Using a custom script, we converted them to a multiline FASTA file where the QNAME (See SAM file specification) field was used as sequence ID and the sequence was extracted from each of the unmapped reads. Standalone BLAT<sup><xref ref-type="bibr" rid="CR60">60</xref></sup> was used to align the FASTA files of each sample to the NCBI curated all viral genomes (ftp://ftp.ncbi.nlm.nih.gov/refseq/release/viral/). BLAT hits with &gt;90&#x2009;bp length and &gt;95% identity were filtered out and summarized for suicide and control cohorts using custom scripts.</p>
+      </sec>
+      <sec id="Sec23">
+        <title>Data Availability</title>
+        <p id="Par38">Sequenced data were deposited at the Sequence Read Archive (SRA) under BioProject SUB2335490).</p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Electronic supplementary material</title>
+      <sec id="Sec24">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41598_2017_6522_MOESM1_ESM.pdf"><caption><p>Supplementary Figures (1 and 2)</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="41598_2017_6522_MOESM2_ESM.xlsx"><caption><p>Supplementary Table 1</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM3"><media xlink:href="41598_2017_6522_MOESM3_ESM.xlsx"><caption><p>Supplementary Table 2</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM4"><media xlink:href="41598_2017_6522_MOESM4_ESM.xlsx"><caption><p>Supplementary Table 3</p></caption></media></supplementary-material>
+<supplementary-material content-type="local-data" id="MOESM5"><media xlink:href="41598_2017_6522_MOESM5_ESM.xlsx"><caption><p>Supplementary Table 4</p></caption></media></supplementary-material>
+</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>D&#xF3;ra Tomb&#xE1;cz and Zolt&#xE1;n Mar&#xF3;ti contributed equally to this work.</p>
+      </fn>
+      <fn>
+        <p>
+          <bold>Electronic supplementary material</bold>
+        </p>
+        <p>
+<bold>Supplementary information</bold> accompanies this paper at doi:10.1038/s41598-017-06522-3
+</p>
+      </fn>
+      <fn>
+        <p>
+<bold>Publisher's note:</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to express our appreciation to Dr. Rui Chen (Stanford University) and Dr. Jason A. Reuter (Stanford University) for helpful discussions. This research was supported by the European Union and the State of Hungary, co-financed by the European Social Fund in the framework of T&#xC1;MOP-4.2.6&#x2013;14/1 grant to ZBo and the Bolyai J&#xE1;nos Scholarship of the Hungarian Academy of Sciences to DT, and the E&#xF6;tv&#xF6;s Scholarship of the Hungarian State to DT. This work was also supported by NIH Centers of Excellence in Genomic Science (CEGS) Center for Personal Dynamic Regulomes, grant no: 5P50HG00773502 to MS and by the High-throughput sequencer for multi-scale genomic studies grant no: 1S10OD02014101 to MS.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Author Contributions</title>
+      <p>Conceptualization: Z.Bo., Z.M., T.K., M.P., M.S., D.T. Formal Analysis: Z.M., T.K., Z.Bo., Z.Ba., D.T., Z.C. Funding Acquisition: M.S., Z.Bo. Investigation: D.T., S.T. Resources: M.P., M.S., Z.Bo. Supervision: Z.Bo., M.S. Visualization: Z.M., T.K., Z.Bo., Z.Ba., D.T., Z.C. Writing &#x2013; Original Draft Preparation: Z.Bo., Z.M., T.K.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <sec id="FPar1">
+        <title>Competing Interests</title>
+        <p id="Par39">The authors declare that they have no competing interests.</p>
+      </sec>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">WHO. Global burden of disease. (2014). Available at: http://www.who.int/topics/global_burden_of_disease/en/. (Accessed: 17th January 2017).</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Labont&#xE9;</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide epigenetic regulation by early-life trauma</article-title>
+          <source>Arch. Gen. Psychiatry</source>
+          <year>2012</year>
+          <volume>69</volume>
+          <fpage>722</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1001/archgenpsychiatry.2011.2287</pub-id>
+          <pub-id pub-id-type="pmid">22752237</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turecki</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ernst</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Jollant</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Labont&#xE9;</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Mechawar</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>The neurodevelopmental origins of suicidal behavior</article-title>
+          <source>Trends Neurosci.</source>
+          <year>2012</year>
+          <volume>35</volume>
+          <fpage>14</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tins.2011.11.008</pub-id>
+          <pub-id pub-id-type="pmid">22177979</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kessler</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Bromet</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The Epidemiology of Depression Across Cultures</article-title>
+          <source>Annu. Rev. Public Health</source>
+          <year>2013</year>
+          <volume>34</volume>
+          <fpage>119</fpage>
+          <lpage>138</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-publhealth-031912-114409</pub-id>
+          <pub-id pub-id-type="pmid">23514317</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <mixed-citation publication-type="other">Kutcher, S. P. &amp; Chehil, S. <italic>Suicide risk management: a manual for health professionals</italic>. (John Wiley &amp; Sons, 2011).</mixed-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malone</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Sweeney</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Mann</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Major depression and the risk of attempted suicide</article-title>
+          <source>J. Affect. Disord.</source>
+          <year>1995</year>
+          <volume>34</volume>
+          <fpage>173</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1016/0165-0327(95)00015-F</pub-id>
+          <pub-id pub-id-type="pmid">7560545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Voracek</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Loibl</surname>
+              <given-names>LM</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetics of suicide: a systematic review of twin studies</article-title>
+          <source>Wien. Klin. Wochenschr.</source>
+          <year>2007</year>
+          <volume>119</volume>
+          <fpage>463</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00508-007-0823-2</pub-id>
+          <pub-id pub-id-type="pmid">17721766</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raison</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Capuron</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>AH</given-names>
+            </name>
+          </person-group>
+          <article-title>Cytokines sing the blues: inflammation and the pathogenesis of depression</article-title>
+          <source>Trends Immunol.</source>
+          <year>2006</year>
+          <volume>27</volume>
+          <fpage>24</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.it.2005.11.006</pub-id>
+          <pub-id pub-id-type="pmid">16316783</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pandey</surname>
+              <given-names>GN</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological basis of suicide and suicidal behavior</article-title>
+          <source>Bipolar Disord.</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <fpage>524</fpage>
+          <lpage>541</lpage>
+          <pub-id pub-id-type="doi">10.1111/bdi.12089</pub-id>
+          <pub-id pub-id-type="pmid">23773657</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oquendo</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Toward a Biosignature for Suicide</article-title>
+          <source>Am. J. Psychiatry</source>
+          <year>2014</year>
+          <volume>171</volume>
+          <fpage>1259</fpage>
+          <lpage>1277</lpage>
+          <pub-id pub-id-type="doi">10.1176/appi.ajp.2014.14020194</pub-id>
+          <pub-id pub-id-type="pmid">25263730</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokolowski</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wasserman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wasserman</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>An overview of the neurobiology of suicidal behaviors as one meta-system</article-title>
+          <source>Mol. Psychiatry</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>56</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="doi">10.1038/mp.2014.101</pub-id>
+          <pub-id pub-id-type="pmid">25178164</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schild</surname>
+              <given-names>AHE</given-names>
+            </name>
+            <name>
+              <surname>Pietschnig</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tran</surname>
+              <given-names>US</given-names>
+            </name>
+            <name>
+              <surname>Voracek</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic association studies between SNPs and suicidal behavior: A meta-analytical field synopsis</article-title>
+          <source>Prog. Neuro-Psychopharmacology Biol. Psychiatry</source>
+          <year>2013</year>
+          <volume>46</volume>
+          <fpage>36</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pnpbp.2013.06.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Levinson</surname>
+              <given-names>DF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genetic studies of major depressive disorder: why are there no genome-wide association study findings and what can we do about it?</article-title>
+          <source>Biol. Psychiatry</source>
+          <year>2014</year>
+          <volume>76</volume>
+          <fpage>510</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biopsych.2014.07.029</pub-id>
+          <pub-id pub-id-type="pmid">25201436</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wasserman</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sokolowski</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rozanov</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Wasserman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>The CRHR1 gene: a marker for suicidality in depressed males exposed to low stress</article-title>
+          <source>Genes. Brain. Behav.</source>
+          <year>2008</year>
+          <volume>7</volume>
+          <fpage>14</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">17376150</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Papiol</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genetic variability at HPA axis in major depression and clinical response to antidepressant treatment</article-title>
+          <source>J. Affect. Disord.</source>
+          <year>2007</year>
+          <volume>104</volume>
+          <fpage>83</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jad.2007.02.017</pub-id>
+          <pub-id pub-id-type="pmid">17467808</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dumais</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Risk Factors for Suicide Completion in Major Depression: A Case-Control Study of Impulsive and Aggressive Behaviors in Men</article-title>
+          <source>Am. J. Psychiatry</source>
+          <year>2005</year>
+          <volume>162</volume>
+          <fpage>2116</fpage>
+          <lpage>2124</lpage>
+          <pub-id pub-id-type="doi">10.1176/appi.ajp.162.11.2116</pub-id>
+          <pub-id pub-id-type="pmid">16263852</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lemonde</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impaired repression at a 5-hydroxytryptamine 1A receptor gene polymorphism associated with major depression and suicide</article-title>
+          <source>J. Neurosci.</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <fpage>8788</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="pmid">14507979</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heils</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Allelic variation of human serotonin transporter gene expression</article-title>
+          <source>J. Neurochem.</source>
+          <year>1996</year>
+          <volume>66</volume>
+          <fpage>2621</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1471-4159.1996.66062621.x</pub-id>
+          <pub-id pub-id-type="pmid">8632190</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arinami</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hamaguchi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Toru</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>A functional polymorphism in the promoter region of the dopamine D2 receptor gene is associated with schizophrenia</article-title>
+          <source>Hum. Mol. Genet.</source>
+          <year>1997</year>
+          <volume>6</volume>
+          <fpage>577</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="doi">10.1093/hmg/6.4.577</pub-id>
+          <pub-id pub-id-type="pmid">9097961</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kia-Keating</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Glatt</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Tsuang</surname>
+              <given-names>MT</given-names>
+            </name>
+          </person-group>
+          <article-title>Meta-analyses suggest association between COMT, but not HTR1B, alleles, and suicidal behavior</article-title>
+          <source>Am. J. Med. Genet. B. Neuropsychiatr. Genet.</source>
+          <year>2007</year>
+          <volume>144B</volume>
+          <fpage>1048</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="doi">10.1002/ajmg.b.30551</pub-id>
+          <pub-id pub-id-type="pmid">17525973</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Flint</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kendler</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title>The Genetics of Major Depression</article-title>
+          <source>Neuron</source>
+          <year>2014</year>
+          <volume>81</volume>
+          <fpage>484</fpage>
+          <lpage>503</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.neuron.2014.01.027</pub-id>
+          <pub-id pub-id-type="pmid">24507187</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ripke</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A mega-analysis of genome-wide association studies for major depressive disorder</article-title>
+          <source>Mol. Psychiatry</source>
+          <year>2013</year>
+          <volume>18</volume>
+          <fpage>497</fpage>
+          <lpage>511</lpage>
+          <pub-id pub-id-type="doi">10.1038/mp.2012.21</pub-id>
+          <pub-id pub-id-type="pmid">22472876</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manolio</surname>
+              <given-names>TA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Finding the missing heritability of complex diseases</article-title>
+          <source>Nature</source>
+          <year>2009</year>
+          <volume>461</volume>
+          <fpage>747</fpage>
+          <lpage>753</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature08494</pub-id>
+          <pub-id pub-id-type="pmid">19812666</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marian</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular genetic studies of complex phenotypes</article-title>
+          <source>Transl. Res.</source>
+          <year>2012</year>
+          <volume>159</volume>
+          <fpage>64</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.trsl.2011.08.001</pub-id>
+          <pub-id pub-id-type="pmid">22243791</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morton</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Nance</surname>
+              <given-names>WE</given-names>
+            </name>
+          </person-group>
+          <article-title>Newborn Hearing Screening &#x2014; A Silent Revolution</article-title>
+          <source>N. Engl. J. Med.</source>
+          <year>2006</year>
+          <volume>354</volume>
+          <fpage>2151</fpage>
+          <lpage>2164</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMra050700</pub-id>
+          <pub-id pub-id-type="pmid">16707752</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blakemore</surname>
+              <given-names>AIF</given-names>
+            </name>
+            <name>
+              <surname>Froguel</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigation of Mendelian forms of obesity holds out the prospect of personalized medicine</article-title>
+          <source>Ann. N. Y. Acad. Sci.</source>
+          <year>2010</year>
+          <volume>1214</volume>
+          <fpage>180</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1749-6632.2010.05880.x</pub-id>
+          <pub-id pub-id-type="pmid">21175686</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blair</surname>
+              <given-names>DR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A nondegenerate code of deleterious variants in Mendelian loci contributes to complex disease risk</article-title>
+          <source>Cell</source>
+          <year>2013</year>
+          <volume>155</volume>
+          <fpage>70</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2013.08.030</pub-id>
+          <pub-id pub-id-type="pmid">24074861</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Majewski</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schwartzentruber</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lalonde</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Montpetit</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jabado</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>What can exome sequencing do for you?</article-title>
+          <source>J. Med. Genet.</source>
+          <year>2011</year>
+          <volume>48</volume>
+          <fpage>580</fpage>
+          <lpage>589</lpage>
+          <pub-id pub-id-type="doi">10.1136/jmedgenet-2011-100223</pub-id>
+          <pub-id pub-id-type="pmid">21730106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laszlo</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Hulman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Csicsman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bari</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Nyari</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>The use of regression methods for the investigation of trends in suicide rates in Hungary between 1963 and 2011</article-title>
+          <source>Soc. Psychiatry Psychiatr. Epidemiol.</source>
+          <year>2015</year>
+          <volume>50</volume>
+          <fpage>249</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00127-014-0926-9</pub-id>
+          <pub-id pub-id-type="pmid">24990277</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>CONVERGE consortium</collab>
+            <etal/>
+          </person-group>
+          <article-title>Sparse whole-genome sequencing identifies two loci for major depressive disorder</article-title>
+          <source>Nature</source>
+          <year>2015</year>
+          <volume>523</volume>
+          <fpage>588</fpage>
+          <lpage>91</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature14659</pub-id>
+          <pub-id pub-id-type="pmid">26176920</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Probstmeier</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>K&#xFC;hn</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Schachner</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Binding properties of the neural cell adhesion molecule to different components of the extracellular matrix</article-title>
+          <source>J. Neurochem.</source>
+          <year>1989</year>
+          <volume>53</volume>
+          <fpage>1794</fpage>
+          <lpage>801</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1471-4159.1989.tb09245.x</pub-id>
+          <pub-id pub-id-type="pmid">2809592</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsiouris</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Breschel</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McInnis</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>McMahon</surname>
+              <given-names>FJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Linkage disequilibrium analysis of G-olf alpha (GNAL) in bipolar affective disorder</article-title>
+          <source>Am. J. Med. Genet.</source>
+          <year>1996</year>
+          <volume>67</volume>
+          <fpage>491</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="doi">10.1002/(SICI)1096-8628(19960920)67:5&lt;491::AID-AJMG11&gt;3.0.CO;2-I</pub-id>
+          <pub-id pub-id-type="pmid">8886169</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cai</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>BACE1 is the major beta-secretase for generation of Abeta peptides by neurons</article-title>
+          <source>Nat. Neurosci.</source>
+          <year>2001</year>
+          <volume>4</volume>
+          <fpage>233</fpage>
+          <lpage>234</lpage>
+          <pub-id pub-id-type="doi">10.1038/85064</pub-id>
+          <pub-id pub-id-type="pmid">11224536</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goebl</surname>
+              <given-names>MG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The yeast cell cycle gene CDC34 encodes a ubiquitin-conjugating enzyme</article-title>
+          <source>Science</source>
+          <year>1988</year>
+          <volume>241</volume>
+          <fpage>1331</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.2842867</pub-id>
+          <pub-id pub-id-type="pmid">2842867</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Group</surname>
+              <given-names>C-D</given-names>
+            </name>
+          </person-group>
+          <article-title>of the Psychiatric Genomics Consortium. Identification of risk loci with shared effects on five major psychiatric disorders: a genome-wide analysis</article-title>
+          <source>Lancet (London, England)</source>
+          <year>2013</year>
+          <volume>381</volume>
+          <fpage>1371</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(12)62129-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Den Bossche</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of a CACNA2D4 deletion in late onset bipolar disorder patients and implications for the involvement of voltage-dependent calcium channels in psychiatric disorders</article-title>
+          <source>Am. J. Med. Genet. Part B Neuropsychiatr. Genet.</source>
+          <year>2012</year>
+          <volume>159B</volume>
+          <fpage>465</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="doi">10.1002/ajmg.b.32053</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cao</surname>
+              <given-names>MD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Inferring short tandem repeat variation from paired-end short reads</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2014</year>
+          <volume>42</volume>
+          <fpage>e16</fpage>
+          <lpage>e16</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkt1313</pub-id>
+          <pub-id pub-id-type="pmid">24353318</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heupel</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Loss of transforming growth factor-beta 2 leads to impairment of central synapse function</article-title>
+          <source>Neural Dev.</source>
+          <year>2008</year>
+          <volume>3</volume>
+          <fpage>25</fpage>
+          <pub-id pub-id-type="doi">10.1186/1749-8104-3-25</pub-id>
+          <pub-id pub-id-type="pmid">18854036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Myint</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Leonard</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Steinbusch</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Th1, Th2, and Th3 cytokine alterations in major depression</article-title>
+          <source>J. Affect. Disord.</source>
+          <year>2005</year>
+          <volume>88</volume>
+          <fpage>167</fpage>
+          <lpage>173</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jad.2005.07.008</pub-id>
+          <pub-id pub-id-type="pmid">16126278</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sutcigil</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Pro- and anti-inflammatory cytokine balance in major depression: effect of sertraline therapy</article-title>
+          <source>Clin. Dev. Immunol.</source>
+          <year>2007</year>
+          <volume>2007</volume>
+          <fpage>76396</fpage>
+          <pub-id pub-id-type="doi">10.1155/2007/76396</pub-id>
+          <pub-id pub-id-type="pmid">18317531</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Altered expression of CD4(+)CD25(+) regulatory T cells and its 5-HT(1a) receptor in patients with major depression disorder</article-title>
+          <source>J. Affect. Disord.</source>
+          <year>2010</year>
+          <volume>124</volume>
+          <fpage>68</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jad.2009.10.018</pub-id>
+          <pub-id pub-id-type="pmid">19900711</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>CA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Altered choroid plexus gene expression in major depressive disorder</article-title>
+          <source>Front. Hum. Neurosci.</source>
+          <year>2014</year>
+          <volume>8</volume>
+          <fpage>238</fpage>
+          <pub-id pub-id-type="doi">10.3389/fnhum.2014.00238</pub-id>
+          <pub-id pub-id-type="pmid">24795602</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mihailova</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A study of TNF-&#x3B1;, TGF-&#x3B2;, IL-10, IL-6, and IFN-&#x3B3; gene polymorphisms in patients with depression</article-title>
+          <source>J. Neuroimmunol.</source>
+          <year>2016</year>
+          <volume>293</volume>
+          <fpage>123</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jneuroim.2016.03.005</pub-id>
+          <pub-id pub-id-type="pmid">27049572</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>H-Y</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y-K</given-names>
+            </name>
+          </person-group>
+          <article-title>Transforming growth factor-beta1 and major depressive disorder with and without attempted suicide: preliminary study</article-title>
+          <source>Psychiatry Res.</source>
+          <year>2010</year>
+          <volume>178</volume>
+          <fpage>92</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.psychres.2009.03.023</pub-id>
+          <pub-id pub-id-type="pmid">20452036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;Donovan</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Suicidal ideation is associated with elevated inflammation in patients with major depressive disorder</article-title>
+          <source>Depress. Anxiety</source>
+          <year>2013</year>
+          <volume>30</volume>
+          <fpage>307</fpage>
+          <lpage>314</lpage>
+          <pub-id pub-id-type="doi">10.1002/da.22087</pub-id>
+          <pub-id pub-id-type="pmid">23504697</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xC1;lvarez-Lafuente</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a-Montojo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>De Las Heras</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bartolom&#xE9;</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Arroyo</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical parameters and HHV-6 active replication in relapsing&#x2014;remitting multiple sclerosis patients</article-title>
+          <source>J. Clin. Virol.</source>
+          <year>2006</year>
+          <volume>37</volume>
+          <fpage>S24</fpage>
+          <lpage>S26</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1386-6532(06)70007-5</pub-id>
+          <pub-id pub-id-type="pmid">17276363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hemling</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Herpesviruses in brains in Alzheimer&#x2019;s and Parkinson&#x2019;s diseases</article-title>
+          <source>Ann. Neurol.</source>
+          <year>2003</year>
+          <volume>54</volume>
+          <fpage>267</fpage>
+          <lpage>271</lpage>
+          <pub-id pub-id-type="doi">10.1002/ana.10662</pub-id>
+          <pub-id pub-id-type="pmid">12891684</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karatas</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Investigation of HSV-1, HSV-2, CMV, HHV-6 and HHV-8 DNA by real-time PCR in surgical resection materials of epilepsy patients with mesial temporal lobe sclerosis</article-title>
+          <source>J. Neurol. Sci.</source>
+          <year>2008</year>
+          <volume>264</volume>
+          <fpage>151</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jns.2007.08.010</pub-id>
+          <pub-id pub-id-type="pmid">17804017</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Epstein</surname>
+              <given-names>LG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Human herpesvirus 6 and 7 in febrile status epilepticus: the FEBSTAT study</article-title>
+          <source>Epilepsia</source>
+          <year>2012</year>
+          <volume>53</volume>
+          <fpage>1481</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1528-1167.2012.03542.x</pub-id>
+          <pub-id pub-id-type="pmid">22954016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aberle</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Wishful thinking encodes a BMP type II receptor that regulates synaptic growth in Drosophila</article-title>
+          <source>Neuron</source>
+          <year>2002</year>
+          <volume>33</volume>
+          <fpage>545</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0896-6273(02)00589-5</pub-id>
+          <pub-id pub-id-type="pmid">11856529</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Packard</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mathew</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Budnik</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Wnts and TGF beta in synaptogenesis: old friends signalling at new places</article-title>
+          <source>Nat. Rev. Neurosci.</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <fpage>113</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrn1036</pub-id>
+          <pub-id pub-id-type="pmid">12563282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ahrens</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>B&#xFC;ttner</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Krieglstein</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Transforming growth factor beta promotes neuronal cell fate of mouse cortical and hippocampal progenitors <italic>in vitro</italic> and <italic>in vivo</italic>: identification of Nedd9 as an essential signaling component</article-title>
+          <source>Cereb. Cortex</source>
+          <year>2010</year>
+          <volume>20</volume>
+          <fpage>661</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="doi">10.1093/cercor/bhp134</pub-id>
+          <pub-id pub-id-type="pmid">19587023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Merali</surname>
+              <given-names>Z</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Dysregulation in the suicide brain: mRNA expression of corticotropin-releasing hormone receptors and GABA(A) receptor subunits in frontal cortical brain region</article-title>
+          <source>J. Neurosci.</source>
+          <year>2004</year>
+          <volume>24</volume>
+          <fpage>1478</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4734-03.2004</pub-id>
+          <pub-id pub-id-type="pmid">14960621</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <mixed-citation publication-type="other">GATK. Best Practices for Germline SNP &amp; Indel Discovery in Whole Genome and Exome Sequence. (2017). Available at: https://software.broadinstitute.org/gatk/best-practices/bp_3step.php?case=GermShortWGS. (Accessed: 24th May 2017)</mixed-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cingolani</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff: SNPs in the genome of Drosophila melanogaster strain w1118; iso-2; iso-3</article-title>
+          <source>Fly (Austin).</source>
+          <year>2012</year>
+          <volume>6</volume>
+          <fpage>80</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.4161/fly.19695</pub-id>
+          <pub-id pub-id-type="pmid">22728672</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lek</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Analysis of protein-coding genetic variation in 60,706 humans</article-title>
+          <source>Nature</source>
+          <year>2016</year>
+          <volume>536</volume>
+          <fpage>285</fpage>
+          <lpage>91</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature19057</pub-id>
+          <pub-id pub-id-type="pmid">27535533</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gymrek</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Golan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Rosset</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Erlich</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>lobSTR: A short tandem repeat profiler for personal genomes</article-title>
+          <source>Genome Res.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>1154</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="doi">10.1101/gr.135780.111</pub-id>
+          <pub-id pub-id-type="pmid">22522390</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Gene Ontology Consortium.</collab>
+          </person-group>
+          <article-title>Gene Ontology Consortium: going forward</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2015</year>
+          <volume>43</volume>
+          <fpage>D1049</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gku1179</pub-id>
+          <pub-id pub-id-type="pmid">25428369</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Muruganujan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Casagrande</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>PD</given-names>
+            </name>
+          </person-group>
+          <article-title>Large-scale gene function analysis with the PANTHER classification system</article-title>
+          <source>Nat. Protoc.</source>
+          <year>2013</year>
+          <volume>8</volume>
+          <fpage>1551</fpage>
+          <lpage>1566</lpage>
+          <pub-id pub-id-type="doi">10.1038/nprot.2013.092</pub-id>
+          <pub-id pub-id-type="pmid">23868073</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kent</surname>
+              <given-names>WJ</given-names>
+            </name>
+          </person-group>
+          <article-title>BLAT&#x2013;the BLAST-like alignment tool</article-title>
+          <source>Genome Res.</source>
+          <year>2002</year>
+          <volume>12</volume>
+          <fpage>656</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1101/gr.229202</pub-id>
+          <pub-id pub-id-type="pmid">11932250</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

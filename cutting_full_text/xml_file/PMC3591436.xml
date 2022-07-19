@@ -1,0 +1,511 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+      <journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosone</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS ONE</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1932-6203</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">23505411</article-id>
+      <article-id pub-id-type="pmc">3591436</article-id>
+      <article-id pub-id-type="publisher-id">PONE-D-12-24746</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0053370</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Biochemistry</subject>
+            <subj-group>
+              <subject>Enzymes</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Microbiology</subject>
+            <subj-group>
+              <subject>Parasitology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Model Organisms</subject>
+            <subj-group>
+              <subject>Animal Models</subject>
+              <subj-group>
+                <subject>Mouse</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Zoology</subject>
+            <subj-group>
+              <subject>Parasitology</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Medicine</subject>
+          <subj-group>
+            <subject>Diagnostic Medicine</subject>
+            <subj-group>
+              <subject>Pathology</subject>
+              <subj-group>
+                <subject>General Pathology</subject>
+                <subj-group>
+                  <subject>Biomarkers</subject>
+                </subj-group>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Infectious Diseases</subject>
+            <subj-group>
+              <subject>Parasitic Diseases</subject>
+              <subj-group>
+                <subject>Helminth Infection</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Matrix Metalloproteinase-9 Leads to Claudin-5 Degradation via the NF-&#x3BA;B Pathway in BALB/c Mice with Eosinophilic Meningoencephalitis Caused by <italic>Angiostrongylus cantonensis</italic>
+</article-title>
+        <alt-title alt-title-type="running-head">Degradation of Claudin-5 in Angiostrongyliasis</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chiu</surname>
+            <given-names>Ping-Sung</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lai</surname>
+            <given-names>Shih-Chan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+          <xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref>
+          <xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<label>1</label>
+<addr-line>Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan</addr-line>
+</aff>
+      <aff id="aff2">
+<label>2</label>
+<addr-line>Department of Parasitology, Chung Shan Medical University, Taichung, Taiwan</addr-line>
+</aff>
+      <aff id="aff3">
+<label>3</label>
+<addr-line>Clinical Laboratory, Chung Shan Medical University Hospital, Taichung, Taiwan</addr-line>
+</aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Langsley</surname>
+            <given-names>Gordon</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">
+<addr-line>Institut national de la sant&#xE9; et de la recherche m&#xE9;dicale - Institut Cochin, France</addr-line>
+</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>shih@csmu.edu.tw</email></corresp>
+        <fn fn-type="COI-statement">
+          <p><bold>Competing Interests: </bold>The authors have declared that no competing interest exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: S-CL. Performed the experiments: P-SC. Analyzed the data: P-SC. Contributed reagents/materials/analysis tools: P-SC. Wrote the paper: S-CL.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>7</day>
+        <month>3</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>8</volume>
+      <issue>3</issue>
+      <elocation-id>e53370</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>8</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 Chiu, Lai</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Chiu, Lai</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The epithelial barrier regulates the movement of ions, macromolecules, immune cells and pathogens. The objective of this study was to investigate the role of the matrix metalloproteinase (MMP)-9 in the degradation of tight junction protein during infection with rat nematode lungworm <italic>Angiostrongylus cantonensis</italic>. The results showed that phosphorylation of I&#x3BA;B and NF-&#x3BA;B was increased in mice with eosinophilic meningoencephalitis. Treatment with MG132 reduced the phosphorylation of NF-&#x3BA;B and the activity of MMP-9, indicating upregulation of MMP-9 through the NF-&#x3BA;B signaling pathway. Claudin-5 was reduced in the brain but elevated in the cerebrospinal fluid (CSF), implying that <italic>A. cantonensis</italic> infection caused tight junction breakdown and led to claudin-5 release into the CSF. Degradation of claudin-5 coincided with alteration of the blood-CSF barrier permeability and treatment with the MMP inhibitor GM6001 attenuated the degradation of claudin-5. These results suggested that degradation of claudin-5 was caused by MMP-9 in angiostrongyliasis meningoencephalitis. Claudin-5 could be used for the pathophysiologic evaluation of the blood-CSF barrier breakdown and tight junction disruption after infection with <italic>A. cantonensis</italic>.</p>
+      </abstract>
+      <funding-group>
+        <funding-statement>This study was supported in part by research grant No. NSC 101-2320-B-040-021 from the National Science Council, Republic of China. No additional external funding was received for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+      <counts>
+        <page-count count="7"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The rat nematode lungworm <italic>Angiostrongylus cantonensis</italic> undergoes obligatory intracerebral migration in its hosts and induces the parasitic disease angiostrongyliasis <xref rid="pone.0053370-Mackerras1" ref-type="bibr">[1]</xref>. Infection with this parasite induces severe central nervous system (CNS) disease, especially eosinophilic meningitis <xref rid="pone.0053370-Hsu1" ref-type="bibr">[2]</xref> or meningoencephalitis <xref rid="pone.0053370-Gardiner1" ref-type="bibr">[3]</xref> in non-permissive hosts (human or mice). Matrix metalloproteinase (MMP)-9 activity is closely associated with angiostrongyliasis meningitis caused by infection with <italic>A. cantonensis</italic>
+<xref rid="pone.0053370-Lai1" ref-type="bibr">[4]</xref>, <xref rid="pone.0053370-Lee1" ref-type="bibr">[5]</xref>. This enzyme is associated with disruption of the blood-CNS barrier in mice with angiostrongyliasis meningitis and triggers increased cellular infiltration of the subarachnoid space <xref rid="pone.0053370-Chen1" ref-type="bibr">[6]</xref>.</p>
+      <p>The CNS can exclude circulating cells and harmful compounds from blood via the blood-brain barrier (BBB) and the blood-CSF barrier, which are formed by tight junction proteins around cerebral epithelial cells of the choroid plexus <xref rid="pone.0053370-Vorbrodt1" ref-type="bibr">[7]</xref>. Claudins are integral membrane tight junction proteins localized at tight junctions and sufficient for the formation of tight junctions at cell-cell contacts <xref rid="pone.0053370-Furuse1" ref-type="bibr">[8]</xref>. Claudin 1, 2 and 5 were reported to be present in epithelial cells of the choroid plexus <xref rid="pone.0053370-Lippoldt1" ref-type="bibr">[9]</xref>. Also, claudin-5-deficient mice displayed size-selective loosening of the BBB and died shortly after birth <xref rid="pone.0053370-Nitta1" ref-type="bibr">[10]</xref>. In viral infection, brain microvascular endothelial cells exposed to the human immunodeficiency virus-1 (HIV-1) Tat protein decreased expression of claudin-5 and induced a redistribution of claudin-5 from cell-cell borders <xref rid="pone.0053370-Andrs1" ref-type="bibr">[11]</xref>. In bacterial infection, lipopolysaccharide can decrease expression of claudin-5 protein, resulting in increased permeability of rat brain microvascular endothelial cells <xref rid="pone.0053370-Deng1" ref-type="bibr">[12]</xref>. In parasite infection, BBB impairment with enhanced expression of claudin-5 was reported in experimental cerebral toxocariasis <xref rid="pone.0053370-Liao1" ref-type="bibr">[13]</xref>.</p>
+      <p>In an attempt to characterize the mechanisms underlying <italic>A. cantonensis</italic>-induced blood-CSF barrier dysfunction, we investigated the association of NF-&#x3BA;B, MMP-9 and claudin-5 in the choroid plexus of the mouse brain after infection with <italic>A. cantonensis</italic>. The objective of the present study was to investigate alteration of claudin-5 via the NF-&#x3BA;B-MMP-9 pathway in mice with eosinophilic meningoencephalitis.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s2">
+      <title>Materials and Methods</title>
+      <sec id="s2a">
+        <title>Experimental animals</title>
+        <p>Five-week-old male BALB/c mice were purchased from the National Laboratory Animal Center (Taipei, Taiwan) and maintained in a temperature-controlled environment with a 12 h light/12 h dark cycle and provided with Purina Laboratory Chow and water <italic>ad libitum</italic>. Mice were kept in a specific pathogen-free room at the Animal Center, Chung-Shan Medical University (Taichung, Taiwan) for more than one week before the experimental infection. All procedures were done in accord with the protocols approved by the Institutional Animal Care and Use Committee of Chung-Shan Medical University (Approval Number: 1087) and the institutional guidelines for animal experiments.</p>
+      </sec>
+      <sec id="s2b">
+        <title>Antibodies</title>
+        <p>Anti-mouse monoclonal antibodies I&#x3BA;B-&#x3B1;, p-I&#x3BA;B-&#x3B1;, NF-&#x3BA;B and p-NF-&#x3BA;B generated in rabbits were purchased from Cell Signaling Technology (Beverly, MA). Goat anti-mouse claudin-5 polyclonal antibody was purchased from Santa Cruz Biotechnology (CA, USA). Mouse anti-mouse &#x3B2;-actin monoclonal antibody was purchased from Sigma (St. Louis, MO, USA). Goat anti-mouse albumin polyclonal antibody was purchased from Bethyl Laboratories (Montgomer, USA). Horseradish peroxidase (HRP)-conjugated anti-rabbit IgG, HRP-conjugated anti-goat IgG and HRP-conjugated anti-mouse IgG were purchased from Jackson ImmunoResearch Laboratories (West Grove, PA, USA).</p>
+      </sec>
+      <sec id="s2c">
+        <title>Larval preparation</title>
+        <p>Infective larvae (L<sub>3</sub>) of <italic>A. cantonensis</italic> were obtained originally from wild giant African snails (<italic>Achatina fulica</italic>) that were propagated for several months and infected with <italic>A. cantonensis</italic> L<sub>1</sub> by rats (the definitive host) at the Wufeng Experimental Farm (Taichung, Taiwan). The L<sub>3</sub> larvae were recovered essentially as described <xref rid="pone.0053370-Parsons1" ref-type="bibr">[14]</xref> but with some modification. Briefly, snail shells were crushed and the tissues were homogenized in a pepsin-HCl solution (pH 1&#x2013;2, 500 IU pepsin/g tissue) and digested with agitation at 37&#xB0;C for 2 h. The larvae in the sediment were collected by serial washes in double-distilled water and counted under a microscope. The identity of the L<sub>3</sub> larvae of <italic>A. cantonensis</italic> was confirmed as described <xref rid="pone.0053370-Hou1" ref-type="bibr">[15]</xref>.</p>
+      </sec>
+      <sec id="s2d">
+        <title>Animal infection</title>
+        <p>A total of 120 male BALB/c mice were randomly allocated to five experimental groups (D<sub>5</sub>, D<sub>10</sub>, D<sub>15</sub>, D<sub>20</sub> and D<sub>25</sub>) and a control group of 20 mice each. Mice did not have access to food or water for 12 h before infection. Mice in the experimental groups D<sub>5</sub>, D<sub>10</sub>, D<sub>15</sub>, D<sub>20</sub> and D<sub>25</sub> were each infected with 50 <italic>A. cantonensis</italic> larvae by oral inoculation, and were sacrificed on days 5, 10, 15, 20 or 25 post-inoculation (PI), respectively. The control mice received only water and were sacrificed on day 25 PI. Brains were rapidly removed and frozen in liquid nitrogen.</p>
+      </sec>
+      <sec id="s2e">
+        <title>Treatment of animals</title>
+        <p>Forty mice were randomly allocated to four treatment groups (10 mice/group). Two groups of GM6001-treated mice were infected with 50 larvae and inhibited with specific MMPs inhibitor, GM6001 (2 mg/kg/day, Chemicon International, USA) on days 5 and 15 PI for seven consecutive days intraperitoneally, respectively. Mice were sacrificed on day 22 PI and the CSF was collected for claudin-5 analysis. Two groups of MG132-treated mice were infected with 50 larvae and treated with 1.5 or 3.0 mg/kg/day MG132 (Cayman Chemical, Ann Arbor, MI) for twenty consecutive days. Mice were sacrificed on day 22 PI and the brain was collected for NF-&#x3BA;B p-p65 and MMP-9 analysis.</p>
+      </sec>
+      <sec id="s2f">
+        <title>CSF collection</title>
+        <p>Mice were anesthesized by intraperitoneal urethane (1.25 g/kg) injection. Mouse placed in a stationary instrument with 135 degree from the head and body. Skin of neck shaved and swabbed with 70% ethanol (three times). Subcutaneous tissue and muscles were separated. Capillary tube through dura mater into citerna magna and CSF well inpoured capillary tube. Inject CSF into a 0.5 ml eppendorf tube and centrifuged at 3000&#xD7;<italic>g</italic> at 4&#xB0;C for 5 min. Collection of supernatant in a 0.5 ml eppendorf tube and kept at &#x2212;80&#xB0;C freezer.</p>
+      </sec>
+      <sec id="s2g">
+        <title>Western blot analysis</title>
+        <p>The mouse brains were homogenized in RIPA lysis buffer (150 mM sodium chloride, 1% (v/v) NP-40, 0.5% (v/v) deoxycholic acid, 0.1% (w/v) SDS and 50 mM Tris, pH 7.5) containing Protease Inhibitor Cocktail (Sigma, St. Louis, MO, USA). The homogenates were centrifuged at 12,000 <italic>g</italic> for 10 min at 4&#xB0;C. Protein concentration was determined with protein assay kits (Bio-Rad, CA, USA) using bovine serum albumin (BSA) as the standard. Samples were mixed with an equal volume of loading buffer (62.5 mM Tris-HCl, pH 6.8, 10% (v/v) glycerol, 2% SDS, 5% (v/v) 2-mercaptoethanol and 0.05% (w/v) bromophenol blue) and heated for 5 min at 95&#xB0;C. The mixture was subjected to SDS-PAGE and transferred electrophoretically to nitrocellulose membranes at a constant current of 190 mA for 90 min. Membranes were blocked with 5% (w/v) non-fat milk in PBS containing 0.1% (v/v) Tween 20 (PBST) for 1 h at room temperature. Membranes were reacted with primary antibodies at 37&#xB0;C for 1 h. Membranes were washed three times with PBST, HRP-conjugated secondary antibody (1&#x2236;10,000 dilution) was added and incubated at 37&#xB0;C for 1 h to detect primary bound antibody. Reactive proteins were detected by enhanced chemiluminescence (Amersham, Little Chalfont, Bucks, UK) and the density of specific immunoreactive bands was quantified by densitometric scanning.</p>
+      </sec>
+      <sec id="s2h">
+        <title>Gelatin zymography</title>
+        <p>Brain homogenates were subjected to SDS-PAGE (7.5% (w/v) polyacrylamide gel containing 0.1% (w/v) gelatin (Sigma, St. Louis, MO, USA) in running buffer (25 mM Tris, 250 mM glycine, 1% SDS) at room temperature. The gel was washed twice in double-distilled water containing 2.5% Triton X-100 for 30 min each time, then incubated in reaction buffer (50 mM Tris-HCl, pH 7.5, 200 mM NaCl, 10 mM CaCl<sub>2</sub>, 0.02% (w/v) Brij&#xAE;-35, 0.01% (w/v) NaN<sub>3</sub>) at 37&#xB0;C for 18 h. The gel was stained with 0.25% (w/v) Coomassie brilliant blue R-250 (Sigma, St. Louis, MO, USA) for 1 h and then destained in 15% (v/v) methanol, 7.5% (v/v) acetic acid. Gelatinase activity was detected as unstained bands on a blue background. Quantitative analysis was done with a computer-assisted imaging densitometer system (UN-SCAN-IT&#x2122; gel version 5.1, Silk Scientific, UT).</p>
+      </sec>
+      <sec id="s2i">
+        <title>Eosinophil counts in the CSF</title>
+        <p>The CSF was collected and centrifuged at 400 <italic>g</italic> for 10 min, the sediment was recovered and mixed gently with 100 &#xB5;L of Unopette buffer (Vacutainer System; Becton Dickinson, Franklin Lakes, NJ) and 2 &#xB5;L of acetic acid, and placed into the cell counting chamber of a hemocytometer (Paul Marienfeld, Lauda-Koenigshofen, Germany) to count the eosinophils.</p>
+      </sec>
+      <sec id="s2j">
+        <title>Assay of blood-CSF barrier permeability</title>
+        <p>Blood-CSF barrier permeability was evaluated by assessing the concentration of Evans blue in CSF. At 2 h before sacrifice, mice were injected with 2% Evans blue (100 mg/kg body weight; Sigma, St. Louis, MO, USA) in saline into a tail vein. The average concentration of Evans blue in CSF was calculated from measurement of the absorbance at 620 nm in a spectrophotometer (Hitachi U3000; Tokyo, Japan).</p>
+      </sec>
+      <sec id="s2k">
+        <title>Statistical analysis</title>
+        <p>Results for the different groups were compared with the non-parametric Kruskal-Wallis test followed by Dunn's multiple comparison of means. All results are presented as mean &#xB1; standard deviation (S.D.). Statistically significant difference was set at <italic>P</italic>&lt;0.05.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title>Kinetic studies for p-I&#x3BA;B-&#x3B1; and p-NF-&#x3BA;B in mouse brain</title>
+        <p>p-I&#x3BA;B-&#x3B1;, I&#x3BA;B-&#x3B1;, p-NF-&#x3BA;B and NF-&#x3BA;B in the brain of mice infected with <italic>A. cantonensis</italic> were analyzed by western blotting. p-I&#x3BA;B-&#x3B1; and I&#x3BA;B-&#x3B1; in infected mouse brains were elevated significantly on days 5, 10, 15, 20 and 25 PI compared to the levels in the uninfected mice brains. Additionally, p-NF-&#x3BA;B and NF-&#x3BA;B proteins were increased significantly on days 10, 15, 20 and 25 PI in infected mice brains compared to the levels in uninfected mice brains (<xref ref-type="fig" rid="pone-0053370-g001">Figure 1</xref>).</p>
+        <fig id="pone-0053370-g001" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0053370.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Time-course studies for p-I&#x3BA;B-&#x3B1; and p-NF-&#x3BA;B p65 in mouse brain (A and C).</title>
+            <p>Protein bands of p-I&#x3BA;B-&#x3B1;, I&#x3BA;B-&#x3B1;, p-NF-&#x3BA;B and NF-&#x3BA;B from the brain of mice (n&#x200A;=&#x200A;5) infected with <italic>A. cantonensis</italic>. &#x3B2;-actin was used as a loading control. (B and D) Quantification and normalization to &#x3B2;-actin showed significant increases not only in p-I&#x3BA;B-&#x3B1; and I&#x3BA;B-&#x3B1; (*<italic>P</italic>&lt;0.05) but also in p-NF-&#x3BA;B p65 and NF-&#x3BA;B p65 (<sup>#</sup>
+<italic>P</italic>&lt;0.05). Bars represent mean &#xB1; S.D. from three independent experiments performed in duplicate.</p>
+          </caption>
+          <graphic xlink:href="pone.0053370.g001"/>
+        </fig>
+      </sec>
+      <sec id="s3b">
+        <title>Kinetic studies for claudin-5 in mouse brain and CSF</title>
+        <p>Detection of claudin-5 protein levels in the brains and CSF by western blotting. Quantitative analysis of claudin-5 was performed with a computer-assisted imaging densitometer system. Densitometric scanning quantification of mice expressed as the ratio of the band density of claudin-5 to that of &#x3B2;-actin or albumin at each experimental group. Claudin-5 in the brains were significantly decreased (<italic>P</italic>&lt;0.05) on days 10, 15 and 20 PI of infected mice than uninfected mice. However, claudin-5 in CSF was significantly increased (<italic>P</italic>&lt;0.05) on days 10, 15 and 20 PI of infected mice than uninfected mice (<xref ref-type="fig" rid="pone-0053370-g002">Figure 2</xref>).</p>
+        <fig id="pone-0053370-g002" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0053370.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Time-course studies for claudin-5 in mouse brain and CSF.</title>
+            <p>Protein bands of (A) brain claudin-5 and (C) CSF claudin-5 from mice (n&#x200A;=&#x200A;5) infected with <italic>A. cantonensis</italic>. &#x3B2;-actin and albumin were used as loading control. (B and D) Quantification and normalization to loading control of claudin-5 showed significant decrease (*<italic>P</italic>&lt;0.05) in brain but significant increase in CSF (*<italic>P</italic>&lt;0.05). Bars represent mean &#xB1; S.D. from three independent experiments performed in duplicate.</p>
+          </caption>
+          <graphic xlink:href="pone.0053370.g002"/>
+        </fig>
+      </sec>
+      <sec id="s3c">
+        <title>Influence of treatment with MG132 and GM6001</title>
+        <p>The effect of MG132 was investigated in a murine angiostrongyliasis model. MG132 binds pocket in the active site of proteasome and attenuates degradation of p-I&#x3BA;B-&#x3B1; to decrease phosphorylation of NF-&#x3BA;B. Western blotting measured the levels of protein p-p65, which was increased significantly in the brain of infected mice compared to the level in uninfected controls. The levels of protein p-p65 were reduced significantly after treatment with MG132. Additionally, gelatin zymography demonstrated the activity of MMP-9, which was elevated significantly in the brain of infected mice compared to the level in uninfected controls. The activity of MMP-9 was decreased significantly after treatment with MG132. Western blotting measured the level of claudin-5 protein, which was increased significantly in CSF of infected mice compared to the level in uninfected controls. The levels of claudin-5 protein were reduced significantly after treatment with GM6001 in a murine angiostrongyliasis model. Quantitative analysis of p-p65, MMP-9 and claudin-5 were performed with a computer-assisted imaging densitometer system. Densitometric scanning quantification of mice expressed as the ratio of the band density of p-p65, MMP-9 or claudin-5 to that of &#x3B2;-actin or albumin at each experimental group (<xref ref-type="fig" rid="pone-0053370-g003">Figure 3</xref>).</p>
+        <fig id="pone-0053370-g003" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0053370.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Influence of treatment with MG132 and GM6001 after infection.</title>
+            <p>The test groups were: uninfected mice (control), n&#x200A;=&#x200A;5; <italic>A. cantonensis</italic>-infected untreated mice (infected), n&#x200A;=&#x200A;5; mice treated with 1.5 mg of MG132, n&#x200A;=&#x200A;5; mice treated with 3 mg of MG132, n&#x200A;=&#x200A;5; mice treated with GM6001 on day 5 PI, n&#x200A;=&#x200A;5; and mice treated with GM6001 on day 15 PI, n&#x200A;=&#x200A;5. (A) The p-NF-&#x3BA;B p65 bands were analyzed by western blotting using specific antibody from the brains. (B) Ratios of p-NF-&#x3BA;B p65/&#x3B2;-actin showed significant decrease (*<italic>P</italic>&lt;0.05) in MG132 in treated mice versus infected mice. (C) The MMP-9 activities were analyzed by gelatin zymography from the brains. (D) The intensities of MMP-9 were decreased significantly (*<italic>P</italic>&lt;0.05) in MG132-treated mice versus infected mice. (E) The claudin-5 bands were analyzed by western blotting using specific antibody from the CSF. (F) Ratios of claudin-5 were decreased significantly (*<italic>P</italic>&lt;0.05) in GM6001-treated mice versus infected mice. Bars represent mean &#xB1; S.D. from three independent experiments performed in duplicate.</p>
+          </caption>
+          <graphic xlink:href="pone.0053370.g003"/>
+        </fig>
+      </sec>
+      <sec id="s3d">
+        <title>Correlation between claudin-5 and Evans blue</title>
+        <p>Evans blue is normally excluded from CSF by an intact blood-CSF barrier but it can enter CSF when the integrity of the blood-CSF barrier is disrupted. This method is often used to assess simple alterations in the blood-CSF barrier. The blood-CSF barrier permeability assays for the mouse CSF after infection with <italic>A. cantonensis</italic> showed a significant correlation with the degradation of claudin-5 (<xref ref-type="fig" rid="pone-0053370-g004">Figure 4</xref>).</p>
+        <fig id="pone-0053370-g004" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0053370.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Correlation between claudin-5 and Evans blue.</title>
+            <p>The claudin-5 levels were significantly correlated (<italic>r</italic>&#x200A;=&#x200A;0.95; <italic>P</italic>&lt;0.05) with Evans blue.</p>
+          </caption>
+          <graphic xlink:href="pone.0053370.g004"/>
+        </fig>
+      </sec>
+      <sec id="s3e">
+        <title>Correlation of claudin-5 with CSF eosinophils</title>
+        <p>CSF eosinophilia was found only in infected mice. The level of claudin-5 was correlated significantly with the eosinophil count in CSF (<xref ref-type="fig" rid="pone-0053370-g005">Figure 5</xref>).</p>
+        <fig id="pone-0053370-g005" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0053370.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Correlation of claudin-5 with CSF eosinophils.</title>
+            <p>The level of claudin-5 was correlated significantly (<italic>r</italic>&#x200A;=&#x200A;0.76; <italic>P</italic>&lt;0.05) with CSF eosinophil count, using Spearman's ranking correlation test.</p>
+          </caption>
+          <graphic xlink:href="pone.0053370.g005"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>Infection of mice with <italic>A. cantonensis</italic> causes brain injury and increased expression of NF-&#x3BA;B in the brains of ICR <xref rid="pone.0053370-Lee2" ref-type="bibr">[16]</xref> and BALB/c strains of mice <xref rid="pone.0053370-Lan1" ref-type="bibr">[17]</xref>. Exposure of human bone marrow endothelial cells to <italic>Trypanosoma brucei gambiense</italic> induced NF-&#x3BA;B translocation to the nucleus and CNS barrier dysfunction <xref rid="pone.0053370-Girard1" ref-type="bibr">[18]</xref>. In addition, over-expression of I&#x3BA;B-&#x3B1; completely blocked NF-&#x3BA;B binding to the MMP-9 promoter, demonstrating that NF-&#x3BA;B activity mediated expression of MMP-9 in primary rabbit and human dermal fibroblasts <xref rid="pone.0053370-Bond1" ref-type="bibr">[19]</xref>. In the present study, significant elevation of p-I&#x3BA;B-&#x3B1; and p-NF-&#x3BA;B was demonstrated in brain samples from mice with eosinophilic meningoencephalitis caused by infection with <italic>A. cantonensis</italic>. Mice treated with MG132 had decreased NF-&#x3BA;B phosphorylation and MMP-9 production in eosinophilic meningoencephalitis. These results demonstrate the correlation between NF-&#x3BA;B phosphorylation and MMP-9 activity during infection with <italic>A. cantonensis</italic>.</p>
+      <p>HIV-1 envelope glycoprotein gp120 can reduce BBB integrity and disrupt tight junction proteins (occludin and claudin-5) by MMP-9 in brain vascular endothelial cells <xref rid="pone.0053370-Xu1" ref-type="bibr">[20]</xref>, <xref rid="pone.0053370-Louboutin1" ref-type="bibr">[21]</xref>. Also, amyloid-&#x3B2; decreases expression of claudin-5, increases activities of MMP-2, -9, causes BBB leakage and promotes BBB permeability in humans with cerebral amyloid angiopathy <xref rid="pone.0053370-Hartz1" ref-type="bibr">[22]</xref>. Treatment with MMP-9 chelator GM6001 can reverse disruption of claudin-5 and BBB permeability in brain edema of mice with acute liver failure <xref rid="pone.0053370-Chen2" ref-type="bibr">[23]</xref>. Additionally, MMPs contributed to the inflammatory breakdown of the blood-CSF barrier in porcine choroids plexus epithelial cells <xref rid="pone.0053370-Zeni1" ref-type="bibr">[24]</xref>. MMP-12 might have an important role in the degradation of elastin and participate in the breakdown of blood-CSF barrier in mice with eosinophilic meningoencephalitis caused by <italic>A. cantonensis</italic>
+<xref rid="pone.0053370-Wei1" ref-type="bibr">[25]</xref>. These studies demonstrated that MMPs might be associated with the disruption of brain barrier during inflammation. In this study, we showed that the degradation of claudin-5 is correlated significantly with blood-CSF barrier permeability. In addition, the degradation of claudin-5 was reduced significantly when mice were treated with GM6001 and <italic>A. cantonensis-</italic>induced disruption of blood-CSF barrier was prevented by treatment with this MMP inhibitor. These results demonstrate that <italic>A. cantonensis</italic> can activate MMP-9 and leukocyte-derived MMP-9 can contribute to tight junction damage and impairment of the blood-CSF barrier.</p>
+      <p>Tight junctions control the paracellular permeability of epithelial cells and dysregulated permeability is associated with inflammatory diseases. In a cell model for blood-CSF barrier consisting of porcine choroid plexus epithelial cells infected with <italic>Streptococcus suis</italic>, which causes bacterial meningitis, the bacteria induced loss of blood-CSF barrier function and might facilitate trafficking of leukocytes across the barrier <xref rid="pone.0053370-Tenenbaum1" ref-type="bibr">[26]</xref>, <xref rid="pone.0053370-Wewer1" ref-type="bibr">[27]</xref>. There are two possible routes to explain a traversal mechanism during bacterial meningitis: (1) leukocyte infiltration-directed transcellular migration; and (2) leukocytes crossing the barrier by paracellular migration <xref rid="pone.0053370-Wewer1" ref-type="bibr">[27]</xref>. In this study, we demonstrated that claudin-5 was decreased in brain and increased in CSF of mice with angiostrongyliasis meningoencephalitis. Reduction of claudin-5 implies increased blood-CSF barrier permeability and leukocyte migration across the blood-CSF barrier in choroid plexus after infection with <italic>A. cantonensis</italic>. We suggest that leukocytes migrate across the blood-CSF barrier via the paracellular route and subsequently reach inflammatory space in mice infected with <italic>A. cantonensis</italic>. Therefore, the traversal mechanism of leukocytes across blood-CSF barrier could depend on the type of pathogen.</p>
+      <p>The claudin family, integral components of tight junctions, are responsible for determining the permeability of paracellular transport within epithelial cell layers. The present study showed that MMP-9 might contribute to the degradation of claudin-5 in the blood-CSF barrier. MMP-9 production was correlated with claudin-5 degradation and blood-CSF barrier permeability in angiostrongyliasis meningoencephalitis. Therefore, we propose a possible mechanism (<xref ref-type="fig" rid="pone-0053370-g006">Fig. 6</xref>) to explain the contribution of MMP-9 to blood-CSF barrier permeability. In mice infected with <italic>A. cantonensis</italic>, the parasite-induced eosinophilia and inflammation might lead to the induction of the phosphorylation levels of I&#x3BA;B-&#x3B1; and NF-&#x3BA;B. The activation of I&#x3BA;B-&#x3B1; and NF-&#x3BA;B could upregulate MMP-9 production. Blocking I&#x3BA;B-&#x3B1; and NF-&#x3BA;B signaling by MG132 could reduce MMP-9 production. Further, blocking MMP-9 activity by GM6001 could reduce claudin-5 degradation and blood-CSF barrier permeability during angiostrongyliasis meningoencephalitis. MMP-9 could cause claudin-5 degradation and promote leukocyte infiltration into CSF via the paracellular route during infection with <italic>A. cantonensis</italic> in mouse choroid plexus.</p>
+      <fig id="pone-0053370-g006" orientation="portrait" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0053370.g006</object-id>
+        <label>Figure 6</label>
+        <caption>
+          <title>Possible mechanisms of matrix metalloproteinase (MMP)-9 leading to claudin-5 degradation via the NF-&#x3BA;B pathway.</title>
+          <p>The activation of I&#x3BA;B-&#x3B1; and NF-&#x3BA;B could upregulate MMP-9 production in <italic>A. cantonensis</italic>-induced leukocytes. Blocking I&#x3BA;B-&#x3B1; and NF-&#x3BA;B signaling by MG132 could reduce MMP-9 production. Further, blocking MMP-9 activity by GM6001 could reduce claudin-5 degradation and blood-CSF barrier permeability during angiostrongyliasis meningoencephalitis. Therefore, we suggest that MMP-9 could cause claudin-5 degradation and promote leukocyte infiltration into CSF by the paracellular route during <italic>A. cantonensis</italic> infection in mouse choroid plexus.</p>
+        </caption>
+        <graphic xlink:href="pone.0053370.g006"/>
+      </fig>
+      <p>In summary, increased blood-CSF barrier permeability is associated with disruption of tight junction proteins elicited by activation of MMP-9. Claudin-5 degradation and blood-CSF barrier dysfunction in brain with angiostrongyliasis is mediated by MMP-9 <italic>via</italic> the I&#x3BA;B-&#x3B1;/NF-&#x3BA;B/MMP-9 signaling pathway. These mechanistic insights could be used for the pathophysiologic evaluation of blood-CSF barrier breakdown and provide the basis for therapeutic strategies for <italic>A. cantonensis</italic>-induced tight junction disruption.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We wish to thank Ke-Min Chen, Department of Parasitology, Chung Shan Medical University, for assistance in this study.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0053370-Mackerras1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Mackerras</surname><given-names>MJ</given-names></name>, <name><surname>Sandars</surname><given-names>DF</given-names></name> (<year>1954</year>) <article-title>Lifehistory of the rat lung-worm and its migration through the brain of its host</article-title>. <source>Nature</source>
+<volume>173</volume>: <fpage>956</fpage>&#x2013;<lpage>957</lpage>.<pub-id pub-id-type="pmid">13165694</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Hsu1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hsu</surname><given-names>WY</given-names></name>, <name><surname>Chen</surname><given-names>JY</given-names></name>, <name><surname>Chien</surname><given-names>CT</given-names></name>, <name><surname>Chi</surname><given-names>CS</given-names></name>, <name><surname>Han</surname><given-names>NT</given-names></name> (<year>1990</year>) <article-title>Eosinophilic meningitis caused by <italic>Angiostrongylus cantonensis</italic>
+</article-title>. <source>Pediatr Infect Dis J</source>
+<volume>9</volume>: <fpage>443</fpage>&#x2013;<lpage>445</lpage>.<pub-id pub-id-type="pmid">2367166</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Gardiner1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Gardiner</surname><given-names>CH</given-names></name>, <name><surname>Wells</surname><given-names>S</given-names></name>, <name><surname>Gutter</surname><given-names>AE</given-names></name>, <name><surname>Fitzgerald</surname><given-names>L</given-names></name>, <name><surname>Anderson</surname><given-names>DC</given-names></name>, <etal>et al</etal> (<year>1990</year>) <article-title>Eosinophilic meningoencephalitis due to <italic>Angiostrongylus cantonensis</italic> as the cause of death in captive non-human primates</article-title>. <source>Am J Trop Med Hyg</source>
+<volume>42</volume>: <fpage>70</fpage>&#x2013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">2301708</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Lai1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lai</surname><given-names>SC</given-names></name>, <name><surname>Twu</surname><given-names>JJ</given-names></name>, <name><surname>Jiang</surname><given-names>ST</given-names></name>, <name><surname>Hsu</surname><given-names>JD</given-names></name>, <name><surname>Chen</surname><given-names>KM</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>Induction of matrix metalloproteinase-9 in murine eosinophilic meningitis caused by <italic>Angiostrongylus cantonensis</italic>
+</article-title>. <source>Ann Trop Med Parasitol</source>
+<volume>98</volume>: <fpage>715</fpage>&#x2013;<lpage>724</lpage>.<pub-id pub-id-type="pmid">15509425</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Lee1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lee</surname><given-names>HH</given-names></name>, <name><surname>Chou</surname><given-names>HL</given-names></name>, <name><surname>Chen</surname><given-names>KM</given-names></name>, <name><surname>Lai</surname><given-names>SC</given-names></name> (<year>2004</year>) <article-title>Association of matrix-metalloproteinase-9 in eosinophilic meningitis of BALB/c mice caused by <italic>Angiostrongylus cantonensis</italic>
+</article-title>. <source>Parasitol Res</source>
+<volume>94</volume>: <fpage>321</fpage>&#x2013;<lpage>328</lpage>.<pub-id pub-id-type="pmid">15449178</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Chen1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Chen</surname><given-names>KM</given-names></name>, <name><surname>Liu</surname><given-names>JY</given-names></name>, <name><surname>Lai</surname><given-names>SC</given-names></name>, <name><surname>Hsu</surname><given-names>LS</given-names></name>, <name><surname>Lee</surname><given-names>HH</given-names></name> (<year>2006</year>) <article-title>Association of plasminogen activators and matrix metalloproteinase-9 proteolytic cascade with blood-CNS barrier damage of angiostrongyliasis</article-title>. <source>Int J Exp Pathol</source>
+<volume>87</volume>: <fpage>113</fpage>&#x2013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">16623755</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Vorbrodt1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Vorbrodt</surname><given-names>AW</given-names></name>, <name><surname>Dobrogowska</surname><given-names>DH</given-names></name> (<year>2003</year>) <article-title>Molecular anatomy of intercellular junctions in brain endothelial and epithelial barriers: electron microscopist's view</article-title>. <source>Brain Res Brain Res Rev</source>
+<volume>42</volume>: <fpage>221</fpage>&#x2013;<lpage>242</lpage>.<pub-id pub-id-type="pmid">12791441</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Furuse1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Furuse</surname><given-names>M</given-names></name>, <name><surname>Fujita</surname><given-names>K</given-names></name>, <name><surname>Hiiragi</surname><given-names>T</given-names></name>, <name><surname>Fujimoto</surname><given-names>K</given-names></name>, <name><surname>Tsukita</surname><given-names>S</given-names></name> (<year>1998</year>) <article-title>Claudin-1 and -2: novel integral membrane proteins localizing at tight junctions with no sequence similarity to occludin</article-title>. <source>J Cell Biol</source>
+<volume>141</volume>: <fpage>1539</fpage>&#x2013;<lpage>1550</lpage>.<pub-id pub-id-type="pmid">9647647</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Lippoldt1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lippoldt</surname><given-names>A</given-names></name>, <name><surname>Liebner</surname><given-names>S</given-names></name>, <name><surname>Andbjer</surname><given-names>B</given-names></name>, <name><surname>Kalbacher</surname><given-names>H</given-names></name>, <name><surname>Wolburg</surname><given-names>H</given-names></name>, <etal>et al</etal> (<year>2000</year>) <article-title>Organization of choroid plexus epithelial and endothelial cell tight junctions and regulation of claudin-1, -2 and -5 expression by protein kinase C</article-title>. <source>Neuroreport</source>
+<volume>11</volume>: <fpage>1427</fpage>&#x2013;<lpage>1431</lpage>.<pub-id pub-id-type="pmid">10841351</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Nitta1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Nitta</surname><given-names>T</given-names></name>, <name><surname>Hata</surname><given-names>M</given-names></name>, <name><surname>Gotoh</surname><given-names>S</given-names></name>, <name><surname>Seo</surname><given-names>Y</given-names></name>, <name><surname>Sasaki</surname><given-names>H</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>Size-selective loosening of the blood-brain barrier in claudin-5 deficient mice</article-title>. <source>J Cell Biol</source>
+<volume>161</volume>: <fpage>653</fpage>&#x2013;<lpage>660</lpage>.<pub-id pub-id-type="pmid">12743111</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Andrs1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Andr&#xE1;s</surname><given-names>IE</given-names></name>, <name><surname>Pu</surname><given-names>H</given-names></name>, <name><surname>Deli</surname><given-names>MA</given-names></name>, <name><surname>Nath</surname><given-names>A</given-names></name>, <name><surname>Hennig</surname><given-names>B</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>HIV-1 Tat protein alters tight junction protein expression and distribution in cultured brain endothelial cells</article-title>. <source>J Neurosci Res</source>
+<volume>74</volume>: <fpage>255</fpage>&#x2013;<lpage>265</lpage>.<pub-id pub-id-type="pmid">14515355</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Deng1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Deng</surname><given-names>XL</given-names></name>, <name><surname>He</surname><given-names>F</given-names></name>, <name><surname>Peng</surname><given-names>J</given-names></name>, <name><surname>Yang</surname><given-names>LF</given-names></name>, <name><surname>Zhang</surname><given-names>CL</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Influence of lipopolysaccharide on the permeability of rat brain microvascular endothelial cells and the molecular mechanism</article-title>. <source>Zhongguo Dang Dai Er Ke Za Zhi</source>
+<volume>13</volume>: <fpage>908</fpage>&#x2013;<lpage>911</lpage>.<pub-id pub-id-type="pmid">22099203</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Liao1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Liao</surname><given-names>CW</given-names></name>, <name><surname>Cho</surname><given-names>WL</given-names></name>, <name><surname>Kao</surname><given-names>TC</given-names></name>, <name><surname>Su</surname><given-names>KE</given-names></name>, <name><surname>Lin</surname><given-names>YH</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Blood-brain barrier impairment with enhanced SP, NK-1R, GFAP and claudin-5 expressions in experimental cerebral toxocariasis</article-title>. <source>Parasite Immunol</source>
+<volume>30</volume>: <fpage>525</fpage>&#x2013;<lpage>534</lpage>.<pub-id pub-id-type="pmid">18627507</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Parsons1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Parsons</surname><given-names>JC</given-names></name>, <name><surname>Grieve</surname><given-names>RB</given-names></name> (<year>1990</year>) <article-title>Effect of egg dosage and host genotype on liver trapping in murine larval toxocariasis</article-title>. <source>J Parasitol</source>
+<volume>76</volume>: <fpage>53</fpage>&#x2013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">2299528</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Hou1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hou</surname><given-names>RF</given-names></name>, <name><surname>Tu</surname><given-names>WC</given-names></name>, <name><surname>Lee</surname><given-names>HH</given-names></name>, <name><surname>Chen</surname><given-names>KM</given-names></name>, <name><surname>Chou</surname><given-names>HL</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>Elevation of plasminogen activators in cerebrospinal fluid of mice with eosinophilic meningitis caused by <italic>Angiostrongylus cantonensis</italic>
+</article-title>. <source>Int J Parasitol</source>
+<volume>34</volume>: <fpage>1355</fpage>&#x2013;<lpage>1364</lpage>.<pub-id pub-id-type="pmid">15542096</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Lee2">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lee</surname><given-names>HH</given-names></name>, <name><surname>Shiow</surname><given-names>SJ</given-names></name>, <name><surname>Chung</surname><given-names>HC</given-names></name>, <name><surname>Huang</surname><given-names>CY</given-names></name>, <name><surname>Lin</surname><given-names>CL</given-names></name>, <etal>et al</etal> (<year>2000</year>) <article-title>Development of brain injury in mice by <italic>Angiostrongylus cantonensis</italic> infection is associated with the induction of transcription factor NF-kappaB, nuclear protooncogenes, and protein tyrosine phosphorylation</article-title>. <source>Exp Parasitol</source>
+<volume>95</volume>: <fpage>202</fpage>&#x2013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">10964648</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Lan1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lan</surname><given-names>KP</given-names></name>, <name><surname>Wang</surname><given-names>CJ</given-names></name>, <name><surname>Hsu</surname><given-names>JD</given-names></name>, <name><surname>Chen</surname><given-names>KM</given-names></name>, <name><surname>Lai</surname><given-names>SC</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>Induced eosinophilia and proliferation in <italic>Angiostrongylus cantonensis</italic>-infected mouse brain are associated with the induction of JAK/STAT1, IAP/NF-kappaB and MEKK1/JNK signals</article-title>. <source>J Helminthol</source>
+<volume>78</volume>: <fpage>311</fpage>&#x2013;<lpage>317</lpage>.<pub-id pub-id-type="pmid">15575987</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Girard1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Girard</surname><given-names>M</given-names></name>, <name><surname>Giraud</surname><given-names>S</given-names></name>, <name><surname>Courtioux</surname><given-names>B</given-names></name>, <name><surname>Jauberteau-Marchan</surname><given-names>MO</given-names></name>, <name><surname>Bouteille</surname><given-names>B</given-names></name> (<year>2005</year>) <article-title>Endothelial cell activation in the presence of African trypanosomes</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>139</volume>: <fpage>41</fpage>&#x2013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">15610818</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Bond1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Bond</surname><given-names>M</given-names></name>, <name><surname>Fabunmi</surname><given-names>RP</given-names></name>, <name><surname>Baker</surname><given-names>AH</given-names></name>, <name><surname>Newby</surname><given-names>AC</given-names></name> (<year>1998</year>) <article-title>Synergistic upregulation of metalloproteinase-9 by growth factors and inflammatory cytokines: an absolute requirement for transcription factor NF-kappa B</article-title>. <source>FEBS Lett</source>
+<volume>435</volume>: <fpage>29</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">9755853</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Xu1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Xu</surname><given-names>R</given-names></name>, <name><surname>Feng</surname><given-names>X</given-names></name>, <name><surname>Xie</surname><given-names>X</given-names></name>, <name><surname>Zhang</surname><given-names>J</given-names></name>, <name><surname>Wu</surname><given-names>D</given-names></name>, <etal>et al</etal> (<year>2012</year>) <article-title>HIV-1 Tat protein increases the permeability of brain endothelial cells by both inhibiting occludin expression and cleaving occludin via matrix metalloproteinase-9</article-title>. <source>Brain Res</source>
+<volume>1436</volume>: <fpage>13</fpage>&#x2013;<lpage>19</lpage>.<pub-id pub-id-type="pmid">22197032</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Louboutin1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Louboutin</surname><given-names>JP</given-names></name>, <name><surname>Agrawal</surname><given-names>L</given-names></name>, <name><surname>Reyes</surname><given-names>BA</given-names></name>, <name><surname>Van Bockstaele</surname><given-names>EJ</given-names></name>, <name><surname>Strayer</surname><given-names>DS</given-names></name> (<year>2010</year>) <article-title>HIV-1 gp120-induced injury to the blood-brain barrier: role of metalloproteinases 2 and 9 and relationship to oxidative stress</article-title>. <source>J Neuropathol Exp Neurol</source>
+<volume>69</volume>: <fpage>801</fpage>&#x2013;<lpage>816</lpage>.<pub-id pub-id-type="pmid">20613638</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Hartz1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hartz</surname><given-names>AM</given-names></name>, <name><surname>Bauer</surname><given-names>B</given-names></name>, <name><surname>Soldner</surname><given-names>EL</given-names></name>, <name><surname>Wolf</surname><given-names>A</given-names></name>, <name><surname>Boy</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>2012</year>) <article-title>Amyloid-&#x3B2; contributes to blood-brain barrier leakage in transgenic human amyloid precursor protein mice and in humans with cerebral amyloid angiopathy</article-title>. <source>Stroke</source>
+<volume>43</volume>: <fpage>514</fpage>&#x2013;<lpage>523</lpage>.<pub-id pub-id-type="pmid">22116809</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Chen2">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Chen</surname><given-names>F</given-names></name>, <name><surname>Ohashi</surname><given-names>N</given-names></name>, <name><surname>Li</surname><given-names>W</given-names></name>, <name><surname>Eckman</surname><given-names>C</given-names></name>, <name><surname>Nguyen</surname><given-names>JH</given-names></name> (<year>2009</year>) <article-title>Disruptions of occludin and claudin-5 in brain endothelial cells in vitro and in brains of mice with acute liver failure</article-title>. <source>Hepatology</source>
+<volume>50</volume>: <fpage>1914</fpage>&#x2013;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">19821483</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Zeni1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Zeni</surname><given-names>P</given-names></name>, <name><surname>Doepker</surname><given-names>E</given-names></name>, <name><surname>Schulze-Topphoff</surname><given-names>U</given-names></name>, <name><surname>Huewel</surname><given-names>S</given-names></name>, <name><surname>Tenenbaum</surname><given-names>T</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>MMPs contribute to TNF-alpha-induced alteration of the blood-cerebrospinal fluid barrier in vitro</article-title>. <source>Am J Physiol Cell Physiol</source>
+<volume>293</volume>: <fpage>C855</fpage>&#x2013;<lpage>864</lpage>.<pub-id pub-id-type="pmid">17507431</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Wei1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Wei</surname><given-names>PC</given-names></name>, <name><surname>Tsai</surname><given-names>CH</given-names></name>, <name><surname>Chiu</surname><given-names>PS</given-names></name>, <name><surname>Lai</surname><given-names>SC</given-names></name> (<year>2011</year>) <article-title>Matrix metalloproteinase-12 leads to elastin degradation in BALB/c mice with eosinophilic meningitis caused by <italic>Angiostrongylus cantonensis</italic>
+</article-title>. <source>Int J Parasitol</source>
+<volume>41</volume>: <fpage>1175</fpage>&#x2013;<lpage>1183</lpage>.<pub-id pub-id-type="pmid">21856305</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Tenenbaum1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Tenenbaum</surname><given-names>T</given-names></name>, <name><surname>Adam</surname><given-names>R</given-names></name>, <name><surname>Eggelnp&#xF6;hler</surname><given-names>I</given-names></name>, <name><surname>Matalon</surname><given-names>D</given-names></name>, <name><surname>Seibt</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>2005</year>) <article-title>Strain-dependent disruption of blood-cerebrospinal fluid barrier by <italic>Streptoccocus suis</italic> in vitro</article-title>. <source>FEMS Immunol Med Microbiol</source>
+<volume>44</volume>: <fpage>25</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">15780575</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0053370-Wewer1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Wewer</surname><given-names>C</given-names></name>, <name><surname>Seibt</surname><given-names>A</given-names></name>, <name><surname>Wolburg</surname><given-names>H</given-names></name>, <name><surname>Greune</surname><given-names>L</given-names></name>, <name><surname>Schmidt</surname><given-names>MA</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Transcellular migration of neutrophil granulocytes through the blood-cerebrospinal fluid barrier after infection with <italic>Streptococcus suis</italic>
+</article-title>. <source>J Neuroinflammation</source>
+<volume>8</volume>: <fpage>51</fpage>.<pub-id pub-id-type="pmid">21592385</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

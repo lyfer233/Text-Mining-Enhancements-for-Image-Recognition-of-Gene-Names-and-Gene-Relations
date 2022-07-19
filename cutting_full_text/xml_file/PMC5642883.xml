@@ -1,0 +1,1328 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Biomed Res Int</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Biomed Res Int</journal-id>
+      <journal-id journal-id-type="publisher-id">BMRI</journal-id>
+      <journal-title-group>
+        <journal-title>BioMed Research International</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2314-6133</issn>
+      <issn pub-type="epub">2314-6141</issn>
+      <publisher>
+        <publisher-name>Hindawi</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">29098164</article-id>
+      <article-id pub-id-type="pmc">5642883</article-id>
+      <article-id pub-id-type="doi">10.1155/2017/9592501</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Cell Signaling Pathway in 12-O-Tetradecanoylphorbol-13-acetate-Induced LCN2 Gene Transcription in Esophageal Squamous Cell Carcinoma</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meng</surname>
+            <given-names>Lingying</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Muting</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Du</surname>
+            <given-names>Zepeng</given-names>
+          </name>
+          <xref ref-type="aff" rid="I2">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fang</surname>
+            <given-names>Zhongmin</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0614-4721</contrib-id>
+          <name>
+            <surname>Wu</surname>
+            <given-names>Bingli</given-names>
+          </name>
+          <xref ref-type="aff" rid="I3">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Jianyi</given-names>
+          </name>
+          <xref ref-type="aff" rid="I3">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xie</surname>
+            <given-names>Wenming</given-names>
+          </name>
+          <xref ref-type="aff" rid="I4">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shen</surname>
+            <given-names>Jian</given-names>
+          </name>
+          <xref ref-type="aff" rid="I5">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhu</surname>
+            <given-names>Tianxiang</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>XieE</given-names>
+          </name>
+          <xref ref-type="aff" rid="I5">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liao</surname>
+            <given-names>Liandi</given-names>
+          </name>
+          <xref ref-type="aff" rid="I5">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Liyan</given-names>
+          </name>
+          <xref ref-type="aff" rid="I5">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-6375-3614</contrib-id>
+          <name>
+            <surname>Li</surname>
+            <given-names>Enmin</given-names>
+          </name>
+          <email>nmli@stu.edu.cn</email>
+          <xref ref-type="aff" rid="I3">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3121-7643</contrib-id>
+          <name>
+            <surname>Lan</surname>
+            <given-names>Bin</given-names>
+          </name>
+          <email>stlanbin@163.com</email>
+          <xref ref-type="aff" rid="I1">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="I1">
+<sup>1</sup>Department of Cardiothoracic Surgery, Shantou Central Hospital, Affiliated Shantou Hospital of Sun Yat-sen University, Shantou, Guangdong 515041, China</aff>
+      <aff id="I2">
+<sup>2</sup>Department of Pathology, Shantou Central Hospital, Affiliated Shantou Hospital of Sun Yat-sen University, Shantou, Guangdong 515041, China</aff>
+      <aff id="I3">
+<sup>3</sup>Department of Biochemistry and Molecular Biology, Shantou University Medical College, Shantou, Guangdong 515041, China</aff>
+      <aff id="I4">
+<sup>4</sup>Network and Information Center, Shantou University Medical College, Shantou 515041, China</aff>
+      <aff id="I5">
+<sup>5</sup>Department of Oncologic Pathology, Shantou University Medical College, Shantou, Guangdong 515041, China</aff>
+      <author-notes>
+        <fn fn-type="other">
+          <p>Academic Editor: Ian R. Ellis</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>2</day>
+        <month>10</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>2017</volume>
+      <elocation-id>9592501</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>6</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>8</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2017 Lingying Meng et al.</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>LCN2 is involved in various cellular functions, including transport of small hydrophobic molecules, protection of MMP9 from proteolytic degradation, and regulating innate immunity. LCN2 is elevated in multiple human cancers, frequently being associated with tumor size, stage, and invasiveness. Our previous studies have shown that LCN2 expression could be induced by 12-O-tetradecanoylphorbol-13-acetate (TPA) in esophageal squamous cell carcinoma (ESCC) by the binding of five nucleoproteins (MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>) at a novel TPA-responsive element (TRE), at &#x2212;152~&#x2212;60&#x2009;bp of the 5&#x2032; flanking region of the<italic> LCN2</italic> promoter. However, much is unknown about whether these proteins can respond to TPA stimulation to regulate LCN2 transactivation and which cell signaling pathways mediate this process. In this study, expression plasmids encoding these five nucleoproteins were stably transfected into EC109 cells. Then, stable transfectant was characterized by a Dual-Luciferase Reporter Assay System. RT-PCR, real-time PCR, western blotting, specific kinase inhibitor treatment, and bioinformatics analyses were applied in this study. We found that MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> proteins could strongly respond to TPA stimulation and activate LCN2 transcriptional expression. MEK, ERK, JNK, and P38 kinases were involved in the LCN2 transactivation. Furthermore, the MEK-ERK signal pathway plays a major role in this biological process but does not involve PKC<italic>&#x3B1;</italic> signaling.</p>
+      </abstract>
+      <funding-group>
+        <award-group>
+          <funding-source>National Natural Science Foundation of China</funding-source>
+          <award-id>81672473</award-id>
+          <award-id>81502138</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Science and Technology Program of Guangdong</funding-source>
+          <award-id>2014A030310390</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Department of Education, Guangdong Government</funding-source>
+          <award-id>2016034</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>2015 Year Medical Science and Technology Projects of Shantou City</funding-source>
+          <award-id>2015-123-12</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>Lipocalin 2 (LCN2), also named neutrophil gelatinase-2 associated lipocalin (NGAL), a member of the lipocalin family, was originally found in granules from human neutrophils [<xref rid="B1" ref-type="bibr">1</xref>]. LCN2 is involved in various cellular functions, such as transport of small hydrophobic molecules and protection of MMP9 from proteolytic degradation. LCN2 tightly binds to bacterial siderophores, serving as a potent bacteriostatic agent by sequestering iron and regulating innate immunity [<xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B3" ref-type="bibr">3</xref>]. Elevated LCN2 expression has also been observed in multiple human cancers including breast, colorectal, pancreatic, ovarian, gastric, thyroid, ovarian, bladder, and kidney cancers, as well as glioma and esophageal squamous cell carcinoma (ESCC) [<xref rid="B4" ref-type="bibr">4</xref>&#x2013;<xref rid="B10" ref-type="bibr">10</xref>]. LCN2 is frequently associated with tumor size, stage, and invasiveness, involving in the invasion and poor prognosis of carcinoma cells. These features characterize LCN2 as a potential biomarker in malignancy.</p>
+      <p>However, the molecular mechanism underlying the upregulation of LCN2 in tumor cells has not been fully illustrated. Altered LCN2 expression in diseases has led investigators to examine the mechanisms of its transcriptional regulation. The expression of LCN2 can be induced by various means, such as LPS, oxidative stress, metabolic stress, cytokines, and nutrients [<xref rid="B11" ref-type="bibr">11</xref>&#x2013;<xref rid="B13" ref-type="bibr">13</xref>]. Increasing evidence indicates that transcription factors, such as IkBz, NF-kB, and ELF3 (E74-like factor 3), play crucial roles in the regulation of LCN2 expression in tumor cells of various origins, including lung and chondrocytes [<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>]. MUC4 regulates LCN2 by stabilizing HER2 and stimulating AKT, which results in the activation of NF-<italic>&#x3BA;</italic>B in pancreatic cancer [<xref rid="B16" ref-type="bibr">16</xref>]. Knockdown experiments also demonstrated that STAT1 is required for IFN<italic>&#x3B3;</italic>-induced LCN2 expression in murine adipocytes [<xref rid="B17" ref-type="bibr">17</xref>]. These studies indicate that distinctive regulatory elements or mechanisms contribute to the induced expression of LCN2 in different cell types responding to various factors.</p>
+      <p>Our previous work revealed that LCN2 is significantly increased in ESCC and can serve as a marker for poor prognosis [<xref rid="B6" ref-type="bibr">6</xref>]. LCN2 promotes the migration and invasion of ESCC cells through a novel positive feedback loop [<xref rid="B18" ref-type="bibr">18</xref>]. Moreover, we found LCN2 could be induced by the tumor-promoting agent 12-O-tetradecanoylphorbol-13-acetate (TPA), in esophageal cancer cells at the transcriptional level. A TPA-responsive element (TRE) is located at &#x2212;152 to &#x2212;60 from the 5&#x2032;-flanking region of the<italic> LCN2</italic> promoter. Several nucleoproteins (MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>) have been identified by affinity chromatography and mass spectrometry and could respond to TPA stimulation and regulate LCN2 expression in esophageal cancer cells [<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B20" ref-type="bibr">20</xref>]. However, the transcriptional regulation mechanism of LCN2 by TPA in ESCC has not been reported. This study aims to further investigate the signal pathways involved in TPA-induced LCN2 gene transcriptional regulation mediated by MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>.</p>
+    </sec>
+    <sec id="sec2">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2.1">
+        <title>2.1. Cell Lines, Plasmids, and Reagents</title>
+        <p>The ESCC cell line EC109 was cultured in 199 medium (Invitrogen, Carlsbad, USA) containing 10% (v/v) fetal bovine serum and maintained at 37&#xB0;C in a humidified 5% CO<sub>2</sub> atmosphere. TPA was purchased from Sigma-Aldrich (St. Louis, MO, USA). DMSO was purchased from Amresco Company (Solon, Ohio, USA). Empty pcDNA3 vector was purchased from Invitrogen. PKC<italic>&#x3B1;</italic>/<italic>&#x3B2;</italic> kinase inhibitors (myristoylated protein kinase C peptide inhibitor), MEK kinase inhibitors (U0126, PD98059), and p38 kinase inhibitors SB203580 were purchased from Promega (Madison, WI, USA). The c-Jun N-terminal kinase (JNK) inhibitor SP600125 was purchased from Calbiochem (La Jolla, CA, USA). Antibodies against phospho-ERK1/2 (p-ERK1/2), ERK1/2, and JNK were purchased from Santa Cruz Biotechnology (Santa Cruz, USA). <italic>&#x3B2;</italic>-Actin was purchased from Sigma-Aldrich (St. Louis, MO, USA). The pMD19-T Simple vector, SYBR Premix Ex-Taq&#x2122;, and SYBR Primescript RT-PCR Kit were purchased from TaKaRa (Dalian, China).</p>
+      </sec>
+      <sec id="sec2.2">
+        <title>2.2. Expression Vector Construction and Stable Transfection</title>
+        <p>The full-length cDNAs for MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> were amplified by RT-PCR. The primer sequences and enzyme restriction sites are listed in <xref ref-type="table" rid="tab1">Table 1</xref>. PCR products were gel purified and initially cloned into the pMD19-T Simple vector. The sequences were confirmed by DNA sequencing and were directly inserted into the pcDNA3.0 vector, resulting in the production of pc-MISP, pc-KLF10, pc-KLF15, PPP1R18, and pc-RXR<italic>&#x3B2;</italic>. EC109 cells were inoculated into 6-well plates, grown to 50&#x2013;80% confluence and transfected with 2&#x2009;<italic>&#x3BC;</italic>g of each of the five expression plasmids, using pcDNA3.0 as the control, with Superfect Transfection Reagent (QIAGEN, Hilden, Germany) according to the manufacturer's instructions. After transfection, cells were incubated for 48&#x2009;h and selected in 400&#x2009;mg/L G418 for one month, until single clones arose, after which the G418 concentration was reduced to 200&#x2009;mg/L in the growth medium. EC109 clones with high expression of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> were confirmed by RT-PCR.</p>
+      </sec>
+      <sec id="sec2.3">
+        <title>2.3. Dual-Luciferase Reporter Assays Analyses</title>
+        <p>Luciferase reporter plasmid pGLB152 containing the LCN2 gene 5&#x2032;-flanking region of &#x2212;152 to +84&#x2009;bp, constructed in our laboratory, is described in a previous report [<xref rid="B19" ref-type="bibr">19</xref>]. Plasmid pGL3-Basic (pGLB) contains a modified coding region for firefly<italic> (Photinus pyralis)</italic> luciferase that has been optimized for monitoring transcriptional activity in transfected eukaryotic cells. Plasmid pRLTK (Promega), containing a cDNA<italic> (Rluc)</italic> encoding<italic> Renilla</italic> luciferase originally cloned from the marine organism<italic> Renilla reniformis</italic>, was used as an internal control for transfection efficiency in dual-luciferase reporter assays. EC109 cells were cotransfected with pGLB152 and pcDNA3.0 recombinant expression vectors. Briefly, EC109 cells were inoculated into a 96-well plate at 0.8~1.0 &#xD7; 10<sup>5</sup>&#x2009;cells/ml, grown to 50&#x2013;80% confluency, and cotransfected with 0.3&#x2009;<italic>&#x3BC;</italic>g recombinant expression vector (pc-MISP, pc-KLF10, pc-KLF15, PPP1R18, and pc-RXR<italic>&#x3B2;</italic>), 0.3&#x2009;<italic>&#x3BC;</italic>g plasmid pGLB152, and 0.012&#x2009;<italic>&#x3BC;</italic>g of pRLTK, using Superfect Transfection Reagent (QIAGEN, Hilden, Germany) according to the manufacturer's instructions. Stably transfected EC109 cell lines with high expression of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> were transfected with 0.5&#x2009;<italic>&#x3BC;</italic>g pGLB152 and 0.01&#x2009;<italic>&#x3BC;</italic>g pRLTK. After the transfection, cells were incubated for 48&#x2009;h and harvested in Passive Lysis Buffer (Promega). The purpose of the two experiments described above was to validate the effects of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> overexpression on LCN2 gene promoter activity.</p>
+        <p>In another luciferase assay, EC109 cells were transfected with 0.5&#x2009;<italic>&#x3BC;</italic>g pB152 and 0.01&#x2009;<italic>&#x3BC;</italic>g pRLTK. At 24&#x2009;h after transfection with the reporter, cells were pretreated with different kinase inhibitors (U0126, PD98059, SB203580, and SP600125) in a series of doses. To analyze the effect of TPA on luciferase reporter activity, after the transfection with the reporters for 24&#x2009;h, transfected cells were treated with TPA (5&#x2009;ng/mL) for an additional 24&#x2009;h before harvest. All experiments were repeated at least 2 times in triplicate. All luciferase reporter activities were measured using the Dual-Luciferase Reporter Assay System (Promega) according to the manufacturer's recommendations.</p>
+      </sec>
+      <sec id="sec2.4">
+        <title>2.4. Western Blot Analyses</title>
+        <p>EC109 cells were exposed to two different treatments, one where cells were treated with 5&#x2009;ng/ml TPA for 0&#x2009;h, 3&#x2009;h, 6&#x2009;h, 12&#x2009;h, and 24&#x2009;h and another where EC109 cells were pretreated with different doses of kinase inhibitors for 1 hour and then treated with 5&#x2009;ng/ml TPA for 6&#x2009;h, 12&#x2009;h, and 24&#x2009;h. The whole cell protein was extracted in by radioimmunoprecipitation assay (RIPA) buffer [50&#x2009;mM Tris HCl, pH 8.0, 150&#x2009;mM NaCl, 1% (vol/vol) Nonidet P-40, 0.5% (wt/vol) sodium desoxycholate, 0.1% (wt/vol) SDS] containing a complete protease inhibitor cocktail (Santa Cruz); then western blot analyses were performed with the following primary antibodies: mouse anti-p-ERK1/2, rabbit anti-ERK1/2 rabbit anti-phosphorylated JNK (p-JNK), and mouse anti-<italic>&#x3B2;</italic>-actin. All western blot experiments were repeated 2-3 times.</p>
+      </sec>
+      <sec id="sec2.5">
+        <title>2.5. Real-Time Quantitative-PCR</title>
+        <p>Total cellular RNA was extracted with TRIzol from EC109 cells pretreated with MEK inhibitors (10&#x2009;<italic>&#x3BC;</italic>M of U0126, 15&#x2009;<italic>&#x3BC;</italic>M of PD98059) for 1&#x2009;h and subsequently induced with 5&#x2009;ng/ml TPA for another 24&#x2009;h. The total RNA was reverse-transcribed to cDNA using a PrimeScript&#x2122; RT-PCR kit. The real-time RT-PCR assay was carried out with a Rotor-Gene 6000 system (Corbett Life Science, Sydney, Australia) using SYBR Premix Ex-Taq according to the manufacturer's instructions. Each PCR mixture contained 1&#x2009;<italic>&#x3BC;</italic>l cDNA, Premix Ex-Taq, and primer (0.2&#x2009;<italic>&#x3BC;</italic>mol/L) to a final volume of 10&#x2009;<italic>&#x3BC;</italic>l. Primer sequences for LCN2 and <italic>&#x3B2;</italic>-actin were as follows: LCN2-F: 5&#x2032;-CCTCCCTGAAAACCACATCGT-3&#x2032;, LCN2-R: 5&#x2032;-TGTGCACTCAGCCGTCGATA-3&#x2032;, <italic>&#x3B2;</italic>-actin-F: 5&#x2032;-CAACTGGGACGACATGGAGAAA-3&#x2032;, <italic>&#x3B2;</italic>-actin-R: 5&#x2032;-GATAGCAACGTACATGGCTGGG-3&#x2032;. All PCR reactions were performed in triplicate, and each experiment was repeated twice. The absolute expression level of LCN2 mRNA was normalized to that of <italic>&#x3B2;</italic>-actin mRNA.</p>
+      </sec>
+      <sec id="sec2.6">
+        <title>2.6. Reverse Transcription-PCR</title>
+        <p>EC109 cells pretreated with different doses MEK specific inhibitors for 1&#x2009;h and subsequently treated with 5&#x2009;ng/ml TPA for another 24&#x2009;h; then RNA was extracted and cDNA prepared. The mRNA levels of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> were determined by PCR amplification. Primers for PCR were as described previously [<xref rid="B19" ref-type="bibr">19</xref>]. Amplified products were separated on 1.5% agarose gels and visualized by FluorChem 8900 (Alpha Innotech, California, USA). GAPDH mRNA was used as an internal control.</p>
+      </sec>
+      <sec id="sec2.7">
+        <title>2.7. Bioinformatics Analyses</title>
+        <p>The serine, threonine, and tyrosine phosphorylation sites in MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> proteins were analyzed by NetPhos 2.0 Serve (<ext-link ext-link-type="uri" xlink:href="http://www.cbs.dtu.dk/services/NetPhos/">http://www.cbs.dtu.dk/services/NetPhos/</ext-link>). The potential phosphorylation was determined to be higher than 0.996.</p>
+      </sec>
+      <sec id="sec2.8">
+        <title>2.8. Statistical Analysis</title>
+        <p>The significance of differences between groups was calculated using the independent sample <italic>t</italic>-test. All statistical tests were performed with SPSS 13.0 (SPSS, Inc., Chicago, IL). Differences were considered statistically significant if <italic>P</italic> &#x2264; 0.05.</p>
+      </sec>
+    </sec>
+    <sec id="sec3">
+      <title>3. Results</title>
+      <sec id="sec3.1">
+        <title>3.1. MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> Upregulate LCN2 Promoter Activity and mRNA Expression</title>
+        <p>We constructed a series of expression vectors (pc-MISP, pc-KLF10, pc-KLF15, pc-PPP1R18, and pc-RXR<italic>&#x3B2;</italic>) and transfected them into EC109 cells to acquire stably transfected cell lines following G418 selection (<xref ref-type="fig" rid="fig1">Figure 1</xref>). To confirm whether these five nucleoproteins were involved in the expression of LCN2, the recombinant expression vectors and pGLB152 were transiently cotransfected into EC109 cells. The reporter activities for LCN2 expression were significantly increased (<xref ref-type="fig" rid="fig2">Figure 2(a)</xref>). This was also observed in EC109 cells stably expressing each of the five nucleoproteins upon cotransfection with pGLB152 (<xref ref-type="fig" rid="fig2">Figure 2(b)</xref>). Quantitation of LCN2 mRNA levels by real-time PCR showed a similar increase LCN2 mRNA levels by overexpression of each protein (<xref ref-type="fig" rid="fig2">Figure 2(c)</xref>). These results indicate that nucleoproteins MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> upregulate LCN2 gene expression at the transcription level and that LCN2 could be a target gene of these nucleoproteins.</p>
+      </sec>
+      <sec id="sec3.2">
+        <title>3.2. MEK/ERK1/2 Signaling Pathway Is Involved in TPA-Induced<italic> LCN2</italic> Gene Transcription</title>
+        <p>To explore which signal transduction pathways are activated in TPA-induced LCN2 transcription, EC109 cells were cotransfected with constructs pB152 and pRLTK. At 24&#x2009;h following transfection, cells were first pretreated with the following kinase inhibitors, MEK1/2 inhibitor (U0126 and PD98059), p38 MAPK inhibitor (SB203580), JNK inhibitor (SP600125), or PKC<italic>&#x3B1;</italic>/<italic>&#x3B2;</italic> inhibitor (myristoylated protein kinase C peptide inhibitor), and then induced by 5&#x2009;ng/ml TPA for an additional 24&#x2009;h, and the activity of the LCN2 promoter was assessed by luciferase reporter assays. The activity of the<italic> LCN2</italic> promoter following TPA treatment was at least 12 times than that of the nontreated control. MEK1/2 inhibitor (U0126 and PD98059) and JNK inhibitor (SP600125) significantly inhibited<italic> LCN2</italic> reporter gene induction in a dose-dependent manner (<italic>P</italic> &lt; 0.01). MEK inhibitors was more effective than JNK inhibitor, with nearly 90% activity being inhibited by PD98059 at 60&#x2009;<italic>&#x3BC;</italic>M. The p38 MAPK inhibitor had no effect on<italic> LCN2</italic> gene promoter activity at low concentrations (1&#x2009;<italic>&#x3BC;</italic>M or 5&#x2009;<italic>&#x3BC;</italic>M), but LCN2 promoter activity was inhibited by 40% (<italic>P</italic> &lt; 0.01) at concentrations up to 25&#x2009;<italic>&#x3BC;</italic>M. Nevertheless, PKC<italic>&#x3B1;</italic>/<italic>&#x3B2;</italic> kinase inhibitors showed no effect (<xref ref-type="fig" rid="fig3">Figure 3</xref>). Next, we investigated which signaling pathways were activated during the TPA induction by analyzing LCN2 mRNA levels by real-time PCR following pretreatment of EC109 cells with MEK inhibitors for 1&#x2009;h. LCN2 mRNA levels were decreased by more than 80% on average, compared with the TPA-induced group, close to the nontreated control (<italic>P</italic> &lt; 0.01) (<xref ref-type="fig" rid="fig4">Figure 4</xref>).</p>
+        <p>Following induction of EC109 cells with TPA, the level of p-ERK1/2, peaked at 12&#x2009;h and then decreased by 24&#x2009;h, but not ERK1/2, p-JNK, and p-38. This pattern was similar to TPA-induced LCN2 gene expression in EC109 cells (<xref ref-type="fig" rid="fig5">Figure 5</xref>). Moreover, TPA-induced p-ERK1/2 levels could be blocked by MEK inhibitor U0126 in both a dose-dependent and time-dependent manner (<xref ref-type="fig" rid="fig6">Figure 6</xref>). These findings suggest that transcription of the<italic> LCN2</italic> gene is induced by TPA, and the increase of<italic> LCN2</italic> gene promoter activity following TPA induction is mainly mediated by the MEK-ERK signal pathway, but not the JNK or p38 MAPKs, or the previously reported PKC<italic>&#x3B1;</italic>/<italic>&#x3B2;</italic> signal pathway. Therefore, p-ERK1/2 plays a major role in TPA-mediated<italic> LCN2</italic> gene induction.</p>
+      </sec>
+      <sec id="sec3.3">
+        <title>3.3. Effects of MEK Inhibitors on Transcriptional Activation by MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic></title>
+        <p>Our previous study showed that mRNA levels of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> could be induced by TPA, indicating they could be TPA-responsive element- (TRE-) binding proteins [<xref rid="B19" ref-type="bibr">19</xref>]. In order to reveal whether the expressions of these new TRE-binding proteins were regulated by the MEK-ERK signal pathway, we detected the mRNA levels of the above genes in EC109 cells treated with MEK inhibitors. The results showed that the TPA-induced transcription of these genes is not inhibited by MEK inhibitors (<xref ref-type="fig" rid="fig7">Figure 7</xref>).</p>
+        <p>Next, to reveal the potential phosphorylation modification of these five nucleoproteins by p-ERK1/2, we analyzed the serine, threonine, and tyrosine phosphorylation sites in MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> protein sequences by using the NetPhos 2.0 Server. We found there were 19 potential phosphorylation sites, for example, T-287, S-460, S-600, and S-675 in MISP, S-72, S-97, and S-121 in KLF10, S-40 in KLF15, S-125, S-133, S-139, S-145, S-175, S-213, S-224, S-245, and S-248 in PPP1R18, and S-76 and S-331 in RXR<italic>&#x3B2;</italic>. This indicates that the MEK-ERK signal pathway likely phosphorylates the above proteins in TPA-induced LCN2 expression.</p>
+      </sec>
+    </sec>
+    <sec id="sec4">
+      <title>4. Discussion</title>
+      <p>TPA has been long used as a carcinogenesis promoting agent in various models [<xref rid="B21" ref-type="bibr">21</xref>]. Our previous study found that TPA could induce immortalization of esophageal epithelial cells (SHEEs) into cancer cells (SHEECs) [<xref rid="B22" ref-type="bibr">22</xref>]. During this progression, the<italic> LCN2</italic> gene is upregulated, indicating the LCN2 expression could be induced by TPA [<xref rid="B18" ref-type="bibr">18</xref>]. We further showed that<italic> LCN2</italic> gene could be induced by TPA and might contain a novel TPA-responsive element (TRE) in &#x2212;152~&#x2212;60&#x2009;bp of its promoter. Five nucleoproteins MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> were identified by oligonucleotide trapping, as the binding factors on the TRE under TPA stimulation, and were expressed at varying expression levels in esophageal cancer [<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B20" ref-type="bibr">20</xref>]. However, the signaling pathways that participate in these events are poorly understood. In this study, we identify the signal transduction pathway of TPA-induced LCN2 expression in esophageal cancer. MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> respond to TPA stimulation and enhance the transcriptional expression of<italic> LCN2</italic>. MEK &#x2192; ERK, JNK, and p38 were found to regulate the TPA-induced<italic> LCN2</italic> expression, especially the MEK &#x2192; ERK pathway. The previously reported TPA-PKC<italic>&#x3B1;</italic>/<italic>&#x3B2;</italic> does not appear to be involved in this process. Our results lead to a model involving MEK &#x2192; ERK as being the major signaling pathway in TPA-induced LCN2 expression, and MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> are the nuclear transcription factors that respond to TPA-mediated regulation of LCN2 transcription (<xref ref-type="fig" rid="fig8">Figure 8</xref>).</p>
+      <p>Several studies report that the effect of TPA is dependent on PKC<italic>&#x3B1;</italic> activation in tumor cells [<xref rid="B23" ref-type="bibr">23</xref>&#x2013;<xref rid="B25" ref-type="bibr">25</xref>]. In contrast, PKC<italic>&#x3B1;</italic> does not play an important role in our study. This could be due to different TPA activation mechanisms between esophageal cancer cells and other types of cancer cells. Chien et al. found TPA-induced invasion and migration of HepG2 cells through a protein kinase C/extracellular signal-regulated kinase (PKC/ERK) pathway [<xref rid="B25" ref-type="bibr">25</xref>]. Similarly, it was found by Cheng et al. that calycosin could suppress lung cancer A549 cell proliferation and metastasis induced by TPA via inhibition of the PKC-<italic>&#x3B1;</italic>/ERK1/2 pathway [<xref rid="B26" ref-type="bibr">26</xref>]. Under these conditions, MEK activation and ERK phosphorylation led to the upregulation of downstream genes that bind to the<italic> LCN2</italic> promoter following addition of TPA, although PKC<italic>&#x3B1;</italic>/PKC<italic>&#x3B2;</italic> inhibition did not affect TPA-mediated LCN2 induction. We assume there are other TPA-activated signaling molecules that can stimulate MEK &#x2192; ERK in ESCC cells.</p>
+      <p>The relationship between the MEK-ERK pathway and MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> has not been delineated, but homologous proteins have been shown to be involved. Shimizu et al. have found that phosphorylated RXR<italic>&#x3B1;</italic> is phosphorylated by p-ERK1/2, a critical mechanism in the development of hepatocellular carcinoma [<xref rid="B27" ref-type="bibr">27</xref>]. Thus, it is possible that RXR<italic>&#x3B2;</italic> might also be the potential phosphorylation target of p-ERK1/2 in ESCC cells. Based on computer analyses, dozens of potential ERK phosphorylation sites were found in these five nucleoproteins. We propose that phosphorylation modification of the five nucleoproteins by p-ERK1/2 plays an important role in the upregulation of LCN2 expression induced by TPA.</p>
+      <p>In conclusion, our previous studies have suggested that LCN2 plays a critical role and has a distinctive regulatory mechanism in esophageal cancer [<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B20" ref-type="bibr">20</xref>]. This study shows that C19, KLF10, KLF15, KIAA1949, and RXR<italic>&#x3B2;</italic> proteins can strongly respond to TPA stimulation and activate LCN2 transcription; the MEK &#x2192; ERK, JNK, and P38 kinases, but not PKC<italic>&#x3B1;</italic>, are involved in LCN2 transactivation, indicating cell-specific regulation of LCN2.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by grants from the National Natural Science Foundation of China (nos. 81672473 and 81502138), the Science and Technology Program of Guangdong (no. 2014A030310390), the Department of Education, Guangdong Government under the Top-Tier University Development Scheme for Research and Control of Infectious Diseases (2016034), and 2015 Year Medical Science and Technology Projects of Shantou City (no. 2015-123-12).</p>
+    </ack>
+    <sec>
+      <title>Conflicts of Interest</title>
+      <p>All authors declare that they have no conflicts of interest to state.</p>
+    </sec>
+    <sec>
+      <title>Authors' Contributions</title>
+      <p>Lingying Meng, Muting Wang, and Zepeng Du contribute equally to this work.</p>
+    </sec>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Candido</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Abrams</surname>
+              <given-names>S. L.</given-names>
+            </name>
+            <name>
+              <surname>Steelman</surname>
+              <given-names>L. S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Roles of NGAL and MMP-9 in the tumor microenvironment and sensitivity to targeted therapy</article-title>
+          <source>
+            <italic>Biochimica et Biophysica Acta</italic>
+          </source>
+          <year>2016</year>
+          <volume>1863</volume>
+          <issue>3</issue>
+          <fpage>438</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbamcr.2015.08.010</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84955200962</pub-id>
+          <pub-id pub-id-type="pmid">26278055</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Lipocalin-2 promotes endoplasmic reticulum stress and proliferation by augmenting intracellular iron in human pulmonary arterial smooth muscle cells</article-title>
+          <source>
+            <italic>International Journal of Biological Sciences</italic>
+          </source>
+          <year>2017</year>
+          <volume>13</volume>
+          <issue>2</issue>
+          <fpage>135</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="other">2-s2.0-85011883632</pub-id>
+          <pub-id pub-id-type="doi">10.7150/ijbs.17758</pub-id>
+          <pub-id pub-id-type="pmid">28255266</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barasch</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hollmen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Disposal of iron by a mutant form of lipocalin 2</article-title>
+          <source>
+            <italic>Nature Communications</italic>
+          </source>
+          <year>2016</year>
+          <volume>7</volume>
+          <pub-id pub-id-type="other">2-s2.0-84994005309</pub-id>
+          <pub-id pub-id-type="doi">10.1038/ncomms12973</pub-id>
+          <pub-id pub-id-type="publisher-id">12973</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD6;ren</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Urosevic</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mertens</surname>
+              <given-names>C.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Tumour stroma-derived lipocalin-2 promotes breast cancer metastasis</article-title>
+          <source>
+            <italic>Journal of Pathology</italic>
+          </source>
+          <year>2016</year>
+          <volume>239</volume>
+          <issue>3</issue>
+          <fpage>274</fpage>
+          <lpage>285</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84976272253</pub-id>
+          <pub-id pub-id-type="doi">10.1002/path.4724</pub-id>
+          <pub-id pub-id-type="pmid">27038000</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McLean</surname>
+              <given-names>M. H.</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>G. I.</given-names>
+            </name>
+            <name>
+              <surname>Fyfe</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Hold</surname>
+              <given-names>G. L.</given-names>
+            </name>
+            <name>
+              <surname>El-Omar</surname>
+              <given-names>E. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Expression of neutrophil gelatinase-associated lipocalin in colorectal neoplastic progression: A marker of malignant potential?</article-title>
+          <source>
+            <italic>British Journal of Cancer</italic>
+          </source>
+          <year>2013</year>
+          <volume>108</volume>
+          <issue>12</issue>
+          <fpage>2537</fpage>
+          <lpage>2541</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84879685914</pub-id>
+          <pub-id pub-id-type="doi">10.1038/bjc.2013.264</pub-id>
+          <pub-id pub-id-type="pmid">23736029</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du</surname>
+              <given-names>Z.-P.</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>B.-L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Neutrophil gelatinase-associated lipocalin and its receptor: Independent prognostic factors of oesophageal squamous cell carcinoma</article-title>
+          <source>
+            <italic>Journal of Clinical Pathology</italic>
+          </source>
+          <year>2011</year>
+          <volume>64</volume>
+          <issue>1</issue>
+          <fpage>69</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="other">2-s2.0-78650833527</pub-id>
+          <pub-id pub-id-type="doi">10.1136/jcp.2010.083907</pub-id>
+          <pub-id pub-id-type="pmid">21109701</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roli</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Pecoraro</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Trenti</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Can NGAL be employed as prognostic and diagnostic biomarker in human cancers? A systematic review of current evidence</article-title>
+          <source>
+            <italic>The International Journal of Biological Markers</italic>
+          </source>
+          <year>2017</year>
+          <volume>32</volume>
+          <issue>1</issue>
+          <fpage>e53</fpage>
+          <lpage>e61</lpage>
+          <pub-id pub-id-type="doi">10.5301/jbm.5000245</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85017078153</pub-id>
+          <pub-id pub-id-type="pmid">28106227</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chakraborty</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kaur</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Guha</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Batra</surname>
+              <given-names>S. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The multifaceted roles of neutrophil gelatinase associated lipocalin (NGAL) in inflammation and cancer</article-title>
+          <source>
+            <italic>Biochimica et Biophysica Acta</italic>
+          </source>
+          <year>2012</year>
+          <volume>1826</volume>
+          <issue>1</issue>
+          <fpage>129</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbcan.2012.03.008</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84860222365</pub-id>
+          <pub-id pub-id-type="pmid">22513004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lippi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Meschi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Nouvenne</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mattiuzzi</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Borghi</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Neutrophil gelatinase-associated lipocalin in cancer</article-title>
+          <source>
+            <italic>Advances in Clinical Chemistry</italic>
+          </source>
+          <year>2014</year>
+          <volume>64</volume>
+          <fpage>179</fpage>
+          <lpage>219</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84897946418</pub-id>
+          <pub-id pub-id-type="doi">10.1016/B978-0-12-800263-6.00004-5</pub-id>
+          <pub-id pub-id-type="pmid">24938019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolignano</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Donato</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Lacquaniti</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Neutrophil gelatinase-associated lipocalin (NGAL) in human neoplasias: A new protein enters the scene</article-title>
+          <source>
+            <italic>Cancer Letters</italic>
+          </source>
+          <year>2010</year>
+          <volume>288</volume>
+          <issue>1</issue>
+          <fpage>10</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="other">2-s2.0-73649135741</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.canlet.2009.05.027</pub-id>
+          <pub-id pub-id-type="pmid">19540040</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.-F.</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>W.-B.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S.-Y.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Progesterone induces the expression of lipocalin-2 through Akt-c-Myc pathway during mouse decidualization</article-title>
+          <source>
+            <italic>FEBS Letters</italic>
+          </source>
+          <year>2016</year>
+          <volume>590</volume>
+          <issue>16</issue>
+          <fpage>2594</fpage>
+          <lpage>2602</lpage>
+          <pub-id pub-id-type="doi">10.1002/1873-3468.12304</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84983349110</pub-id>
+          <pub-id pub-id-type="pmid">27416888</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>X.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Limited link between oxidative stress and ochratoxin A&#x2014;Induced renal injury in an acute toxicity rat model</article-title>
+          <source>
+            <italic>Toxins</italic>
+          </source>
+          <year>2016</year>
+          <volume>8</volume>
+          <issue>12, article no. 373</issue>
+          <pub-id pub-id-type="other">2-s2.0-85006826416</pub-id>
+          <pub-id pub-id-type="doi">10.3390/toxins8120373</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Foncea</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Deis</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Bernlohr</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X.</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipocalin 2 expression and secretion is highly regulated by metabolic stress, cytokines, and nutrients in adipocytes</article-title>
+          <source>
+            <italic>PLoS ONE</italic>
+          </source>
+          <year>2014</year>
+          <volume>9</volume>
+          <issue>5</issue>
+          <pub-id pub-id-type="other">2-s2.0-84901380117</pub-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0096997</pub-id>
+          <pub-id pub-id-type="publisher-id">e96997</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karlsen</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Borregaard</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Cowland</surname>
+              <given-names>J. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Induction of neutrophil gelatinase -associated lipocalin expression by co-stimulation with interleukin-17 and tumor necrosis factor-alpha is controlled by IkappaB -zeta but neither by C/EBP-beta nor C/EBP-delta</article-title>
+          <source>
+            <italic>Journal of Biological Chemistry</italic>
+          </source>
+          <year>2010</year>
+          <volume>285</volume>
+          <issue>19</issue>
+          <fpage>14088</fpage>
+          <lpage>14100</lpage>
+          <pub-id pub-id-type="doi">10.1074/jbc.M109.017129</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-77951979898</pub-id>
+          <pub-id pub-id-type="pmid">20220144</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conde</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Otero</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Scotece</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>E74-like factor 3 and nuclear factor-<italic>&#x3BA;</italic>B regulate lipocalin-2 expression in chondrocytes</article-title>
+          <source>
+            <italic>Journal of Physiology</italic>
+          </source>
+          <year>2016</year>
+          <volume>594</volume>
+          <issue>21</issue>
+          <fpage>6133</fpage>
+          <lpage>6146</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84978522760</pub-id>
+          <pub-id pub-id-type="doi">10.1113/JP272240</pub-id>
+          <pub-id pub-id-type="pmid">27222093</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaur</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Krishn</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MUC4-mediated regulation of acute phase protein lipocalin 2 through HER2/AKT/NF-<italic>&#x3BA;</italic>B signaling in pancreatic cancer</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2014</year>
+          <volume>20</volume>
+          <issue>3</issue>
+          <fpage>688</fpage>
+          <lpage>700</lpage>
+          <pub-id pub-id-type="doi">10.1158/1078-0432.ccr-13-2174</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84893443202</pub-id>
+          <pub-id pub-id-type="pmid">24240113</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Elks</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The induction of lipocalin-2 protein expression in vivo and in vitro</article-title>
+          <source>
+            <italic>Journal of Biological Chemistry</italic>
+          </source>
+          <year>2014</year>
+          <volume>289</volume>
+          <issue>9</issue>
+          <fpage>5960</fpage>
+          <lpage>5969</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84896836585</pub-id>
+          <pub-id pub-id-type="doi">10.1074/jbc.M113.532234</pub-id>
+          <pub-id pub-id-type="pmid">24391115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Du</surname>
+              <given-names>Z.-P.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>B.-L.</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>Y.-M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Lipocalin 2 promotes the migration and invasion of esophageal squamous cell carcinoma cells through a novel positive feedback loop</article-title>
+          <source>
+            <italic>Biochimica et Biophysica Acta</italic>
+          </source>
+          <year>2015</year>
+          <volume>1853</volume>
+          <issue>10</issue>
+          <fpage>2240</fpage>
+          <lpage>2250</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.bbamcr.2015.07.007</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84938125696</pub-id>
+          <pub-id pub-id-type="pmid">26190820</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meng</surname>
+              <given-names>L.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Miao</surname>
+              <given-names>C.-G.</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>Z.-P.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>W.-J.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>E.-M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Study of New TPA Response Element Binding Proteins of NGAL Gene</article-title>
+          <source>
+            <italic>Progress in Biochemistry and Biophysics</italic>
+          </source>
+          <year>2008</year>
+          <volume>35</volume>
+          <issue>6</issue>
+          <fpage>661</fpage>
+          <lpage>670</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>E.-M.</given-names>
+            </name>
+            <name>
+              <surname>Niu</surname>
+              <given-names>Y.-D.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>There are TPA Response Elements in -152- -60 Position of Flanking Region in The Esophageal Cancer Cells EC109</article-title>
+          <source>
+            <italic>Progress in Biochemistry and Biophysics</italic>
+          </source>
+          <year>2006</year>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>140</fpage>
+          <lpage>148</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y. Y.</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>H. S.</given-names>
+            </name>
+            <name>
+              <surname>Suganuma</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>K. Y.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>I. K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulations of Reversal of Senescence by PKC Isozymes in Response to 12-O-Tetradecanoylphorbol-13-Acetate via Nuclear Translocation of pErk1/2</article-title>
+          <source>
+            <italic>Molecules and Cells</italic>
+          </source>
+          <year>2016</year>
+          <volume>39</volume>
+          <issue>3</issue>
+          <fpage>266</fpage>
+          <lpage>279</lpage>
+          <pub-id pub-id-type="doi">10.14348/molcells.2016.2362</pub-id>
+          <pub-id pub-id-type="pmid">26912086</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>X.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A computationally constructed ceRNA interaction network based on a comparison of the SHEE and SHEEC cell lines</article-title>
+          <source>
+            <italic>Cellular and Molecular Biology Letters</italic>
+          </source>
+          <year>2016</year>
+          <volume>21</volume>
+          <issue>1, article no. 21</issue>
+          <pub-id pub-id-type="other">2-s2.0-85009253155</pub-id>
+          <pub-id pub-id-type="doi">10.1186/s11658-016-0022-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.-M.</given-names>
+            </name>
+            <name>
+              <surname>Noh</surname>
+              <given-names>E.-M.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>H.-R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Suppression of TPA-induced cancer cell invasion by Peucedanum japonicum Thunb. extract through the inhibition of PKC<italic>&#x3B1;</italic>/NF-<italic>&#x3BA;</italic>B-dependent MMP-9 expression in MCF-7 cells</article-title>
+          <source>
+            <italic>International Journal of Molecular Medicine</italic>
+          </source>
+          <year>2016</year>
+          <volume>37</volume>
+          <issue>1</issue>
+          <fpage>108</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="other">2-s2.0-84948772252</pub-id>
+          <pub-id pub-id-type="doi">10.3892/ijmm.2015.2417</pub-id>
+          <pub-id pub-id-type="pmid">26717978</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Noh</surname>
+              <given-names>E. M.</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>Y. J.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Fisetin regulates TPA-induced breast cell invasion by suppressing matrix metalloproteinase-9 activation via the PKC/ROS/MAPK pathways</article-title>
+          <source>
+            <italic>European Journal of Pharmacology</italic>
+          </source>
+          <year>2015</year>
+          <volume>764</volume>
+          <fpage>79</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejphar.2015.06.038</pub-id>
+          <pub-id pub-id-type="pmid">26101063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chien</surname>
+              <given-names>S. T.</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y. C.</given-names>
+            </name>
+            <name>
+              <surname>Te</surname>
+              <given-names>C. C.</given-names>
+            </name>
+            <name>
+              <surname>Shih</surname>
+              <given-names>Y. W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Galangin, a novel dietary flavonoid, attenuates metastatic feature via PKC/ERK signaling pathway in TPA-treated liver cancer HepG2 cells</article-title>
+          <source>
+            <italic>Cancer Cell International</italic>
+          </source>
+          <year>2015</year>
+          <volume>15</volume>
+          <pub-id pub-id-type="doi">10.1186/s12935-015-0168-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>X.-D.</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>J.-F.</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>J.-R.</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Jia</surname>
+              <given-names>X.-B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Suppression of A549 cell proliferation and metastasis by calycosin via inhibition of the PKC-<italic>&#x3B1;</italic>/ERK1/2 pathway: An in vitro investigation</article-title>
+          <source>
+            <italic>Molecular Medicine Reports</italic>
+          </source>
+          <year>2015</year>
+          <volume>12</volume>
+          <issue>6</issue>
+          <fpage>7992</fpage>
+          <lpage>8002</lpage>
+          <pub-id pub-id-type="pmid">26498639</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Takai</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Moriwaki</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Strategy and mechanism for the prevention of hepatocellular carcinoma: phosphorylated retinoid X receptor <italic>&#x3B1;</italic> is a critical target for hepatocellular carcinoma chemoprevention</article-title>
+          <source>
+            <italic>Cancer Science</italic>
+          </source>
+          <year>2009</year>
+          <volume>100</volume>
+          <issue>3</issue>
+          <fpage>369</fpage>
+          <lpage>374</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1349-7006.2008.01045.x</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-62849105898</pub-id>
+          <pub-id pub-id-type="pmid">19068086</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="fig1" orientation="portrait" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>Identification of RT-PCR (Reverse Transcription-Polymerase Chain Reaction) products and recons MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>. (a) Clone of full coding sequences of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> by RT-PCR from EC109. (b) Identification of pMD19-T vector recombinants by double restriction enzyme digestion. (c) Identification of pcDNA3 recombinant plasmids by restriction enzyme digestion.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.001"/>
+    </fig>
+    <fig id="fig2" orientation="portrait" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>Effect of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> overexpression on the promoter activity and mRNA level of<italic> LCN2</italic> gene. (a) Transient cotransfection analysis of<italic> LCN2</italic> gene promoter activity. pB152 and pcDNA3 recombinants containing the five genes were cotransfected into EC109 cells, respectively. Luciferase activities of pB152 were normalized to<italic> Renilla</italic> luciferase activity and then shown relative to that of pcDNA3 control, which was set as 1. Each value represents the mean &#xB1; SD (standard deviation). The data were representative of at least two independent experiments. Transfections were carried out in triplicate for each experiment. (b) Relative luciferase activity analysis of pB152 in EC109 cells with stable expression of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>. (c) Analyses of LCN2 mRNA level in cells with stable expression of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> by real-time PCR. <italic>&#x3B2;</italic>-Actin was applied as an internal control. <sup><italic>&#x2217;</italic></sup><italic>P</italic> &lt; 0.05, <sup><italic>&#x2217;&#x2217;</italic></sup><italic>P</italic> &lt; 0.01.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.002"/>
+    </fig>
+    <fig id="fig3" orientation="portrait" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>Effect of kinase specific inhibitors on the TPA-responsive ability of the<italic> LCN2</italic> gene promoter. EC109 cells were transfected with plasmid pB152 for 24&#x2009;h and pretreated with various specific inhibitors (U0126, PD98059, SB203580, PKC inhibitor, and SP600125) for another 1&#x2009;h; then TPA was added to treat 24&#x2009;h before harvesting the cells. Data analysis was performed using SPSS 13.0. The independent sample <italic>t</italic>-test statistical method was used to determine the significance of differences between TPA treating control group and each TPA and specific kinase inhibitors experiment group. Differences were considered statistically significant at <italic>P</italic> &#x2264; 0.05. <sup><italic>&#x2217;&#x2217;</italic></sup><italic>P</italic> &lt; 0.01.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.003"/>
+    </fig>
+    <fig id="fig4" orientation="portrait" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>Analyses of<italic> LCN2</italic> mRNA levels in EC109 treated with MEK (mitogen-activated protein kinase/ERK kinase) specific inhibitors. Total RNA was extracted from EC109 cells treated with MEK specific inhibitors U0126 and PD98059, respectively. Real-time PCR assay was carried out with the Rotor-Gene 6000 system. All PCRs were performed in triplicate. The relative LCN2 mRNAs levels were normalized to that of <italic>&#x3B2;</italic>-actin mRNA and then shown to be relative to that of TPA treating control group. Differences were considered statistically significant at <italic>P</italic> &#x2264; 0.05 (<sup><italic>&#x2217;&#x2217;</italic></sup><italic>P</italic> &lt; 0.01).</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.004"/>
+    </fig>
+    <fig id="fig5" orientation="portrait" position="float">
+      <label>Figure 5</label>
+      <caption>
+        <p>The analyses of MAPK (mitogen-activated protein kinase) signal pathway proteins in TPA-treated EC109 cells. Total protein from EC109 cells treated with TPA for 0&#x2009;h, 3&#x2009;h, 6&#x2009;h, 12&#x2009;h, and 24&#x2009;h was obtained; then ERK1/2 (extracellular regulated protein kinases 1 and 2), p-ERK1/2 (phospho-ERK1/2), and p-JNK (phospho- c-jun N-terminal kinase) were detected by western blotting, respectively. <italic>&#x3B2;</italic>-Actin was shown as a loading control.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.005"/>
+    </fig>
+    <fig id="fig6" orientation="portrait" position="float">
+      <label>Figure 6</label>
+      <caption>
+        <p>The analyses of ERK1/2 and p-ERK1/2 in EC109 cells treated with MEK specific inhibitor U0126. Total protein was collected from EC109 cells pretreated with MEK specific inhibitor (U0126) for 1&#x2009;h and then treated with TPA for another 6&#x2009;h, 12&#x2009;h, and 24&#x2009;h. ERK1/2 and p-ERK1/2 detection were, respectively, detected by western blotting.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.006"/>
+    </fig>
+    <fig id="fig7" orientation="portrait" position="float">
+      <label>Figure 7</label>
+      <caption>
+        <p>The expression level of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic> in EC109 cells treated with MEK specific inhibitor. Total RNA was extracted from EC109 cells pretreated with MEK specific inhibitors (U0126 and PD98059) for 1&#x2009;h and then treated with TPA for another 24&#x2009;h. RT-PCR was performed to analyze the mRNA expression of MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>, with GAPDH shown as an internal control.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.007"/>
+    </fig>
+    <fig id="fig8" orientation="portrait" position="float">
+      <label>Figure 8</label>
+      <caption>
+        <p>Schematic presentation of proposed signal pathway for regulating<italic> LCN2</italic> gene expression in esophageal carcinoma cells. Xs, transcription factors bound to TPA-responsive element, such as MISP, KLF10, KLF15, PPP1R18, and RXR<italic>&#x3B2;</italic>. TRE, TPA-responsive element.</p>
+      </caption>
+      <graphic xlink:href="BMRI2017-9592501.008"/>
+    </fig>
+    <table-wrap id="tab1" orientation="portrait" position="float">
+      <label>Table 1</label>
+      <caption>
+        <p>Primers for amplifying full coding sequences of selected genes.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="1" colspan="1">Name</th>
+            <th align="center" rowspan="1" colspan="1">Sequence (5&#x2032; &#x2192; 3&#x2032;)</th>
+            <th align="center" rowspan="1" colspan="1">Restriction site</th>
+            <th align="center" rowspan="1" colspan="1">Length of product</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">MISP-F1<break/>MISP-R1</td>
+            <td align="center" rowspan="1" colspan="1">CCC<underline>AAGCTT</underline>AGATGGACCGCGTGACCAGATA<break/>CG<underline>GGATCC</underline>CCATCCCGAGGCTCAGTCAT</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>Hin</italic>dIII<break/><italic>Bam</italic>HI</td>
+            <td align="center" rowspan="1" colspan="1">2054&#x2009;bp</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">KLF10-F1<break/>KLF10-R1</td>
+            <td align="center" rowspan="1" colspan="1">CCC<underline>AAGCTT</underline>ATGCTCAACTTCGGTGCCTCT<break/>CG<underline>GGATCC</underline>TCTTCACTTTCCGGTCTGTC</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>Hin</italic>dIII<break/><italic>Bam</italic>HI</td>
+            <td align="center" rowspan="1" colspan="1">1461&#x2009;bp</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">KLF15-F1<break/>KLF15-R1</td>
+            <td align="center" rowspan="1" colspan="1">CCC<underline>AAGCTT</underline>CCAGCATGGTGGACCACTTAC<break/>CG<underline>GGATCC</underline>GGTTCAGGGCGCTTTCAGTT</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>Hin</italic>dIII<break/><italic>Bam</italic>HI</td>
+            <td align="center" rowspan="1" colspan="1">1270&#x2009;bp</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">PPP1R18-F1<break/>PPP1R18-R1</td>
+            <td align="center" rowspan="1" colspan="1">G<underline>GAATTC</underline>CCTACCCTCACCTCAAGACG<break/>GC<underline>TCTAGA</underline>CCCTATGTTGGAAGATGGTCA</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>Eco</italic>RI<break/><italic>Xba</italic>I</td>
+            <td align="center" rowspan="1" colspan="1">1883&#x2009;bp</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">RXR<italic>&#x3B2;</italic>-F1<break/>RXR<italic>&#x3B2;</italic>-R1</td>
+            <td align="center" rowspan="1" colspan="1">CCC<underline>AAGCTT</underline>CAGGGATCATGTCTTGGG<break/>G<underline>GAATTC</underline>GAGAAGCACCACGTCTGGGT</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>Hin</italic>dIII<break/><italic>Eco</italic>RI</td>
+            <td align="center" rowspan="1" colspan="1">1636&#x2009;bp</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

@@ -1,0 +1,476 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Int J Med Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Int J Med Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">ijms</journal-id>
+      <journal-title-group>
+        <journal-title>International Journal of Medical Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1449-1907</issn>
+      <publisher>
+        <publisher-name>Ivyspring International Publisher</publisher-name>
+        <publisher-loc>Sydney</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31341409</article-id>
+      <article-id pub-id-type="pmc">6643126</article-id>
+      <article-id pub-id-type="doi">10.7150/ijms.32157</article-id>
+      <article-id pub-id-type="publisher-id">ijmsv16p0960</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Metformin Inhibits Epithelial-to-Mesenchymal Transition of Keloid Fibroblasts via the HIF-1&#x3B1;/PKM2 Signaling Pathway</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lei</surname>
+            <given-names>Rui</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Shizhen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yuming</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dai</surname>
+            <given-names>Siya</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Jiaqi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhu</surname>
+            <given-names>Chaoqun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="corresp" rid="FNA_envelop">&#x2709;</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><label>1</label>Department of Plastic Surgery, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China;</aff>
+      <aff id="A2"><label>2</label>Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.</aff>
+      <aff id="A3"><label>3</label>Department of Surgery, Family Planning Service Center Of YiWu Maternity And Child Health Care Hospital, Yiwu, China</aff>
+      <author-notes>
+        <corresp id="FNA_envelop">&#x2709; Corresponding author: Chaoqun Zhu. E-mail: <email>zcq1123w@126.com</email>.</corresp>
+        <fn fn-type="COI-statement">
+          <p>Competing Interests: The authors have declared that no competing interest exists.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>6</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>16</volume>
+      <issue>7</issue>
+      <fpage>960</fpage>
+      <lpage>966</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>12</month>
+          <year>2018</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; Ivyspring International Publisher</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <license license-type="open-access">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution (CC BY-NC) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>). See <ext-link ext-link-type="uri" xlink:href="http://ivyspring.com/terms">http://ivyspring.com/terms</ext-link> for full terms and conditions.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><bold>Background</bold>: Epithelial-to-mesenchymal transition (EMT) is a process whereby epithelial cells lose cell-cell contacts and acquire expression of mesenchymal components and manifest a migratory phenotype. Recent studies indicated that EMT is involved in the development of keloids. Therefore, this study aims to investigate the mechanisms of the effects of metformin in hypoxia-induced EMT in keloid fibroblasts (KFs).</p>
+        <p><bold>Methods</bold>: KFs were cultured in a hypoxia incubator to induce EMT and were treated with or without metformin. Cell viability was evaluated by a cell counting kit 8 (CCK-8), and cell migration was measured by the transwell assay. The expression levels of HIF-1&#x3B1;, E-cadherin, vimentin, phosphorylated p70s6k (p-p70s6k) and pyruvate kinase M2 (PKM2) were evaluated by western blotting.</p>
+        <p><bold>Results</bold>: Hypoxia promoted EMT in KFs. Metformin significantly inhibited the expression of HIF-1&#x3B1; and partially abolished hypoxia-induced EMT. PKM2 is involved in hypoxia-induced EMT of KFs and metformin decreased the expression of p-p70s6k and PKM2.</p>
+        <p><bold>Conclusions</bold>: Metformin abolishes hypoxia-induced EMT in KFs by inhibiting the HIF-1&#x3B1;/PKM2 signaling pathway. Our study provides a novel mechanistic insight into potential use of metformin for treatment of keloids.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Metformin</kwd>
+        <kwd>EMT</kwd>
+        <kwd>HIF-1&#x3B1;</kwd>
+        <kwd>PKM2</kwd>
+        <kwd>Keloid.</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Keloids are typically formed during abnormal wound healing that extends beyond the site of the original skin injury <xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>. The formation of a keloid always results in physical discomfort, functional limitation, and psychological impairment <xref rid="B3" ref-type="bibr">3</xref>. The inside of keloids frequently exhibit ischemic-hypoxic states due to the destruction of the vascular network and excessive oxygen consumption during inflammation and repair <xref rid="B4" ref-type="bibr">4</xref>. Hypoxia-inducible factor-1 (HIF-1) is one of the key mediators of the hypoxic stress response <xref rid="B5" ref-type="bibr">5</xref>. Our previous studies have demonstrated that HIF-1&#x3B1; activates the TGF-&#x3B2;1/Smad signaling pathway and increases collagen deposition in the dermal fibroblasts in response to hypoxic conditions <xref rid="B6" ref-type="bibr">6</xref>.</p>
+      <p>The epithelial-to-mesenchymal transition (EMT) is a process associated with the loss of polarity of epithelial cells and their development into mesenchymal cells with invasive and migratory properties <xref rid="B7" ref-type="bibr">7</xref>; EMT is ubiquitous in wound healing, organ fibrosis and development of cancer <xref rid="B7" ref-type="bibr">7</xref>. During EMT, the expression of epithelial markers, such as E-cadherin and zonula occludens-1 (ZO-1), are decreased and the expression of mesenchymal markers, such as vimentin and fibronectin, are increased, thus resulting in nonpolar mobilizable cells. Recently, EMT was detected in the keloid tissues. Hypoxia-rich environments in keloids induced elevated levels of HIF-1&#x3B1; and promoted the transformation of the keloid-derived keratinocytes into fibroblast-like cells via the activation of EMT <xref rid="B8" ref-type="bibr">8</xref>.</p>
+      <p>Metformin is a typical antidiabetic drug that has significant antitumor effects in several types of human cancer <xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B10" ref-type="bibr">10</xref>. Metformin is recently reported to regulate cell energy metabolism <xref rid="B11" ref-type="bibr">11</xref> and repress EMT by inhibiting the mTOR signaling pathway <xref rid="B12" ref-type="bibr">12</xref>. Furthermore, metformin regulates the EMT process by inhibiting the expression of Vimentin, thus destroying the invasive phenotype induced by TGF-&#x3B2;1 in human cervical cancer cells <xref rid="B13" ref-type="bibr">13</xref>. Most importantly, metformin is suggested to exert an anti-keloid effect<italic> in vitro</italic>
+<xref rid="B14" ref-type="bibr">14</xref>. However, the complete mechanism of metformin-induced inhibition of keloid growth remains unknown.</p>
+      <p>The aim of the current study was to explore the mechanism of the effects of metformin in keloid fibroblasts. We found that metformin can reverse EMT by downregulation of HIF-1&#x3B1;, p-p70s6k and PKM2, suggesting that metformin is involved in the HIF-1&#x3B1;/PKM2 signaling pathway to inhibit keloid development.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Clinical samples</title>
+        <p>Keloid specimens and the adjacent normal skin tissues were collected at the First Affiliated Hospital of Zhejiang University. The information of the keloid patients are listed in Table <xref rid="T1" ref-type="table">1</xref>. All procedures performed in this study were approved by the audit department of the hospital in compliance with the requirements of the Ethics Committee. All subjects included in this study have provided informed consent.</p>
+      </sec>
+      <sec>
+        <title>Cell culture</title>
+        <p>Primary human keloid fibroblasts (KFs) and normal skin fibroblasts (NFs) were isolated according to the protocol as previously described <xref rid="B14" ref-type="bibr">14</xref>. Briefly, the surgically excised human keloid tissues and adjacent normal skin tissues were cut away of epidermis and fat manually. Only the dermal layer of the fibrous tissues were reserved and then cut into smaller pieces. These small pieces were digested in Dulbecco's modified Eagle's medium (DMEM) lysis buffer with 1x collagenase for 2 hours. After centrifugation, the precipitates were collected and cultured in DMEM (Gibco, Gaithersburg, MD) supplemented with 1% antibiotic-antimycotic and 15% fetal bovine serum (10099-141; Gibco) in 5% CO2 at 37&#xB0;C. Metformin (PeproTech, Rocky Hill, NJ, USA) was stocked at a concentration of 50 mM at 4 &#xB0;C. The cells were treated with 10, 15, 20 mM metformin and collected for CCK8. The cells treated with 10 mM metformin were collected for migration assay, PCR, and Western blot.</p>
+      </sec>
+      <sec>
+        <title>Hypoxia culture model</title>
+        <p>Hypoxic conditions of 1% oxygen concentration (37&#xB0;C, 1% O2, 5% CO2, 94% N2) were established by mixed gas hypoxia. Cells were detected after they were cultured in the hypoxic incubator for 24 h.</p>
+      </sec>
+      <sec>
+        <title>Small interfering RNA and cell transfection</title>
+        <p>The siRNA of PKM2 was purchased from GenePharma (Shanghai, China), the sequence is 5'-GATTATCAGCAAAATCGAG-3'. Cells were transfected using Lipofectamine 2000 reagent (Invitrogen, Carlsbad, CA) according to the manufacturer's instructions. The transfected cells were cultured for 48 hr and collected for quantitative real-time PCR and western blot analysis.</p>
+      </sec>
+      <sec>
+        <title>Cell viability assay</title>
+        <p>A cell counting kit-8 (CCK-8) was used to measure cell viability. The cells (1&#xD7;10<sup>4</sup> per well) were seeded into 96-well plates and cultured in a hypoxic incubator. After treatment with metformin for various periods of time, 10 &#x3BC;L CCK-8 was added into each well and incubated for 2 h at 37&#xB0;C. The absorbance was measured at 450 nm using a microplate reader.</p>
+      </sec>
+      <sec>
+        <title>Quantitative Real-time PCR</title>
+        <p>Total RNA was extracted using Trizol Reagent. The RNA was reverse transcribed by using the PrimeScript RT Master Mix according to the manufacturer's instruction. The subsequent Quantitative Real-time PCR was carried out in the 7500 Real-time PCR System (Applied Biosystems) using SYBR Premix Ex Taq reagents. The specific primers were as follows: HIF1&#x3B1;: Forward: 5'-GTAGTGCTG- ACCCTGCACTCAA-3' Reverse: 3'-CCATCGGAAGGACTAGGTGTCT-5'; &#x3B2;-actin: Forward: 5'-ACCGAGCGCGGCTACA-3', Reverse: 3'-CAGCCGTGG- CCATCTCTT-5'. According to the manufacture's protocol, RT-PCR was carried out in a total volume of 20 ul reaction mixture, and amplified as following steps: 95&#xB0;C for 10 min, 40 cycles of 95&#xB0;C for 15 s and 60&#xB0;C for 60 s. Samples were analyzed in triplicate as biological replicate. 2-&#x394;&#x394;Ct method was used for calculations, where &#x394;Ct = Ct<sub>target gene</sub> - Ct<sub>&#x3B2;-actin</sub> and &#x394;&#x394;Ct = &#x394;Ct<sub>induced</sub> -&#x394;Ct<sub>reference</sub>.</p>
+      </sec>
+      <sec>
+        <title>Western Blot Analysis</title>
+        <p>The KFs with different treatment were harvested by centrifugation and washed with PBS. Cells were lysed in RIPA buffer containing protease inhibitors. The lysate were separated by sodium dodecyl sulfate-polyacrylamide gel electrophoresis and subsequently transferred to Polyvinylidene Fluoride (PVDF) membranes by electroblotting. The membranes were incubated overnight at 4 &#xB0;C with the primary antibodies after blocking with 5% nonfat milk. The anti-human E-cadherin, anti-human vimentin, anti-human PKM2, anti-human HIF-1&#x3B1;, and anti-human phospho-p70s6k primary antibodies were purchased from Cell Signaling Technology (Danvers, MA, USA). The blots were then incubated with the secondary antibody for 2 h at room temperature. Each experiment was repeated for 3 times. Specific proteins were visualized using the ECL system (GE Healthcare) and the FUJIFILM Luminescent Image Analyzer LAS3000 (Fuji Film).</p>
+      </sec>
+      <sec>
+        <title>Statistical Analysis</title>
+        <p>The statistical analyses were performed using SPSS 21.0 (SPSS Inc., Chicago, IL, USA). The values were expressed as the means &#xB1; SD. Significant differences among groups were analyzed by T-test and one-way analysis of variance (ANOVA). And p-value of &lt;0.05 was defined as statistically significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Metformin inhibits hypoxia-induced proliferation and migration</title>
+        <p>Metformin has been showed to inhibit the proliferation and collagen synthesis of the human keloids fibroblasts <xref rid="B15" ref-type="bibr">15</xref>. Here, we further evaluated the effects of metformin on viability and migration of KFs in a hypoxic environment. The results of the CCK-8 assay showed that metformin inhibited the growth of KFs in a dose- and time-dependent manner (Figure <xref ref-type="fig" rid="F1">1</xref>A). Furthermore, metformin significantly impaired the migration ability of KFs (<italic>p</italic>&lt;0.05) (Figure <xref ref-type="fig" rid="F1">1</xref>B).</p>
+      </sec>
+      <sec>
+        <title>Metformin inhibits HIF-1&#x3B1; expression in KFs</title>
+        <p>Metformin repression of HIF-1&#x3B1; expression was analyzed by western blotting; the data indicate that HIF-1&#x3B1; expression in KFs under hypoxic condition was significantly decreased in a dose-dependent manner in the presence of metformin (10mM), the results were confirmed by densitometric quantified analysis (Figure <xref ref-type="fig" rid="F2">2</xref>A). However, metformin did not affect the mRNA levels of HIF-1&#x3B1;, suggesting that metformin decreased the posttranslational levels of HIF-1&#x3B1; (<italic>p</italic>&gt;0.05) (Figure <xref ref-type="fig" rid="F2">2</xref>B). Moreover, immunofluorescence staining confirmed that metformin inhibited the expression of the HIF-1&#x3B1; protein (Figure <xref ref-type="fig" rid="F2">2</xref>C).</p>
+      </sec>
+      <sec>
+        <title>PKM2 is required for HIF-1&#x3B1;-induced EMT</title>
+        <p>PKM2 is essential for TGF-&#x3B2;1-induced EMT in cancer cells and knockdown of PKM2 failed to induce spindle-shaped morphological changes and EMT-related alterations in the TGF-&#x3B2;1-treated colorectal cancer cells<xref rid="B16" ref-type="bibr">16</xref>. We have previously proved that HIF-1&#x3B1; could activate TGF-&#x3B2;1 expression to promote collagen deposition in dermal fibroblasts<xref rid="B6" ref-type="bibr">6</xref>. Therefore, we tested whether PKM2 plays a critical role in HIF-1-induced EMT in KFs. We found that PKM2 knockdown reduced the HIF-1&#x3B1;-induced loss of E-cadherin and gain of vimentin in KFs under hypoxic condition (Figure <xref ref-type="fig" rid="F3">3</xref>A). We also confirmed the results by densitometric quantified analysis (Figure <xref ref-type="fig" rid="F3">3</xref>B). Furthermore, PKM2 silencing decreased the migratory ability of KFs compared with that of the control group (<italic>p</italic>&lt;0.05) (Figure <xref ref-type="fig" rid="F3">3</xref>C).</p>
+      </sec>
+      <sec>
+        <title>Metformin reverses EMT in keloids through inhibition of the HIF-1&#x3B1;/PKM2 pathway</title>
+        <p>We further investigated the mechanism of metformin effects involved in the regulation of EMT in keloid. The results showed that metformin rescued the accumulation of vimentin and decreased the levels of E-cadherin in hypoxia-treated KFs (Figure <xref ref-type="fig" rid="F4">4</xref>A, 4B). Additionally, we found that stimulation by hypoxia increased the phosphorylation of p70s6k and upregulated the expression of PKM2 in KFs. Hence, metformin reversed hypoxia-induced EMT by inhibiting the phosphorylation of p70s6k and suppressing expression of PKM2 in KFs (Figure <xref ref-type="fig" rid="F4">4</xref>A, 4B).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Numerous studies have demonstrated that HIF-1&#x3B1; plays a pivotal role in promoting cancer metastasis <xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>. HIF-1&#x3B1; promotes fibrogenesis and ECM accumulation in a wide range of tumors through EMT <xref rid="B19" ref-type="bibr">19</xref>-<xref rid="B21" ref-type="bibr">21</xref>. Keloid predominantly develops after a trauma; the cutaneous vascular network is always disrupted leading to a hypoxic environment in the local tissue. Moreover, high metabolic state during tissue injury-induced inflammation and repair dramatically increases oxygen consumption and exacerbates the hypoxia <xref rid="B4" ref-type="bibr">4</xref>. As a result, HIF-1&#x3B1; is always upregulated in keloids due to the hypoxic microenvironment. HIF-1&#x3B1; induced the transformation of keloid-derived keratinocytes into fibroblast-like cells through EMT allowing the keloid fibroblasts to extend beyond the wound margin <xref rid="B8" ref-type="bibr">8</xref>. Our results proved that metformin can significantly inhibit HIF-1&#x3B1; expression and subsequently impair EMT.</p>
+      <p>PKM2 is a downstream effector of mTOR that plays a crucial role in aerobic glycolysis and tumor growth <xref rid="B22" ref-type="bibr">22</xref>. PKM2 is essential for TGF-induced EMT in several human cancers <xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B23" ref-type="bibr">23</xref>. The HIF-1&#x3B1; and c-Myc-hnRNP cascades are essential mediators of mTOR-dependent regulation of PKM2 <xref rid="B22" ref-type="bibr">22</xref>. PKM2 is a critical downstream effector of the HIF-1&#x3B1;-related signaling pathways and is the key glycolytic enzyme <xref rid="B24" ref-type="bibr">24</xref>. In this study, we observed that PKM2 is critical for HIF-1&#x3B1;-induced EMT in KFs because silencing of PKM2 reversed hypoxia-induced EMT. The phosphorylation of the p70 ribosomal S6 kinase 1 (S6K1), a downstream effector of mTOR, plays a critical role in controlling cell growth. Deactivation of S6K1 leads to cell proliferation at a smaller size and at a reduced rate <xref rid="B25" ref-type="bibr">25</xref>. Our results indicate that hypoxia induced the expression of PKM2 and p70s6k, suggesting that PKM2 and p70s6k are involved in EMT in keloids. Moreover, we demonstrated that metformin inhibited the HIF-1&#x3B1;/PKM2 signaling pathway and reversed hypoxia-induced EMT in KFs.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusion</title>
+      <p>In the current study, we proved that hypoxic environment promoted KF migration by activating HIF-1&#x3B1;-induced EMT. Metformin inhibits hypoxia-induced EMT of KFs via the HIF-1&#x3B1;/PKM2 signaling pathway (Figure <xref ref-type="fig" rid="F5">5</xref>). Based on these data, we propose that the HIF-1&#x3B1;/PKM2 pathway is involved in hypoxia-induced EMT in keloids. Therefore, metformin may be a potential therapeutic agent for the treatment of keloids.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>Conceptualization, R.L. and C.Z.; Experimental Performing: R.L., S.Z. Y.W. S.D. and J.S.; Writing-Original Draft Preparation, R.L.; Writing - Review &amp; Editing, S.Z. Y.W. and C.Z.; Visualization, X.X.; Supervision, C.Z.</p>
+      <sec>
+        <title>Ethics approval and consent to participate</title>
+        <p>This clinical trial was approved by the Ethics Committee of the First Affiliated Hospital of Zhejiang University. All procedures performed in this study were approved by the audit department of the hospital. The study further meets the requirements set out by the ICH-GCP, Declaration of Helsinki and the German Drug Law (AMG). Written informed consent was obtained from the patients.</p>
+      </sec>
+    </ack>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term id="GL1">EMT)</term>
+          <def>
+            <p>Epithelial-to-mesenchymal transition </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="GL2">KFs)</term>
+          <def>
+            <p>Keloid fibroblasts </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="GL3">CCK-8)</term>
+          <def>
+            <p>Cell counting kit 8 </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="GL4">PKM2)</term>
+          <def>
+            <p>Pyruvate kinase M2 </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="GL5">HIF-1)</term>
+          <def>
+            <p>Hypoxia-inducible factor-1 </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="GL6">ZO-1)</term>
+          <def>
+            <p>Zonula occludens-1 </p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="GL7">p70S6K1)</term>
+          <def>
+            <p>Phosphorylation of the p70 ribosomal S6 kinase 1 </p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal"><name><surname>Halder</surname><given-names>RM</given-names></name><article-title>Pseudofolliculitis barbae and related disorders</article-title><source>Dermatologic clinics</source><year>1988</year><volume>6</volume><fpage>407</fpage><lpage>12</lpage>
+<pub-id pub-id-type="pmid">3048823</pub-id></element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="journal"><name><surname>Marneros</surname><given-names>AG</given-names></name><name><surname>Krieg</surname><given-names>T</given-names></name><article-title>Keloids-clinical diagnosis, pathogenesis, and treatment options</article-title><source>Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology: JDDG</source><year>2004</year><volume>2</volume><fpage>905</fpage><lpage>13</lpage>
+<pub-id pub-id-type="pmid">16281608</pub-id></element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="journal"><name><surname>Lahiri</surname><given-names>A</given-names></name><name><surname>Tsiliboti</surname><given-names>D</given-names></name><name><surname>Gaze</surname><given-names>NR</given-names></name><article-title>Experience with difficult keloids</article-title><source>British journal of plastic surgery</source><year>2001</year><volume>54</volume><fpage>633</fpage><lpage>5</lpage>
+<pub-id pub-id-type="pmid">11583502</pub-id></element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal"><name><surname>Schreml</surname><given-names>S</given-names></name><name><surname>Szeimies</surname><given-names>RM</given-names></name><name><surname>Prantl</surname><given-names>L</given-names></name><name><surname>Karrer</surname><given-names>S</given-names></name><name><surname>Landthaler</surname><given-names>M</given-names></name><name><surname>Babilas</surname><given-names>P</given-names></name><article-title>Oxygen in acute and chronic wound healing</article-title><source>Br J Dermatol</source><year>2010</year><volume>163</volume><fpage>257</fpage><lpage>68</lpage>
+<pub-id pub-id-type="pmid">20394633</pub-id></element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal"><name><surname>Pouyssegur</surname><given-names>J</given-names></name><name><surname>Dayan</surname><given-names>F</given-names></name><name><surname>Mazure</surname><given-names>NM</given-names></name><article-title>Hypoxia signalling in cancer and approaches to enforce tumour regression</article-title><source>Nature</source><year>2006</year><volume>441</volume><fpage>437</fpage><lpage>43</lpage>
+<pub-id pub-id-type="pmid">16724055</pub-id></element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal"><name><surname>Mingyuan</surname><given-names>X</given-names></name><name><surname>Qianqian</surname><given-names>P</given-names></name><name><surname>Shengquan</surname><given-names>X</given-names></name><name><surname>Chenyi</surname><given-names>Y</given-names></name><name><surname>Rui</surname><given-names>L</given-names></name><name><surname>Yichen</surname><given-names>S</given-names></name><etal/><article-title>Hypoxia-inducible factor-1alpha activates transforming growth factor-beta1/Smad signaling and increases collagen deposition in dermal fibroblasts</article-title><source>Oncotarget</source><year>2018</year><volume>9</volume><fpage>3188</fpage><lpage>97</lpage>
+<pub-id pub-id-type="pmid">29423039</pub-id></element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal"><name><surname>Kong</surname><given-names>D</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>Z</given-names></name><name><surname>Sarkar</surname><given-names>FH</given-names></name><article-title>Cancer Stem Cells and Epithelial-to-Mesenchymal Transition (EMT)-Phenotypic Cells: Are They Cousins or Twins?</article-title><source>Cancers</source><year>2011</year><volume>3</volume><fpage>716</fpage><lpage>29</lpage>
+<pub-id pub-id-type="pmid">21643534</pub-id></element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal"><name><surname>Ma</surname><given-names>X</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Xu</surname><given-names>B</given-names></name><name><surname>Long</surname><given-names>X</given-names></name><name><surname>Qin</surname><given-names>H</given-names></name><name><surname>Zhao</surname><given-names>RC</given-names></name><etal/><article-title>Keloid-derived keratinocytes acquire a fibroblast-like appearance and an enhanced invasive capacity in a hypoxic microenvironment in vitro</article-title><source>International journal of molecular medicine</source><year>2015</year><volume>35</volume><fpage>1246</fpage><lpage>56</lpage>
+<pub-id pub-id-type="pmid">25777304</pub-id></element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal"><name><surname>Zakikhani</surname><given-names>M</given-names></name><name><surname>Dowling</surname><given-names>R</given-names></name><name><surname>Fantus</surname><given-names>IG</given-names></name><name><surname>Sonenberg</surname><given-names>N</given-names></name><name><surname>Pollak</surname><given-names>M</given-names></name><article-title>Metformin is an AMP kinase-dependent growth inhibitor for breast cancer cells</article-title><source>Cancer research</source><year>2006</year><volume>66</volume><fpage>10269</fpage><lpage>73</lpage>
+<pub-id pub-id-type="pmid">17062558</pub-id></element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal"><name><surname>Viollet</surname><given-names>B</given-names></name><name><surname>Guigas</surname><given-names>B</given-names></name><name><surname>Sanz Garcia</surname><given-names>N</given-names></name><name><surname>Leclerc</surname><given-names>J</given-names></name><name><surname>Foretz</surname><given-names>M</given-names></name><name><surname>Andreelli</surname><given-names>F</given-names></name><article-title>Cellular and molecular mechanisms of metformin: an overview</article-title><source>Clinical science (London, England: 1979)</source><year>2012</year><volume>122</volume><fpage>253</fpage><lpage>70</lpage>
+</element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal"><name><surname>Xing</surname><given-names>Y</given-names></name><name><surname>Meng</surname><given-names>Q</given-names></name><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>W</given-names></name><name><surname>Hu</surname><given-names>J</given-names></name><etal/><article-title>TRIM44 promotes proliferation and metastasis in nonsmall cell lung cancer via mTOR signaling pathway</article-title><source>Oncotarget</source><year>2016</year><volume>7</volume><fpage>30479</fpage><lpage>91</lpage>
+<pub-id pub-id-type="pmid">27058415</pub-id></element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal"><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Han</surname><given-names>R</given-names></name><name><surname>Xiao</surname><given-names>H</given-names></name><name><surname>Lin</surname><given-names>C</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>H</given-names></name><etal/><article-title>Metformin sensitizes EGFR-TKI-resistant human lung cancer cells in vitro and in vivo through inhibition of IL-6 signaling and EMT reversal</article-title><source>Clinical cancer research: an official journal of the American Association for Cancer Research</source><year>2014</year><volume>20</volume><fpage>2714</fpage><lpage>26</lpage>
+<pub-id pub-id-type="pmid">24644001</pub-id></element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="book"><name><surname>Tyszka-Czochara</surname><given-names>M</given-names></name><name><surname>Lasota</surname><given-names>M</given-names></name><name><surname>Majka</surname><given-names>M</given-names></name><source>Caffeic Acid and Metformin Inhibit Invasive Phenotype Induced by TGF-beta1 in C-4I and HTB-35/SiHa Human Cervical Squamous Carcinoma Cells by Acting on Different Molecular Targets</source>
+<publisher-name>Int J Mol Sci</publisher-name><year>2018</year><fpage>19</fpage>
+</element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="book"><name><surname>Lei</surname><given-names>R</given-names></name><name><surname>Shen</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>S</given-names></name><name><surname>Liu</surname><given-names>A</given-names></name><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><etal/><source>Inactivating the ubiquitin ligase Parkin suppresses cell proliferation and induces apoptosis in human keloids</source>
+<publisher-name>Journal of cellular physiology</publisher-name><year>2019</year>
+</element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal"><name><surname>Yi</surname><given-names>S</given-names></name><name><surname>Weiyuan</surname><given-names>M</given-names></name><article-title>[The effect of Metformin on the proliferation and collagen synthesis of human keloids fibroblasts]</article-title><source>Zhonghua zheng xing wai ke za zhi = Zhonghua zhengxing waike zazhi = Chinese journal of plastic surgery</source><year>2015</year><volume>31</volume><fpage>291</fpage><lpage>5</lpage>
+<pub-id pub-id-type="pmid">26665932</pub-id></element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal"><name><surname>Hamabe</surname><given-names>A</given-names></name><name><surname>Konno</surname><given-names>M</given-names></name><name><surname>Tanuma</surname><given-names>N</given-names></name><name><surname>Shima</surname><given-names>H</given-names></name><name><surname>Tsunekuni</surname><given-names>K</given-names></name><name><surname>Kawamoto</surname><given-names>K</given-names></name><etal/><article-title>Role of pyruvate kinase M2 in transcriptional regulation leading to epithelial-mesenchymal transition</article-title><source>Proceedings of the National Academy of Sciences of the United States of America</source><year>2014</year><volume>111</volume><fpage>15526</fpage><lpage>31</lpage>
+<pub-id pub-id-type="pmid">25313085</pub-id></element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal"><name><surname>Semenza</surname><given-names>GL</given-names></name><article-title>Hypoxia-inducible factors in physiology and medicine</article-title><source>Cell</source><year>2012</year><volume>148</volume><fpage>399</fpage><lpage>408</lpage>
+<pub-id pub-id-type="pmid">22304911</pub-id></element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal"><name><surname>LaGory</surname><given-names>EL</given-names></name><name><surname>Giaccia</surname><given-names>AJ</given-names></name><article-title>The ever-expanding role of HIF in tumour and stromal biology</article-title><source>Nature cell biology</source><year>2016</year><volume>18</volume><fpage>356</fpage><lpage>65</lpage>
+<pub-id pub-id-type="pmid">27027486</pub-id></element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal"><name><surname>Jiang</surname><given-names>J</given-names></name><name><surname>Tang</surname><given-names>YL</given-names></name><name><surname>Liang</surname><given-names>XH</given-names></name><article-title>EMT: a new vision of hypoxia promoting cancer progression</article-title><source>Cancer biology &amp; therapy</source><year>2011</year><volume>11</volume><fpage>714</fpage><lpage>23</lpage>
+<pub-id pub-id-type="pmid">21389772</pub-id></element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal"><name><surname>Higgins</surname><given-names>DF</given-names></name><name><surname>Kimura</surname><given-names>K</given-names></name><name><surname>Bernhardt</surname><given-names>WM</given-names></name><name><surname>Shrimanker</surname><given-names>N</given-names></name><name><surname>Akai</surname><given-names>Y</given-names></name><name><surname>Hohenstein</surname><given-names>B</given-names></name><etal/><article-title>Hypoxia promotes fibrogenesis in vivo via HIF-1 stimulation of epithelial-to-mesenchymal transition</article-title><source>The Journal of clinical investigation</source><year>2007</year><volume>117</volume><fpage>3810</fpage><lpage>20</lpage>
+<pub-id pub-id-type="pmid">18037992</pub-id></element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal"><name><surname>Du</surname><given-names>R</given-names></name><name><surname>Xia</surname><given-names>L</given-names></name><name><surname>Ning</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>L</given-names></name><name><surname>Sun</surname><given-names>W</given-names></name><name><surname>Huang</surname><given-names>C</given-names></name><etal/><article-title>Hypoxia-induced Bmi1 promotes renal tubular epithelial cell-mesenchymal transition and renal fibrosis via PI3K/Akt signal</article-title><source>Molecular biology of the cell</source><year>2014</year><volume>25</volume><fpage>2650</fpage><lpage>9</lpage>
+<pub-id pub-id-type="pmid">25009285</pub-id></element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal"><name><surname>Sun</surname><given-names>Q</given-names></name><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Ma</surname><given-names>J</given-names></name><name><surname>Peng</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>F</given-names></name><name><surname>Zha</surname><given-names>X</given-names></name><etal/><article-title>Mammalian target of rapamycin up-regulation of pyruvate kinase isoenzyme type M2 is critical for aerobic glycolysis and tumor growth</article-title><source>Proceedings of the National Academy of Sciences of the United States of America</source><year>2011</year><volume>108</volume><fpage>4129</fpage><lpage>34</lpage>
+<pub-id pub-id-type="pmid">21325052</pub-id></element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="book"><name><surname>Cheng</surname><given-names>K</given-names></name><name><surname>Hao</surname><given-names>M</given-names></name><source>Metformin Inhibits TGF-beta1-Induced Epithelial-to-Mesenchymal Transition via PKM2 Relative-mTOR/p70s6k Signaling Pathway in Cervical Carcinoma Cells</source>
+<publisher-name>Int J Mol Sci</publisher-name><year>2016</year><fpage>17</fpage>
+</element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal"><name><surname>Chaneton</surname><given-names>B</given-names></name><name><surname>Gottlieb</surname><given-names>E</given-names></name><article-title>Rocking cell metabolism: revised functions of the key glycolytic regulator PKM2 in cancer</article-title><source>Trends in biochemical sciences</source><year>2012</year><volume>37</volume><fpage>309</fpage><lpage>16</lpage>
+<pub-id pub-id-type="pmid">22626471</pub-id></element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal"><name><surname>Montagne</surname><given-names>J</given-names></name><name><surname>Stewart</surname><given-names>MJ</given-names></name><name><surname>Stocker</surname><given-names>H</given-names></name><name><surname>Hafen</surname><given-names>E</given-names></name><name><surname>Kozma</surname><given-names>SC</given-names></name><name><surname>Thomas</surname><given-names>G</given-names></name><article-title>Drosophila S6 kinase: a regulator of cell size</article-title><source>Science</source><year>1999</year><volume>285</volume><fpage>2126</fpage><lpage>9</lpage>
+<pub-id pub-id-type="pmid">10497130</pub-id></element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>Metformin inhibits hypoxia-induced proliferation and migration in KFs. A. KFs were treated with metformin (10, 15, 20 mM) for the indicated times and cell viability was measured by the CCK-8 assay. B. The representative images of cell migration assay were obtained at 40x magnification. Graphs show the number of migrating cells after 24 h incubation.</p>
+      </caption>
+      <graphic xlink:href="ijmsv16p0960g001"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>Metformin downregulates HIF-1&#x3B1; expression at a posttranscriptional level. A. Metformin inhibited HIF-1&#x3B1; expression in a time- and dose-dependent manner, Columns represent the mean of at least three independent experiments; error bars represent the SD of the mean. *<italic>p</italic>&lt;0.05. B. Metformin did not influence the mRNA levels of HIF-1&#x3B1; (NC. Not significant, <italic>p</italic>&gt;0.05). C. Immunofluorescent staining showed that metformin inhibited HIF-1&#x3B1; expression.</p>
+      </caption>
+      <graphic xlink:href="ijmsv16p0960g002"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>PKM2 is involved in hypoxia-induced EMT. A. Hypoxia induced the expression of vimentin and decreased the levels of E-cadherin while silencing of PKM2 reversed this effect, the results were confirmed by densitometric quantified analysis (B), Columns represent the mean of at least three independent experiments; error bars represent the SD of the mean. *<italic>p</italic>&lt;0.05. C. Knockdown of PKM2 impaired hypoxia-induced EMT (NC. Not significant, *<italic>p</italic>&lt;0.05).</p>
+      </caption>
+      <graphic xlink:href="ijmsv16p0960g003"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>Metformin reverses EMT by inhibiting the HIF-1&#x3B1;/ PKM2 pathway. A. Metformin rescued the accumulation of vimentin and decreased the levels of E-cadherin in hypoxia-treated KFs. Metformin also inhibited phosphorylation of p70s6k and upregulated the expression of PKM2 in KFs under hypoxia condition; B. Columns represent the mean of at least three independent experiments; error bars represent the SD of the mean. *<italic>p</italic>&lt;0.05.</p>
+      </caption>
+      <graphic xlink:href="ijmsv16p0960g004"/>
+    </fig>
+    <fig id="F5" position="float">
+      <label>Figure 5</label>
+      <caption>
+        <p>Graphical abstract of this study. Metformin inhibits hypoxia-induced EMT of KFs via the HIF-1&#x3B1;/PKM2 signaling pathway.</p>
+      </caption>
+      <graphic xlink:href="ijmsv16p0960g005"/>
+    </fig>
+    <table-wrap id="T1" position="float">
+      <label>Table 1</label>
+      <caption>
+        <p>Keloid patients information.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead valign="top">
+          <tr>
+            <th rowspan="1" colspan="1">Patients Number</th>
+            <th rowspan="1" colspan="1">Human Race</th>
+            <th rowspan="1" colspan="1">Gender</th>
+            <th rowspan="1" colspan="1">Age</th>
+            <th rowspan="1" colspan="1">Keloid Location</th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">Yellow race</td>
+            <td rowspan="1" colspan="1">Female</td>
+            <td rowspan="1" colspan="1">25</td>
+            <td rowspan="1" colspan="1">earlobe</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">Yellow race</td>
+            <td rowspan="1" colspan="1">Female</td>
+            <td rowspan="1" colspan="1">32</td>
+            <td rowspan="1" colspan="1">earlobe</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">Yellow race</td>
+            <td rowspan="1" colspan="1">Female</td>
+            <td rowspan="1" colspan="1">22</td>
+            <td rowspan="1" colspan="1">earlobe</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">4</td>
+            <td rowspan="1" colspan="1">Yellow race</td>
+            <td rowspan="1" colspan="1">Female</td>
+            <td rowspan="1" colspan="1">36</td>
+            <td rowspan="1" colspan="1">earlobe</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

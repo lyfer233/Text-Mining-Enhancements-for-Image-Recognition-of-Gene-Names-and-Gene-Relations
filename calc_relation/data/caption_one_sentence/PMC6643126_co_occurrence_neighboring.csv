@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+HIF,HIF,2
+HIF,PKM2,2
+HIF,EMT,2
+PKM2,PKM2,2
+PKM2,EMT,2
+EMT,EMT,2

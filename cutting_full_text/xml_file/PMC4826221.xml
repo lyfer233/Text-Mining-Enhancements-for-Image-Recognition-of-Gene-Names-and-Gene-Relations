@@ -1,0 +1,2270 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Oncotarget</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Oncotarget</journal-id>
+      <journal-id journal-id-type="publisher-id">Oncotarget</journal-id>
+      <journal-id journal-id-type="publisher-id">ImpactJ</journal-id>
+      <journal-title-group>
+        <journal-title>Oncotarget</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1949-2553</issn>
+      <publisher>
+        <publisher-name>Impact Journals LLC</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">26683224</article-id>
+      <article-id pub-id-type="pmc">4826221</article-id>
+      <article-id pub-id-type="publisher-id">6606</article-id>
+      <article-id pub-id-type="doi">10.18632/oncotarget.6606</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Galiellalactone induces cell cycle arrest and apoptosis through the ATM/ATR pathway in prostate cancer cells</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garc&#xED;a</surname>
+            <given-names>V&#xED;ctor</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lara-Chica</surname>
+            <given-names>Maribel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cantarero</surname>
+            <given-names>Irene</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sterner</surname>
+            <given-names>Olov</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Calzado</surname>
+            <given-names>Marco A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mu&#xF1;oz</surname>
+            <given-names>Eduardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><sup>1</sup> Maim&#xF3;nides Biomedical Research Institute of C&#xF3;rdoba, Reina Sof&#xED;a University Hospital, Department of Cell Biology, Physiology and Immunology, University of C&#xF3;rdoba, C&#xF3;rdoba, Spain</aff>
+      <aff id="A2"><sup>2</sup> Department of Science, Centre for Analysis and Synthesis, Lund University, Lund, Sweden</aff>
+      <author-notes>
+        <corresp id="cor1">
+          <bold>
+            <italic>Correspondence to:</italic>
+          </bold>
+          <italic>Marco A. Calzado,</italic>
+          <email>mcalzado@uco.es</email>
+        </corresp>
+        <corresp id="cor2">
+          <italic>Eduardo Mu&#xF1;oz,</italic>
+          <email>e.munoz@uco.es</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <day>26</day>
+        <month>1</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>12</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>7</volume>
+      <issue>4</issue>
+      <fpage>4490</fpage>
+      <lpage>4506</lpage>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>9</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>11</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright: &#xA9; 2016 Garc&#xED;a et al.</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Galiellalactone (GL) is a fungal metabolite that presents antitumor activities on prostate cancer <italic>in vitro</italic> and <italic>in vivo</italic>. In this study we show that GL induced cell cycle arrest in G<sub>2</sub>/M phase, caspase-dependent apoptosis and also affected the microtubule organization and migration ability in DU145 cells. GL did not induce double strand DNA break but activated the ATR and ATM-mediated DNA damage response (DDR) inducing CHK1, H2AX phosphorylation (fH2AX) and CDC25C downregulation. Inhibition of the ATM/ATR activation with caffeine reverted GL-induced G<sub>2</sub>/M cell cycle arrest, apoptosis and DNA damage measured by fH2AX. In contrast, UCN-01, a CHK1 inhibitor, prevented GL-induced cell cycle arrest but enhanced apoptosis in DU145 cells. Furthermore, we found that GL did not increase the levels of intracellular ROS, but the antioxidant N-acetylcysteine (NAC) completely prevented the effects of GL on fH2AX, G<sub>2</sub>/M cell cycle arrest and apoptosis. In contrast to NAC, other antioxidants such as ambroxol and EGCG did not interfere with the activity of GL on cell cycle. GL significantly suppressed DU145 xenograft growth <italic>in vivo</italic> and induced the expression of fH2AX in the tumors. These findings identify for the first time that GL activates DDR in prostate cancer.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>galiellalactone</kwd>
+        <kwd>cancer</kwd>
+        <kwd>cell cycle</kwd>
+        <kwd>ATM/ATR</kwd>
+        <kwd>CHK1</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>INTRODUCTION</title>
+      <p>Prostate cancer is the second most common diagnosed cancer in men worldwide and the first in developed countries. It has been estimated that 1.1 million new cases have occurred in 2012 [<xref rid="R1" ref-type="bibr">1</xref>]. Initially, prostate cancer depends on androgens for growth, and androgen deprivation therapy (ADT) is effective in the early stages of the disease. However, 18-24 months later, the majority of patients does not respond to ADT and develop a castration-resistant prostate cancer (CRPC), which is associated with a poor prognosis, and mean survival [<xref rid="R2" ref-type="bibr">2</xref>&#x2013;<xref rid="R5" ref-type="bibr">5</xref>].</p>
+      <p>STAT3 belongs to the signal transducers and activators of transcription (STATs) family of transcription factors. STAT3 is activated in response to several growth factors and cytokines and is involved in numerous physiological processes such as inflammation, cell growth and differentiation. However, constitutive activation of STAT3 has been observed in many tumor types, including prostate cancer [<xref rid="R6" ref-type="bibr">6</xref>&#x2013;<xref rid="R9" ref-type="bibr">9</xref>]. STAT3 regulates the expression of cell-cycle regulators, angiogenic factors and anti-apoptotic genes, promoting tumorigenesis [<xref rid="R10" ref-type="bibr">10</xref>].</p>
+      <p>Microtubules are essential components of the cytoskeleton and play a key role in division, growth and migration functions. Microtubule inhibitors (vinca alkaloids) or microtubule stabilizers (taxanes) have been among the most active chemotherapeutic drugs in treating human cancer [<xref rid="R11" ref-type="bibr">11</xref>]. Several studies have linked cytoplasmatic STAT3 with cytoskeletal structures. For example, cytoplasmatic STAT3 may modulate microtubule dynamics and cell migration through a direct interaction with stathmin protein that is a tubuling-binding protein involved in the control of microtubule assembly and dynamics. [<xref rid="R12" ref-type="bibr">12</xref>, <xref rid="R13" ref-type="bibr">13</xref>]. Also, STAT3 inhibition decreases the migration of ovarian cancer cells and keratinocytes [<xref rid="R14" ref-type="bibr">14</xref>, <xref rid="R15" ref-type="bibr">15</xref>]. Altogether, this suggests that inhibiting STAT3 activity may be an effective therapeutic strategy for cancer [<xref rid="R16" ref-type="bibr">16</xref>].</p>
+      <p>Galiellalactone (GL) is a fungal metabolite with potent antitumor and anti-inflammatory effects, isolated from <italic>Galiella rufa</italic> and it has also been produced synthetically [<xref rid="R17" ref-type="bibr">17</xref>]. GL is a direct inhibitor of STAT3 that prevents the binding of the activated STAT3 dimers to DNA binding sites without affecting tyrosine phosphorylation [<xref rid="R18" ref-type="bibr">18</xref>, <xref rid="R19" ref-type="bibr">19</xref>]. GL is cytotoxic and induces apoptosis in androgen-insensitive prostate cancer cell lines and in prostate cancer stem cell-like cells. GL also inhibits tumor growth and early metastatic dissemination of prostate cancer in mice [<xref rid="R20" ref-type="bibr">20</xref>&#x2013;<xref rid="R22" ref-type="bibr">22</xref>]. In addition, it has been demonstrated that GL inhibits NF-&#x3BA;B and TGF-&#x3B2; signaling, preventing the association of p65 with the importin &#x3B1;3 and inhibiting the binding of the activated Smad2/3 transcription factor to DNA, respectively [<xref rid="R23" ref-type="bibr">23</xref>, <xref rid="R24" ref-type="bibr">24</xref>]. Also, GL improves experimental allergic asthma and it has an anti-thrombotic effect in murine models [<xref rid="R25" ref-type="bibr">25</xref>, <xref rid="R26" ref-type="bibr">26</xref>].</p>
+      <p>In normal cells, the cell division cycle and apoptosis are tightly controlled, while cancer cells are characterized by deregulation in these processes [<xref rid="R27" ref-type="bibr">27</xref>, <xref rid="R28" ref-type="bibr">28</xref>]. Checkpoints are the most important machinery involved in the control of the cell cycle. In response to genotoxic stress, DNA damage response (DDR) signaling pathway is activated, causing cell cycle arrest to allow the correction of the damage and to maintain genomic integrity. Checkpoints together with DNA repairing mechanisms and apoptosis are integrated in a circuitry that determines the ultimate response of a cell to DNA damage [<xref rid="R29" ref-type="bibr">29</xref>]. DNA damage is detected by MNR (MRE11, NBS1 and Rad50 proteins) and RPA (Human replication protein A) complexes act as sensors and recruit ataxia-telangiectasia mutated (ATM) and ataxia-telangiectasia and RAD3 related (ATR) to the site of the lesion, resulting in increased phosphorylation of histone H2AX (&#x3B3;H2AX), which is a marker of DNA damage. Activated ATM/ATR triggers phosphorylation of its downstream targets p53, CHK1 and CHK2, which in turn inhibit CDC25 phosphatases, preventing the activation of CDK1/Cyclin B and leading to G<sub>2</sub>/M arrest and initiation of DNA repair [<xref rid="R30" ref-type="bibr">30</xref>, <xref rid="R31" ref-type="bibr">31</xref>]. Widely used drugs in cancer chemotherapy such as etoposide, cisplatin or doxorubicin are inducers of DNA damage pathway [<xref rid="R32" ref-type="bibr">32</xref>&#x2013;<xref rid="R34" ref-type="bibr">34</xref>]. Therefore, the search for new effective drugs whose therapeutic target is ATM/ATR signaling may be a promising approach for CRPC treatment.</p>
+      <p>Natural products that induce cell cycle arrest and apoptosis have been an interesting source for the discovery of new therapeutic agents against cancer, including CRPC [<xref rid="R35" ref-type="bibr">35</xref>&#x2013;<xref rid="R37" ref-type="bibr">37</xref>]. Our results provide first evidence that GL induces microtubules destabilization, DNA damage, G<sub>2</sub>/M cell cycle arrest and apoptosis through activation of the ATM/ATR pathway in the androgen-insensitive DU145 cells. Moreover, GL was able to induce the expression of &#x3B3;H2AX in DU145 xenograft tumors and therefore its antitumor effects may be due to the activation of DNA damage pathway by the same mechanism that occurs <italic>in vitro</italic>.</p>
+    </sec>
+    <sec id="s2">
+      <title>RESULTS</title>
+      <sec id="s2_1">
+        <title>Galiellalactone induces cell cycle arrest and apoptosis in DU145 cells</title>
+        <p>Since GL inhibits both STAT3 and NF-&#x3BA;B transcriptional activities, and both transcription factors participated in the progression of cell cycle in cancer cells [<xref rid="R6" ref-type="bibr">6</xref>, <xref rid="R38" ref-type="bibr">38</xref>, <xref rid="R39" ref-type="bibr">39</xref>], we were interested in studying the effect of GL on the cell cycle of prostate cancer cells. DU145 cells were treated with increasing concentrations of GL for 6, 12 and 24 h and the percentage of cells in the different phases of cell cycle identified by FACS analysis. We show in Figure <xref ref-type="fig" rid="F1">1A and 1B</xref> that GL induced a dose-dependent cell cycle arrest in the G<sub>2</sub>/M phase that was more evident after 24 h of treatment in DU145 cells. Similar results were obtained in other human cancer cells like Jurkat or SK-N-SH (data not shown), and human prostate cancer cell line PC3 (<xref ref-type="supplementary-material" rid="SD1">Supplementary Figure 1</xref>). The different p53 expression between the cell lines analyzed (p53 wild-type and null) indicated that GL induces G2/M phase cell cycle arrest independent of p53. In the same sense, PC3 cells (p53 null) transfected to express p53 wild-type showed analogous effects in response to GL (<xref ref-type="supplementary-material" rid="SD1">Supplementary Figure 1</xref>). In contrast, GL did not induce cell cycle arrest either in primary fibroblasts or in non-tumorigenic RWPE-1 cells that are derived from prostate epithelium (Figure <xref ref-type="fig" rid="F1">1C</xref>).</p>
+        <fig id="F1" orientation="portrait" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <title>GL induces G<sub>2</sub>/M phase cell-cycle arrest</title>
+            <p><bold>A.</bold> DU145 cells were exposed to various doses of GL (1, 10 and 20 &#x3BC;M) during 6, 12 or 24 h and cell cycle was analyzed by PI staining and flow cytometry. Representative histograms are shown. <bold>B.</bold> Quantitation of percentages of the cells in each phase of the cell cycle. Data are the means of three independent experiments &#xB1; SD. *P&lt;0.05; **P&lt;0.01; ***P&lt;0.001 compared with the control group. <bold>C.</bold> Effect of GL (24 h) on cell cycle in human normal dermal fibroblasts and RWPE-1 cells. Representative histograms are shown.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g001"/>
+        </fig>
+        <p>Previous reports have shown that GL induces apoptosis in DU145 cells through a caspase-3 dependent pathway [<xref rid="R20" ref-type="bibr">20</xref>]. Thus, we investigated whether cell cycle arrest paralleled with caspase-3 activation and apoptosis. DU145 cells were pre-incubated with the cell-permeant pan caspase inhibitor Z-Vad-FMK and treated with GL. We found that GL induced the activation and cleavage of caspase-3 that preceded the membrane translocation of phosphatidyl-serine measured by Anexin-V staining and both activities were completely inhibited in the presence of Z-Vad-FMK (Figures <xref ref-type="fig" rid="F2">2A and 2B</xref>). On the contrary, pan caspase inhibitor did not prevent GL-induced G<sub>2</sub>/M phase cell cycle arrest (Figure <xref ref-type="fig" rid="F2">2C</xref>). These results indicate that GL affects different signaling pathways in DU145 cells, leading to cell cycle arrest and apoptosis.</p>
+        <fig id="F2" orientation="portrait" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <title>GL induction of cell-cycle arrest is mediated by a caspase-independent pathway</title>
+            <p><bold>A.</bold> DU145 cells were treated with GL in the absence or the presence or the pan-caspase inhibitor Z-VAD-FMK (40 &#x3BC;M) for 48 h and protein expression of PARP and cleavaged caspase-3 was analyzed by immunoblot. <bold>B.</bold> DU145 cells were treated as above for 48 h, stained with Annexin V and PI and analyzed by flow cytometry. Representative plots and percentages are shown. <bold>C.</bold> DU145 cells were treated as in A and cell cycle distribution was determined by flow cytometry. Quantitation of percentages of the cells in each phase of the cell cycle. Data are the means of three independent experiments &#xB1; SD. ***P&lt;0.001 compared with the control group.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g002"/>
+        </fig>
+      </sec>
+      <sec id="s2_2">
+        <title>Galiellalactone destabilizes microtubules and inhibits cell migration in DU145 cells</title>
+        <p>Actin and tubulins are abundant cytoskeletal proteins that support diverse cellular processes including cell cycle progression. To investigate the molecular and cellular mechanisms of GL effects on cell shape, we evaluated cell morphology using confocal microscopy, comparing the effects induced by cytochalasin D, a blocker of actin polymerization and elongation of actin, with those induced by nocodazole and docetaxel, two antineoplasic agents that interfere microtubules polymerization.</p>
+        <p>We found that after 6 h GL produces a change in morphology, clearly reducing cell size to that observed in DU145 cells arrested in mitosis. Also, GL treatment does not cause aggregation of actin as observed after cytochalasin D treatment. However, GL was able to produce a similar microtubule destabilization observed with microtubule-targeting agents (MTAs) docetaxel and nocodazole (Figure <xref ref-type="fig" rid="F3">3A</xref>). MTAs but not GL induced an increase in the percentage of subdiploid cells (sub G<sub>0</sub>/G<sub>1</sub>) that corresponds to apoptotic cells after 24 h treatment, indicating that the action mechanism of MTAs and GL should be different (Figure <xref ref-type="fig" rid="F3">3B</xref>). Accordingly, subdiploid cells in GL-treated DU145 cells are detected only after 48 h treatment (data not shown).</p>
+        <fig id="F3" orientation="portrait" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <title>Effect of GL on cell morphology and cytoskeletal structure</title>
+            <p><bold>A.</bold> Double immunofluorescent staining of actin (red) and &#x3B1;-tubulin (green) in DU145 cells treated with cytochalasin D (10 &#x3BC;M), GL (10 &#x3BC;M), nocodazole (100 ng/ml) and docetaxel (10 nM) for 6 h. The nuclei were counterstained with DAPI (blue). Cells were visualized by confocal microscopy (x63). <bold>B.</bold> Representative cell cycle profiles obtained by FACS at 24 h after the treatment with the indicated compounds.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g003"/>
+        </fig>
+        <p>In order to evaluate if GL causes cell cycle arrest through <italic>de novo</italic> protein and RNA synthesis we used the transcriptional inhibitor mitomycin C. In the combined treatment we observed that cell cycle arrest produced by GL at 24 h was reversed with mitomycin C in DU145 cells, indicating that cell cycle arrest at G<sub>2</sub>/M produced by GL requires <italic>de novo</italic> transcription of genes involved in cell cycle checkpoints regulation (Figure <xref ref-type="fig" rid="F4">4A</xref>). Recently, it has been shown that GL inhibits invasion in DU145 cells [<xref rid="R22" ref-type="bibr">22</xref>]. This finding, together with the effect on microtubules stabilization shown above, has led us to investigate the effects of GL on migration process by wound healing assay. We found that GL clearly impaired wound healing in DU145 cells compared to untreated cells (Figures <xref ref-type="fig" rid="F4">4B and 4C</xref>).</p>
+        <fig id="F4" orientation="portrait" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <title>GL inhibits cell motility</title>
+            <p><bold>A.</bold> DU145 cells were pre-incubated with mitomycin C (5 &#x3BC;g/ml) for 1 h and treated with GL at 10 and 20 &#x3BC;M for 24 h and cell cycle analyzed by PI staining and flow cytometry. Representative histograms are shown. <bold>B.</bold> DU145 cells were pre-incubated with mitomycin C (5 &#x3BC;g/ml) for 1 h, treated or not with GL at 10 &#x3BC;M for 24 h and relative wound density analyzed at different time points over a period of 24 h. The measurements are from wounds made on a monolayer of DU145 cells cultured in the presence of GL and control. Data are the means of three experiments &#xB1; SE. *P&lt;0.05; **P&lt;0.01 compared with the control group. <bold>C.</bold> Images of wound healing assay were obtained at 0, 12 or 24 h and the blue areas show the initial wound boundaries at 0 h.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g004"/>
+        </fig>
+      </sec>
+      <sec id="s2_3">
+        <title>GL activates ATM/ATR signaling pathway without induce massive DNA damage</title>
+        <p>To examine the molecular basis by which GL induces G<sub>2</sub>/M cell cycle arrest we firstly analyzed the expression of key proteins involved in cycle progression and checkpoint response. DU145 cells were stimulated with GL and the expression kinetic of the indicated proteins was analyzed. As shown in Figure <xref ref-type="fig" rid="F5">5A</xref>, the protein levels of pCDC25C (Ser216), CDC25C and pWee1 (Ser642) were clearly down-regulated in a time-dependent manner in response to GL treatment. By contrast, other proteins such as Cyclin B1, pHistone H3 (Ser10) or p21 were up-regulated. No significant change was observed in pCDK1 (Tyr15) and Myt1 expression levels, while Myt1 hyperphosphorylation was clearly detected after 12 h of treatment. In summary, these results clearly indicate that GL may induce cell cycle arrest through the control of the expression of key proteins involved in the regulation of S and G<sub>2</sub>/M phases.</p>
+        <fig id="F5" orientation="portrait" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <title>Effect of GL on the expression of cell cycle proteins and DNA damage</title>
+            <p><bold>A.</bold> Kinetic analysis on the steady state of proteins involved in G<sub>2</sub>/M phase. DU145 cells were treated with GL (10 &#x3BC;M) for the indicated times and the expression of the different proteins analyzed by western blots. <bold>B.</bold> Protein expression of pCHK1, pCHK2 and CDC25C and <bold>C.</bold> pATR, pATM, and &#x3B3;H2AX was evaluated by immunoblot in cells stimulated with GL for 24 h. <bold>D.</bold> Alkaline comet assay was performed to determine DNA fragments in DU145 cells treated with either GL (10 &#x3BC;M) or etoposide for 24 h. Representative images of alkaline comet assay and a graph with the tail moment are shown. ***P&lt;0.001 compared with the control group.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g005"/>
+        </fig>
+        <p>CDC25C is an essential protein for the control of the G<sub>2</sub>/M cell cycle transition, and also a key component of the checkpoint pathways that become activated in response to DNA damage or environmental insults. Under this stress situation, ATM and ATR kinases and their downstream checkpoint kinases CHK1 and CHK2, mediate the inhibition and/or degradation of CDC25C. Based on the ability of GL to mediate CDC25C degradation, we decided to analyze whether GL may activate the ATM/ATR pathway. To study this possibility, we first monitored CHK1 and CHK2 activation levels by analyzing the phosphorylation at Ser345 and Thr68, respectively. We show in Figure <xref ref-type="fig" rid="F5">5B</xref> that GL treatment led to CHK1 phosphorylation in a dose-dependent manner, not affecting the phosphorylation levels of CHK2. CHK1 activation correlated with phosphorylation of CDC25C at the Ser216 site and posterior degradation. Similar results were obtained in PC3 cells (<xref ref-type="supplementary-material" rid="SD1">Supplementary Figure 2</xref>). These results indicate that GL-mediated down-regulation of CDC25C paralleled with CHK1 activation.</p>
+        <p>Next, to examine the capacity of GL to induce activation of DNA damage sensor kinases ATM/ATR, DU145 cells were stimulated with GL and ATM Ser1981 and ATR Ser428 phosphorylation detected by immunoblotting. In parallel, we evaluated Ser139 phosphorylation of histone H2A variant H2AX as marker of DNA damage. As shown in Figure <xref ref-type="fig" rid="F5">5C</xref>, GL induced ATM and ATR phosphorylation in a dose-dependent manner, affecting Ser139 phosphorylation levels of H2AX, with similar results were found in PC3 cells (<xref ref-type="supplementary-material" rid="SD1">Supplementary Figure 2</xref>). Finally, we performed a Comet-assay to determine DNA strand breaks (Figure <xref ref-type="fig" rid="F5">5D</xref>). In contrast to the analysis of &#x3B3;H2AX, no significant changes were observed in the cells stimulated with GL. By contrast, a dramatic Comet formation was observed under etoposide stimulation. These results demonstrate that GL mediates the activation of ATM/ATR signaling pathway without DNA double strand break.</p>
+      </sec>
+      <sec id="s2_4">
+        <title>Inhibition of ATM/ATR signaling pathway rescues GL-mediated G2/M phase cell-cycle arrest</title>
+        <p>In view of these results, we next examined the effect of ATM/ATR inhibitors on GL-mediated G<sub>2</sub>/M cell cycle arrest, DDR signaling pathway and apoptosis. DU145 cells were stimulated with GL in the presence or absence of the CHK1/CHK2 dual inhibitor UCN-01, and cell cycle and the expression of pCHK1 (Ser345), &#x3B3;H2AX and PARP proteins evaluated in parallel. We found that inhibition of CHK1 prevented GL-mediated G<sub>2</sub>/M phase cell-cycle arrest (Figure <xref ref-type="fig" rid="F6">6A</xref>), but it did not interfere with GL-induced PARP cleavage (Figure <xref ref-type="fig" rid="F6">6B</xref>) and apoptosis, which was particularly increased (Figure <xref ref-type="fig" rid="F6">6C</xref>). Finally, and to further verify the role of ATM/ATR in GL-mediated G<sub>2</sub>/M cell cycle arrest, we performed similar experiments using the ATM/ATR inhibitor caffeine. DU145 cells stimulated with GL, in the absence or presence of caffeine, showed that ATM/ATR inhibition clearly rescued GL-mediated G<sub>2</sub>/M cell cycle arrest (Figure <xref ref-type="fig" rid="F6">6D</xref>), and prevented ATR, ATM and H2AX activation (Figure <xref ref-type="fig" rid="F6">6E</xref>). In contrast to the results obtained with CHK1/CHK2 inhibition, caffeine produced a significant reduction in GL-induced PARP cleavage and apoptosis (Figure <xref ref-type="fig" rid="F6">6F</xref>). Similarly, caffeine stimulation reverted GL capacity to impair wound healing in DU145 cells (<xref ref-type="supplementary-material" rid="SD1">Supplementary Figure 3</xref>). Altogether these data demonstrate that GL-mediated G<sub>2</sub>/M cell cycle arrest is mediated by activation of the ATM/ATR signaling pathway.</p>
+        <fig id="F6" orientation="portrait" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <title>GL activates the ATM/ATR/CHK1 pathway</title>
+            <p>DU145 cells were pre-incubated for 1 h with either UCN-01 (1 &#x3BC;M) or caffeine (10 mM) and then treated with GL 10 &#x3BC;M for 24 h <bold>A, D.</bold> Representative cell cycle profiles obtained by flow cytometry at 24 h after the treatment with the indicated compounds. <bold>B, E.</bold> Identification of DNA damage (pCHK1 and &#x3B3;H2AX) and apoptotic (PARP) proteins. <bold>C, F.</bold> DU145 cells were treated as above for 48 h, stained with Annexin V and PI and analyzed by FACS. Percentages of Annexin V positive cells are shown. Data are the means of three experiments &#xB1; SD. *P&lt;0.05; ***P&lt;0.001 compared with the control group. <sup>#</sup>P&lt; 0.05 compared with GL 10 &#x3BC;M group.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g006"/>
+        </fig>
+      </sec>
+      <sec id="s2_5">
+        <title>N-acetyl cysteine (NAC) suppresses cell cycle arrest and apoptosis produced by GL</title>
+        <p>The DDR cascade and ROS (reactive oxygen species) signaling are both involved in the induction of cell death after DNA damage. Thus, we were interested in investigating whether an increase of intracellular ROS was involved in GL-induction of G<sub>2</sub>/M cell cycle arrest and apoptosis in DU145 cells. We show in Figure <xref ref-type="fig" rid="F7">7A</xref> that, in contrast to tert-butyl hydroperoxide (TBHP), GL was not able to increase the levels of intracellular ROS. Accordingly, neither the antioxidants ambroxol nor epigallocatechin gallate (EGCG) prevented GL-induced G<sub>2</sub>/M cell cycle arrest (Figure <xref ref-type="fig" rid="F7">7B</xref>). Interestingly, N-acetyl cysteine (NAC) treatment prevented the effect of GL on G<sub>2</sub>/M cell cycle arrest (Figure <xref ref-type="fig" rid="F7">7B</xref>), PARP cleavage, H2AX phosphorylation (Figure <xref ref-type="fig" rid="F7">7C</xref>) and apoptosis (Figure <xref ref-type="fig" rid="F7">7D</xref>). NAC is a scavenger of oxygen free radicals and a precursor of L-cysteine. GL has the ability to modify and covalently bind to cysteines, at least in the STAT3 protein, and therefore it is possible that NAC could bind GL attenuating its apoptotic effects.</p>
+        <fig id="F7" orientation="portrait" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <title>NAC inhibits GL-induced cell cycle arrest and apoptosis in DU145 cells</title>
+            <p><bold>A.</bold> DU145 cells were treated with either GL or TBHP and the generation of intracellular ROS was determined with fluorescence probe DCFH<sub>2</sub>-DA. ***P&lt;0.001 compared with the positive control group. <bold>B.</bold> DU145 cells were pre-incubated either NAC (1 mM), epigallocatechin (100 &#x3BC;M) or ambroxol (100 &#x3BC;M) followed by GL 10 &#x3BC;M treatment. Representative cell cycle profiles obtained by FACS after 24 h of treatment are shown. <bold>C.</bold> Protein expression of PARP, Caspase-3 and &#x3B3;H2AX was determined by western blot. <bold>D.</bold> DU145 cells were treated as above for 48 h, stained with Annexin V and PI and analyzed by FACS. Percentages of Annexin V positive cells are shown. Data are the means of triplicate experiments &#xB1; SD. **P&lt;0.01 compared with the control group. <sup>##</sup>P&lt; 0.01 compared with GL 10 &#x3BC;M group.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g007"/>
+        </fig>
+      </sec>
+      <sec id="s2_6">
+        <title><italic>In vivo</italic> effect of GL on H2AX phosphorylation in cancer prostate</title>
+        <p>Previous studies have demonstrated that GL produces a decrease tumor growth in several animal models of prostate cancer [<xref rid="R20" ref-type="bibr">20</xref>, <xref rid="R22" ref-type="bibr">22</xref>]. Therefore, next we were interested in studying DDR after GL treatment <italic>in vivo</italic>. DU145 cell xenograft mouse model received a dose of 3 mg/kg through i.p injections every day for 21 days. Our results demonstrated that GL did not affect body weight of mice (Figure <xref ref-type="fig" rid="F8">8A</xref>). By contrast, a significant reduction of the volume tumor was observed during the treatment (Figure <xref ref-type="fig" rid="F8">8B</xref>) and the tumor weight was also significantly decreased after 21 days of GL treatment in comparison with untreated group (Figure <xref ref-type="fig" rid="F8">8C</xref>). To investigate activation of DDR signaling pathway caused by GL we determined the expression of phosphorylated H2AX. Immunohistochemistry analysis of tissue sections showed that &#x3B3;H2AX positive cells expression was significantly higher in mice treated with GL in comparison with untreated mice (Figure <xref ref-type="fig" rid="F8">8D</xref>). These results confirm that activation of DNA damage signaling occurs <italic>in vitro</italic> and also <italic>in vivo</italic>.</p>
+        <fig id="F8" orientation="portrait" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <title>GL induces H2AX phosphorylation in prostate tumors</title>
+            <p>Athymic nude-Foxn1<sup>nu</sup> mice were injected subcutaneously with DU145 cells. After 4 weeks tumors were established and mice were treated every day during 21 days with GL (3 mg/kg) or DMSO (0.1%). <bold>A.</bold> Body weight in DU145 and GL-treated groups. <bold>B.</bold> Tumor volume (mm<sup>3</sup>) was evaluated every 3-4 days using a caliper. <bold>C.</bold> Tumor weight. <bold>D.</bold> &#x3B3;H2AX expression in tumor sections of controls and GL-treated mice DU145. Representative images are shown (x40). Quantitation of &#x3B3;H2AX positive cells/HPF (high power field) as shown in the graph. *P&lt;0.05 compared with DU145 group.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-07-4490-g008"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>DISCUSSION</title>
+      <p>STAT3 and NF-&#x3BA;B have been identified to be involved in the processes of cell proliferation, cell differentiation and cell survival and, therefore, play an important role in tumorigenesis. In addition, it has been described that constitutive activation of these transcription factors contributes to chemoresistance in multiple malignancies [<xref rid="R40" ref-type="bibr">40</xref>]. On the other hand, it has been shown that EBV infection induces STAT3 activation that suppresses the DDR by interrupting ATR-CHK1 signaling [<xref rid="R41" ref-type="bibr">41</xref>]. Moreover, STAT3 is required for efficient repair of damaged DNA following UVB irradiation and STAT3 deficient cells have reduced activity of ATM-CHK1 pathway [<xref rid="R42" ref-type="bibr">42</xref>]. Also, it has been well-established that cytotoxic drugs and ionizing radiation activate NF-&#x3BA;B [<xref rid="R40" ref-type="bibr">40</xref>] involved in DNA repair mechanisms [<xref rid="R43" ref-type="bibr">43</xref>]. Therefore, NF-&#x3BA;B inhibitors administered in combination with cytostatic drugs enhanced the cytotoxicity activities of these treatments favoring pro-apoptotic cascade [<xref rid="R44" ref-type="bibr">44</xref>].</p>
+      <p>It has been previously shown that GL is a dual NF-&#x3BA;B /STAT3 inhibitor, but nothing is known about its effects on cell cycle and DDR signaling in cancer cells. In this study, our results demonstrate that GL was able to induce cell cycle arrest at G<sub>2</sub>/M phase in human prostate cancer cell lines (DU145 and PC3), with similar results in other cancer cell lines like Jurkat and SK-N-SH (data not shown). Similarly, GL induces apoptosis in androgen-insensitive prostate cancer cells through activation of ATM/ATR-CHK1 signaling without inducing DNA break. Thus, GL may exert antitumoral activity at different levels: inhibiting the action of the pro-survival transcription factors STAT3/NF-&#x3BA;B, inducing DNA damage signaling pathway and inhibiting DNA repairing mechanism (Figure <xref ref-type="fig" rid="F9">9</xref>). However, further studies are required to confirm that G<sub>2</sub>/M cell cycle arrest and activation of ATM/ATR-signaling depend on these transcription factors.</p>
+      <fig id="F9" orientation="portrait" position="float">
+        <label>Figure 9</label>
+        <caption>
+          <title>Schematic model for the ability of GL to induce cell cycle arrest and apoptosis</title>
+          <p>GL induces DNA damage and activation of pATM/ATR, which phosphorylates H2AX and CHK1 to induce cell cycle arrest at the G<sub>2</sub>/M phase by CDC25C inhibition. Activation of pATM/ATR also induces apoptosis through a CHK1-independent pathway.</p>
+        </caption>
+        <graphic xlink:href="oncotarget-07-4490-g009"/>
+      </fig>
+      <p>Previous studies have shown that GL produces caspase-3 dependent apoptosis in prostate cancer cells [<xref rid="R20" ref-type="bibr">20</xref>, <xref rid="R21" ref-type="bibr">21</xref>]. Treatment with Z-VAD-FMK, a pan caspase inhibitor, prevented apoptosis, corroborating previous results, although cell cycle arrest was maintained at G<sub>2</sub>/M in DU145 cells. These results demonstrate that a repair process is activated after GL in spite of blocking apoptosis cell death, showing that they are processes with different signaling pathways.</p>
+      <p>In some cases, such as after treatment with docetaxel or cytochalasin D, cell cycle arrest is accompanied by cytoskeleton disorganization at actin/tubulin levels [<xref rid="R45" ref-type="bibr">45</xref>&#x2013;<xref rid="R47" ref-type="bibr">47</xref>]. Microtubule-targeting agents (MTAs) arrest mitosis and in turn cell death. Recently, an study have proposed that, instead of mitotic arrest, disrupting intracellular trafficking of DNA repair proteins (ATM, ATR, DNA-PK, Rad50, Mre11, p95/NBS1, p53, 53BP1 and p63) is responsible of MTAs action mechanisms, such as vincristine or paclitaxel. Also, the treatment with these MTAs results in higher and sustained &#x3B3; H2AX levels in A549 and MCF7 cells treated with radiation or etoposide. For this reason, the combination of MTAs plus DNA damaging agents enhances their effect separately [<xref rid="R48" ref-type="bibr">48</xref>]. Our results show that GL treatment provokes microtubule alteration at early stages in DU145 cells and thus might be hindering the transport of proteins involved in repairing the process, promoting cell arrest in G<sub>2</sub>/M and apoptosis.</p>
+      <p>Besides the ability to inhibit NF-&#x3BA;B/STAT3, we show that GL may target cancer cell progression by the activation of ATM/ATR pathway, inducing a rapid CDC25C degradation in DU145 cells. CDC25C protein stability is regulated by DDR kinases ATM/ATR-CHK1/CHK2. We identified that GL activates DDR in DU145 cells through ATR and ATM phosphorylation, which increases CHK1 phosphorylation at Ser345 but not phosphorylation of CHK2 at Thr68. Depending on the cellular context and DNA damage agents, ATM and ATR or both kinases may be activated. For example, whereas VP-16 provokes ATR activation [<xref rid="R49" ref-type="bibr">49</xref>], camptothecin activates either ATM or ATR in DNA damage events in different cancer cell lines [<xref rid="R50" ref-type="bibr">50</xref>]. The critical role of ATM/ATR-CHK1 in the regulation of GL-mediated degradation of CDC25C was confirmed by the inhibition of the ATM/ATR-CHK1 checkpoint control pathway using caffeine and the CHK1 inhibitor UCN-01.</p>
+      <p>ATM/ATR pathway is activated mainly in response to different types of DNA damage. Although we observed an increase in &#x3B3;H2AX levels in GL treated DU145 cells and animal models, GL did not induce massive DNA DSBs as compared with etoposide in comet assays. One possibility is that GL could be causing another type of DNA damage similar to that caused by alkylating agents, transferring methyl or ethyl group to a DNA base. The capacity of GL to covalently bind to cysteine could block the active cysteine site of O<sup>6</sup>-methylguanine methyltransferase (MGMT), inhibiting this protein and therefore preventing this DNA repair mechanism, activating DNA response signaling. DNA alkylating agents such as temozolomide, carmustine and estramustine are used in cancer therapy [<xref rid="R51" ref-type="bibr">51</xref>]. On the other hand, it has been reported that oxidative stress can also activate ATM by a mechanism independent of DNA DSBs [<xref rid="R52" ref-type="bibr">52</xref>]. In this sense, we show that GL does not produce ROS in DU145 cells but their effects on cell cycle and apoptosis were blocked with NAC treatment. NAC is an aminothiol used as an antioxidant, but it is also a synthetic precursor of GSH and intracellular cysteine, and can interact with proteins presenting cysteine residues or thiol groups [<xref rid="R53" ref-type="bibr">53</xref>, <xref rid="R54" ref-type="bibr">54</xref>]. In this context, a previous study showed that GL is a cysteine reactive inhibitor that covalently binds to cysteine in STAT3 inhibiting its binding to DNA. Therefore, while NAC could block the reactive site of GL, we cannot exclude oxidative stress to be involved in GL-mediated activation of ATM/ATR pathway.</p>
+      <p>In summary, this study reports for the first time a new mechanism of action for GL, with important consequences on the damage response pathway in the context of its antitumor activities on prostate cancer. We demonstrate how fungal GL induces DDR via ATM/ATR-CHK1 pathway, causing apoptosis and G2/M cell cycle arrest in prostate cancer (Figure <xref ref-type="fig" rid="F9">9</xref>), inhibiting tumor growth <italic>in vivo</italic> in mouse tumor models. These findings validate GL as a promising antitumor agent for treatment of castration-resistant prostate cancer, alone or in combination with other drugs.</p>
+    </sec>
+    <sec sec-type="methods" id="s4">
+      <title>MATERIALS AND METHODS</title>
+      <sec id="s4_1">
+        <title>Cell culture and reagents</title>
+        <p>DU145, PC3 and RWPE-1 cells were from the American Type Culture Collection (ATCC, Manassas, VA, USA). DU145 and PC3 cells were cultured in RPMI 1640 medium supplemented with 10% of fetal bovine serum (FBS) and 1% penicillin/streptomycin. RWPE-1 cells were cultured in keratinocyte serum free medium supplemented with bovine pituitary extract (0.05 mg/ml) and human recombinant epidermal growth factor (5 ng/ml). Human normal dermal fibroblasts (HNDFs) were purchased to Innoprot (Bizkaia, Spain) and cultured in DMEM medium supplemented with 10% of FBS and antibiotics. Cells were incubated at 37&#xB0;C in a humidified atmosphere containing 5% CO<sub>2</sub>. Cell lines were routinely tested to be free of mycoplasma and cross contamination. DU145 validation was performed by a multiplex PCR with Geneprint10 System (Promega, Madison, WI, USA) following the manufacturer's manual. Galiellalactone was isolated as previously described [<xref rid="R55" ref-type="bibr">55</xref>] or purchased from US Biological Life Sciences (Salem, MA, USA). Mitomycin C and Z-VAD-FMK were obtained from Enzo Life Technologies (Farmingdale, NY, USA). Antibodies against anti-phospho-ATM Ser1981 [(D6H9)-5883], anti-phospho-ATR Ser428 (2853), anti-phospho-CDC2 Tyr15 (9111), anti-Cyclin B1 (4138), anti-phospho-Histone H3 Ser10 [(D2C8)-3377], anti-Myt1 (4282), anti-phospho-WEE1 Ser642 [(D47G5)-4910], anti-p21 Waf1/Cip1 [(12D1)-2947], anti-phospho-CDC25C Ser216 (9528), anti-CDC25C [(5H9)-4688], anti-phospho-CHK2 Thr68 [(C13C1)-2197], anti-phospho-CHK1 Ser345 [(133D3)-2348], anti-PARP (9542), anti-Caspase-3 [(8G10)-9665], anti-phospho-Histone H2AX Ser139 [(20E3)-9718], anti-ATM [(D2E2)-2873], anti-ATR [(E1S3S)-13934], anti-CHK1 [(2G1D5)-2360] were purchased from Cell Signaling Technology (Danvers, MA, USA). The antibody anti-CHK2 (05-649) was obtained from Millipore (Merck Millipore, Billerica, MA, USA). The antibody anti-&#x3B1;-Tubulin (T9026) and anti-Flag (F3165) were obtained from Sigma-Aldrich (St Louis, MO, USA). The antibody anti-p53 was obtained from Santa Cruz Biotechnology (Santa Cruz, CA, USA). Alexa Fluor 488 was purchased from Life Technologies (Carlsbad, CA, USA). All other reagents were from Sigma Co (St Louis, MO, USA).</p>
+      </sec>
+      <sec id="s4_2">
+        <title>FACS analysis</title>
+        <p>For cell cycle analysis, cells were fixed in 70% cold ethanol at &#x2212;20&#xB0;C overnight. After that cells were washed with PBS once and then stained with 1 mg/mL propidium iodide (PI) and treated with RNase A (50 U/mL) for 2 h at 37&#xB0;C in darkness. For apoptosis studies, cells were harvested and washed in cold PBS and then resuspended in binding buffer consisting of 10 mM Hepes, 140 mM NaCl and 2.5 mM CaCl<sub>2</sub> pH 7.4. Cells were stained with Annexin V, Alexa Fluor 488 conjugate (Molecular Probes by life technologies, Carlsbad, CA, USA) and propidium iodide. Cell cycle distribution and apoptosis were determined by BD FACSCanto&#x2122; flow cytometer (BD Biosciences, San Jose, CA, USA) using BD FACSDiva&#x2122; software.</p>
+      </sec>
+      <sec id="s4_3">
+        <title>Western blotting</title>
+        <p>Whole cell extracts were obtained by lysing the cells in NP-40 buffer (50 mM Tris-HCl pH 7.5, 150 mM NaCl, 10% glycerol and 1% NP-40) supplemented with protease and phosphatase inhibitors. Lysate concentrations were determined by the Bradford assay (Bio-Rad Laboratories, Hercules, CA, USA). Proteins (50 &#x3BC;g/lane) were separated by SDS-PAGE, transferred onto PVDF membranes and blocked with PBS-T (Phosphate-buffered saline and 0.1% Tween-20) containing 5% non-fat dry milk for 1 h at room temperature (RT). Incubation with primary antibodies was performed overnight at 4&#xB0;C, followed by incubation with the appropriate horseradish peroxidase-conjugated secondary antibody. The washed membranes were incubated with appropriate secondary antibodies coupled to horseradish peroxidase that were detected by an enhanced chemiluminescent reagent (ECL).</p>
+      </sec>
+      <sec id="s4_4">
+        <title>Immunofluorescence</title>
+        <p>DU145 cells were grown on coverslips and after treatment fixed for 20 min in 4% paraformaldehyde and permeabilized in 0.12% Triton X-100 for 10 min. After that, cells were stained for 1 h at room temperature with Phalloidin-TRITC 10 &#x3BC;g/mL and anti-&#x3B1;-Tubulin (T9026) for staining of actin filaments and microtubules, respectively, and counterstained with Alexa Fluor 488 goat-anti-mouse IgG secondary antibody. Coverslides were mounted in Vectashield mounting media with DAPI (Vector Laboratories Inc., Burlingame, CA, USA) and examined with an LSM 5 EXCITER (Carl Zeiss MicroImaging GmbH) confocal laser-scanning microscope using a 63&#xD7;/1.40 oil objective (Plan-Apochromat), and ZEN 2008 software (Carl Zeiss MicroImaging GmbH).</p>
+      </sec>
+      <sec id="s4_5">
+        <title>Measurement of ROS levels</title>
+        <p>Cells were stimulated with either GL or tert-butyl hydroperoxide (TBHP) (0.4 mM). After 3 h of incubation, cells were washed with PBS and incubated with 1 &#x3BC;M of 2,7-dichlorofluorescein diacetate (H2DCF-DA; Molecular Probes, OR, USA) for 20 min at 37&#xB0;C in darkness. Fluorescence was measured at 450 nm excitation and 535 nm emission using a TECAN GENios Pro (Tecan Group Ltd, Switzerland).</p>
+      </sec>
+      <sec id="s4_6">
+        <title>Wound healing assay</title>
+        <p>DU145 cells were seeded on 96-well plates (ImageLock plate, Essen Bioscience, Ann Arbor, MI, USA) at a 5 &#xD7; 10<sup>4</sup> cell density and were allowed to attach overnight. When cells reached confluence, a wound was scratched across each well using Wound Maker device (Essen Bioscience) and detached cells were removed by gentle washing with PBS. Then, cells were treated or not with GL in the presence of mitomycin C (5 &#x3BC;g/ml). Images have a blue mask showing the initial wound boundaries at 0 h and wound closure was monitored hourly for 24 h and quantified as wound confluence (%) with IncuCyte ZOOM Live-Cell Imaging System (Essen Bioscience, Hertfordshire, UK).</p>
+      </sec>
+      <sec id="s4_7">
+        <title>Comet assay</title>
+        <p>Cells (4 &#xD7; 10<sup>5</sup>) were seeded into 6-well plates and treated with GL or etoposide for 24 h. DNA damage was detected using an OxiSelect&#x2122; Comet Assay kit (Cell Biolabs Inc, San Diego, USA) following the manufacturer's instructions. Briefly, cells were harvested and mixed with low melt agarose on the OxiSelect Comet Slide. Then, the embedded cells were lysed and treated with alkaline solution to denature DNA. After that, electrophoresis was carried out under alkaline conditions at 1 V/cm and 300 mA for 30 min and the samples stained with Vista Green fluorescence dye for 15 min in darkness, analysed using a Leica DM2500 fluorescent microscope and quantified by Casp software (CASPlab, Wroclaw, Poland).</p>
+      </sec>
+      <sec id="s4_8">
+        <title>Prostate tumor xenograft model</title>
+        <p>Six-week-old male athymic nude-Foxn1nu mice (Harlan Laboratories, Barcelona, Spain) were kept on a 12 h light-dark cycle, temperature 20&#xB0;C (&#xB1;2&#xB0;C) and 40-50% relative humidity with free access to standard food and water. Experimental procedure was performed in accordance with European Union and the C&#xF3;rdoba University ethical committee guidelines (2014PI/015). A total of 10 mice were injected subcutaneously into the flank with 3&#xD7;10<sup>6</sup> DU145 cells and tumors were established 4 weeks after injection. Then, mice were divided into 2 groups: Group 1 (n=5) received vehicle (1% DMSO in PBS) and group 2 (n=5) were treated with 3 mg/kg of GL by intraperitoneal injection (i.p) every day for 3 weeks in both cases. Tumor volume was measured every 3-4 days using a caliper and calculated by the formula length (mm) x width x height x 0.5632. After treatment, mice were sacrificed and tumours were extracted, weighted, fixed in 4% paraformaldehyde and then embedded in paraffin. Sections (5 &#x3BC;M thickness) of each tumour were prepared for immunohistochemistry analysis.</p>
+      </sec>
+      <sec id="s4_9">
+        <title>Immunohistochemistry</title>
+        <p>The sections of xenograft tumor samples were deparaffinized in xylene and rehydrated through a graded ethanol series ending in water. Antigen retrieval was done by heating in sodium citrate 10 mM pH 6 at 98&#xB0;C for 10 min and then incubated in methanol and 0.3% hydrogen peroxide for 30 min to block endogenous peroxidase activity. Non-specific binding was blocked with IHC Select Blocking Reagent (Merck Millipore, Billerica, MA, USA) at room temperature for 30 min followed by incubation with the phospho-histone H2AX (Ser139) primary antibody at 4&#xB0;C overnight. After that, samples were incubated with secondary antibody goat anti-rabbit (Merck Millipore, Billerica, MA, USA) at room temperature for 4 h. Incubation with the IHC Select Streptavidin-HRP reagent was performed at room temperature for 30 min, before the chromogen was developed using diaminobenzidine according to the manufacturer's instructions (Merck Millipore, Billerica, MA, USA). A Leica DM2500 microscope and a Leica DFC420c camera were used for slide observation and photography and all image processing was done using ImageJ (Bethesda. MD, USA).</p>
+      </sec>
+      <sec id="s4_10">
+        <title>Statistical analysis</title>
+        <p>Data are expressed as mean &#xB1; SD, except for wound healing assay, whose data are represented as mean &#xB1; SE. Animal studies are expressed as mean &#xB1; SEM. Differences were analyzed by one-way ANOVA test followed by Newman-Keuls post hoc test. P&lt; 0.05 was considered statistically significant. Statistical analysis was performed using GraphPad Prism version 5.00 (GraphPad, San Diego, CA, USA)</p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material" id="s5">
+      <title>SUPPLEMENTARY FIGURES</title>
+      <supplementary-material content-type="local-data" id="SD1">
+        <media mimetype="application" mime-subtype="pdf" xlink:href="oncotarget-07-4490-s001.pdf" orientation="portrait" xlink:type="simple" id="d36e884" position="anchor"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We acknowledge Carmen Cabrero-Doncel for her assistance with the article.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="supported-by">
+        <p>
+          <bold>FUNDING</bold>
+        </p>
+        <p>This work was supported by the MINECO (ONCOVER project) and by Consejer&#x13A;a de Salud (Junta de Andaluc&#x13A;a) grants (PI-0650-2010 and PI- 0246-2013) to M.A.C.</p>
+      </fn>
+      <fn fn-type="conflict">
+        <p>
+          <bold>CONFLICTS OF INTEREST</bold>
+        </p>
+        <p>The authors declare no conflict of interest.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="R1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torre</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Bray</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Siegel</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Ferlay</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lortet-Tieulent</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Global cancer statistics, 2012</article-title>
+          <source>CA</source>
+          <year>2015</year>
+          <volume>65</volume>
+          <fpage>87</fpage>
+          <lpage>108</lpage>
+          <pub-id pub-id-type="pmid">25651787</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feldman</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Feldman</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>The development of androgen-independent prostate cancer</article-title>
+          <source>Nature reviews Cancer</source>
+          <year>2001</year>
+          <volume>1</volume>
+          <fpage>34</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="pmid">11900250</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pienta</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Mechanisms underlying the development of androgen-independent prostate cancer</article-title>
+          <source>Clinical cancer research</source>
+          <year>2006</year>
+          <volume>12</volume>
+          <fpage>1665</fpage>
+          <lpage>1671</lpage>
+          <pub-id pub-id-type="pmid">16551847</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katzenwadel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wolf</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Androgen deprivation of prostate cancer: Leading to a therapeutic dead end</article-title>
+          <source>Cancer letters</source>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karantanos</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Corn</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>TC</given-names>
+            </name>
+          </person-group>
+          <article-title>Prostate cancer progression after androgen deprivation therapy: mechanisms of castrate resistance and novel therapeutic approaches</article-title>
+          <source>Oncogene</source>
+          <year>2013</year>
+          <volume>32</volume>
+          <fpage>5501</fpage>
+          <lpage>5511</lpage>
+          <pub-id pub-id-type="pmid">23752182</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barton</surname>
+              <given-names>BE</given-names>
+            </name>
+            <name>
+              <surname>Karras</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>TF</given-names>
+            </name>
+            <name>
+              <surname>Barton</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>HF</given-names>
+            </name>
+          </person-group>
+          <article-title>Signal transducer and activator of transcription 3 (STAT3) activation in prostate cancer: Direct STAT3 inhibition induces apoptosis in prostate cancer lines</article-title>
+          <source>Molecular cancer therapeutics</source>
+          <year>2004</year>
+          <volume>3</volume>
+          <fpage>11</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">14749471</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chung</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Giehl</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Vadgama</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <article-title>STAT3 activation in HER2-overexpressing breast cancer promotes epithelial-mesenchymal transition and cancer stem cell traits</article-title>
+          <source>International journal of oncology</source>
+          <year>2014</year>
+          <volume>44</volume>
+          <fpage>403</fpage>
+          <lpage>411</lpage>
+          <pub-id pub-id-type="pmid">24297508</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harada</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Takigawa</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Kiura</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>The Role of STAT3 in Non-Small Cell Lung Cancer</article-title>
+          <source>Cancers</source>
+          <year>2014</year>
+          <volume>6</volume>
+          <fpage>708</fpage>
+          <lpage>722</lpage>
+          <pub-id pub-id-type="pmid">24675568</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corvinus</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Orth</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Moriggl</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Tsareva</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pfitzner</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>Baus</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kaufmann</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Huber</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Zatloukal</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Beug</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ohlschlager</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schutz</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Persistent STAT3 activation in colon cancer is associated with enhanced cell proliferation and tumor growth</article-title>
+          <source>Neoplasia</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <fpage>545</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="pmid">16036105</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siveen</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>Sikka</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Surana</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Dai</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Sethi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bishayee</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeting the STAT3 signaling pathway in cancer: role of synthetic and natural inhibitors</article-title>
+          <source>Biochimica et biophysica acta</source>
+          <year>2014</year>
+          <volume>1845</volume>
+          <fpage>136</fpage>
+          <lpage>154</lpage>
+          <pub-id pub-id-type="pmid">24388873</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordan</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Microtubules as a target for anticancer drugs</article-title>
+          <source>Nature reviews Cancer</source>
+          <year>2004</year>
+          <volume>4</volume>
+          <fpage>253</fpage>
+          <lpage>265</lpage>
+          <pub-id pub-id-type="pmid">15057285</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verma</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Dourlat</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Long</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>WQ</given-names>
+            </name>
+            <name>
+              <surname>Garbay</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kelleher</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Volkov</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>STAT3-stathmin interactions control microtubule dynamics in migrating T-cells</article-title>
+          <source>The Journal of biological chemistry</source>
+          <year>2009</year>
+          <volume>284</volume>
+          <fpage>12349</fpage>
+          <lpage>12362</lpage>
+          <pub-id pub-id-type="pmid">19251695</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ng</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>CP</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Poli</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>Stat3 regulates microtubules by antagonizing the depolymerization activity of stathmin</article-title>
+          <source>The Journal of cell biology</source>
+          <year>2006</year>
+          <volume>172</volume>
+          <fpage>245</fpage>
+          <lpage>257</lpage>
+          <pub-id pub-id-type="pmid">16401721</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silver</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Naora</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Montell</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Activated signal transducer and activator of transcription (STAT) 3: localization in focal adhesions and function in ovarian cancer cell motility</article-title>
+          <source>Cancer research</source>
+          <year>2004</year>
+          <volume>64</volume>
+          <fpage>3550</fpage>
+          <lpage>3558</lpage>
+          <pub-id pub-id-type="pmid">15150111</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sano</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Itami</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tarutani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yamaguchi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Miura</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yoshikawa</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Akira</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Takeda</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Keratinocyte-specific ablation of Stat3 exhibits impaired skin remodeling, but does not affect skin morphogenesis</article-title>
+          <source>The EMBO journal</source>
+          <year>1999</year>
+          <volume>18</volume>
+          <fpage>4657</fpage>
+          <lpage>4668</lpage>
+          <pub-id pub-id-type="pmid">10469645</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wake</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>CJ</given-names>
+            </name>
+          </person-group>
+          <article-title>STAT3 the oncogene - still eluding therapy?</article-title>
+          <source>The FEBS journal</source>
+          <year>2015</year>
+          <volume>282</volume>
+          <fpage>2600</fpage>
+          <lpage>2611</lpage>
+          <pub-id pub-id-type="pmid">25825152</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johansson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of (&#x2212;)-galiellalactone</article-title>
+          <source>The Journal of antibiotics</source>
+          <year>2002</year>
+          <volume>55</volume>
+          <fpage>663</fpage>
+          <lpage>665</lpage>
+          <pub-id pub-id-type="pmid">12243458</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Weidler</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rether</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Anke</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Erkel</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of interleukin-6 signaling by galiellalactone</article-title>
+          <source>FEBS letters</source>
+          <year>2000</year>
+          <volume>484</volume>
+          <fpage>1</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">11056211</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Don-Doncow</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Escobar</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Johansson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kjellstrom</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Munoz</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Bjartell</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hellsten</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Galiellalactone is a direct inhibitor of the transcription factor STAT3 in prostate cancer cells</article-title>
+          <source>The Journal of biological chemistry</source>
+          <year>2014</year>
+          <volume>289</volume>
+          <fpage>15969</fpage>
+          <lpage>15978</lpage>
+          <pub-id pub-id-type="pmid">24755219</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hellsten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Johansson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dahlman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Dizeyi</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Bjartell</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Galiellalactone is a novel therapeutic candidate against hormone-refractory prostate cancer expressing activated Stat3</article-title>
+          <source>The Prostate</source>
+          <year>2008</year>
+          <volume>68</volume>
+          <fpage>269</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="pmid">18163422</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hellsten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Johansson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dahlman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Bjartell</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Galiellalactone inhibits stem cell-like ALDH-positive prostate cancer cells</article-title>
+          <source>PloS one</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <fpage>e22118</fpage>
+          <pub-id pub-id-type="pmid">21779382</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Canesin</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Evans-Axelsson</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hellsten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Krzyzanowska</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Andersson</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bjartell</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>The STAT3 Inhibitor Galiellalactone Effectively Reduces Tumor Growth and Metastatic Spread in an Orthotopic Xenograft Mouse Model of Prostate Cancer</article-title>
+          <source>European urology</source>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rudolph</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Serwe</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Erkel</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of TGF-beta signaling by the fungal lactones (S)-curvularin, dehydrocurvularin, oxacyclododecindione and galiellalactone</article-title>
+          <source>Cytokine</source>
+          <year>2013</year>
+          <volume>61</volume>
+          <fpage>285</fpage>
+          <lpage>296</lpage>
+          <pub-id pub-id-type="pmid">23134667</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Soler-Torronteras</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Collado</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Limones</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Hellsten</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Johansson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Bjartell</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Calzado</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Munoz</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>The fungal metabolite galiellalactone interferes with the nuclear import of NF-kappaB and inhibits HIV-1 replication</article-title>
+          <source>Chemico-biological interactions</source>
+          <year>2014</year>
+          <volume>214</volume>
+          <fpage>69</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">24631022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hausding</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tepe</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ubel</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lehr</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Rohrig</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hohn</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Pautz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Eigenbrod</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Anke</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kleinert</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Erkel</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Finotto</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Induction of tolerogenic lung CD4+ T cells by local treatment with a pSTAT-3 and pSTAT-5 inhibitor ameliorated experimental allergic asthma</article-title>
+          <source>International immunology</source>
+          <year>2011</year>
+          <volume>23</volume>
+          <fpage>1</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="pmid">21135031</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bollmann</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Jackel</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schmidtke</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Schrick</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Reinhardt</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Jurk</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Erkel</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Kleinert</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Pautz</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Anti-Inflammatory and Anti-Thrombotic Effects of the Fungal Metabolite Galiellalactone in Apolipoprotein E-Deficient Mice</article-title>
+          <source>PloS one</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>e0130401</fpage>
+          <pub-id pub-id-type="pmid">26076475</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malumbres</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Barbacid</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Cell cycle, CDKs and cancer: a changing paradigm</article-title>
+          <source>Nature reviews Cancer</source>
+          <year>2009</year>
+          <volume>9</volume>
+          <fpage>153</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="pmid">19238148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vermeulen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Van Bockstaele</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Berneman</surname>
+              <given-names>ZN</given-names>
+            </name>
+          </person-group>
+          <article-title>The cell cycle: a review of regulation, deregulation and therapeutic targets in cancer</article-title>
+          <source>Cell proliferation</source>
+          <year>2003</year>
+          <volume>36</volume>
+          <fpage>131</fpage>
+          <lpage>149</lpage>
+          <pub-id pub-id-type="pmid">12814430</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karanika</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Karantanos</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Corn</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>TC</given-names>
+            </name>
+          </person-group>
+          <article-title>DNA damage response and prostate cancer: defects, regulation and therapeutic implications</article-title>
+          <source>Oncogene</source>
+          <year>2015</year>
+          <volume>34</volume>
+          <fpage>2815</fpage>
+          <lpage>2822</lpage>
+          <pub-id pub-id-type="pmid">25132269</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tho</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Gillespie</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>The ATM-Chk2 and ATR-Chk1 pathways in DNA damage signaling and cancer</article-title>
+          <source>Advances in cancer research</source>
+          <year>2010</year>
+          <volume>108</volume>
+          <fpage>73</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="pmid">21034966</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Teng</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Legerski</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>DNA damage checkpoint recovery and cancer development</article-title>
+          <source>Experimental cell research</source>
+          <year>2015</year>
+          <volume>334</volume>
+          <fpage>350</fpage>
+          <lpage>358</lpage>
+          <pub-id pub-id-type="pmid">25842165</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pabla</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mi</surname>
+              <given-names>QS</given-names>
+            </name>
+            <name>
+              <surname>Daniel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>ATR-Chk2 signaling in p53 activation and DNA damage response during cisplatin-induced apoptosis</article-title>
+          <source>The Journal of biological chemistry</source>
+          <year>2008</year>
+          <volume>283</volume>
+          <fpage>6572</fpage>
+          <lpage>6583</lpage>
+          <pub-id pub-id-type="pmid">18162465</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Halicka</surname>
+              <given-names>HD</given-names>
+            </name>
+            <name>
+              <surname>Traganos</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Seiter</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Darzynkiewicz</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Induction of ATM activation, histone H2AX phosphorylation and apoptosis by etoposide: relation to cell cycle phase</article-title>
+          <source>Cell cycle</source>
+          <year>2007</year>
+          <volume>6</volume>
+          <fpage>371</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="pmid">17297310</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kurz</surname>
+              <given-names>EU</given-names>
+            </name>
+            <name>
+              <surname>Douglas</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lees-Miller</surname>
+              <given-names>SP</given-names>
+            </name>
+          </person-group>
+          <article-title>Doxorubicin activates ATM-dependent phosphorylation of multiple downstream targets in part through the generation of reactive oxygen species</article-title>
+          <source>The Journal of biological chemistry</source>
+          <year>2004</year>
+          <volume>279</volume>
+          <fpage>53272</fpage>
+          <lpage>53281</lpage>
+          <pub-id pub-id-type="pmid">15489221</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xian</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ito</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nakazato</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Shimizu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>CK</given-names>
+            </name>
+            <name>
+              <surname>Yamato</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Murakami</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ohigashi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ikeda</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kizaki</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Zerumbone, a bioactive sesquiterpene, induces G2/M cell cycle arrest and apoptosis in leukemia cells via a Fas- and mitochondria-mediated pathway</article-title>
+          <source>Cancer science</source>
+          <year>2007</year>
+          <volume>98</volume>
+          <fpage>118</fpage>
+          <lpage>126</lpage>
+          <pub-id pub-id-type="pmid">17129359</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Gong</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Berberine, a genotoxic alkaloid, induces ATM-Chk1 mediated G2 arrest in prostate cancer cells</article-title>
+          <source>Mutation research</source>
+          <year>2012</year>
+          <volume>734</volume>
+          <fpage>20</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="pmid">22561209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arunkumar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vijayababu</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Srinivasan</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Aruldhas</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Arunakaran</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Garlic compound, diallyl disulfide induces cell cycle arrest in prostate cancer cell line PC-3</article-title>
+          <source>Molecular and cellular biochemistry</source>
+          <year>2006</year>
+          <volume>288</volume>
+          <fpage>107</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="pmid">16691315</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grivennikov</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Karin</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Dangerous liaisons: STAT3 and NF-kappaB collaboration and crosstalk in cancer</article-title>
+          <source>Cytokine &amp; growth factor reviews</source>
+          <year>2010</year>
+          <volume>21</volume>
+          <fpage>11</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">20018552</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naugler</surname>
+              <given-names>WE</given-names>
+            </name>
+            <name>
+              <surname>Karin</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>NF-kappaB and cancer-identifying targets and mechanisms</article-title>
+          <source>Current opinion in genetics &amp; development</source>
+          <year>2008</year>
+          <volume>18</volume>
+          <fpage>19</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="pmid">18440219</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Habraken</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Piette</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>NF-kappaB activation by double-strand breaks</article-title>
+          <source>Biochemical pharmacology</source>
+          <year>2006</year>
+          <volume>72</volume>
+          <fpage>1132</fpage>
+          <lpage>1141</lpage>
+          <pub-id pub-id-type="pmid">16965765</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koganti</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hui-Yuen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McAllister</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gardner</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Grasser</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Palendira</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Tangye</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Freeman</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Bhaduri-McIntosh</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>STAT3 interrupts ATR-Chk1 signaling to allow oncovirus-mediated cell proliferation</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>2014</year>
+          <volume>111</volume>
+          <fpage>4946</fpage>
+          <lpage>4951</lpage>
+          <pub-id pub-id-type="pmid">24639502</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R42">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barry</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Townsend</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Knight</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Scarabelli</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Latchman</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Stephanou</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>STAT3 modulates the DNA damage response pathway</article-title>
+          <source>International journal of experimental pathology</source>
+          <year>2010</year>
+          <volume>91</volume>
+          <fpage>506</fpage>
+          <lpage>514</lpage>
+          <pub-id pub-id-type="pmid">20804538</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R43">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janssens</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tschopp</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Signals from within: the DNA-damage-induced NF-kappaB response</article-title>
+          <source>Cell death and differentiation</source>
+          <year>2006</year>
+          <volume>13</volume>
+          <fpage>773</fpage>
+          <lpage>784</lpage>
+          <pub-id pub-id-type="pmid">16410802</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R44">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Volcic</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Karl</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Baumann</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Salles</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Daniel</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Fulda</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wiesmuller</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>NF-kappaB regulates DNA double-strand break repair in conjunction with BRCA1-CtIP complexes</article-title>
+          <source>Nucleic acids research</source>
+          <year>2012</year>
+          <volume>40</volume>
+          <fpage>181</fpage>
+          <lpage>195</lpage>
+          <pub-id pub-id-type="pmid">21908405</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R45">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nehme</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Varadarajan</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sellakumar</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gerhold</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Niedner</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Christen</surname>
+              <given-names>RD</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulation of docetaxel-induced apoptosis and cell cycle arrest by all-trans retinoic acid in prostate cancer cells</article-title>
+          <source>British journal of cancer</source>
+          <year>2001</year>
+          <volume>84</volume>
+          <fpage>1571</fpage>
+          <lpage>1576</lpage>
+          <pub-id pub-id-type="pmid">11384110</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R46">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramaswamy</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Puhalla</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Docetaxel: a tubulin-stabilizing agent approved for the management of several solid tumors</article-title>
+          <source>Drugs of today</source>
+          <year>2006</year>
+          <volume>42</volume>
+          <fpage>265</fpage>
+          <lpage>279</lpage>
+          <pub-id pub-id-type="pmid">16703123</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R47">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heng</surname>
+              <given-names>YW</given-names>
+            </name>
+            <name>
+              <surname>Koh</surname>
+              <given-names>CG</given-names>
+            </name>
+          </person-group>
+          <article-title>Actin cytoskeleton dynamics and the cell division cycle</article-title>
+          <source>The international journal of biochemistry &amp; cell biology</source>
+          <year>2010</year>
+          <volume>42</volume>
+          <fpage>1622</fpage>
+          <lpage>1633</lpage>
+          <pub-id pub-id-type="pmid">20412868</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R48">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poruchynsky</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Komlodi-Pasztor</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Trostel</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wilkerson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Regairaz</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pommier</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Kumar Maity</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Robey</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Burotto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sackett</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Guha</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Fojo</surname>
+              <given-names>AT</given-names>
+            </name>
+          </person-group>
+          <article-title>Microtubule-targeting agents augment the toxicity of DNA-damaging agents by disrupting intracellular trafficking of DNA repair proteins</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year>2015</year>
+          <volume>112</volume>
+          <fpage>1571</fpage>
+          <lpage>1576</lpage>
+          <pub-id pub-id-type="pmid">25605897</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R49">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cliby</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Lilly</surname>
+              <given-names>KK</given-names>
+            </name>
+            <name>
+              <surname>Kaufmann</surname>
+              <given-names>SH</given-names>
+            </name>
+          </person-group>
+          <article-title>S phase and G2 arrests induced by topoisomerase I poisons are dependent on ATR kinase function</article-title>
+          <source>The Journal of biological chemistry</source>
+          <year>2002</year>
+          <volume>277</volume>
+          <fpage>1599</fpage>
+          <lpage>1606</lpage>
+          <pub-id pub-id-type="pmid">11700302</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R50">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zuco</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Benedetti</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Zunino</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>ATM- and ATR-mediated response to DNA damage induced by a novel camptothecin, ST1968</article-title>
+          <source>Cancer letters</source>
+          <year>2010</year>
+          <volume>292</volume>
+          <fpage>186</fpage>
+          <lpage>196</lpage>
+          <pub-id pub-id-type="pmid">20042274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R51">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ravery</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Fizazi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Oudard</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Drouet</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Eymard</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Culine</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gravis</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hennequin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zerbib</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The use of estramustine phosphate in the modern management of advanced prostate cancer</article-title>
+          <source>BJU international</source>
+          <year>2011</year>
+          <volume>108</volume>
+          <fpage>1782</fpage>
+          <lpage>1786</lpage>
+          <pub-id pub-id-type="pmid">21756277</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R52">
+        <label>52</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Kozlov</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lavin</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Person</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Paull</surname>
+              <given-names>TT</given-names>
+            </name>
+          </person-group>
+          <article-title>ATM activation by oxidative stress</article-title>
+          <source>Science</source>
+          <year>2010</year>
+          <volume>330</volume>
+          <fpage>517</fpage>
+          <lpage>521</lpage>
+          <pub-id pub-id-type="pmid">20966255</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R53">
+        <label>53</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zafarullah</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>WQ</given-names>
+            </name>
+            <name>
+              <surname>Sylvester</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular mechanisms of N-acetylcysteine actions</article-title>
+          <source>Cellular and molecular life sciences</source>
+          <year>2003</year>
+          <volume>60</volume>
+          <fpage>6</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">12613655</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R54">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>SY</given-names>
+            </name>
+          </person-group>
+          <article-title>N-acetylcysteine, reactive oxygen species and beyond</article-title>
+          <source>Cancer biology &amp; therapy</source>
+          <year>2010</year>
+          <volume>9</volume>
+          <fpage>109</fpage>
+          <lpage>110</lpage>
+          <pub-id pub-id-type="pmid">19949311</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R55">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johansson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sterner</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <article-title>Synthesis of (+)-galiellalactone. Absolute configuration of galiellalactone</article-title>
+          <source>Organic letters</source>
+          <year>2001</year>
+          <volume>3</volume>
+          <fpage>2843</fpage>
+          <lpage>2845</lpage>
+          <pub-id pub-id-type="pmid">11529771</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

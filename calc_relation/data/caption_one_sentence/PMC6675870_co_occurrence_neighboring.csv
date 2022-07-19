@@ -1,0 +1,4 @@
+gene_name_1,gene_name_2,co_occurrence
+MCL,MCL,2
+MCL,BCL,2
+BCL,BCL,4

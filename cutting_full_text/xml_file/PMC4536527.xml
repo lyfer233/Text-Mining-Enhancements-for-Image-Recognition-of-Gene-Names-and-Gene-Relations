@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+      <journal-title-group>
+        <journal-title>Scientific Reports</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2045-2322</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">26271607</article-id>
+      <article-id pub-id-type="pmc">4536527</article-id>
+      <article-id pub-id-type="pii">srep13092</article-id>
+      <article-id pub-id-type="doi">10.1038/srep13092</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Stearic acid induces proinflammatory cytokine production partly through activation of lactate-HIF1&#x3B1; pathway in chondrocytes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Miao</surname>
+            <given-names>Hongming</given-names>
+          </name>
+          <xref ref-type="corresp" rid="c1">a</xref>
+          <xref ref-type="aff" rid="a1">1</xref>
+          <xref ref-type="author-notes" rid="n1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Liang</given-names>
+          </name>
+          <xref ref-type="aff" rid="a2">2</xref>
+          <xref ref-type="author-notes" rid="n1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hao</surname>
+            <given-names>Lijun</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Xuan</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yujuan</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ruan</surname>
+            <given-names>Zhihua</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liang</surname>
+            <given-names>Houjie</given-names>
+          </name>
+          <xref ref-type="corresp" rid="c2">b</xref>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <aff id="a1"><label>1</label><institution>Department of Oncology, Southwest Hospital, Third Military Medical University</institution>, Chongqing 400038, <country>China</country></aff>
+        <aff id="a2"><label>2</label><institution>Department of Orthopedics, Daping Hospital, Third Military Medical University</institution>, Chongqing 400042, <country>China</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="c1">
+          <label>a</label>
+          <email>hongmingmiao@sina.com</email>
+        </corresp>
+        <corresp id="c2">
+          <label>b</label>
+          <email>lianghoujie@sina.com</email>
+        </corresp>
+        <fn id="n1">
+          <label>*</label>
+          <p>These authors contributed equally to this work.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>08</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2015</year>
+      </pub-date>
+      <volume>5</volume>
+      <elocation-id>13092</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>03</month>
+          <year>2015</year>
+        </date>
+        <date date-type="accepted">
+          <day>17</day>
+          <month>07</month>
+          <year>2015</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2015, Macmillan Publishers Limited</copyright-statement>
+        <copyright-year>2015</copyright-year>
+        <copyright-holder>Macmillan Publishers Limited</copyright-holder>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <!--author-paid-->
+          <license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x2019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The biomechanics stress and chronic inflammation in obesity are causally linked to osteoarthritis. However, the metabolic factors mediating obesity-related osteoarthritis are still obscure. Here we scanned and identified at least two elevated metabolites (stearic acid and lactate) from the plasma of diet-induced obese mice. We found that stearic acid potentiated LDH-a-dependent production of lactate, which further stabilized HIF1&#x3B1; protein and increased VEGF and proinflammatory cytokine expression in primary mouse chondrocytes. Treatment with LDH-a and HIF1&#x3B1; inhibitors notably attenuated stearic acid-or high fat diet-stimulated proinflammatory cytokine production <italic>in vitro</italic> and <italic>in vivo</italic>. Furthermore, positive correlation of plasma lactate, cartilage HIF1&#x3B1; and cytokine levels with the body mass index was observed in subjects with osteoarthritis. In conclusion, saturated free fatty acid induced proinflammatory cytokine production partly through activation of a novel lactate-HIF1&#x3B1; pathway in chondrocytes. Our findings hold promise of developing novel clinical strategies for the management of obesity-related diseases such as osteoarthritis.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <p>Osteoarthritis (OA), characterized by irreversible destruction of the joint cartilage, is a most common rheumatic disease<xref ref-type="bibr" rid="b1">1</xref>. Overnutrition-induced obesity is suggested to be a crucial contributor of the onset and progression of OA<xref ref-type="bibr" rid="b2">2</xref>, with the molecular mechanism being largely unknown. Previous studies revealed that two aspects might be the initiators of obesity-related OA. One is the biomechanics stress in obesity<xref ref-type="bibr" rid="b3">3</xref>, and the other is obesity-induced low grade inflammation<xref ref-type="bibr" rid="b4">4</xref>, characterized by activation of proinflammatory signaling pathway (TLR4, NF-&#x3BA;B, JNK, etc) and elevation of proinflammatory cytokines (IL-6, IL-1&#x3B2;, TNF-&#x3B1;, etc) in multiple organs and tissues<xref ref-type="bibr" rid="b5">5</xref><xref ref-type="bibr" rid="b6">6</xref><xref ref-type="bibr" rid="b7">7</xref><xref ref-type="bibr" rid="b8">8</xref>.</p>
+    <p>Actually, besides some cytokines and hormones (VEGF<xref ref-type="bibr" rid="b9">9</xref>, leptin<xref ref-type="bibr" rid="b10">10</xref>, etc), some increased metabolites are also potent mediators of chronic inflammation in obesity. Saturated free fatty acids (FFAs) are well-documented stimulators of toll-like receptor 4 (TLR4) in macrophages, and contribute to obesity-related chronic inflammation and insulin resistance<xref ref-type="bibr" rid="b5">5</xref><xref ref-type="bibr" rid="b6">6</xref><xref ref-type="bibr" rid="b11">11</xref>. Cholesterols play important roles in the recruitment of macrophages and onset of inflammation in adipose tissues<xref ref-type="bibr" rid="b12">12</xref>. Our previous studies revealed that deficiency of comparative gene identification-58 in macrophages induced lipid accumulation and systemic inflammation<xref ref-type="bibr" rid="b6">6</xref><xref ref-type="bibr" rid="b7">7</xref>.</p>
+    <p>Obesity-induced metabolites regulate proinflammatory cytokine production through a large sum of transcription factors, like NF-&#x3BA;B<xref ref-type="bibr" rid="b13">13</xref>, forkhead box-containing protein O subfamily-1<xref ref-type="bibr" rid="b7">7</xref>, hypoxia-inducible factors (HIFs)<xref ref-type="bibr" rid="b14">14</xref><xref ref-type="bibr" rid="b15">15</xref>, etc. HIFs are composed of two dimeric subunits: an oxygen-sensitive &#x3B1; subunit (HIF1&#x3B1; or HIF2&#x3B1;) and a ubiquitously and constitutively expressed &#x3B2; subunit (HIF1&#x3B2;)<xref ref-type="bibr" rid="b16">16</xref>. Under normal conditions, HIF1&#x3B1; is hydroxylated by prolylhydroxylases, ubiquitinated by the ubiquitin ligase and targeted for proteolytic degradation via the proteasomal pathway. The hydroxylation step is inhibited under hypoxic conditions, resulting in stabilization of HIF1&#x3B1;<xref ref-type="bibr" rid="b16">16</xref>.</p>
+    <p>Recently, HIF1&#x3B1; was reported to be a proinflammatory transcription factor in adipose tissue in obesity<xref ref-type="bibr" rid="b14">14</xref><xref ref-type="bibr" rid="b17">17</xref>. The obesity state-induced hypoxia was suggested to be a major stimulator of HIF1&#x3B1; expression and activity<xref ref-type="bibr" rid="b14">14</xref>. Excessive oxidation of FFAs in obesity consumed too much oxygen, leading to a hypoxia circumstance. Consequently, lactic acid/lactate will be abundantly produced via increased glycolysis. However, the relationships between the metabolic factors (FFAs, lactate, etc), HIF1&#x3B1; and inflammation are still not fully understood. Here in this study, we demonstrate that the high fat diet (HFD) and stearic acid induce lactate production in mice and chondrocytes, respectively. The increased lactate stabilizes HIF1&#x3B1;, partly mediating FFAs-stimulated proinflammatory cytokine production in chondrocytes. Our findings revealed a novel molecular mechanism linking obesity to OA.</p>
+    <sec disp-level="1" sec-type="results">
+      <title>Results</title>
+      <sec disp-level="2">
+        <title>Increased production of proinflammatory cytokines and VEGF in the plasma and chondrocytes in the HFD-feeding mice</title>
+        <p>To verify the positive correlation between obesity and OA, we set up an obese mouse model by feeding the mice with a HFD for 8 weeks. Consistent with previous studies<xref ref-type="bibr" rid="b5">5</xref><xref ref-type="bibr" rid="b6">6</xref><xref ref-type="bibr" rid="b18">18</xref>, HFD induced a low grade inflammation state, characterized by elevated production of IL-6 (<xref ref-type="fig" rid="f1">Fig. 1a</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f1">Fig. 1b</xref>) and IL-1&#x3B2; (<xref ref-type="fig" rid="f1">Fig. 1c</xref>) in plasma. Meanwhile, plasma VEGF, a well-documented risk factor of OA, was also induced by HFD (<xref ref-type="fig" rid="f1">Fig. 1d</xref>). Further, the expression pattern of chondrocyte cytokines was identical with the aforementioned ones in plasma (<xref ref-type="fig" rid="f1">Fig. 1e~h</xref>). These results indicated that the HFD induced a low grade inflammation in the mouse cartilages. However, the 8 weeks of HFD-feeding mice didn&#x2019;t display any signs of osteoarthritis in histomorphology (see <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. S1</xref>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>HFD-induced plasma stearic acid and lactate stimulates proinflammatory cytokine and VEGF production in primary chondrocytes</title>
+        <p>To explore whether the serum-derived factors are contributors of the chondrocyte inflammation, we collected the serum from the mice with a normal diet (ND) or HFD for 8 weeks. The full serum was then separated into a protein fraction (&gt;3&#x2009;KD) and a metabolite fraction (&lt;3&#x2009;KD) to treat the primary chondrocytes from the ND-feeding mice. Comparing to the full serum, protein fraction and metabolite fraction from the ND group, the ones from HFD group notably stimulated mRNA expression of IL-6 (<xref ref-type="fig" rid="f2">Fig. 2a</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f2">Fig. 2b</xref>) and IL-1&#x3B2; (<xref ref-type="fig" rid="f2">Fig. 2c</xref>). Unexpectedly, the mRNA expression of VEGF was induced by the HFD group-derived full serum and metabolite fraction but not by the protein fraction (<xref ref-type="fig" rid="f2">Fig. 2d</xref>). While it has been proven that proinflammatory cytokines (TNF-&#x3B1;, IL-1&#x3B2;, etc) are present at high levels in the protein fraction of serum from the HFD-feeding mice<xref ref-type="bibr" rid="b5">5</xref><xref ref-type="bibr" rid="b6">6</xref>, the proinflammatory molecules in the metabolite fraction of the serum are still not well-known. We performed metabonomics analysis of the metabolite fraction with GC-TOF-MS (see <xref ref-type="supplementary-material" rid="S1">Supplementary Table S1</xref>), and verified that at least two elevated metabolic molecules, stearic acid (a kind of saturated FFAs) and lactate in obesity, were functional stimulators of proinflammatory cytokine and VEGF production in primary chondrocytes (<xref ref-type="fig" rid="f2">Fig. 2e~l</xref>). However, the molecular mechanism linking stearic acid and lactate to the cytokine production in chondrocytes will be further explored.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Stearic acid and lactate induced inflammation response by enhancing protein stability and transcription activity of HIF1&#x3B1; in chondrocytes</title>
+        <p>It&#x2019;s well established that lactic acid is largely produced in hypoxia state, which increases stability and activity of HIF1&#x3B1;, a recently characterized enhancer of chronic inflammation in adipose tissue in obese mice<xref ref-type="bibr" rid="b17">17</xref><xref ref-type="bibr" rid="b19">19</xref>. Specially, stearic acid and lactate-induced VEGF is a well-known transcriptional target of HIF1&#x3B1;<xref ref-type="bibr" rid="b20">20</xref>. Thus, we presumed that stearic acid and lactate might regulate the protein stability and transcriptional activity of HIF1&#x3B1;. As expected, similar to hypoxia, both stearic acid and lactate induced protein levels (<xref ref-type="fig" rid="f3">Fig. 3a</xref>), protein stability (<xref ref-type="fig" rid="f3">Fig. 3b~d</xref>) and transcription activity (<xref ref-type="fig" rid="f3">Fig. 3f~h</xref>) of HIF1&#x3B1; in primary chondrocytes. Furthermore, we confirmed that metabolite fraction of serum from the HFD-feeding mice notably induced HIF1&#x3B1; protein stability (<xref ref-type="fig" rid="f3">Fig. 3e</xref>) and transcription activity (<xref ref-type="fig" rid="f3">Fig. 3i</xref>).</p>
+        <p>To verify whether stearic acid and lactate induced cytokine production through HIF1&#x3B1;, mouse HIF1&#x3B1; specific siRNAs were employed to silence the expression of HIF1&#x3B1; in primary mouse chondrocytes (<xref ref-type="fig" rid="f4">Fig. 4a</xref>). As expected, stearic acid-induced production of IL-6 (<xref ref-type="fig" rid="f4">Fig. 4b</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f4">Fig. 4c</xref>) and IL-1&#x3B2; (<xref ref-type="fig" rid="f4">Fig. 4d</xref>) could be partly blocked by HIF1&#x3B1; silence, while stearic acid-stimulated VEGF expression was fully prevented by HIF1&#x3B1; deletion (<xref ref-type="fig" rid="f4">Fig. 4e</xref>). In contrast, lactate-induced expression of IL-6 (<xref ref-type="fig" rid="f4">Fig. 4f</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f4">Fig. 4g</xref>), IL-1&#x3B2; (<xref ref-type="fig" rid="f4">Fig. 4h</xref>) and VEGF (<xref ref-type="fig" rid="f4">Fig. 4i</xref>) could be fully diminished by HIF1&#x3B1; silence. Those results indicated that stearic acid mediated inflammation response partly through HIF1&#x3B1;, while lactate induced inflammation response in a HIF1&#x3B1;-dependent manner in chondrocytes.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Stearic acid potentiates LDH-a-dependent lactate production in chondrocytes</title>
+        <p>Given that both stearic acid and lactate could mimic the hypoxia state and regulate HIF1&#x3B1; activity, we presumed that there might be a reciprocal regulatory role between stearic acid and lactate. In primary mouse chondrocytes, lactate treatment exerted no effects on the production of free fatty acids (<xref ref-type="fig" rid="f5">Fig. 5a</xref>), while the treatment with stearic acid notably induced lactate production (<xref ref-type="fig" rid="f5">Fig. 5b</xref>). Further, we demonstrated that stearic acid could induce the expression of LDH-a, a key enzyme for lactate production (<xref ref-type="fig" rid="f5">Fig. 5c</xref>). siRNA-mediated LDH-a silence abolished stearic acid-stimulated lactate production in primary mouse chondrocytes (<xref ref-type="fig" rid="f5">Fig. 5c~d</xref>). To confirm the stimulatory role of stearic acid on lactate production via LDH-a, an inhibitor (Oxamate) of LDH-a activity was employed and identical results were obtained (<xref ref-type="fig" rid="f5">Fig. 5e</xref> and <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. 2</xref>). Furthermore, <italic>in vivo</italic> studies were performed to verify the aforementioned findings <italic>in vitro</italic>. The HFD treatment stimulated the levels of free fatty acids (<xref ref-type="fig" rid="f5">Fig. 5f</xref>) and lactate (<xref ref-type="fig" rid="f5">Fig. 5g</xref>) in mouse plasma in a time-dependent manner. Likewise, the plasma VEGF exerted a similar altering pattern as free fatty acids and lactate (<xref ref-type="fig" rid="f5">Fig. 5h</xref>). Interestingly, the HFD-induced lactate production was abolished by additional treatment with the LDH-a inhibitor Oxamate (<xref ref-type="fig" rid="f5">Fig. 5i</xref>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Stearic acid stimulates LDH-a-dependent production of proinflammatory cytokines and VEGF</title>
+        <p>Saturated free fatty acid is the well-documented stimulator of TLR4, mediating inflammation response ubiquitously<xref ref-type="bibr" rid="b5">5</xref><xref ref-type="bibr" rid="b7">7</xref><xref ref-type="bibr" rid="b21">21</xref>. To identify whether TLR4 is involved in LDH-a/lactate pathway-mediated cytokine production, stearic acid-induced inflammation response in primary chondrocytes with TLR4 or LDH-a silence was observed. Stearic acid-induced mRNA levels of IL-6 (<xref ref-type="fig" rid="f6">Fig. 6a</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f6">Fig. 6b</xref>) and IL-1&#x3B2; (<xref ref-type="fig" rid="f6">Fig. 6c</xref>) were largely decreased by a single silence of TLR4 (see <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. S3a</xref>) or LDH-a. Combined silence of TLR4 and LDH-a could fully prevent stearic acid-induced proinflammatory cytokine production (<xref ref-type="fig" rid="f6">Fig. 6a~c</xref>). Thus we concluded that stearic acid/LDH-a/lactate pathway was TLR4-independent. Interestingly, stearic acid-stimulated VEGF expression was fully blocked by the silence of LDH-a, but not by TLR4 (<xref ref-type="fig" rid="f6">Fig. 6d</xref>). To verify the aforementioned <italic>in vitro</italic> pathway (stearic acid/LDH-a/cytokines) <italic>in vivo</italic>, we treated the HFD-feeding mice with inhibitors of TLR4 (see <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. S3b</xref>), LDH-a or HIF1&#x3B1; (see <xref ref-type="supplementary-material" rid="S1">Supplementary Fig. S3c</xref>) and observed cytokine production in mouse cartilage. The HFD-feeding stimulated mRNA expression of IL-6 (<xref ref-type="fig" rid="f6">Fig. 6e</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f6">Fig. 6f</xref>) and IL-1&#x3B2; (<xref ref-type="fig" rid="f6">Fig. 6g</xref>), and this effect was partly attenuated by a single treatment of TLR4, LDH-a or HIF1&#x3B1; inhibitors (<xref ref-type="fig" rid="f6">Fig. 6e~g</xref>). Simultaneous administration with TLR4 and LDH-a inhibitors fully prevented HFD-feeding-induced proinflammatory cytokine production in mouse cartilage (<xref ref-type="fig" rid="f6">Fig. 6e~g</xref>). It should be noted that the HFD-feeding-stimulated VEGF expression was prevented by LDH-a or HIF1&#x3B1; inhibitors, but not by TLR4 inhibitor (<xref ref-type="fig" rid="f6">Fig. 6h</xref>). These results verified that stearic acid/LDH-a/HIF1&#x3B1; was a TLR4-independent novel pathway in chondrocytes.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Positive correlation of plasma lactate, cartilage HIF1&#x3B1; and cytokine levels with the body mass index (BMI) in patients with OA</title>
+        <p>Aforementioned results revealed that lactate/HIF1&#x3B1; pathway was involved in saturated free fatty acid-induced production of proinflammatory cytokines and VEGF. To further correlate this mechanism to physiological condition, we investigated the levels of plasma lactate, cartilage HIF1&#x3B1; and cytokines in age-matched female human donors with OA. Results revealed that production of plasma lactate (<xref ref-type="fig" rid="f7">Fig. 7a</xref>), cartilage HIF1&#x3B1; (<xref ref-type="fig" rid="f7">Fig. 7b</xref>), IL-6 (<xref ref-type="fig" rid="f7">Fig. 7c</xref>), TNF-&#x3B1; (<xref ref-type="fig" rid="f7">Fig. 7d</xref>), IL-1&#x3B2; (<xref ref-type="fig" rid="f7">Fig. 7e</xref>) and VEGF (<xref ref-type="fig" rid="f7">Fig. 7f</xref>) were positively correlated with the BMI in human donors.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1" sec-type="discussion">
+      <title>Discussion</title>
+      <p>Obesity is causally linked to OA, with the molecular mechanism being not fully understood<xref ref-type="bibr" rid="b2">2</xref><xref ref-type="bibr" rid="b22">22</xref>. Biomechanics stress (overweight), cytokines (IL-6, TNF-&#x3B1;, IL-1&#x3B2;, VEGF, etc) and hormones (leptin, etc) were identified as key risk factors linking obesity to the setup and progression of OA<xref ref-type="bibr" rid="b9">9</xref><xref ref-type="bibr" rid="b10">10</xref>. However, the metabolic changes in obesity affecting the cytokine production were still obscure. Here in this study, we are the first to demonstrate that stearic acid stimulated LDH-a-dependent production of lactate, which further stabilized HIF1&#x3B1; protein, and promoted OA-related cytokine expression in chondrocytes. Our work identified a novel pathway (LDH-a/HIF1&#x3B1;/cytokines) mediating saturated free fatty acid-induced cytokine production, independent of TLR4 signaling in chondrocytes.</p>
+      <p>The levels of saturated free fatty acids (stearic acid, etc) in plasma were increased in obese individuals. Those saturated free fatty acids exerted proinflammatory roles through TLR4 in multiple cells, including monocytes, macrophages, adipocytes and chondrocytes<xref ref-type="bibr" rid="b5">5</xref><xref ref-type="bibr" rid="b23">23</xref><xref ref-type="bibr" rid="b24">24</xref><xref ref-type="bibr" rid="b25">25</xref><xref ref-type="bibr" rid="b26">26</xref>. In this study, we demonstrated that stearic acid-induced LDH-a/lactate axis was TLR4-independent. However, the precise mechanism linking free fatty acids to LDH-a expression is still not clear. Previous studies revealed that uptake of free fatty acids were increased in multiple cells in obesity<xref ref-type="bibr" rid="b27">27</xref><xref ref-type="bibr" rid="b28">28</xref><xref ref-type="bibr" rid="b29">29</xref>. We presumed that the chondrocytes might also be overloaded with fatty acids and the over-consumption of oxygen in fatty acid oxidation might generate a hypoxic circumstance, inducing LDH-a-dependent glycolysis and lactate production in chondrocytes.</p>
+      <p>Lactate was known to stabilize HIF1&#x3B1; protein under normoxia conditions in a latest study<xref ref-type="bibr" rid="b30">30</xref>, which is consistent with our present work. The role of lactate in inflammation was contradicted in different cells<xref ref-type="bibr" rid="b31">31</xref><xref ref-type="bibr" rid="b32">32</xref><xref ref-type="bibr" rid="b33">33</xref>. Here we identified the proinflammatory role of lactate via HIF1&#x3B1; in chondrocytes. Interestingly, the production of lactate was tightly potentiated by saturated free fatty acid in obesity. Those findings indicated that lactate might also be a linker between obesity and OA. However, the precise mechanism of lactate stabilizing HIF1&#x3B1; protein needs further to be investigated.</p>
+      <p>HIFs are pivotal transcriptional factors which are tightly regulated by oxygen concentration<xref ref-type="bibr" rid="b16">16</xref>. HIF1&#x3B1; and HIF2&#x3B1; regulate different subgroups of genes, although they share some common targets such as VEGF and GLUT1<xref ref-type="bibr" rid="b16">16</xref>. In arginine metabolism, HIF1&#x3B1; stimulated iNOS production, while HIF2&#x3B1; induced arginase expression<xref ref-type="bibr" rid="b34">34</xref><xref ref-type="bibr" rid="b35">35</xref>. In fat tissues of obese mice, HIF1&#x3B1; potentiated proinflammatory cytokine production, while HIF2&#x3B1; attenuated chronic inflammation and insulin resistance<xref ref-type="bibr" rid="b19">19</xref><xref ref-type="bibr" rid="b36">36</xref>. In the present study, we identified that HIF1&#x3B1;, could mediate stearic acid-stimulated inflammatory response in chondrocytes. The specific activation of stearic acid on HIF1&#x3B1; protein is interesting and needs further to be explored.</p>
+      <p>In all, we identified that elevated circulatory metabolite stearic acid increased lactate levels in the plasma and chondrocytes in a LDH-a-dependent manner. The stearic acid stimulated VEGF and proinflammatory cytokine production through a canonic TLR4 pathway and a novel lactate/HIF1&#x3B1; pathway (<xref ref-type="fig" rid="f8">Fig. 8</xref>). The molecules in both pathways might be potential diagnostic markers and functional therapeutic targets.</p>
+    </sec>
+    <sec disp-level="1" sec-type="methods">
+      <title>Methods</title>
+      <sec disp-level="2">
+        <title>Animal studies</title>
+        <p>All the animal experiments were approved by the Institutional Animal Care and Use Committee at Third Military Medical University (TMMU), and all the experiments were performed in accordance with the &#x201C;Guide for the care and use of laboratory animals&#x201D; published by the US National Institutes of Health (publication no. 85&#x2013;23, revised 1996). All the mice were housed in a pathogen-free facility with a 12-h light, 12-h dark cycle in TMMU. All the mice were provided with food and purified water ad libitum. Each cage contained no more than 5 mice. Six-week-old male C57BL/6 mice were fed with either a normal diet (ND) provided by TMMU (The ingredient is identical with the Research Diets D12450B, 10% calories from fat, Research Diets Inc., New Brunswick, NJ) or a high fat diet (HFD, D12492, fat content 60% by calorie, Research diets, Inc.). The 8-week-ND or HFD-feeding male C57BL/6 mice were treated with LDH-a inhibitor oxamate (#O2751, Sigma, 500&#x2009;mg/kg.d), HIF1&#x3B1; inhibitor KG-548 (#SML0619, Sigma, 1&#x2009;mg/kg.d) or Toll-like receptor 4 inhibitor (TLR4-I) (#SML0832, Sigma, 1&#x2009;mg/kg.d) for 14 days (from the seventh week of HFD) via intraperitoneal injection. We did not see any noticeable reaction or adverse response in the procedure of IP injection.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Isolation and treatment of primary mouse or human chondrocytes</title>
+        <p>All the experiments involving human subjects were approved by the ethics committee in TMMU and the informed consent was obtained from all subjects. The methods for isolation and treatment of primary chondrocytes were carried out in accordance with the approved guidelines. Human articular cartilage samples were obtained from the knee joints of female patients (Age&#x2009;=&#x2009;65&#x2009;&#xB1;&#x2009;5.6 years, n&#x2009;=&#x2009;10) undergoing total knee replacement surgery. Primary mouse or human articular chondrocytes were isolated from knee joints and cultured according to the protocol as described in previous study<xref ref-type="bibr" rid="b37">37</xref>. In the following experiments, cells were treated with different reagents: oxamate (100&#x2009;nM), KG-548 (500&#x2009;&#x3BC;M), TLR4-I (100&#x2009;ng/ml), 5% BSA (#A6003, Sigma) and 200&#x2009;&#x3BC;M stearic acid (#S4751, Sigma). For hypoxic experiments, the chondrocytes were incubated in an Autoflow NU-8500 incubator (0.1% O<sub>2</sub> and 5% CO<sub>2</sub>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Preparation of saturated free fatty acid</title>
+        <p>The stock solution of BSA and stearic acid were prepared as described in previous study<xref ref-type="bibr" rid="b7">7</xref>.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Enzyme-linked immunosorbent assay (ELISA)</title>
+        <p>To measure the cytokine levels between lean and obese mice, plasma samples were collected from the C57BL/6 male mice fed with the ND or HFD for 8 weeks. In addition, to test the role of free fatty acid on VEGF production, the 6-week-old male C57BL/6 mice were fed with the HFD. The plasma was collected via tail vein on day 0, 1, 7, 14, 28 and 56. Plasma cytokine levels were measured with TNF-&#x3B1; (#MTA00B), IL-1&#x3B2; (#MLB00C), IL-6 (#M6000B) and VEGF (#MMV00) ELISA Kits from R&amp;D system according to manufacture&#x2019;s protocols.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Reverse transcription and realtime PCR</title>
+        <p>Reverse transcription and realtime PCR were performed as described in the previous report<xref ref-type="bibr" rid="b38">38</xref>. Briefly, the total RNA was extracted by Trizol reagent (Invitrogen) according to the manufacture&#x2019;s protocol. RNAs were transcribed into cDNAs using Omniscript (Qiagen, Hilden, Germany). Quantitative Real-Time PCR was performed using the 7900HT Fast Real-Time PCR system (Applied Biosystems, Darmstadt, Germany). The mRNA expression levels were normalized to &#x3B2;-actin. Reactions were done in duplicate using Applied Biosystems Taqman Gene Expression Assays and Universal PCR Master Mix. The relative expression was calculated by the 2(<sup>-DDCt</sup>) method. All the primers used for PCR are available upon request.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Western blot analysis</title>
+        <p>Proteins were extracted with RIPA Lysis Buffer and quantified by the BCA kit (Roche, USA). The immunoblotting assay was performed as described previously<xref ref-type="bibr" rid="b6">6</xref>. Briefly, protein samples were separated by 8 (for HIF1&#x3B1; assay) or 15% (for LDHa assay) SDS-PAGE and transfered to a polyvinylidene difluoride membrane. The membrane was blocked with 5% nonfat milk and incubated with primary antibodies (1:1000) for 10&#x2009;h at 4 C. The membranes were rinsed 5 times with PBS containing 0.1% Tween 20 and incubated for 1&#x2009;h with the appropriate horseradish peroxidase-conjugated secondary antibody at 37 C. Membranes were extensively washed with PBS containing 0.1% Tween 20 and incubated with Enhanced Chemiluminescence Substrate (#NEL105001EA, PerkinElmer) for 1&#x2009;min and the signals were captured using a Bio-Rad ChemiDoc MP System (170&#x2013;8280). The primary antibodies include Anti-GAPDH (#2118, Cell signaling), Anti-HIF1&#x3B1; (#NB100-449, Novus Biological) and Anti-LDHa (#3558, Cell signaling).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Loss-of-function studies</title>
+        <p>HIF1&#x3B1; silence in mouse chondrocytes were performed by transiently transfecting the cells with mouse HIF1&#x3B1; specific siRNAs (siH-1, 5&#x2032;-GUCACCACAGGACAGUACATT/UGUACUGUCCUGUGGUGACTT-3&#x2032; and siH-2, 5&#x2032;-GCCGCUCAAUUUAUGAAUATT/UAUUCAUAAAUUGAGCGGCTT-3&#x2032;) or a scramble siRNA as negative control (siNC, 5&#x2032;-UAGCGACUAAACACAUCAATT/UUGAUGUGUUUAGUCGCUATT-3&#x2032;). Knockdown of LDH-a and TLR4 expression was performed by target specific siRNAs, siLDHa (sc-45898, Santa Cruz) and siTLR4 (sc-40261, Santa Cruz) respectively. siRNA transfections were carried out using Lipofectanmine<sup>TM</sup> RNAi Max (Invitrogene) according to manufacture&#x2019;s instructions.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>HIF1&#x3B1; protein stability assay</title>
+        <p>A well-constructed reporter gene ODD-Luciferase-pcDNA3 (#18965, Addgene) was employed to detect the stability of HIF1&#x3B1; protein as described previously<xref ref-type="bibr" rid="b30">30</xref><xref ref-type="bibr" rid="b39">39</xref>. Briefly, the primary mouse chondrocytes were plated in the 96-well-plate (10<sup>5</sup> cells in each well) and transiently transfected with the reporter construct (working concentration: 0.4&#x2009;&#x3BC;g/ml). Then, the cells were treated with hypoxia (0.1% O<sub>2</sub>), FFA (200&#x2009;&#x3BC;M) or Lactate (25&#x2009;mM) for 24&#x2009;h. Finally, the luciferase activity was positively correlated with HIF1&#x3B1; protein stability.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Measurement of HIF1&#x3B1; transcriptional activity</title>
+        <p>VEGF is a well-known target gene of HIF1&#x3B1;<xref ref-type="bibr" rid="b20">20</xref>. A 3050-bp (&#x2212;3000/+50) DNA fragment harboring the mouse VEGF promoter was cloned into pGL4-Basic vector. After transfection with this construct, the luciferase activity indirectly indicates the transcriptional activity of HIF1&#x3B1;.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Lactate and free fatty acid assay</title>
+        <p>The supernatant of cultured mouse primary chondrocytes treated with FFA (200&#x2009;&#x3BC;M) or 5% BSA for 24&#x2009;h was collected. The 6-week-old male C57BL/6 mice were fed with the HFD. The plasma was collected via tail vein on day 0, 1, 7, 14, 28 and 56. In addition, the plasma from a series of patients with osteoarthritis was also collected. The lactate and the free fatty acid levels in those collected plasma and supernatant were measured using the Lactate Assay Kit (BioVision, USA) and Free Fatty Acid Quantification Kit (K612-100, BioVision, USA) according to the manufacture&#x2019;s instructions, respectively.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>LDH activity test</title>
+        <p>LDH Activity Assay Kit (#K726-500, Biovision, Tucson, AZ, USA) was used to determine the intracellular LDH activity. In this test, LDH reduces NAD to NADH, which interacts with a specific probe to produce a color (&#x3BB;<sub>max</sub>&#x2009;=&#x2009;450&#x2009;nm), which is then detected by colorimetric assay. Results were expressed as percentage of LDH activity normalized to protein concentration, which were measured by BCA protein assay kit (Roche, USA).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Statistical analysis</title>
+        <p>All data are expressed as mean&#x2009;&#xB1;&#x2009;S.E.M. and were analyzed by either one-way ANOVA or two-tailed unpaired Student&#x2019;s t test. For each parameter of all data, *P&#x2009;&lt;&#x2009;0.05, **P&#x2009;&lt;&#x2009;0.01, ***P&#x2009;&lt;&#x2009;0.005 and values not sharing a common superscript letter differ significantly (P&#x2009;&lt;&#x2009;0.05).</p>
+      </sec>
+    </sec>
+    <sec disp-level="1">
+      <title>Additional Information</title>
+      <p><bold>How to cite this article</bold>: Miao, H. <italic>et al.</italic> Stearic acid induces proinflammatory cytokine production partly through activation of lactate-HIF1&#x3B1; pathway in chondrocytes. <italic>Sci. Rep.</italic>
+<bold>5</bold>, 13092; doi: 10.1038/srep13092 (2015).</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="S1">
+      <title>Supplementary Material</title>
+      <supplementary-material id="d33e27" content-type="local-data">
+        <caption>
+          <title>Supplementary Information</title>
+        </caption>
+        <media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-s1.pdf"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This work was supported in part by Award Numbers 81302136 (H.M.), and 81272364 (H.L.) from the National Natural Science Foundation of China, Award Number 2013M542437 (H.M.) from the General Financial Grant from the China Postdoctoral Science Foundation, and Award Number (Xm2014118) from Postdoctoral Science Special Foundation of Chongqing.</p>
+    </ack>
+    <ref-list>
+      <ref id="b1">
+        <mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>Y.</given-names></name> &amp; <name><surname>Jordan</surname><given-names>J. M.</given-names></name>
+<article-title>Epidemiology of osteoarthritis</article-title>. <source>Clin Geriatr Med</source>
+<volume>26</volume>, <fpage>355</fpage>&#x2013;<lpage>369</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20699159</pub-id></mixed-citation>
+      </ref>
+      <ref id="b2">
+        <mixed-citation publication-type="journal"><name><surname>Berenbaum</surname><given-names>F.</given-names></name> &amp; <name><surname>Sellam</surname><given-names>J.</given-names></name>
+<article-title>Obesity and osteoarthritis: what are the links?</article-title>
+<source>Joint Bone Spine</source>
+<volume>75</volume>, <fpage>667</fpage>&#x2013;<lpage>668</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18990601</pub-id></mixed-citation>
+      </ref>
+      <ref id="b3">
+        <mixed-citation publication-type="journal"><name><surname>Recnik</surname><given-names>G.</given-names></name>
+<italic>et al.</italic>
+<article-title>The role of obesity, biomechanical constitution of the pelvis and contact joint stress in progression of hip osteoarthritis</article-title>. <source>Osteoarthritis Cartilage</source>
+<volume>17</volume>, <fpage>879</fpage>&#x2013;<lpage>882</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19162509</pub-id></mixed-citation>
+      </ref>
+      <ref id="b4">
+        <mixed-citation publication-type="journal"><name><surname>Griffin</surname><given-names>T. M.</given-names></name> &amp; <name><surname>Guilak</surname><given-names>F.</given-names></name>
+<article-title>Why is obesity associated with osteoarthritis? Insights from mouse models of obesity</article-title>. <source>Biorheology</source>
+<volume>45</volume>, <fpage>387</fpage>&#x2013;<lpage>398</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18836239</pub-id></mixed-citation>
+      </ref>
+      <ref id="b5">
+        <mixed-citation publication-type="journal"><name><surname>Shi</surname><given-names>H.</given-names></name>
+<italic>et al.</italic>
+<article-title>TLR4 links innate immunity and fatty acid-induced insulin resistance</article-title>. <source>J Clin Invest</source>
+<volume>116</volume>, <fpage>3015</fpage>&#x2013;<lpage>3025</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">17053832</pub-id></mixed-citation>
+      </ref>
+      <ref id="b6">
+        <mixed-citation publication-type="journal"><name><surname>Miao</surname><given-names>H.</given-names></name>
+<italic>et al.</italic>
+<article-title>Macrophage CGI-58 deficiency activates ROS-inflammasome pathway to promote insulin resistance in mice</article-title>. <source>Cell Rep</source>
+<volume>7</volume>, <fpage>223</fpage>&#x2013;<lpage>235</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24703845</pub-id></mixed-citation>
+      </ref>
+      <ref id="b7">
+        <mixed-citation publication-type="journal"><name><surname>Miao</surname><given-names>H.</given-names></name>
+<italic>et al.</italic>
+<article-title>Macrophage CGI-58 deficiency promotes IL-1beta transcription by activating the SOCS3-FOXO1 pathway</article-title>. <source>Clin Sci (Lond)</source>
+<volume>128</volume>, <fpage>493</fpage>&#x2013;<lpage>506</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25431838</pub-id></mixed-citation>
+      </ref>
+      <ref id="b8">
+        <mixed-citation publication-type="journal"><name><surname>Kwon</surname><given-names>H.</given-names></name>
+<italic>et al.</italic>
+<article-title>Adipocyte-specific IKKbeta signaling suppresses adipose tissue inflammation through an IL-13-dependent paracrine feedback pathway</article-title>. <source>Cell Rep</source>
+<volume>9</volume>, <fpage>1574</fpage>&#x2013;<lpage>1583</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25466256</pub-id></mixed-citation>
+      </ref>
+      <ref id="b9">
+        <mixed-citation publication-type="journal"><name><surname>Yuan</surname><given-names>Q.</given-names></name>, <name><surname>Sun</surname><given-names>L.</given-names></name>, <name><surname>Li</surname><given-names>J. J.</given-names></name> &amp; <name><surname>An</surname><given-names>C. H.</given-names></name>
+<article-title>Elevated VEGF levels contribute to the pathogenesis of osteoarthritis</article-title>. <source>BMC Musculoskelet Disord</source>
+<volume>15</volume>, <fpage>437</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25515407</pub-id></mixed-citation>
+      </ref>
+      <ref id="b10">
+        <mixed-citation publication-type="journal"><name><surname>Poonpet</surname><given-names>T.</given-names></name> &amp; <name><surname>Honsawek</surname><given-names>S.</given-names></name>
+<article-title>Adipokines: Biomarkers for osteoarthritis?</article-title>
+<source>World J Orthop</source>
+<volume>5</volume>, <fpage>319</fpage>&#x2013;<lpage>327</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25035835</pub-id></mixed-citation>
+      </ref>
+      <ref id="b11">
+        <mixed-citation publication-type="journal"><name><surname>Stephens</surname><given-names>F. B.</given-names></name>
+<italic>et al.</italic>
+<article-title>Fish oil omega-3 fatty acids partially prevent lipid-induced insulin resistance in human skeletal muscle without limiting acylcarnitine accumulation</article-title>. <source>Clin Sci (Lond)</source>
+<volume>127</volume>, <fpage>315</fpage>&#x2013;<lpage>322</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24611892</pub-id></mixed-citation>
+      </ref>
+      <ref id="b12">
+        <mixed-citation publication-type="journal"><name><surname>Subramanian</surname><given-names>S.</given-names></name> &amp; <name><surname>Chait</surname><given-names>A.</given-names></name>
+<article-title>The effect of dietary cholesterol on macrophage accumulation in adipose tissue: implications for systemic inflammation and atherosclerosis</article-title>. <source>Curr Opin Lipidol</source>
+<volume>20</volume>, <fpage>39</fpage>&#x2013;<lpage>44</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19133410</pub-id></mixed-citation>
+      </ref>
+      <ref id="b13">
+        <mixed-citation publication-type="journal"><name><surname>Yang</surname><given-names>Z.</given-names></name>, <name><surname>Kahn</surname><given-names>B. B.</given-names></name>, <name><surname>Shi</surname><given-names>H.</given-names></name> &amp; <name><surname>Xue</surname><given-names>B. Z.</given-names></name>
+<article-title>Macrophage alpha1 AMP-activated protein kinase (alpha1AMPK) antagonizes fatty acid-induced inflammation through SIRT1</article-title>. <source>J Biol Chem</source>
+<volume>285</volume>, <fpage>19051</fpage>&#x2013;<lpage>19059</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20421294</pub-id></mixed-citation>
+      </ref>
+      <ref id="b14">
+        <mixed-citation publication-type="journal"><name><surname>Lee</surname><given-names>Y. S.</given-names></name>
+<italic>et al.</italic>
+<article-title>Increased adipocyte O2 consumption triggers HIF-1alpha, causing inflammation and insulin resistance in obesity</article-title>. <source>Cell</source>
+<volume>157</volume>, <fpage>1339</fpage>&#x2013;<lpage>1352</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24906151</pub-id></mixed-citation>
+      </ref>
+      <ref id="b15">
+        <mixed-citation publication-type="journal"><name><surname>Pelosi</surname><given-names>M.</given-names></name>, <name><surname>Lazzarano</surname><given-names>S.</given-names></name>, <name><surname>Thoms</surname><given-names>B. L.</given-names></name> &amp; <name><surname>Murphy</surname><given-names>C. L.</given-names></name>
+<article-title>Parathyroid hormone-related protein is induced by hypoxia and promotes expression of the differentiated phenotype of human articular chondrocytes</article-title>. <source>Clin Sci (Lond)</source>
+<volume>125</volume>, <fpage>461</fpage>&#x2013;<lpage>470</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23662774</pub-id></mixed-citation>
+      </ref>
+      <ref id="b16">
+        <mixed-citation publication-type="journal"><name><surname>Keith</surname><given-names>B.</given-names></name>, <name><surname>Johnson</surname><given-names>R. S.</given-names></name> &amp; <name><surname>Simon</surname><given-names>M. C.</given-names></name>
+<article-title>HIF1alpha and HIF2alpha: sibling rivalry in hypoxic tumour growth and progression</article-title>. <source>Nat Rev Cancer</source>
+<volume>12</volume>, <fpage>9</fpage>&#x2013;<lpage>22</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22169972</pub-id></mixed-citation>
+      </ref>
+      <ref id="b17">
+        <mixed-citation publication-type="journal"><name><surname>Halberg</surname><given-names>N.</given-names></name>
+<italic>et al.</italic>
+<article-title>Hypoxia-inducible factor 1alpha induces fibrosis and insulin resistance in white adipose tissue</article-title>. <source>Mol Cell Biol</source>
+<volume>29</volume>, <fpage>4467</fpage>&#x2013;<lpage>4483</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19546236</pub-id></mixed-citation>
+      </ref>
+      <ref id="b18">
+        <mixed-citation publication-type="journal"><name><surname>Cho</surname><given-names>K. W.</given-names></name>
+<italic>et al.</italic>
+<article-title>An MHC II-dependent activation loop between adipose tissue macrophages and CD4+T cells controls obesity-induced inflammation</article-title>. <source>Cell Rep</source>
+<volume>9</volume>, <fpage>605</fpage>&#x2013;<lpage>617</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25310975</pub-id></mixed-citation>
+      </ref>
+      <ref id="b19">
+        <mixed-citation publication-type="journal"><name><surname>Kihira</surname><given-names>Y.</given-names></name>
+<italic>et al.</italic>
+<article-title>Deletion of hypoxia-inducible factor-1alpha in adipocytes enhances glucagon-like peptide-1 secretion and reduces adipose tissue inflammation</article-title>. <source>PLoS One</source>
+<volume>9</volume>, <fpage>e93856</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24705496</pub-id></mixed-citation>
+      </ref>
+      <ref id="b20">
+        <mixed-citation publication-type="journal"><name><surname>Jung</surname><given-names>J. E.</given-names></name>
+<italic>et al.</italic>
+<article-title>STAT3 is a potential modulator of HIF-1-mediated VEGF expression in human renal carcinoma cells</article-title>. <source>FASEB J</source>
+<volume>19</volume>, <fpage>1296</fpage>&#x2013;<lpage>1298</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">15919761</pub-id></mixed-citation>
+      </ref>
+      <ref id="b21">
+        <mixed-citation publication-type="journal"><name><surname>Lee</surname><given-names>J. Y.</given-names></name>, <name><surname>Sohn</surname><given-names>K. H.</given-names></name>, <name><surname>Rhee</surname><given-names>S. H.</given-names></name> &amp; <name><surname>Hwang</surname><given-names>D.</given-names></name>
+<article-title>Saturated fatty acids, but not unsaturated fatty acids, induce the expression of cyclooxygenase-2 mediated through Toll-like receptor 4</article-title>. <source>J Biol Chem</source>
+<volume>276</volume>, <fpage>16683</fpage>&#x2013;<lpage>16689</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11278967</pub-id></mixed-citation>
+      </ref>
+      <ref id="b22">
+        <mixed-citation publication-type="journal"><name><surname>Silverwood</surname><given-names>V.</given-names></name>
+<italic>et al.</italic>
+<article-title>Current evidence on risk factors for knee osteoarthritis in older adults: a systematic review and meta-analysis</article-title>. <source>Osteoarthritis Cartilage</source>
+<volume>23</volume>, <fpage>507</fpage>&#x2013;<lpage>515</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25447976</pub-id></mixed-citation>
+      </ref>
+      <ref id="b23">
+        <mixed-citation publication-type="journal"><name><surname>Austermann</surname><given-names>J.</given-names></name>
+<italic>et al.</italic>
+<article-title>Alarmins MRP8 and MRP14 induce stress tolerance in phagocytes under sterile inflammatory conditions</article-title>. <source>Cell Rep</source>
+<volume>9</volume>, <fpage>2112</fpage>&#x2013;<lpage>2123</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25497086</pub-id></mixed-citation>
+      </ref>
+      <ref id="b24">
+        <mixed-citation publication-type="journal"><name><surname>Yamamoto</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Essential role for TIRAP in activation of the signalling cascade shared by TLR2 and TLR4</article-title>. <source>Nature</source>
+<volume>420</volume>, <fpage>324</fpage>&#x2013;<lpage>329</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12447441</pub-id></mixed-citation>
+      </ref>
+      <ref id="b25">
+        <mixed-citation publication-type="journal"><name><surname>Ji</surname><given-names>Y.</given-names></name>
+<italic>et al.</italic>
+<article-title>Diet-induced alterations in gut microflora contribute to lethal pulmonary damage in TLR2/TLR4-deficient mice</article-title>. <source>Cell Rep</source>
+<volume>8</volume>, <fpage>137</fpage>&#x2013;<lpage>149</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24953658</pub-id></mixed-citation>
+      </ref>
+      <ref id="b26">
+        <mixed-citation publication-type="journal"><name><surname>Fan</surname><given-names>W.</given-names></name>
+<italic>et al.</italic>
+<article-title>FoxO1 regulates Tlr4 inflammatory pathway signalling in macrophages</article-title>. <source>EMBO J</source>
+<volume>29</volume>, <fpage>4223</fpage>&#x2013;<lpage>4236</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">21045807</pub-id></mixed-citation>
+      </ref>
+      <ref id="b27">
+        <mixed-citation publication-type="journal"><name><surname>Hegarty</surname><given-names>B. D.</given-names></name>, <name><surname>Cooney</surname><given-names>G. J.</given-names></name>, <name><surname>Kraegen</surname><given-names>E. W.</given-names></name> &amp; <name><surname>Furler</surname><given-names>S. M.</given-names></name>
+<article-title>Increased efficiency of fatty acid uptake contributes to lipid accumulation in skeletal muscle of high fat-fed insulin-resistant rats</article-title>. <source>Diabetes</source>
+<volume>51</volume>, <fpage>1477</fpage>&#x2013;<lpage>1484</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">11978645</pub-id></mixed-citation>
+      </ref>
+      <ref id="b28">
+        <mixed-citation publication-type="journal"><name><surname>Wallin</surname><given-names>T.</given-names></name>
+<italic>et al.</italic>
+<article-title>Facilitation of fatty acid uptake by CD36 in insulin-producing cells reduces fatty-acid-induced insulin secretion and glucose regulation of fatty acid oxidation</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1801</volume>, <fpage>191</fpage>&#x2013;<lpage>197</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">19931418</pub-id></mixed-citation>
+      </ref>
+      <ref id="b29">
+        <mixed-citation publication-type="journal"><name><surname>Renaud</surname><given-names>G.</given-names></name>, <name><surname>Foliot</surname><given-names>A.</given-names></name> &amp; <name><surname>Infante</surname><given-names>R.</given-names></name>
+<article-title>Increased uptake of fatty acids by the isolated rat liver after raising the fatty acid binding protein concentration with clofibrate</article-title>. <source>Biochem Biophys Res Commun</source>
+<volume>80</volume>, <fpage>327</fpage>&#x2013;<lpage>334</lpage> (<year>1978</year>).<pub-id pub-id-type="pmid">623666</pub-id></mixed-citation>
+      </ref>
+      <ref id="b30">
+        <mixed-citation publication-type="journal"><name><surname>Colegio</surname><given-names>O. R.</given-names></name>
+<italic>et al.</italic>
+<article-title>Functional polarization of tumour-associated macrophages by tumour-derived lactic acid</article-title>. <source>Nature</source>
+<volume>513</volume>, <fpage>559</fpage>&#x2013;<lpage>563</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25043024</pub-id></mixed-citation>
+      </ref>
+      <ref id="b31">
+        <mixed-citation publication-type="journal"><name><surname>Peter</surname><given-names>K.</given-names></name>, <name><surname>Rehli</surname><given-names>M.</given-names></name>, <name><surname>Singer</surname><given-names>K.</given-names></name>, <name><surname>Renner-Sattler</surname><given-names>K.</given-names></name> &amp; <name><surname>Kreutz</surname><given-names>M.</given-names></name>
+<article-title>Lactic acid delays the inflammatory response of human monocytes</article-title>. <source>Biochem Biophys Res Commun</source>
+<volume>457</volume>, <fpage>412</fpage>&#x2013;<lpage>418</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25582773</pub-id></mixed-citation>
+      </ref>
+      <ref id="b32">
+        <mixed-citation publication-type="journal"><name><surname>Ostroukhova</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>The role of low-level lactate production in airway inflammation in asthma</article-title>. <source>Am J Physiol Lung Cell Mol Physiol</source>
+<volume>302</volume>, <fpage>L300</fpage>&#x2013;<lpage>L307</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22080752</pub-id></mixed-citation>
+      </ref>
+      <ref id="b33">
+        <mixed-citation publication-type="journal"><name><surname>Finn</surname><given-names>A.</given-names></name> &amp; <name><surname>Oerther</surname><given-names>S. C.</given-names></name>
+<article-title>Can L(+)-lactate be used as a marker of experimentally induced inflammation in rats?</article-title>
+<source>Inflamm Res</source>
+<volume>59</volume>, <fpage>315</fpage>&#x2013;<lpage>321</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">19862479</pub-id></mixed-citation>
+      </ref>
+      <ref id="b34">
+        <mixed-citation publication-type="journal"><name><surname>Branco-Price</surname><given-names>C.</given-names></name>
+<italic>et al.</italic>
+<article-title>Endothelial cell HIF-1alpha and HIF-2alpha differentially regulate metastatic success</article-title>. <source>Cancer Cell</source>
+<volume>21</volume>, <fpage>52</fpage>&#x2013;<lpage>65</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22264788</pub-id></mixed-citation>
+      </ref>
+      <ref id="b35">
+        <mixed-citation publication-type="journal"><name><surname>Takeda</surname><given-names>N.</given-names></name>
+<italic>et al.</italic>
+<article-title>Differential activation and antagonistic function of HIF-{alpha} isoforms in macrophages are essential for NO homeostasis</article-title>. <source>Genes Dev</source>
+<volume>24</volume>, <fpage>491</fpage>&#x2013;<lpage>501</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20194441</pub-id></mixed-citation>
+      </ref>
+      <ref id="b36">
+        <mixed-citation publication-type="journal"><name><surname>Jiang</surname><given-names>C.</given-names></name>
+<italic>et al.</italic>
+<article-title>Disruption of hypoxia-inducible factor 1 in adipocytes improves insulin sensitivity and decreases adiposity in high-fat diet-fed mice</article-title>. <source>Diabetes</source>
+<volume>60</volume>, <fpage>2484</fpage>&#x2013;<lpage>2495</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21873554</pub-id></mixed-citation>
+      </ref>
+      <ref id="b37">
+        <mixed-citation publication-type="journal"><name><surname>Wen</surname><given-names>Y.</given-names></name>
+<italic>et al.</italic>
+<article-title>UDP-glucose dehydrogenase modulates proteoglycan synthesis in articular chondrocytes: its possible involvement and regulation in osteoarthritis</article-title>. <source>Arthritis Res Ther</source>
+<volume>16</volume>, <fpage>484</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25465897</pub-id></mixed-citation>
+      </ref>
+      <ref id="b38">
+        <mixed-citation publication-type="journal"><name><surname>Miao</surname><given-names>H.</given-names></name>, <name><surname>Zhang</surname><given-names>Y.</given-names></name>, <name><surname>Lu</surname><given-names>Z.</given-names></name>, <name><surname>Yu</surname><given-names>L.</given-names></name> &amp; <name><surname>Gan</surname><given-names>L.</given-names></name>
+<article-title>FOXO1 increases CCL20 to promote NF-kappaB-dependent lymphocyte chemotaxis</article-title>. <source>Mol Endocrinol</source>
+<volume>26</volume>, <fpage>423</fpage>&#x2013;<lpage>437</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22240809</pub-id></mixed-citation>
+      </ref>
+      <ref id="b39">
+        <mixed-citation publication-type="journal"><name><surname>Safran</surname><given-names>M.</given-names></name>
+<italic>et al.</italic>
+<article-title>Mouse model for noninvasive imaging of HIF prolyl hydroxylase activity: assessment of an oral agent that stimulates erythropoietin production</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>103</volume>, <fpage>105</fpage>&#x2013;<lpage>110</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16373502</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><bold>Author Contributions</bold> H.M. and L.C. conducted the experiments, analyzed the data, and wrote the manuscript. H.M. and H.L. designed experiments and discussed the data. H.M., L.C., L.H., X.Z., Y.C. and Z.R. did additional experiment and revised the manuscript. H.L. is the guarantor of this work, had full access to all the data and takes full responsibility for the integrity of data.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <floats-group>
+    <fig id="f1">
+      <label>Figure 1</label>
+      <caption>
+        <title>Increased production of proinflammatory cytokines and VEGF in the plasma and chondrocytes in high fat diet (HFD)-feeding mice.</title>
+        <p>(<bold>a</bold>~<bold>d</bold>) levels of plasma IL-6 (<bold>a</bold>), TNF-&#x3B1; (<bold>b</bold>), IL-1&#x3B2; (<bold>c</bold>) and VEGF (<bold>d</bold>) in the C57BL/6 male mice fed with a normal diet (ND) or HFD for 8 weeks. (n&#x2009;=&#x2009;5, **P&#x2009;&lt;&#x2009;0.01). (<bold>e</bold>~<bold>h</bold>) Relativ<bold>e</bold> mRNA expression of IL-6 (<bold>e</bold>), TNF-&#x3B1; (<bold>f</bold>), IL-1&#x3B2; (<bold>g</bold>) and VEGF (<bold>h</bold>) in the c<bold>h</bold>ondrocytes isolated from the 8-week ND or HFD-feeding mice. (n&#x2009;=&#x2009;5, **P&#x2009;&lt;&#x2009;0.01).</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f1"/>
+    </fig>
+    <fig id="f2">
+      <label>Figure 2</label>
+      <caption>
+        <title>HFD-induced plasma saturated free fatty acid (FFA) and lactate trigger production of proinflammatory cytokines and VEGF in mouse chondrocytes.</title>
+        <p>(<bold>a</bold>~<bold>d</bold>) Relative mRNA levels of IL-6 (<bold>a</bold>), TNF-&#x3B1; (<bold>b</bold>), IL-1&#x3B2; (<bold>c</bold>) and VEGF (<bold>d</bold>) in the mouse primary chondrocytes treated with full or fractionated (&gt;3&#x2009;KD or &lt;3&#x2009;KD) serum from the 8-week ND or HFD-feeding mice. (n&#x2009;=&#x2009;3, *P&#x2009;&lt;&#x2009;0.05, **P&#x2009;&lt;&#x2009;0.01 and ***P&#x2009;&lt;&#x2009;0.005). (<bold>e</bold>~<bold>h</bold>) Relative mRNA levels of IL-6 (<bold>e</bold>), TNF-&#x3B1; (<bold>f</bold>), IL-1&#x3B2; (<bold>g</bold>) and VEGF (<bold>h</bold>) in the mouse primary chondrocytes treated with BSA (5%) or BSA-linked FFA (18:0, 200&#x2009;&#x3BC;M) for 24&#x2009;h. (n&#x2009;=&#x2009;3, *P&#x2009;&lt;&#x2009;0.05 and **P&#x2009;&lt;&#x2009;0.01). (<bold>i</bold>~<bold>l</bold>) Relative mRNA expression of IL-6 (<bold>i</bold>), TNF-&#x3B1; (<bold>j</bold>), IL-1&#x3B2; (<bold>k</bold>) and VEGF (<bold>l</bold>) in the mouse primary chondrocytes treated with lactate (25&#x2009;mM) or vehicle control for 24&#x2009;h. (n&#x2009;=&#x2009;3, *P&#x2009;&lt;&#x2009;0.05 and **P&#x2009;&lt;&#x2009;0.01).</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f2"/>
+    </fig>
+    <fig id="f3">
+      <label>Figure 3</label>
+      <caption>
+        <title>FFA and lactate potentiate HIF1&#x3B1; protein activity in mouse chondrocytes.</title>
+        <p>(<bold>a</bold>) Immunoblotting assay of HIF1&#x3B1; in mouse primary chondrocytes treated with normal oxygen (Normoxia, 20% O<sub>2</sub>), low oxygen (hypoxia, 0.1% O<sub>2</sub>), BSA (5%), FFA (200&#x2009;&#x3BC;M), lactate (25&#x2009;mM) and vehicle control for 24&#x2009;h. (<bold>b</bold>~<bold>d</bold>) Protein stability of HIF1&#x3B1; in response to the treatment with hypoxia. (<bold>b</bold>), 200&#x2009;&#x3BC;M FFA (<bold>c</bold>) and 25&#x2009;mM lactate (<bold>d</bold>) for 24&#x2009;h (n&#x2009;=&#x2009;4, **P&#x2009;&lt;&#x2009;0.01). (<bold>e</bold>) Protein stability of HIF1&#x3B1; in response to the treatment with full or fractionated (&gt;3&#x2009;KD or &lt;3&#x2009;KD) serum from the 8-week ND or HFD-feeding mice. (n&#x2009;=&#x2009;3, **P&#x2009;&lt;&#x2009;0.01). (<bold>f</bold>~<bold>h</bold>) Transcriptional activity of VEGF promoter in response to the treatment with hypoxia (f), 200&#x2009;&#x3BC;M FFA (<bold>g</bold>) and 25&#x2009;mM lactate (<bold>h</bold>) for 24&#x2009;h (n&#x2009;=&#x2009;3, *P&#x2009;&lt;&#x2009;0.05 and **P&#x2009;&lt;&#x2009;0.01). (<bold>i</bold>) Transcriptional activity of VEGF promoter in response to the treatment with full or fractionated (&gt;3&#x2009;KD or &lt;3&#x2009;KD) serum from the 8-week ND or HFD-feeding mice. (n&#x2009;=&#x2009;3, **P&#x2009;&lt;&#x2009;0.01). Relative luc. activity: relative luciferase activity.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f3"/>
+    </fig>
+    <fig id="f4">
+      <label>Figure 4</label>
+      <caption>
+        <title>FFA and lactate enhance production of proinflammatory cytokines and VEGF via HIF1&#x3B1; in mouse chondrocytes.</title>
+        <p>(<bold>a</bold>) Immunoblotting assay of HIF1&#x3B1; in primary chondrocytes transfected with a scramble siRNA (siNC, 20&#x2009;nM), a mouse HIF1&#x3B1; specific siRNA1 (siH-1, 20&#x2009;nM) or siRNA2 (siH-2, 20&#x2009;nM) for 36&#x2009;h. (<bold>b</bold>~<bold>e</bold>) Relative mRNA levels of IL-6 (<bold>b</bold>), TNF-&#x3B1; (c), IL-1&#x3B2; (<bold>d</bold>) and VEGF (<bold>e</bold>) in the mouse primary chondrocytes transfected with siNC (20&#x2009;nM), siH-1 (20&#x2009;nM) or siH-2 (20&#x2009;nM)for 12&#x2009;h plus additional treatment with BSA (5%) or FFA (200&#x2009;&#x3BC;M) for 24&#x2009;h. Values not sharing a common superscript letter differ significantly. (n&#x2009;=&#x2009;3, P&#x2009;&lt;&#x2009;0.05). (<bold>f</bold>~<bold>i</bold>) Relative mRNA levels of IL-6 (<bold>f</bold>), TNF-&#x3B1; (<bold>g</bold>), IL-1&#x3B2; (<bold>h</bold>) and VEGF (<bold>i</bold>) in the mouse primary chondrocytes transfected with siNC (20&#x2009;nM), siH-1 (20&#x2009;nM) or siH-2 (20&#x2009;nM) for 12&#x2009;h plus additional treatment with lactate (25&#x2009;mM) or vehicle control for 24&#x2009;h. Values not sharing a common superscript letter differ significantly. (n&#x2009;=&#x2009;3, P&#x2009;&lt;&#x2009;0.05).</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f4"/>
+    </fig>
+    <fig id="f5">
+      <label>Figure 5</label>
+      <caption>
+        <title>FFA potentiates lactate production via activating LDH-a expression.</title>
+        <p>(<bold>a</bold>) Relative FFA levels in the supernatant of cultured mouse primary chondrocytes treated with lactate (25&#x2009;mM) or vehicle control. (<bold>b</bold>) Relative lactate levels in the supernatant of cultured mouse primary chondrocytes treated with FFA (200&#x2009;&#x3BC;M) or 5% BSA. (n&#x2009;=&#x2009;3, *P&#x2009;&lt;&#x2009;0.05). (<bold>c</bold>) Immunoblotting assay of LDH-a in mouse primary chondrocytes transfected with siNC (20&#x2009;nM) or LDH-a specific siRNA (siLDH-a, 20&#x2009;nM) for 12&#x2009;h plus additional treatment with BSA (5%) or FFA (200&#x2009;&#x3BC;M) for 24&#x2009;h. (<bold>d</bold>) Relative lactate level in the supernatant of cultured mouse primary chondrocytes treated as described in (<bold>c</bold>). (n&#x2009;=&#x2009;3). (<bold>e</bold>) Relative lactate level in the supernatant of cultured mouse primary chondrocytes treated with BSA (5%) or FFA (200&#x2009;&#x3BC;M) puls Oxamate (100&#x2009;nM) or vehicle control for 24&#x2009;h. Values not sharing a common superscript letter differ significantly. (n&#x2009;=&#x2009;3). (<bold>f</bold>) Relative plasma FFA levels in the mice with HFD for 0, 1, 7, 14, 28 or 56 days. (n&#x2009;=&#x2009;5). (<bold>g</bold>) Relative plasma lactate levels in the mice with HFD for 0, 1, 7, 14, 28 or 56 days. (n&#x2009;=&#x2009;5). (<bold>h</bold>) Relative plasma VEGF level in the mice with HFD for 0, 1, 7, 14, 28 or 56 days. (n&#x2009;=&#x2009;5). (<bold>i</bold>) Relative plasma lactate levels in the mice fed with HFD for 28 days plus Oxamate (500&#x2009;mg/kg.d) for one week. (n&#x2009;=&#x2009;5). From (<bold>d</bold>) to (<bold>i</bold>), values not sharing a common superscript letter differ significantly (P&#x2009;&lt;&#x2009;0.05).</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f5"/>
+    </fig>
+    <fig id="f6">
+      <label>Figure 6</label>
+      <caption>
+        <title>FFA triggers production of proinflammatory cytokine and VEGF partly through LDH-a/HIF1-&#x3B1; pathway.</title>
+        <p>(<bold>a</bold>~<bold>d</bold>) Primary mouse chondrocytes were transfected with siNC (20&#x2009;nM), siLDH-a (20&#x2009;nM) or Toll-like receptor 4 specific siRNA (siTLR4, 20&#x2009;nM) for 12&#x2009;h, treated with BSA (5%) or FFA (200&#x2009;&#x3BC;M) for 24&#x2009;h and then harvested for IL-6 (<bold>a</bold>), TNF-&#x3B1; (<bold>b</bold>), IL-1&#x3B2; (<bold>c</bold>), and VEGF (<bold>d</bold>) mRNA assay with Realtime PCR. (n&#x2009;=&#x2009;4). (<bold>e</bold>~<bold>h</bold>) Male C57BL/6 mice were fed with a ND or HFD for 8 weeks and treated with LDH-a inhibitor (Oxamate, 500&#x2009;mg/kg.d), HIF1&#x3B1; inhibitor (KG-548, 1&#x2009;mg/kg.d), TLR4 inhibitor (TLR4-I, 1&#x2009;mg/kg.d) or Oxamate (500&#x2009;mg/kg.d) plus TLR4-I (1&#x2009;mg/kg.d) for 2 weeks. Then, the cartilage of knee was isolated and subjected for IL-6 (<bold>e</bold>), TNF-&#x3B1; (<bold>f</bold>), IL-1&#x3B2; (<bold>g</bold>), and VEGF (<bold>h</bold>) mRNA assay with Realtime PCR. (n&#x2009;=&#x2009;5). From (<bold>a</bold>) to (<bold>h</bold>), values not sharing a common superscript letter differ significantly (P&#x2009;&lt;&#x2009;0.05).</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f6"/>
+    </fig>
+    <fig id="f7">
+      <label>Figure 7</label>
+      <caption>
+        <title>Correlation of plasma lactate, cartilage HIF1&#x3B1; and cytokine levels with the body mass index (BMI) in patients with osteoarthritis.</title>
+        <p>(<bold>a</bold>) Correlation of plasma lactate levels with the BMI in human subjects (n&#x2009;=&#x2009;10). Pearson&#x2019;s correlations: R&#x2009;=&#x2009;0.65, and P&#x2009;&lt;&#x2009;0.05. (<bold>b</bold>) Correlation of HIF1&#x3B1; protein levels in the cartilages with the BMI in human subjects (n&#x2009;=&#x2009;10). Pearson&#x2019;s correlations: R&#x2009;=&#x2009;0.80, and P&#x2009;&lt;&#x2009;0.05. (<bold>c</bold>) Correlation of IL-6 mRNA levels in the cartilages with the BMI in human subjects (n&#x2009;=&#x2009;10). Pearson&#x2019;s correlations: R&#x2009;=&#x2009;0.78, and P&#x2009;&lt;&#x2009;0.05. (<bold>d</bold>) Correlation of TNF-&#x3B1; mRNA levels in the cartilages with the BMI in human subjects (n&#x2009;=&#x2009;10). Pearson&#x2019;s correlations: R&#x2009;=&#x2009;0.88, and P&#x2009;&lt;&#x2009;0.05. (<bold>e</bold>) Correlation of IL-1&#x3B2; mRNA levels in the cartilages with the BMI in human subjects (n&#x2009;=&#x2009;10). Pearson&#x2019;s correlations: R&#x2009;=&#x2009;0.87, and P&#x2009;&lt;&#x2009;0.05. (<bold>f</bold>) Correlation of VEGF mRNA levels in the cartilages with the BMI in human subjects (n&#x2009;=&#x2009;10). Pearson&#x2019;s correlations: R&#x2009;=&#x2009;0.67, and P&#x2009;&lt;&#x2009;0.05.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f7"/>
+    </fig>
+    <fig id="f8">
+      <label>Figure 8</label>
+      <caption>
+        <title>Proposed models for FFA/lactate-mediated HIF1&#x3B1;-cytokine axis in obesity-related osteoarthritis.</title>
+        <p>Briefly, circulatory levels of saturate FFA are increased in diet-induced obesity. Saturated FFA could stimulate proinflammatory cytokine production in chondrocytes directly through TLR4. Meanwhile, the elevated FFA stimulates LDH-a-dependent lactate production in chondrocytes and perhaps also in other cells. Consequently, the levels of circulatory lactate are also increased in response to HFD treatment. The increased lactate would stabilize and activate HIF-1&#x3B1; protein in chondrocytes to stimulate the production of VEGF and proinflammatory cytokines. In summary, saturated FFA could stimulate proinflammatory cytokine production in chondrocytes directly through TLR4 or LDHa-lactate-HIF1&#x3B1; pathway, which provides a potential molecular mechanism linking obesity to chronic inflammation in osteoarthritis.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep13092-f8"/>
+    </fig>
+  </floats-group>
+</article>
+</pmc-articleset>

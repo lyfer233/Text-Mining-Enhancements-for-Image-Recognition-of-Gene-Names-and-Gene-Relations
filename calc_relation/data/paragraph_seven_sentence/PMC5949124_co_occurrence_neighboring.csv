@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+GLI,GLI,10
+GLI,PTCH,4
+GLI,SMO,8
+PTCH,PTCH,4
+PTCH,SMO,4
+SMO,SMO,8

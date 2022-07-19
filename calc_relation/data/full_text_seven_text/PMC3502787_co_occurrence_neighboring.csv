@@ -1,0 +1,11 @@
+gene_name_1,gene_name_2,co_occurrence
+AKT,AKT,262
+AKT,P85,34
+AKT,TKIS,22
+AKT,TK,34
+P85,P85,56
+TKIS,TKIS,50
+TKIS,TK,50
+PI3K,PI3K,14
+PI3K,TK,4
+TK,TK,92

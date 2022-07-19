@@ -1,0 +1,2246 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Oncotarget</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Oncotarget</journal-id>
+      <journal-id journal-id-type="publisher-id">Oncotarget</journal-id>
+      <journal-id journal-id-type="publisher-id">ImpactJ</journal-id>
+      <journal-title-group>
+        <journal-title>Oncotarget</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1949-2553</issn>
+      <publisher>
+        <publisher-name>Impact Journals LLC</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">29416763</article-id>
+      <article-id pub-id-type="pmc">5788631</article-id>
+      <article-id pub-id-type="publisher-id">23299</article-id>
+      <article-id pub-id-type="doi">10.18632/oncotarget.23299</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Dysregulation of YAP by the Hippo pathway is involved in intervertebral disc degeneration, cell contact inhibition, and cell senescence</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Cong</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Feng</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xie</surname>
+            <given-names>Zhiyang</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Lu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sinkemani</surname>
+            <given-names>Arjun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Haomin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Kun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mao</surname>
+            <given-names>Lu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Xiaotao</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><sup>1</sup> Department of Spine Surgery, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China</aff>
+      <author-notes>
+        <corresp id="cor1">
+          <bold>
+            <italic>Correspondence to:</italic>
+          </bold>
+          <italic>Xiaotao Wu,</italic>
+          <email>wuxiaotao@medmail.com.cn</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <day>5</day>
+        <month>1</month>
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>12</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>9</volume>
+      <issue>2</issue>
+      <fpage>2175</fpage>
+      <lpage>2192</lpage>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>4</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright: &#xA9; 2018 Zhang et al.</copyright-statement>
+        <copyright-year>2018</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</ext-link> (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The Hippo pathway plays important roles in wound healing, tissue repair and regeneration, and in the treatment of degenerative diseases, by regulating cell proliferation and apoptosis in mammals. Intervertebral disc degeneration (IDD) is one of the major causes of low back pain, a widespread issue associated with a heavy economic burden. However, the mechanism underlying how the Hippo pathway regulates IDD is not well understood. Here, we demonstrate that the Hippo pathway is involved in natural IDD. Activation and dephosphorylation of yes-associated protein (YAP) were observed in younger rat discs, and decreased gradually with age. Surprisingly, Hippo pathway suppression was accompanied by overexpression of YAP, caused by acute disc injury, suggesting a limited ability for self-repair in IDD. We also demonstrated that YAP is inhibited by cell-to-cell contact via the Hippo pathway <italic>in vitro</italic>. Phosphorylation by large tumor suppressor kinases 1/2 (LATS1/2) led to cytoplasmic translocation and inactivation of YAP. YAP dephosphorylation was mainly localized in the nucleus and regulated by the Hippo pathway, whereas YAP dephosphorylation occurred in the cytoplasm and was associated with nucleus pulposus cell (NPC) senescence. Moreover, NPCs were transfected with shYAP and it accelerates the premature senescence of cells by interfered Hippo pathway through YAP. Therefore, our results indicate that the Hippo pathway plays an important role in maintaining the homeostasis of intervertebral discs and controlling NPC proliferation.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Hippo pathway</kwd>
+        <kwd>YAP</kwd>
+        <kwd>LATS</kwd>
+        <kwd>intervertebral disc degeneration</kwd>
+        <kwd>nucleus pulposus</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>INTRODUCTION</title>
+      <p>Degeneration and injury of intervertebral discs result in alterations in mechanical and biological behaviors [<xref rid="R1" ref-type="bibr">1</xref>]. Intervertebral disc degeneration (IDD) induces neck and low back pain and is one of the most common causes of morbidity. It affects 70&#x2013;85% of all individuals at some point in their lives and has enormous socioeconomic implications [<xref rid="R2" ref-type="bibr">2</xref>]. Treatment options for IDD include: 1) conservative methods using non-steroidal anti-inflammatory drugs (NSAIDs), physical therapy, rest, and lumbar muscle functional exercises; 2) surgical approaches consisting of disc arthroplasty, spinal fusion, and disc replacement; and 3) biomedical engineering techniques to attempt to retard the IDD process, including cell-based therapy, gene transfer, protein injection, and biomaterial implantation [<xref rid="R3" ref-type="bibr">3</xref>, <xref rid="R4" ref-type="bibr">4</xref>]. These therapeutic options have proven to be increasingly effective in recent years.</p>
+      <p>The etiology of IDD is complex, and mechanical, inflammatory, and structural causes can lead to increased nociception [<xref rid="R5" ref-type="bibr">5</xref>, <xref rid="R6" ref-type="bibr">6</xref>]. Therefore, future studies aimed at understanding the mechanisms underlying IDD and developing novel therapies are highly warranted.</p>
+      <p>Yes-associated protein (YAP) is a transcriptional coactivator and negative regulator of the Hippo tumor suppressor pathway. The Hippo pathway is an evolutionarily conserved pathway that regulates diverse cellular processes, such as cell proliferation, differentiation, apoptosis, and tissue size [<xref rid="R7" ref-type="bibr">7</xref>]. It has been shown to be involved in the regeneration of several organs, including the heart, liver, nervous system, and intestines, following tissue damage. [<xref rid="R8" ref-type="bibr">8</xref>&#x2013;<xref rid="R11" ref-type="bibr">11</xref>] In mammals, the Hippo pathway consists of mammalian sterile 20 like kinases 1/2 (MST1/2) and large tumor suppressor kinases 1/2 (LATS1/2) [<xref rid="R12" ref-type="bibr">12</xref>]. Activation of the Hippo pathway results in inactivation of YAP via phosphorylation of ser127 by LATS1/2 [<xref rid="R13" ref-type="bibr">13</xref>]. Phosphorylated YAP subsequently translocates and is sequestered to the cytoplasm from the nucleus, via binding to 14-3-3, and is then degraded. In contrast, the Hippo pathway does not trigger YAP phosphorylation, resulting in nuclear accumulation of YAP that drives growth promoting transcription genes, such as connective tissue growth factor (CTGF) and cysteine-rich angiogenic inducer 61 (Cyr61) through the TEA domain (TEAD) transcription factor family.</p>
+      <p>In this study, we describe the role of the Hippo pathway in regulating IDD in rat tail discs. We hypothesized that the Hippo pathway is involved in the regulation of IDD, the underlying mechanism is related to age and IDD injuries, and the viability and biological features of nucleus pulposus cells (NPCs) are affected differently by the Hippo pathway depending on the cell microenvironment and cell-to-cell contact. A rat disc degeneration model was used, in which rat tail discs were punctured, to characterize degeneration traits and reveal the role of the Hippo pathway compared with natural disc degeneration. Because Hippo signaling was suppressed at 4 weeks after puncture, the observation time was prolonged to 12 weeks postoperatively. Moreover, changes in YAP and YAP phosphorylation were studied to elucidate the regulatory mechanism underlying activation of the Hippo pathway in NPCs.</p>
+    </sec>
+    <sec id="s2">
+      <title>RESULTS</title>
+      <sec id="s2_1">
+        <title>DHI decreased and Pfirrmann grades increased in puncture groups</title>
+        <p>Changes in DHI in the natural IDD groups are shown in Figure <xref ref-type="fig" rid="F1">1A</xref> and <xref ref-type="fig" rid="F1">1B</xref>. The values for the coccygeal 5-6, 6-7, 7-8, and 8-9 discs were averaged for analysis because they had similar features. We observe statistically significant differences in DHI among the natural IDD groups. The IDD values at 14w and 50w were lower than those at 4w, indicating that discs continuously and slowly degenerate with age. Indeed, older discs displayed more serious IDD. Annulus injury induced by needle puncture resulted in significantly decreased disc height, to below that of the non-puncture groups. However, there was no significant decrease in %DHI between the P4w and P12w groups (Figure <xref ref-type="fig" rid="F4">4A&#x2013;4C</xref>, <xref rid="SD1" ref-type="supplementary-material">Supplementary Figure 1A</xref>). These findings demonstrate that a 21 G needle puncture may cause more damage to discs, and that IDD reached a maximum value at 4 weeks after puncture.</p>
+        <fig id="F1" orientation="portrait" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <title>Intervertebral disc degeneration (IDD) occurred gradually in the natural groups</title>
+            <p><bold>(A)</bold> X-ray assessment of IDD. <bold>(B)</bold> Calculation of disc height index (DHI) from digital radiographs, as described by Han et al. <bold>(C)</bold> IDD imaging was performed using a T2-weighted sagittal magnetic resonance imaging (MRI) system. <bold>(D)</bold> Pfirrmann grades were assigned on the basis of the MRI signals within the nucleus pulposus, endplate changes, and signs of internal disc derangement or tearing (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g001"/>
+        </fig>
+        <fig id="F2" orientation="portrait" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <title>Histological changes in the natural groups and the acute disc injury group, including a magnified view (black arrows: vacuolated notochordal cells)</title>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g002"/>
+        </fig>
+        <fig id="F3" orientation="portrait" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <title>IDD occurred gradually in the natural groups and incomplete compensation of self-repair in acute injury induced IDD</title>
+            <p><bold>(A)</bold> Quantitative polymerase chain reaction (qPCR) comparing the relative expression of LATS1, LATS2, yes-associated protein (YAP), and connective tissue growth factor (CTGF) in the 4w, 14w, P4w, and 50w groups. <bold>(B&#x2013;E)</bold> Western blot analysis of Hippo pathway-related proteins using anti-LATS1, anti-LATS2, and anti-YAP (B) and anti-CTGF (D) antibodies. Histogram showing average relative protein levels normalized to glyceraldehyde 3-phosphate dehydrogenase (GAPDH) (C and E) (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g003"/>
+        </fig>
+        <fig id="F4" orientation="portrait" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <title>There were no significant differences between the P4w and P12w group on X-ray or MRI examination</title>
+            <p><bold>(A)</bold> X-ray assessment of IDD in the 22w and P12w groups. (<bold>B</bold> and <bold>C</bold>) Calculation of DHI in the 22w and P12w groups (B) and percentage DHI in the P4w and P12w groups (C) from digital radiographs. <bold>(D)</bold> IDD imaging was performed using a T2-weighted sagittal MRI system. (<bold>E</bold> and <bold>F</bold>) Pfirrmann grades were assigned on the basis of MRI signals. <bold>(G)</bold> Histological changes in the 22w group and the chronic disc injury group (P12w), including a magnified view. <bold>(H)</bold> qPCR comparing the relative expression of YAP and CTGF in the 14w, P4w, 22w, and P12w groups. (<bold>I</bold> and <bold>J</bold>) Western blot analysis of Hippo pathway-related proteins in the 14w, P4w, 22w, and P12w groups using anti-YAP, anti-p-YAP, and anti-CTGF antibodies (I). Histogram showing average relative protein levels normalized to GAPDH (J) (black arrows: vacuolated notochordal cells) (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g004"/>
+        </fig>
+        <p>MRI of natural group tail discs showed normal signals, and the gray scales and Pfirrmann grades increased gradually over time (Figure <xref ref-type="fig" rid="F1">1C</xref> and <xref ref-type="fig" rid="F1">1D</xref>). The degenerative disc results of the P4w and P12w groups were similar, showing only dark areas and Pfirrmann grades of 4&#x2013;5 (Figure <xref ref-type="fig" rid="F4">4D&#x2013;4F</xref>, <xref rid="SD1" ref-type="supplementary-material">Supplementary Figure 1B</xref>). Although significant differences among the natural IDD groups were found, no differences were observed between the 14w and 22w groups, suggesting that the process of IDD is relatively stable in adult rats.</p>
+      </sec>
+      <sec id="s2_2">
+        <title>Histological changes in IDD and incomplete compensation of self-repair in acute IDD injury</title>
+        <p>To identify IDD patterns, H&amp;E staining was performed to examine the morphology of the NP and annulus fibrosus (AF) (Figure <xref ref-type="fig" rid="F2">2</xref> and Figure <xref ref-type="fig" rid="F4">4G</xref>). Compared with the other groups, the 4w group contained more vacuolated notochordal cells and less small chondrocyte-like cells with even cellular distribution. In the 50w group, the level of vacuolated notochordal cells decreased gradually over time, and NPC clusters and serpentine AF were found, indicating disc degeneration. Compared with the control group, significant disc morphological changes, including small NP areas and an increased number of chondrocyte-like cells, were observed after puncturing. Disrupted borders between AF, NP, and AF serpentine fibers were also found.</p>
+        <p>To investigate differences in Hippo signaling between the natural disc degeneration group and the puncture group, P4w rats were studied. Surprisingly, YAP was upregulated in all disc areas (NP, AF, and cartilaginous endplate (CE)), resulting in suppression of Hippo signaling (Figure <xref ref-type="fig" rid="F5">5</xref>). qPCR and western blot analysis of the NP confirmed these findings. Indeed, the expression of YAP increased, while the expression of phosphorylated (p)-YAP decreased (Figure <xref ref-type="fig" rid="F3">3A&#x2013;3C</xref>).</p>
+        <fig id="F5" orientation="portrait" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <title>YAP levels decreased in the NP and endplate with age, and Hippo signaling was activated in chronic disc injury-induced IDD</title>
+            <p><bold>(A)</bold> Immunohistochemical detection of YAP. The right panel shows a magnified view of different sites. <bold>(B&#x2013;E)</bold> Quantification of YAP levels in the outer annulus, (B) inner annulus, (C) NP, and (D) endplate.</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g005"/>
+        </fig>
+        <p>The expression of the genes of interest, YAP and CTGF, in NP tissue was analyzed with qPCR. Younger age was associated with increased expression of both YAP and CTFG proteins and genes. In the P4w group, the gene expression of YAP was consistent with that of CTGF. However, the expression of the CTGF gene was not consistent with the expression of the CTGF protein, considering the self-repair ability of intervertebral discs and incomplete compensation of self-repair (post-transcriptional regulation) (Figure <xref ref-type="fig" rid="F3">3D</xref> and <xref ref-type="fig" rid="F3">3E</xref>). To investigate how YAP expression was affected by injury time, the observation time was prolonged to 12 weeks post-puncture, with 22-week old rats selected as controls. In the P12w group, the expression of YAP in all intervertebral disc areas (NP, AF, and CE) was decreased. The gene and protein expression levels of CTGF and YAP were consistent, and both declined in the P12w group (Figure <xref ref-type="fig" rid="F4">4H</xref> and <xref ref-type="fig" rid="F4">4J</xref>).</p>
+      </sec>
+      <sec id="s2_3">
+        <title>Hippo pathway suppression in young discs and collagen type 2 levels decreased gradually in the non-puncture groups</title>
+        <p>To investigate the role of the Hippo pathway in IDD <italic>in vivo</italic>, the coccygeal 5-6, 6-7, 7-8, and 8-9 intervertebral discs of the natural IDD groups were removed and YAP immunohistochemical staining was performed. Additionally, NP tissue was extracted for qPCR and western blot analyses. Interestingly, the expression of YAP at various sites was different, including the outer AF, the inner AF, the NP, and the CE (Figure <xref ref-type="fig" rid="F5">5</xref>). The expression of YAP in the CE was consistent with that in the NP, and was gradually reduced with increasing age. As for YAP could regulate cell growth and maintain homeostasis, Hippo signaling was suppressed in rats at 4 weeks post-operatively but gradually increased with age, while YAP expression was consistent with natural IDD on MRI, H&amp;E staining, and collagen type 2 staining.</p>
+        <p>In the 4w group, YAP expression in the inner and outer annulus was low; however, it was increased in the 14w group, with higher expression intensity in the outer annulus. Three major mechanisms could account for this phenomenon. First, at 14 weeks, the disc may have started to degenerate because YAP levels in the NP were lower than in the 4w group. Second, with body growth, the vertebral body and intervertebral disc volume increased, rendering proliferation of the outer AF a good environment for enlarged NP. Third, proliferation of annulus can increase connectivity between the upper and lower vertebral bodies, thereby maintaining mechanical stability of the intervertebral discs. From the examination of NP tissue, YAP expression decreased with age, yet upstream LATS1 levels increased in young rats. LATS1 is regulated at the transcriptional level and is a direct target gene of YAP; LATS1 mRNA levels increase upon YAP activation [<xref rid="R14" ref-type="bibr">14</xref>, <xref rid="R15" ref-type="bibr">15</xref>]. Regulation of LATS1 constitutes a negative feedback loop to ensure that overactivation of YAP does not occur and maintain homeostasis of the Hippo signaling pathway. Inconsistent with the trend in YAP expression, the expression of p-YAP decreased gradually with time.</p>
+        <p>The NP is characterized by a low density of NPCs and a highly abundant extracellular matrix, which contains large amounts of collagen type 2 and proteoglycan [<xref rid="R16" ref-type="bibr">16</xref>]. Disc collagen type 2 was quantified using immunohistochemistry, and clear trends were observed in the natural degeneration and puncture groups (Figure <xref ref-type="fig" rid="F6">6</xref>). In the natural degeneration group, collagen type 2 levels decreased gradually with increasing age as same as H&amp;E staining, unlike in the study by Chen et al.[<xref rid="R17" ref-type="bibr">17</xref>], in which collagen type 2 levels increased at 2 weeks post-operatively and then gradually decreased. This difference may be due to differences in observation time after puncturing. In our study, collagen type 2 quantification was not consistent with X-ray and MRI results. Although %DHI and Pfirrmann grades peaked 4 weeks after puncture, collagen type 2 levels were significantly decreased in the P4w group and subsequently gradually decreased in the P12w group (Figure <xref ref-type="fig" rid="F6">6A</xref> and <xref ref-type="fig" rid="F6">6B</xref>). These data indicate that tail puncture using a 21 G needle can successfully induce IDD. In addition, the inconsistency of the staining and imaging results between the P4w and P12w groups may be due to imaging being a coarse examination, and thus not capable of detecting changes in the NP. Moreover, the water content loss rate in the NP is slower than internal chemical composition changes.</p>
+        <fig id="F6" orientation="portrait" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <title>Collagen type 2 levels decreased gradually in the non-puncture groups and significantly decreased in the punctured tail discs</title>
+            <p><bold>(A</bold> and <bold>B)</bold> Immunohistochemical detection of collagen type 2 (A) and quantification of collagen type 2 present in the NP (B) (black arrows: vacuolated notochordal cells) (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g006"/>
+        </fig>
+      </sec>
+      <sec id="s2_4">
+        <title>YAP responds to cell-cell contact</title>
+        <p>The Hippo pathway is also regulated by cell-to-cell contact [<xref rid="R18" ref-type="bibr">18</xref>]. Under cell contact conditions, the Hippo pathway is activated and YAP is inactivated to prevent overgrowth and proliferation. In our study, cell clusters and cellular areas of high density were found in 50-week NP tissue. To explore whether NPC density altered YAP distribution regulation, cells were plated at three densities (Figure <xref ref-type="fig" rid="F7">7A</xref>), and YAP status was examined. In low-density cultures, YAP was primarily localized in the nucleus to promote target gene transcription and cell growth. However, in high-density cultures, cells became smaller and were in contact with each other, and YAP was primarily sequestered in the cytoplasm and restrained responding to growth inhibition (Figure <xref ref-type="fig" rid="F7">7B&#x2013;7E</xref>).</p>
+        <fig id="F7" orientation="portrait" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <title>YAP localization and the Hippo pathway are regulated by nucleus pulposus cell (NPC) density</title>
+            <p><bold>(A)</bold> NPCs were cultured at different densities, ranging from sparse density to confluence. <bold>(B</bold> and <bold>C)</bold> YAP localization is affected by cell density. YAP was stained with anti-YAP antibody (B) and cells in five random views were quantified for YAP subcellular localization (C). <bold>(D</bold> and <bold>E)</bold> Western blot analysis of Hippo pathway-related proteins using anti-LATS1, anti-LATS2, and anti-YAP antibodies (D). Histogram showing average relative protein levels normalized to GAPDH (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g007"/>
+        </fig>
+      </sec>
+      <sec id="s2_5">
+        <title>Identification of senescent NPCs</title>
+        <p>According to our <italic>in vivo</italic> experiments, activation of Hippo signaling resulted in decreases in YAP and CTGF gene expression in the later stage of disc injury (12 weeks post-operatively), which led to the loss of the ability of discs to self-repair. To investigate whether Hippo signaling in senescent NPCs was consistent with that <italic>in vivo</italic>, we induced senescent NPCs and studied changes in Hippo signaling.</p>
+      </sec>
+      <sec id="s2_6">
+        <title>Changes in shape</title>
+        <p>When senescence is established, NPCs undergo widespread changes and develop specific characteristics. As shown in Figure <xref ref-type="fig" rid="F8">8A</xref>, NPCs and the nucleus increased in size, and cells lost their long spindle shape.</p>
+        <fig id="F8" orientation="portrait" position="float">
+          <label>Figure 8</label>
+          <caption>
+            <title>The cell proliferation potency of senescent NPCs was significantly decreased compared with that of non-senescent cells</title>
+            <p><bold>(A)</bold> Identification of senescent NPCs was done by morphological observation, measurement of SA-&#x3B2;-Gal activity, cell cycle analysis, and cholecystokinin (CCK)-8 assay. <bold>(B)</bold> Quantification of the percentage of positive SA-&#x3B2;-Gal-stained cells. <bold>(C)</bold> NPC proliferation in the P3 and P10 groups was analyzed using a CCK-8 assay (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g008"/>
+        </fig>
+      </sec>
+      <sec id="s2_7">
+        <title>Higher SA-&#x3B2;-Gal activity</title>
+        <p>SA-&#x3B2;-gal staining is another important characteristic of senescent cells. The mean positive percentage of SA-&#x3B2;-Gal staining was significantly elevated in the P10 group compared with the P3 group (Figure <xref ref-type="fig" rid="F8">8A</xref> and <xref ref-type="fig" rid="F8">8B</xref>).</p>
+      </sec>
+      <sec id="s2_8">
+        <title>Higher percentage of G1 phase</title>
+        <p>As G1 cell cycle arrest is a marker of senescent cells, we analyzed the cell cycle of NPCs. As shown in Figure <xref ref-type="fig" rid="F8">8A</xref>, P10 group cells were easier to arrest in the G1 phase than P3 group cells.</p>
+      </sec>
+      <sec id="s2_9">
+        <title>Lower proliferation of senescent NPCs</title>
+        <p>Senescent cells often have limited cell proliferation potency. As shown in Figure <xref ref-type="fig" rid="F8">8C</xref>, NPC proliferation in the P3 and P10 groups was analyzed using a CCK-8 assay. The cell proliferation potency of P10 cells was significantly decreased compared with that of P3 group cells.</p>
+      </sec>
+      <sec id="s2_10">
+        <title>Hippo pathway activation in senescent NPCs</title>
+        <p>In our study, Hippo signaling was strongly activated, resulting in increased YAP phosphorylation and decreased CTGF expression (Figure <xref ref-type="fig" rid="F9">9A&#x2013;9C</xref>). In the P3 group, the expression of YAP increased and YAP was mainly located in the nucleus. In contrast, the senescent P10 group showed significantly decreased YAP levels in the nucleus (Figure <xref ref-type="fig" rid="F9">9D&#x2013;9E</xref>). These findings suggest that NPC senescence is accompanied by activation of Hippo signaling, which inhibits cell proliferation and promotes apoptosis.</p>
+        <fig id="F9" orientation="portrait" position="float">
+          <label>Figure 9</label>
+          <caption>
+            <title>Hippo signaling activated and phosphorylated YAP, which translocated from the nucleus to the cytoplasm in senescent NPCs</title>
+            <p><bold>(A)</bold> The relative expression of YAP and CTGF in the P3 and P10 groups as quantified by qPCR. <bold>(B</bold> and <bold>C)</bold> Western blot analysis of Hippo pathway-related proteins using anti-YAP, anti-p-YAP, and anti-CTGF antibodies (B). Histogram showing average relative protein levels normalized to GAPDH (C). <bold>(D</bold> and <bold>E)</bold> Subcellular localization of YAP is affected by cellular status. YAP was identified with immunofluorescence staining using an anti-YAP antibody (D) and cells in five random views were quantified for YAP subcellular localization. <bold>(F</bold> and <bold>G)</bold> Subcellular localization of phosphorylated YAP is affected by cellular status. Phosphorylated YAP was identified with immunofluorescence staining using an anti-p-YAP antibody (F) and cells in five random views were quantified for phosphorylated YAP subcellular localization (G) (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g009"/>
+        </fig>
+        <p>Increases in p-YAP levels suggest inhibition of cell metabolism and proliferation. Compared with group P3 cells, cell senescence in the P10 group resulted in higher p-YAP expression levels. While p-YAP was mainly localized in the nucleus in the P3 group, p-YAP levels were increased in the nucleus, as well as in the cytoplasm in the P10 group, indicating that p-YAP translocated from the nucleus to the cytoplasm in senescent NPCs (Figure <xref ref-type="fig" rid="F9">9F</xref> and <xref ref-type="fig" rid="F9">9G</xref>).</p>
+      </sec>
+      <sec id="s2_11">
+        <title>Inhibition of YAP by lentivirus shYAP significantly induced senescence in NPCs</title>
+        <p>To further investigate the role of YAP regulating cell proliferation and viability in NPCs, cells were transfected with shYAP and sh-Control. The inhibitory effect of virus on YAP activation is shown in Figure <xref ref-type="fig" rid="F10">10</xref>. Compared with the P3 sh-Control group, the shYAP group markedly accelerates the premature senescence of NPCs by activating level of p53 and p21 which mediate cell replicative senescence (Figure <xref ref-type="fig" rid="F10">10A&#x2013;10C</xref>) [<xref rid="R19" ref-type="bibr">19</xref>, <xref rid="R20" ref-type="bibr">20</xref>], and this result was further confirmed by SA-&#x3B2;-gal staining and CCK-8 assay (Figure <xref ref-type="fig" rid="F11">11A&#x2013;11C</xref>). These results suggested that the senescence of NPCs induced by interfered Hippo pathway through YAP.</p>
+        <fig id="F10" orientation="portrait" position="float">
+          <label>Figure 10</label>
+          <caption>
+            <title>Inhibition of YAP by lentivirus shYAP significantly decreased YAP and target gene expression and induced senescence in NPCs</title>
+            <p><bold>(A)</bold> qPCR comparing the relative expression of YAP and CTGF in the P3 sh-Control, P3 shYAP, P10 sh-Control and P10 shYAP groups. <bold>(B</bold> and <bold>C)</bold> Western blot analysis of Hippo pathway and senescence related proteins in the P3 sh-Control, P3 shYAP, P10 sh-Control and P10 shYAP groups. groups using anti-YAP, anti-CTGF, anti-P53 and anti-P21 antibodies (B). Histogram showing average relative protein levels normalized to GAPDH (C) (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g010"/>
+        </fig>
+        <fig id="F11" orientation="portrait" position="float">
+          <label>Figure 11</label>
+          <caption>
+            <title>Inhibition of YAP by lentivirus shYAP significantly induced senescence in NPCs</title>
+            <p><bold>(A)</bold> Senescent NPCs was done by SA-&#x3B2;-Gal activity. <bold>(B)</bold> Quantification of the percentage of positive SA-&#x3B2;-Gal-stained cells. <bold>(C)</bold> NPC proliferation in the P3 sh-Control, P3 shYAP, P10 sh-Control and P10 shYAP groups was analyzed using a CCK-8 assay (<sup>*</sup>
+<italic>P</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="oncotarget-09-2175-g011"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>DISCUSSION</title>
+      <p>The Hippo pathway plays a vital role in maintaining tissue and cell homeostasis by regulating cell apoptosis, differentiation, and proliferation [<xref rid="R7" ref-type="bibr">7</xref>]. Dysregulation of Hippo signaling is associated with various human diseases [<xref rid="R18" ref-type="bibr">18</xref>]. However, changes that occur in the Hippo signaling pathway in IDD are unknown. In IDD, the rate of apoptosis of NPCs increases, while their proliferation is inhibited.</p>
+      <p>In the current study, the annulus puncture model was used to determine the role of the Hippo signaling pathway in regulating IDD compared with natural and injury-induced IDD. Needle puncture has become a popular animal model that mimics human IDD in rabbits, rodents, pigs, and sheep [<xref rid="R21" ref-type="bibr">21</xref>&#x2013;<xref rid="R24" ref-type="bibr">24</xref>]. Although higher species have cellular components that are more similar to those of humans, their use is limited by reduced availability and higher cost. The advantages of rat tail needle puncture are that it is inexpensive and simple, with high reproducibility, thereby avoiding invasive surgical procedures in a lumbar model, which requires abdominal incision and exposure of the peritoneal cavity [<xref rid="R25" ref-type="bibr">25</xref>]. In this study, tail discs were punctured using a 21 G needle because use of larger needles has previously been demonstrated to result in more severe degeneration changes in DHI, Pfirrmann grades, NP loss, and reduced biomechanical stability [<xref rid="R4" ref-type="bibr">4</xref>]. Compared with preoperative rats, P4w and P12w rats showed lower DHI, higher Pfirrmann grades, and more severe NP loss. However, there were no significant differences in the X-ray and MRI results between these two groups, which is inconsistent with the observed changes in collagen type 2 and YAP. These results may be explained by several factors. First, annular puncture resulted in decreased DHI and loss of NP water content, as seen on MRI, which would be associated with disorganized annular lamellae and decreased nuclear pressure. Next, imaging allows only a gross observation of total disc changes and is limited in terms of observation at the protein and molecular levels. Lastly, the Pfirrmann grading system is subjective and inadequate for evaluating severe disc degeneration [<xref rid="R26" ref-type="bibr">26</xref>].</p>
+      <p>Nucleus tissue YAP levels decreased gradually with time, suggesting that they are closely related to the development of IDD and indicating the relationship between IDD and Hippo pathway is a dynamic balance. At the same time, increased YAP levels in acute IDD indicate that the endogenous repair route in the intervertebral disc is initiated, but the downstream target gene CTGF does not increase at the protein level. Hippo signaling may be involved in endogenous disc repair, but does not affect endogenous disc progenitor cells and stem cell niches [<xref rid="R27" ref-type="bibr">27</xref>].</p>
+      <p>In our study, YAP activation was accompanied by upregulation of LATS1 in young rats (4w group), resulting in a YAP-LATS negative feedback loop. The Hippo signaling pathway has been shown to be involved in tissue regeneration after damage. However, hyperactivation of YAP may cause cell overgrowth and tumorigenesis. Controlling YAP activity is important to ensure homeostasis of the cellular microenvironment and proper cell physiological regulation. Consistent with our findings, Moroishi et al. [<xref rid="R28" ref-type="bibr">28</xref>] previously reported that YAP activation stimulates the LATS1/2 kinases, which are negative regulators, to restrain YAP activity. When complexed with TEAD, YAP stimulates LATS2 transcription and indirectly activates LATS1/2 kinase through angiomotin (AMOT) accumulation and neurofibromatin 2 (NF2) induction.</p>
+      <p>To determine how Hippo signaling changes during chronic IDD, we performed H&amp;E staining, immunohistochemistry, western blotting, and qPCR on tissues from 12-week postoperative rats. Surprisingly, the Hippo pathway was strongly activated and YAP phosphorylation was increased. These effects may be due the endogenous repair potential of acute IDD, which low self-repair ability is intrinsic nature [<xref rid="R29" ref-type="bibr">29</xref>, <xref rid="R30" ref-type="bibr">30</xref>]. Moreover, a CTGF post-transcriptional regulation mechanism, such as micro-ctfg, may be involved (Figure <xref ref-type="fig" rid="F12">12</xref>). YAP was not observed in the intervertebral discs of the P12w group in this study. Nevertheless, in the natural degeneration group, YAP levels in the NP and CE decreased gradually with age (Figure <xref ref-type="fig" rid="F13">13</xref>).</p>
+      <fig id="F12" orientation="portrait" position="float">
+        <label>Figure 12</label>
+        <caption>
+          <title>Model depicting Hippo signaling pathway regulation in acute disc injury-induced IDD</title>
+        </caption>
+        <graphic xlink:href="oncotarget-09-2175-g012"/>
+      </fig>
+      <fig id="F13" orientation="portrait" position="float">
+        <label>Figure 13</label>
+        <caption>
+          <title>A model for YAP regulation and disc degeneration caused by natural development and injury</title>
+        </caption>
+        <graphic xlink:href="oncotarget-09-2175-g013"/>
+      </fig>
+      <p>Intervertebral discs are tissues that lack blood vessels. Thus, NPCs rely on convection and diffusion for nutrient and metabolite exchange, principally with capillaries in the adjacent vertebral bodies [<xref rid="R31" ref-type="bibr">31</xref>, <xref rid="R32" ref-type="bibr">32</xref>]. Nachemson previously demonstrated that cartilage endplate capillaries are more numerous at the disc center [<xref rid="R33" ref-type="bibr">33</xref>], which is the principal route for nuclear nutrition [<xref rid="R34" ref-type="bibr">34</xref>]. Nutrition transport is critical to disc health, as cells regulate the biochemical environment and maintain the extracellular matrix [<xref rid="R35" ref-type="bibr">35</xref>]. It is suggested that the CE may play an important role in the course of IDD. Further investigation of the biological mechanism of Hippo signaling in CE is warranted.</p>
+      <p>As shown by H&amp;E staining, the disappearance of notochordal cells and formation of cell clusters in the P50w and P4w groups were correlated with IDD degeneration. Decreased proteoglycan synthesis is associated with the loss of notochordal cells, resulting in reduced mechanical function. Moreover, different cell density growth conditions have differential effects on Hippo signaling <italic>in vivo</italic>. A high density of NPCs acts similarly to the presence of cell clusters; thus, in IDD, a large number of chondrocyte-like NPCs are formed in the degenerated intervertebral disc. As a result, YAP is activated at low cell density, whereas YAP is inactive at high cell density, resulting in the translocation of YAP from the nucleus to the cytoplasm, where it cannot exert its effects. Previous studies have shown that at high cell density, YAP exits the nucleus, indicating growth inhibition [<xref rid="R36" ref-type="bibr">36</xref>, <xref rid="R37" ref-type="bibr">37</xref>]. In addition, we observed decreased total YAP levels in NPCs seeded at high densities compared with NPCs seeded at low densities. Cell-cell contact at high density produces a growth inhibitory signal that is in large part mediated by the Hippo pathway [<xref rid="R38" ref-type="bibr">38</xref>, <xref rid="R39" ref-type="bibr">39</xref>].</p>
+      <p>To investigate the regulation of Hippo signaling in senescent NPCs, and to compare it with chronic disc degeneration <italic>in vivo</italic>, the replication senescence method was used to induce senescence of NPCs. Senescent NPCs have low growth and high apoptosis rates. In the present study, Hippo signaling was activated in senescent NPCs, producing a growth inhibitory signal. In senescent cells, YAP was mainly localized in the cytoplasm, whereas in non-senescent cells, YAP levels in the nucleus increased. Interestingly, p-YAP was mainly concentrated in the nucleus, but as cell senescence progressed, p-YAP levels in the nucleus decreased and those in the cytoplasm increased.</p>
+      <p>To reveal the relationship of Hippo pathway and senescence, a shYAP was applied in our study. We found that the beneficial effects were lost when the activation of YAP was inhibited, indicating that the Hippo pathway modulate NPCs proliferation and senescence via regulation of YAP. In addition, our study also shown the limited role of YAP in over-senescence cells and the molecular mechanisms still need further investigation, such as senescence cell low proliferation and limited cell division ability.</p>
+      <p>In summary, our study demonstrates that the relationship between the Hippo pathway and the dysregulation of YAP may play a pivotal role in natural and injury-induced IDD progression. The expression of the CTGF gene was not consistent with protein, considering the incomplete compensation of self-repair. Meanwhile, the Hippo pathway was also shown to be regulated by cell density and cell senescence. These finding demonstrate the complexity of cell fate determination mechanisms, and only up-regulation of YAP may not contribute to NPC proliferation and anti-degeneration in intervertebral discs.</p>
+    </sec>
+    <sec sec-type="methods" id="s4">
+      <title>MATERIALS AND METHODS</title>
+      <sec id="s4_1">
+        <title>Annulus fibrous needle puncture</title>
+        <p>Rats (10 weeks) were anesthetized using an intraperitoneal injection of 10% chloral hydrate (0.3 ml/100 g). They were placed in the prone position and the tail skin was disinfected with ethanol. The coccygeal 5-6, 6-7, 7-8, and 8-9 discs were identified and percutaneously punctured using a 21 G needle with a stopper to a depth of 5 mm, whereupon the needle was rotated 360&#xB0; and held for 30s.</p>
+        <p>Animals were maintained under a 12-h light/dark cycle and allowed free activity in their cages. Analysis was performed at 4 weeks (P4w) and 12 weeks (P12w) post-operatively. A natural IDD group and a control group (healthy rats with no lesions) were also included and analyzed at 4 weeks (4w), 14 weeks (14w) as P4w control, 22 weeks (22w) as P12w control and 50 weeks (50w). All experiments were reviewed and approved by the Institutional Animal Care and Use Committee in Southeast University School of Medicine, and were conducted according to the committees&#x2019; guidelines.</p>
+      </sec>
+      <sec id="s4_2">
+        <title>Calculation of disc height index</title>
+        <p>Rats were placed in the prone position and their tails were laid straight on a platform. Vertical X-rays were taken, focusing on the target levers. The disc height index (DHI) was calculated from the digital radiographs using ImageJ software. The %DHI was calculated as the post-operative DHI divided by the pre-operative DHI, as described by Han et al [<xref rid="R40" ref-type="bibr">40</xref>].</p>
+      </sec>
+      <sec id="s4_3">
+        <title>MRI examination and Pfirrmann grade evaluation</title>
+        <p>Immediately after X-ray examination, the rat tails were scanned using 7.0 T magnetic resonance imaging (MRI). The midsagittal section of the tail was identified and examined for disc degeneration using Pfirrmann grading [<xref rid="R26" ref-type="bibr">26</xref>].</p>
+      </sec>
+      <sec id="s4_4">
+        <title>Hematoxylin and eosin staining</title>
+        <p>All animals were sacrificed using CO<sub>2</sub> inhalation and the coccygeal 5-6, 6-7, 7-8, and 8-9 vertebral segments were dissected. The specimens were fixed in 10% formalin for 20 h at room temperature, decalcified in an ethylenediaminetetraacetic acid (EDTA)-glycerol solution for 4 weeks, paraffin-embedded, sectioned sagittally to 5-&#x3BC;m thickness, and stained with hematoxylin and eosin (H&amp;E).</p>
+      </sec>
+      <sec id="s4_5">
+        <title>Immunohistochemical detection of collagen type 2 and YAP</title>
+        <p>The sections were treated with proteinase K and blocked in 3% bovine serum albumin (BSA). Sections were incubated at room temperature for 1 h with primary antibody. A horseradish peroxidase (HRP)-labeled secondary antibody was added to the specimens and incubated for 30 min at 37&#xB0;C in a black humidity chamber.</p>
+      </sec>
+      <sec id="s4_6">
+        <title>Quantitative polymerase chain reaction</title>
+        <p>Total RNA was isolated from nucleus pulposus (NP) tissue or NPCs using TRIzol reagent (Invitrogen). cDNA was synthesized by reverse transcription using random hexamers and subjected to quantitative polymerase chain reaction (qPCR) with gene-specific primers (Table <xref ref-type="table" rid="T1">1</xref>) in the presence of SYBR Green One. The relative abundance of mRNA was calculated using the 2<sup>-&#x394;&#x394;ct</sup> method.</p>
+        <table-wrap id="T1" orientation="portrait" position="float">
+          <label>Table 1</label>
+          <caption>
+            <title>Sequences of primers for qPCR</title>
+          </caption>
+          <table frame="box" rules="all">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">Gene</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1"/>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Primers</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LATS1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ACCAGAAGACCGTCTAGGCA</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Reverse</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">TTCCTCGTTACCATCGCTCC</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LATS2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ACCATGCTGCTGTTACTCCC</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Reverse</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">CGGTCTTCAGGGCTTCCTTT</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">YAP</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ATTTCGGCAGGCAATACGGA</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Reverse</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">AGCTAATTCCCGCTCTGACG</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">CTGF</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">GGCGTAAAGCCAGGGAGTAA</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Reverse</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">CTCACTTCGGTGGGGTGTTT</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GAPDH</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Forward</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ACAGCAACAGGGTGGTGGAC</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1"/>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Reverse</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">TTTGAGGGTACAGCGAACTT</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="s4_7">
+        <title>Western blot analysis</title>
+        <p>NP tissue or NPCs were lysed in radioimmunoprecipitation assay (RIPA) buffer. The proteins were separated on sodium dodecyl sulfate (SDS)-polyacrylamide gels and transferred onto nitrocellulose membranes. The blots were detected with antibodies against LATS1, LATS2, YAP, p-YAP, and CTGF and normalized to the loading control glyceraldehyde 3-phosphate dehydrogenase (GAPDH) (Table <xref ref-type="table" rid="T2">2</xref>). Signals were detected and quantified using ImageJ software.</p>
+        <table-wrap id="T2" orientation="portrait" position="float">
+          <label>Table 2</label>
+          <caption>
+            <title>Primary antibodies</title>
+          </caption>
+          <table frame="box" rules="all">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">Antibody</th>
+                <th align="left" valign="middle" rowspan="1" colspan="1">Company (catalog number)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LATS1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Abcam (ab70562)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LATS2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Antibodies-online (ABIN753568)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">YAP</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Santa Cruz (sc-376830)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Phosphorylated YAP (Ser 127)</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Abcam (ab172374)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">CTGF</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Abcam (ab6992)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">p53</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cell Signaling Technolog (32532)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">p21</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Bioss (bs-0741P)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GAPDH</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Bioss (bs-2188R)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="s4_8">
+        <title>Immunofluorescence staining</title>
+        <p>NPCs were cultured on slides to the appropriate density and fixed with 4% paraformaldehyde for 15 min and then permeabilized with 0.1% Triton X-100. After blocking with 5% BSA for 30 min, slides were incubated with primary antibodies against YAP and phosphorylated YAP diluted in 5% BSA for 2 h. The slides were washed with phosphate-buffered saline (PBS) three times and incubated with the Alexa Fluor 488-conjugated secondary antibody (1:1,000 dilution) for 2 h. The slides were then washed and mounted.</p>
+      </sec>
+      <sec id="s4_9">
+        <title>NPC culture and senescent cell induction and identification</title>
+        <p>NPCs were cultured in Dulbecco's modified Eagle's medium (DMEM)/F12 with 10% fetal bovine serum (FBS) and 1% penicillin/streptomycin. Cells from the third passage were plated at a low density (3 &#xD7; 10<sup>5</sup>), medium density (1 &#xD7; 10<sup>6</sup>), and high density (2 &#xD7; 10<sup>6</sup>) per well into 6-well plates. Twelve hours after plating, the medium was replaced with serum-free DMEM/F12 and cultured for 8 h. Because <italic>in vitro</italic> subcultivation (replication senescence) can lead to senescence of NPCs [<xref rid="R41" ref-type="bibr">41</xref>], the control passage 3 (P3) cells were used to induce the premature senescence of cells (P10) according to our preliminary work. The cells were plated at a density of 1 &#xD7; 10<sup>6</sup> cells per well into 6-well plates. A cholecystokinin (CCK)-8 assay and cell cycle analysis were performed and SA-&#x3B2;-Gal activity was measured according to the manufacturer's instructions.</p>
+      </sec>
+      <sec id="s4_10">
+        <title>Virus transfection</title>
+        <p>Lentivirus packaging cells were transfected with GV248-hU6-MCS-Ubiquitin-EGFP-IRES-puromycin vector (GeneChem, Shanghai, China) containing either the YAP knockdown (shYAP) or a negative control sequence (sh-Control). Sequences of the shYAP were as follows: sense strand 5&#x2019;-ccgggaTCCCTGATGATGTACCA TTctcgagAATGGTACATCATCAGGGAtctttttg-3&#x2019;, and sequences of the sh-Control were as follows: sense strand 5&#x2019;-TTCTCCGAACGTGTCACGT-3&#x2019;. P3 and P10 groups cells were seeded in a six-well plate 24 h at medium density (1&#xD7;106) before transfection. After 24 h, cells were transfected with shYAP or sh-Control duplexes for 36 h according to the manufacturer's instructions. After the following further treatments, cells were harvested for western blot, qPCR, SA-&#x3B2;-gal staining and CCK-8 assay.</p>
+      </sec>
+      <sec id="s4_11">
+        <title>Statistical analysis</title>
+        <p>All results were expressed as the mean&#xB1;SD of data obtained in triplicate, from at least three individual experiments. All statistical analyses were performed with Excel software (Microsoft, Bellevue, WA), and GraphPad Prism Version 6.0 software (GraphPad Software, La Jolla, CA). <italic>P</italic> values &lt;0.05 were considered statistically signifcant.</p>
+        <p>The English in this document has been checked by at least two professional editors, both native speakers of English. For a certificate, please see: <ext-link ext-link-type="uri" xlink:href="http://www.textcheck.com/certificate/eKCCx6">http://www.textcheck.com/certificate/eKCCx6</ext-link></p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material" id="s5">
+      <title>SUPPLEMENTARY MATERIALS FIGURES AND TABLES</title>
+      <supplementary-material content-type="local-data" id="SD1">
+        <media mimetype="application" mime-subtype="pdf" xlink:href="oncotarget-09-2175-s001.pdf" orientation="portrait" xlink:type="simple" id="d35e1059" position="anchor"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="con">
+        <p>
+          <bold>Author contributions</bold>
+        </p>
+        <p>Conceived and designed the experiments: Xiaotao Wu. Performed the experiments: Cong Zhang, Feng Wang, Zhiyang Xie, Lu Chen, Arjun Sinkemani, Kun Wang, Lu Mao, Haomin Yu. Analyzed the data: Cong Zhang, Feng Wang. Contributed the reagents/materials/analysis tool: Xiaotao Wu, Cong Zhang. Wrote the paper: Cong Zhang. All authors approved the final manuscript version for submittal.</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p>
+          <bold>CONFLICTS OF INTEREST</bold>
+        </p>
+        <p>The authors have declared that no competing interests exist.</p>
+      </fn>
+      <fn fn-type="supported-by">
+        <p>
+          <bold>FUNDING</bold>
+        </p>
+        <p>The research was supported by grants from the National Natural Science Foundation of China (81572170, 81572190, 81572109, 81702203), the Fundamental Research Funds for the Central Universities (KYLX16_0302, 2242016k40149), Research Funds of Jiangsu Provincial Commission of Health and Family Planning (H201533).</p>
+      </fn>
+    </fn-group>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>YAP</term>
+          <def>
+            <p>yes-associated protein</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LATS</term>
+          <def>
+            <p>large tumor suppressor kinases</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="R1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vo</surname>
+              <given-names>NV</given-names>
+            </name>
+            <name>
+              <surname>Hartman</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Patil</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Risbud</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>Kletsas</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Iatridis</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Hoyland</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Le Maitre</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Sowa</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular mechanisms of biological aging in intervertebral discs</article-title>
+          <source>J Orthop Res</source>
+          <year>2016</year>
+          <volume>34</volume>
+          <fpage>1289</fpage>
+          <lpage>306</lpage>
+          <pub-id pub-id-type="pmid">26890203</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andersson</surname>
+              <given-names>GB</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological features of chronic low-back pain</article-title>
+          <source>Lancet</source>
+          <year>1999</year>
+          <volume>354</volume>
+          <fpage>581</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="pmid">10470716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cunha</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lamas</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gon&#xE7;alves</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Barbosa</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Joint analysis of IVD herniation and degeneration by rat caudal needle puncture model</article-title>
+          <source>J Orthop Res</source>
+          <year>2017</year>
+          <volume>35</volume>
+          <fpage>258</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="pmid">26610284</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iatridis</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Nicoll</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Michalek</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>MS</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of biomechanics in intervertebral disc degeneration and regenerative therapies: what needs repairing in the disc and what are promising biomaterials for its repair?</article-title>
+          <source>Spine J</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>243</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="pmid">23369494</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Egan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic factors in intervertebral disc degeneration</article-title>
+          <source>Genes Dis</source>
+          <year>2016</year>
+          <volume>3</volume>
+          <fpage>178</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="pmid">27617275</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>YT</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>XT</given-names>
+            </name>
+          </person-group>
+          <article-title>Stem cell approaches to intervertebral disc regeneration: obstacles from the disc microenvironment</article-title>
+          <source>Stem Cells Dev</source>
+          <year>2015</year>
+          <volume>24</volume>
+          <fpage>2479</fpage>
+          <lpage>95</lpage>
+          <pub-id pub-id-type="pmid">26228642</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Udan</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ikenoue</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Inactivation of YAP oncoprotein by the Hippo pathway is involved in cell contact inhibition and tissue growth control</article-title>
+          <source>Genes Dev</source>
+          <year>2007</year>
+          <volume>21</volume>
+          <fpage>2747</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="pmid">17974916</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zohrabian</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>VanDusen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Acetylation of VGLL4 regulates Hippo-YAP signaling and postnatal cardiac growth</article-title>
+          <source>Dev Cell</source>
+          <year>2016</year>
+          <volume>39</volume>
+          <fpage>466</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="pmid">27720608</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yanger</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Sohn</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Stanger</surname>
+              <given-names>BZ</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Ajani</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Large tumor suppressor homologs 1 and 2 regulate mouse liver progenitor cell proliferation and maturation through antagonism of the coactivators YAP and TAZ</article-title>
+          <source>Hepatology</source>
+          <year>2016</year>
+          <volume>64</volume>
+          <fpage>1757</fpage>
+          <lpage>72</lpage>
+          <pub-id pub-id-type="pmid">27531557</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poitelon</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lopez-Anido</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Catignas</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Berti</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Palmisano</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ameroso</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Abiko</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hwang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Gregorieff</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>YAP and TAZ control peripheral myelination and the expression of laminin receptors in Schwann cells</article-title>
+          <source>Nat Neurosci</source>
+          <year>2016</year>
+          <volume>19</volume>
+          <fpage>879</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="pmid">27273766</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gregorieff</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Inanlou</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Khomchuk</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wrana</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Yap-dependent reprogramming of Lgr5^ sup+^ stem cells drives intestinal regeneration and cancer</article-title>
+          <source>Nature</source>
+          <year>2015</year>
+          <volume>526</volume>
+          <fpage>715</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">26503053</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moroishi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>WW</given-names>
+            </name>
+            <name>
+              <surname>Fujita</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Holt</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Carson</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Guan</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>The Hippo pathway kinases LATS1/2 suppress cancer immunity</article-title>
+          <source>Cell</source>
+          <year>2016</year>
+          <volume>167</volume>
+          <fpage>1525</fpage>
+          <lpage>39</lpage>
+          <comment>e17</comment>
+          <pub-id pub-id-type="pmid">27912060</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Azzolin</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Panciera</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Soligo</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Enzo</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bicciato</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dupont</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bresolin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Frasson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Basso</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Guzzardo</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>YAP/TAZ incorporation in the &#x3B2;-catenin destruction complex orchestrates the Wnt response</article-title>
+          <source>Cell</source>
+          <year>2014</year>
+          <volume>158</volume>
+          <fpage>157</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">24976009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>KS</given-names>
+            </name>
+            <name>
+              <surname>David</surname>
+              <given-names>KK</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Yabuta</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nojima</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Homeostatic control of Hippo signaling activity revealed by an endogenous activating mutation in YAP</article-title>
+          <source>Genes Dev</source>
+          <year>2015</year>
+          <volume>29</volume>
+          <fpage>1285</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="pmid">26109051</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dai</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>YAP activates the Hippo pathway in a negative feedback loop</article-title>
+          <source>Cell Res</source>
+          <year>2015</year>
+          <volume>25</volume>
+          <fpage>1175</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1038/cr.2015.101</pub-id>
+          <pub-id pub-id-type="pmid">26315483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dong</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>rFN/Cad-11-modified collagen type II biomimetic interface promotes the adhesion and chondrogenic differentiation of mesenchymal stem cells</article-title>
+          <source>Tissue Eng Part A</source>
+          <year>2013</year>
+          <volume>19</volume>
+          <fpage>2464</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="pmid">23919505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>La Marca</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Hollister</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>CY</given-names>
+            </name>
+          </person-group>
+          <article-title>Time course investigation of intervertebral disc degeneration produced by needle-stab injury of the rat caudal spine</article-title>
+          <source>J Neurosurg Spine</source>
+          <year>2011</year>
+          <volume>15</volume>
+          <fpage>404</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="pmid">21721872</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Guan</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>Hippo pathway in organ size control, tissue homeostasis, and cancer</article-title>
+          <source>Cell</source>
+          <year>2015</year>
+          <volume>163</volume>
+          <fpage>811</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="pmid">26544935</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mazzucco</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Smogorzewska</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schlabach</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Elledge</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic interrogation of replicative senescence uncovers a dual role for USP28 in coordinating the p53 and GATA4 branches of the senescence program</article-title>
+          <source>Genes Dev</source>
+          <year>2017</year>
+          <volume>31</volume>
+          <fpage>1933</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">29089421</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cascales</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Mullers</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lindqvist</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>How the cell cycle enforces senescence</article-title>
+          <source>Aging (Albany NY)</source>
+          <year>2017</year>
+          <volume>9</volume>
+          <fpage>2022</fpage>
+          <lpage>3</lpage>
+          <comment>
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18632/aging.101316">https://doi.org/10.18632/aging.101316</ext-link>
+          </comment>
+          <pub-id pub-id-type="pmid">29084933</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>La Marca</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Hollister</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Goldstein</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>CY</given-names>
+            </name>
+          </person-group>
+          <article-title>Developing consistently reproducible intervertebral disc degeneration at rat caudal spine by using needle puncture</article-title>
+          <source>J Neurosurg Spine</source>
+          <year>2009</year>
+          <volume>10</volume>
+          <fpage>522</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="pmid">19558284</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoon</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Miyazaki</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Tow</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Morishita</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ahn</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>A porcine model of intervertebral disc degeneration induced by annular injury characterized with magnetic resonance imaging and histopathological findings. Laboratory investigation</article-title>
+          <source>J Neurosurg Spine</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>450</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">18447691</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wei</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Bhargav</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kishen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Duffy</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Diwan</surname>
+              <given-names>AD</given-names>
+            </name>
+          </person-group>
+          <article-title>BMP13 prevents the effects of annular injury in an ovine model</article-title>
+          <source>Int J Biol Sci</source>
+          <year>2009</year>
+          <volume>5</volume>
+          <fpage>388</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="pmid">19521550</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moss</surname>
+              <given-names>IL</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Chee</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Piel</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>HS</given-names>
+            </name>
+          </person-group>
+          <article-title>Retroperitoneal approach to the intervertebral disc for the annular puncture model of intervertebral disc degeneration in the rabbit</article-title>
+          <source>Spine J</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <fpage>229</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="pmid">23369496</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barbir</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Godburn</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Michalek</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Monsey</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Iatridis</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of torsion on intervertebral disc gene expression and biomechanics, using a rat tail model</article-title>
+          <source>Spine (Phila Pa 1976)</source>
+          <year>2011</year>
+          <volume>36</volume>
+          <fpage>607</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">20736890</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pfirrmann</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Metzdorf</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Zanetti</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hodler</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Boos</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Magnetic resonance classification of lumbar intervertebral disc degeneration</article-title>
+          <source>Spine</source>
+          <year>2001</year>
+          <volume>26</volume>
+          <fpage>1873</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">11568697</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Peroglio</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Alini</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Grad</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Potential and limitations of intervertebral disc endogenous repair</article-title>
+          <source>Curr Stem Cell Res Ther</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>329</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="pmid">25741710</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moroishi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>HW</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Plouffe</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Taniguchi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Karin</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Guan</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>A YAP/TAZ-induced feedback mechanism regulates Hippo pathway homeostasis</article-title>
+          <source>Genes Dev</source>
+          <year>2015</year>
+          <volume>29</volume>
+          <fpage>1271</fpage>
+          <lpage>84</lpage>
+          <comment>
+            <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1101/gad.262816.115">https://doi.org/10.1101/gad.262816.115</ext-link>
+          </comment>
+          <pub-id pub-id-type="pmid">26109050</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stolzing</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mcgonagle</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Scutt</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Age-related changes in human bone marrow-derived mesenchymal stem cells: consequences for cell therapies</article-title>
+          <source>Mech Ageing Dev</source>
+          <year>2008</year>
+          <volume>129</volume>
+          <fpage>163</fpage>
+          <lpage>72</lpage>
+          <pub-id pub-id-type="pmid">18241911</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sambrook</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>MacGregor</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Spector</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic influences on cervical and lumbar disc degeneration: a magnetic resonance imaging study in twins</article-title>
+          <source>Arthritis Rheumatol</source>
+          <year>1999</year>
+          <volume>42</volume>
+          <fpage>366</fpage>
+          <lpage>72</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sakai</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Nishimura</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Nakajima</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Grad</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Alini</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kawada</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ando</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mochida</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Migration of bone marrow-derived cells for endogenous repair in a new tail-looping disc degeneration model in the mouse: a pilot study</article-title>
+          <source>Spine J</source>
+          <year>2015</year>
+          <volume>15</volume>
+          <fpage>1356</fpage>
+          <lpage>65</lpage>
+          <comment>doi: 10.1016/j.spinee.2013.07.491</comment>
+          <pub-id pub-id-type="pmid">25459743</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boos</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Wallin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Schmucker</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Aebi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Boesch</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative MR imaging of lumbar intervertebral discs and vertebral bodies: methodology, reproducibility, and preliminary results</article-title>
+          <source>Magn Reson Imaging</source>
+          <year>1994</year>
+          <volume>12</volume>
+          <fpage>577</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="pmid">8057762</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nachemson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lewin</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Maroudas</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Freeman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In vitro</italic> diffusion of dye through the end-plates and the annulus fibrosus of human lumbar inter-vertebral discs</article-title>
+          <source>Acta Orthop Scand</source>
+          <year>1970</year>
+          <volume>41</volume>
+          <fpage>589</fpage>
+          <lpage>607</lpage>
+          <pub-id pub-id-type="pmid">5516549</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holm</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Maroudas</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Urban</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Selstam</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Nachemson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Nutrition of the intervertebral disc: solute transport and metabolism</article-title>
+          <source>Connect Tissue Res</source>
+          <year>1981</year>
+          <volume>8</volume>
+          <fpage>101</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">6453689</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bibby</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Ripley</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Urban</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Metabolism of the intervertebral disc: effects of low levels of oxygen, glucose, and pH on rates of energy metabolism of bovine nucleus pulposus cells</article-title>
+          <source>Spine</source>
+          <year>2005</year>
+          <volume>30</volume>
+          <fpage>487</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="pmid">15738779</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mori</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Triboulet</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Mohseni</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schlegelmilch</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Shrestha</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Camargo</surname>
+              <given-names>FD</given-names>
+            </name>
+            <name>
+              <surname>Gregory</surname>
+              <given-names>RI</given-names>
+            </name>
+          </person-group>
+          <article-title>Hippo signaling regulates microprocessor and links cell-density-dependent miRNA biogenesis to cancer</article-title>
+          <source>Cell</source>
+          <year>2014</year>
+          <volume>156</volume>
+          <fpage>893</fpage>
+          <lpage>906</lpage>
+          <pub-id pub-id-type="pmid">24581491</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plouffe</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>KC</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>AW</given-names>
+            </name>
+            <name>
+              <surname>Chun</surname>
+              <given-names>JV</given-names>
+            </name>
+            <name>
+              <surname>Guan</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of Hippo pathway components by gene inactivation</article-title>
+          <source>Mol Cell</source>
+          <year>2016</year>
+          <volume>64</volume>
+          <fpage>993</fpage>
+          <lpage>1008</lpage>
+          <pub-id pub-id-type="pmid">27912098</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bai</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Surcel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Guan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Joseph</surname>
+              <given-names>NE</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>TL</given-names>
+            </name>
+          </person-group>
+          <article-title>Yes-associated protein impacts adherens junction assembly through regulating actin cytoskeleton organization</article-title>
+          <source>Am J Physiol Gastrointest Liver Physiol</source>
+          <year>2016</year>
+          <volume>311</volume>
+          <fpage>G396</fpage>
+          <lpage>G411</lpage>
+          <pub-id pub-id-type="pmid">27229120</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nishioka</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Inoue</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Adachi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kiyonari</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ota</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ralston</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yabuta</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Hirahara</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Stephenson</surname>
+              <given-names>RO</given-names>
+            </name>
+            <name>
+              <surname>Ogonuki</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>The Hippo signaling pathway components Lats and Yap pattern Tead4 activity to distinguish mouse trophectoderm from inner cell mass</article-title>
+          <source>Dev Cell</source>
+          <year>2009</year>
+          <volume>16</volume>
+          <fpage>398</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="pmid">19289085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>FC</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>YX</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>ZL</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>QX</given-names>
+            </name>
+          </person-group>
+          <article-title>A simple disc degeneration model induced by percutaneous needle puncture in the rat tail</article-title>
+          <source>Spine</source>
+          <year>2008</year>
+          <volume>33</volume>
+          <fpage>1925</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="pmid">18708924</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeong</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KW</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In vitro</italic> lifespan and senescence mechanisms of human nucleus pulposus chondrocytes</article-title>
+          <source>Spine J</source>
+          <year>2014</year>
+          <volume>14</volume>
+          <fpage>499</fpage>
+          <lpage>504</lpage>
+          <pub-id pub-id-type="pmid">24345469</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

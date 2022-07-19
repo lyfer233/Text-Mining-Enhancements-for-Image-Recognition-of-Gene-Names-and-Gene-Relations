@@ -1,0 +1,1509 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Transl Oncol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Transl Oncol</journal-id>
+      <journal-title-group>
+        <journal-title>Translational Oncology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1936-5233</issn>
+      <publisher>
+        <publisher-name>Neoplasia Press</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">30594037</article-id>
+      <article-id pub-id-type="pmc">6307990</article-id>
+      <article-id pub-id-type="publisher-id">S1936-5233(18)30531-X</article-id>
+      <article-id pub-id-type="doi">10.1016/j.tranon.2018.11.012</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Overexpression of Indoleamine 2,3-Dioxygenase 1 Promotes Epithelial-Mesenchymal Transition by Activation of the IL-6/STAT3/PD-L1 Pathway in Bladder Cancer</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Wentao</given-names>
+          </name>
+          <xref rid="af0005" ref-type="aff">*</xref>
+          <xref rid="af0010" ref-type="aff">&#x2020;</xref>
+          <xref rid="fn0005" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Junfeng</given-names>
+          </name>
+          <xref rid="af0005" ref-type="aff">*</xref>
+          <xref rid="fn0005" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Ziwei</given-names>
+          </name>
+          <xref rid="af0005" ref-type="aff">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guo</surname>
+            <given-names>Yadong</given-names>
+          </name>
+          <xref rid="af0005" ref-type="aff">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Yuan</given-names>
+          </name>
+          <xref rid="af0005" ref-type="aff">*</xref>
+          <xref rid="af0010" ref-type="aff">&#x2020;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Ruiliang</given-names>
+          </name>
+          <xref rid="af0010" ref-type="aff">&#x2020;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Longsheng</given-names>
+          </name>
+          <xref rid="af0010" ref-type="aff">&#x2020;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mao</surname>
+            <given-names>Shiyu</given-names>
+          </name>
+          <xref rid="af0010" ref-type="aff">&#x2020;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yao</surname>
+            <given-names>Xudong</given-names>
+          </name>
+          <email>yaoxudong1967@163.com</email>
+          <xref rid="af0005" ref-type="aff">*</xref>
+          <xref rid="af0010" ref-type="aff">&#x2020;</xref>
+          <xref rid="cr0005" ref-type="corresp">&#x204E;</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af0005"><label>*</label>Department of Urology, Shanghai Tenth People's Hospital, Tongji University, Shanghai 200072, PR China</aff>
+      <aff id="af0010"><label>&#x2020;</label>Anhui Medical University, Hefei 230032, PR China</aff>
+      <author-notes>
+        <corresp id="cr0005"><label>&#x204E;</label>Address all correspondence to: Prof. Xudong Yao, Department of Urology, Shanghai Tenth People's Hospital, Tongji University, Shanghai 200072, PR China. <email>yaoxudong1967@163.com</email></corresp>
+        <fn id="fn0005">
+          <label>1</label>
+          <p id="np0005">Contributed equally.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="pmc-release">
+        <day>26</day>
+        <month>12</month>
+        <year>2018</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on <pub-date
+						pub-type="epub">.-->
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>12</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>12</volume>
+      <issue>3</issue>
+      <fpage>485</fpage>
+      <lpage>492</lpage>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>10</month>
+          <year>2018</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>22</day>
+          <month>11</month>
+          <year>2018</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>11</month>
+          <year>2018</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2018 The Authors</copyright-statement>
+        <copyright-year>2018</copyright-year>
+        <license license-type="CC BY-NC-ND" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+          <license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p>
+        </license>
+      </permissions>
+      <abstract id="ab0005">
+        <p>Indoleamine 2,3-dioxygenase 1 (IDO1) is a key enzyme in tryptophan metabolism and plays an important role in tumor cell immunosuppression and angiogenesis. The molecular mechanisms of IDO1 and epithelial-mesenchymal transition (EMT) have not been elucidated or studied in bladder cancer. Therefore, the aims of this study were to detect IDO1 expression in bladder cancer tissues and then to investigate the role of IDO1 in bladder cancer cell EMT and malignant phenotypes as well as the underlying molecular mechanisms. By immunohistochemistry, Western blot, and quantitative reverse transcription&#x2013;polymerase chain reaction experiments, IDO1 was found to be overexpressed in bladder cancer tissues and cell lines compared to the noncancerous ones. In addition, knockdown of IDO1 expression was shown to inhibit bladder cancer cell growth, migration, invasion, and EMT. Furthermore, we demonstrated that IDO1 may promote EMT by activation of the interleukin 6/signal transducer and activator of transcription 3/programmed cell death ligand 1 signaling pathway. Collectively, these data suggest that IDO1 may play an important role in bladder cancer and may be a novel therapeutic target for patients with bladder cancer.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s0005">
+      <title>Introduction</title>
+      <p id="p0005">Bladder cancer is the fourth most common cancer in males in the United States, and 76,960 new cases were diagnosed in 2016 <xref rid="bb0005" ref-type="bibr">[1]</xref>. Approximately 75% of the diagnosed patients have non&#x2013;muscle-invasive bladder cancer (NMIBC), while 25% present with muscle-invasive bladder cancer (MIBC). NMIBC often shows good survival after transurethral resection, but 30%-50% of the patients experience recurrence after transurethral resection, and 25% of the patients progress to MIBC. Compared to NMIBC, patients diagnosed with MIBC often have a poor prognosis. Radical cystectomy is considered the standard treatment for nonmetastatic MIBC <xref rid="bb0010" ref-type="bibr">[2]</xref>. At present, the molecular mechanisms of bladder cancer development and progression have not been fully elucidated; therefore, it is imperative to study these mechanisms so that better treatments can be discovered.</p>
+      <p id="p0010">Currently, researchers have become increasingly interested in studying the metabolism of tumors as well as metabolic genes. Boyland et al. <xref rid="bb0015" ref-type="bibr">[3]</xref> have found that the urine of patients with bladder cancer contains significantly increased amounts of tryptophan metabolites. Indoleamine 2,3-dioxygenase 1 (IDO1) is a key enzyme that catalyzes the breakdown of tryptophan into kynurenine. High expression levels of IDO1 have been found in various human tumor tissues, including prostate cancer <xref rid="bb0020" ref-type="bibr">[4]</xref>, lung cancer <xref rid="bb0025" ref-type="bibr">[5]</xref>, and chronic lymphocytic leukemia <xref rid="bb0030" ref-type="bibr">[6]</xref>; therefore, it is believed to play an important role in the development of cancer. In addition, a high IDO expression level in tumor tissues is usually associated with a poor patient prognosis <xref rid="bb0035" ref-type="bibr">[7]</xref>. To date, studies of IDO1 have focused on immune escape and angiogenesis. IDO1 can inhibit effector T cells by consuming tryptophan and producing kynurenine, and IDO1 can affect immune tolerance by activating circulating regulatory T cells. Moreover, in a tumor cell line with a high expression of IDO1, the number of new blood vessels was significantly increased <xref rid="bb0040" ref-type="bibr">[8]</xref>. Furthermore, Wei et al. have demonstrated that IDO1 expression is associated with breast cancer microvessel density and that IDO1 can promote angiogenesis in breast cancer; therefore, IDO1 may be a potential therapeutic target for the inhibition of angiogenesis <xref rid="bb0045" ref-type="bibr">[9]</xref>. These data suggest that, in addition to its impact on immune tolerance, IDO1 can also promote tumor progression through angiogenesis.</p>
+      <p id="p0015">However, the molecular mechanisms of IDO1 and epithelial-mesenchymal transition (EMT) have not been elucidated or studied in bladder cancer. Therefore, the aims of this study were to detect IDO1 expression in bladder cancer tissues and then to investigate the role of IDO1 in bladder cancer cell EMT and malignant phenotypes as well as the underlying molecular mechanisms.</p>
+    </sec>
+    <sec id="s0010">
+      <title>Materials and Methods</title>
+      <sec id="s0015">
+        <title>Patients and Tissue Specimens</title>
+        <p id="p0020">Sixty-eight pairs of bladder cancer tissues and their adjacent normal tissues were collected from January 2008 to December 2018 at the Shanghai Tenth People's Hospital of Tongji University (Shanghai, China). These patients did not receive any treatment before surgery. The fresh tissue specimens were immediately snap-frozen in liquid nitrogen and stored at &#x2212;80&#xB0;C until further use. The study was approved by the Ethics Committee of the Tenth People's Hospital of Tongji University, and informed consent was obtained from all patients or their relatives. Our research was also performed in accordance with the ethics guidelines of the World Medical Association (Declaration of Helsinki).</p>
+      </sec>
+      <sec id="s0020">
+        <title>Immunohistochemistry (IHC)</title>
+        <p id="p0025">Human bladder cancer and adjacent normal tissues were fixed in cold 4% paraformaldehyde. The fixed tissue samples were embedded in paraffin and sliced into 4-&#x3BC;m&#x2013;thick sections. Following routine rehydration, antigen retrieval, and blocking procedures, the sections were incubated overnight with IDO1 antibody (1:1000 dilution, 1:1000, ab211017, Abcam, USA) at 4&#xB0;C. Next, the sections were incubated with biotinylated goat anti-rabbit antibody IgG for 20&#x202F;minute at room temperature and then with streptavidin&#x2013;horseradish peroxidase for 30&#x202F;minutes. Subsequently, diaminobenzidine-H<sub>2</sub>O<sub>2</sub> was used as a substrate for the peroxidase. Two pathologists read the pathological sections and determined positive results when the cytoplasm of the cancer cells was stained yellow. The proportion of positive cells was evaluated by five fields of view, regardless of the intensity of staining. We divided the expression of IDO1 into two grades: a high-expression group with at least 50% of cancer cells being positive and a low-expression group with a percentage of positive cancer cells &lt;50%.</p>
+      </sec>
+      <sec id="s0025">
+        <title>Reagents and Enzyme-Linked Immunosorbent Assay (ELISA) Assay</title>
+        <p id="p0030">Human recombinant interleukin 6 (IL-6; PeproTech, Rocky Hill, NJ) was dissolved in trehalose at a concentration of 100&#x202F;&#x3BC;g/ml and stored at &#x2212;20&#xB0;C. At the time of use, the final concentration of IL-6 was adjusted to 100&#x202F;ng/ml in the appropriate medium. AG490 (MedChemExpress, Monmouth Junction, NJ), a tyrosine kinase inhibitor that can inhibit the signal transducer and activator of transcription 3 (STAT3) signaling pathway, was dissolved in dimethyl sulfoxide at a concentration of 5&#x202F;mg/ml, stored at &#x2212;20&#xB0;C, and protected from light. AG490 was diluted to a concentration of 10&#x202F;nmol in the appropriate medium before use <xref rid="bb0050" ref-type="bibr">[10]</xref>. Human IL6 ELISA kit was purchased from Anogen-Yes Biotech Laboratories Ltd. (EL10023, Ontario, Canada), and the concentration of IL6 in the cell supernatant was determined according to the manufacturer's instructions.</p>
+      </sec>
+      <sec id="s0030">
+        <title>Cell Lines</title>
+        <p id="p0035">Four human bladder cancer cell lines (T24, UMUC3, 5637, and J82) and one immortalized human normal bladder epithelial cell line (SV-HUC-1) were obtained from the American Type Culture Collection (ATCC, Rockville, MD). T24, UMUC3, and 5637 cells were maintained in RPMI-1640 (Gibco; Thermo Fisher Scientific, Inc., Waltham, MA); J82 cells were cultured in Dulbecco's modified Eagle's medium (Gibco); and SV-HUC-1 cells were maintained in F12K medium (Sigma-Aldrich; Merck KGaA, Darmstadt, Germany). All cell lines were cultured at 37&#xB0;C in a humidified incubator with 5% CO<sub>2</sub>. All cell culture media were supplemented with 10% fetal bovine serum (FBS; Gibco) and 1% penicillin/streptomycin (Hyclone; GE Healthcare Life Sciences, Logan, UT).</p>
+      </sec>
+      <sec id="s0035">
+        <title>RNA Extraction and Quantitative Reverse Transcription&#x2013;Polymerase Chain Reaction (qRT-PCR)</title>
+        <p id="p0040">Total RNA was extracted from human tissues or cultured cells using Trizol reagent (Invitrogen, Carlsbad, CA), and 5&#x202F;&#x3BC;g of RNA was used to generate the first strand of cDNA by using a cDNA synthesis kit (Takara, Kyoto, Japan). qRT-PCR was performed using a SYBR Green PCR Kit (Takara Biotechnology, Dalian, China) with an ABI Prism 7500 Sequence Detection System (Applied Biosystems, Foster City, CA). The primers used were as follows: IDO1 forward, 5&#x2032;-GCTTGCAGGAATCAGGATGT-3&#x2032; and reverse, 5&#x2032;-GGCAAAGGTCATGGAGATGT3-3&#x2032;; GAPDH forward, 5&#x2032;-ATGTCGTGGAGTCTACT GGC-3&#x2032; and reverse, 5&#x2032;-TGACCTTGCCCACAGCCTTG-3&#x2032;. The PCR parameters for relative quantification were as follows: 2&#x202F;minutes at 95&#xB0;C followed by 40&#x202F;cycles of 45&#x202F;seconds at 57&#xB0;C and 45&#x202F;seconds at 72&#xB0;C. The IDO1 mRNA level was normalized to that of GAPDH. The relative expression levels of IDO1 were analyzed by the 2<sup>&#x2212;&#x394;&#x394;C(t)</sup> method <xref rid="bb0055" ref-type="bibr">[11]</xref>. Assays were repeated three times.</p>
+      </sec>
+      <sec id="s0040">
+        <title>Transient Transfection</title>
+        <p id="p0045">Small interfering RNAs that specifically target human IDO1 (si-IDO1) and nonspecific negative control oligonucleotides (si-NC) were purchased from GenePharma (Shanghai, China). Lipofectamine 3000 (Invitrogen; Thermo Fisher Scientific, Inc., Waltham, MA) was used for cell transfection according to the manufacturer's instructions. The si-IDO1 sequences were 5&#x2032;-GAACGGGACACUUUGCUAA-3&#x2032; (sense) and 5&#x2032;-UUAGCAAAGUGUCCCGUUC-3&#x2032; (antisense). The si-NC sequences were 5&#x2032;-UUCUCCGAACGUGUCACGUTT-3&#x2032; (sense) and 5&#x2032;-ACGUGACACGUUCGGAGAATT-3&#x2032; (antisense). Total RNA or protein was extracted at 48&#x202F;hours after transfection.</p>
+      </sec>
+      <sec id="s0045">
+        <title>Cell Viability Assays</title>
+        <p id="p0050">The cell proliferation rate was detected using a Cell Counting Kit-8 (CCK-8; Dojindo Molecular Technologies, Inc., Kumamoto, Japan). Cells were seeded into 96-well plates at a density of 1&#x202F;&#xD7;&#x202F;10<sup>3</sup> cells/well and transfected with siRNA or si-NC for 4&#x202F;days. CCK-8 reagent (10&#x202F;&#x3BC;l) was added to each well, and the cells were maintained at 37&#xB0;C for 2&#x202F;hours. The absorbance at 450&#x202F;nm was measured using a microplate spectrophotometer (BioTek, Winooski, VT).</p>
+      </sec>
+      <sec id="s0050">
+        <title>Scratch Wound Healing Assay</title>
+        <p id="p0055">For the scratch healing assay, cells were plated and transfected, wounded using a 200-&#x3BC;l sterile pipette tip, and washed three times with phosphate-buffered saline (PBS), and RPMI-1640 without FBS was added. The wounds were continuously imaged at a magnification of &#xD7;5 using an optical system microscope for 24, 36, and 48&#x202F;hours.</p>
+      </sec>
+      <sec id="s0055">
+        <title>Colony Formation Assays</title>
+        <p id="p0060">For colony formation assays, cells were transfected with si-NC or si-IDO1 for 24&#x202F;hours, seeded into six-well plates at 1&#x202F;&#xD7;&#x202F;10<sup>3</sup>/well, and cultured for 14&#x202F;days. Subsequent to culturing, the six-well plates were washed three times with cold PBS, fixed with 75% ethanol, and stained with 0.1% crystal violet. Images of stained tumor cell colonies were recorded with a digital camera.</p>
+      </sec>
+      <sec id="s0060">
+        <title>Cell Migration and Invasion Assays</title>
+        <p id="p0065">The cell migration ability was measured using a Transwell chamber (Corning, Lowell, MA). A total of 5&#x202F;&#xD7;&#x202F;10<sup>4</sup> transfected cells were inoculated into each insert of a 24-well plate in FBS-free RPMI-1640 medium (200&#x202F;&#x3BC;l), and 600&#x202F;&#x3BC;l of cell culture medium containing 10% FBS was added to the bottom chamber. The cells were incubated in a 37&#xB0;C incubator for 16&#x202F;hours. After 16&#x202F;hours, the Transwell chamber was washed three times with cold PBS. The nonmigrated cells in the upper insert were carefully wiped with a moist cotton swab, while the cells on the opposite side of the filter, the migrated cells, were fixed with 70% ethanol for 30&#x202F;minutes and then stained with 0.1% crystal violet for 10&#x202F;minutes. The cell migration was observed under a microscope (Olympus Corporation). For the tumor cell invasion experiments, the Transwell filters were precoated with Matrigel (BD Biosciences, Franklin Lakes, NJ), and the cells were allowed to invade for 24&#x202F;hours. The rest of the experimental procedure was the same as that of the tumor cell migration assay. Each experiment was performed in triplicate.</p>
+      </sec>
+      <sec id="s0065">
+        <title>Western Blot Analysis</title>
+        <p id="p0070">Total protein extracts of cell lines or tissues were prepared by using radioimmunoprecipitation assay buffer (Sigma-Aldrich) containing protease inhibitors. The protein concentration of lysates was quantified by using a bicinchoninic acid protein assay (Beyotime, China). For Western blotting, 20&#x202F;&#x3BC;g of the protein sample was separated by electrophoresis on a 10% sodium dodecyl sulfate&#x2013;polyacrylamide gel and was transferred to a nitrocellulose membrane (Sigma-Aldrich; Merck KGaA). Then, the membrane was blocked with 5% nonfat milk in PBS for 1&#x202F;hour at room temperature and immunoblotted at 4&#xB0;C overnight with a primary antibody against one of the following proteins: IDO1 (1:1000, ab211017, Abcam, USA), programmed cell death ligand 1 (<italic>PD</italic>-<italic>L1</italic>) (1:1000,ab213524, Abcam), STAT3 (1:1000,ab68153, Abcam), p-STAT3 (1:1000,ab76315, Abcam), E-cadherin (1:5000ab40772, Abcam), N-cadherin (1:5000,ab76011, Abcam,), vimentin (1:5000,ab92547, Abcam), and actin (1:5000,sc- 47778, Santa Cruz Biotechnology, Dallas, TX), which was used as an internal control. Subsequently, the membranes were incubated with fluorescence-conjugated secondary antibody (926-6807 or 926-32210; LI-COR Biosciences, Shanghai, China) for 1&#x202F;hour at room temperature. The labeled protein bands were visualized and quantified by using the Odyssey two-color infrared laser imaging system (LI-COR Biosciences, Lincoln, NE, USA).</p>
+      </sec>
+      <sec id="s0070">
+        <title>Statistical Analysis</title>
+        <p id="p0075">SPSS (version 22; SPSS, Inc., Chicago, IL) was used to analyze the resulting data. Chi-square test or Fisher's exact test was used to assess the association between clinical pathological features and IDO1 expression, and Student's <italic>t</italic> test was used to assess differences between groups. <italic>P</italic>&#x202F;&lt;&#x202F;.05 was considered to be a statistically significant difference.</p>
+      </sec>
+    </sec>
+    <sec id="s0075">
+      <title>Results</title>
+      <sec id="s0080">
+        <title>Overexpression of IDO1 in bladder cancer tissues and cell lines</title>
+        <p id="p0080">In this study, we examined the expression of protein and mRNA levels of IDO1 in bladder cancer tissues and cell lines. IHC staining indicated that IDO1 high expression was observed in 63.2% (43/68) of bladder cancer tissues compared with 29.4% (20/68) of the adjacent normal tissues and was statistically significant between bladder tumor tissues and adjacent normal tissues (<xref rid="f0005" ref-type="fig">Figure 1</xref><italic>A</italic>, <italic>P</italic> &lt; .05). At the same time, the expression of IDO1 was significantly correlated with tumor size, T stage, and N stage but not related to other clinicopathological features, including age, gender, smoking status, M stage, and histologic grade (<xref rid="t0005" ref-type="table">Table 1</xref>, <italic>P</italic>&#x202F;&gt;&#x202F;.05). Survival analysis showed that the prognosis of the IDO1 high-expression group was significantly worse, and the difference was statistically significant (<xref rid="f0005" ref-type="fig">Figure 1</xref><italic>B</italic>, <italic>P</italic> &lt;.05). In addition, we examined 20 pairs of samples showing that the protein and mRNA levels of IDO1 were higher in bladder cancer tissues than in normal bladder tissues by the Western blot and qRT-PCR analyses (<xref rid="f0005" ref-type="fig">Figure 1</xref>, <italic>C</italic> and <italic>D</italic>). Consistently, IDO1 expression was also significantly increased in T24, UMUC3, and 5637 bladder cancer cells compared to the normal bladder epithelial cell line SV-HUC-1 (<xref rid="f0010" ref-type="fig">Figure 2</xref>, <italic>A</italic> and <italic>B</italic>).<fig id="f0005"><label>Figure 1</label><caption><p>IDO1 is overexpressed human bladder cancer tissues and cell lines. (A) IHC staining of IDO1 in bladder cancer tissues (T) and adjacent normal tissues (ANT). The representative images are shown. Scale bar&#x202F;=&#x202F;200&#x202F;&#x3BC;m for 10&#xD7; and 100&#x202F;&#x3BC;m for 20&#xD7;. (B) Kaplan-Meier survival analysis of patients with gastric cancer according to the IDO1 expression status. Kaplan-Meier analysis of cumulative survival in the low&#x2013;IDO1 expression group (25 patients) and high&#x2013;IDO1 expression group (43 patients). The <italic>P</italic> value was based on the log-rank test. Patients with a high IDO1 expression had a worse survival (<italic>P</italic>&#x202F;&lt;&#x202F;.05). (C) and mRNA (D) levels of IDO1 in bladder cancer tissues (tumor) and adjacent normal tissues detected by Western blot and qPCR, respectively.</p></caption><alt-text id="al0005">Figure 1</alt-text><graphic xlink:href="gr1"/></fig><table-wrap position="float" id="t0005"><label>Table 1</label><caption><p>Correlation of IDO1 Expression with Clinicopathological Factors in 68 BCa Patients</p></caption><alt-text id="al0040">Table 1</alt-text><table frame="hsides" rules="groups"><thead><tr><th>Parameters</th><th>No. of Patients</th><th>High Expression</th><th>Low Expression</th><th><italic>P</italic> Value</th></tr></thead><tbody><tr><td>Gender</td><td/><td/><td/><td>.744</td></tr><tr><td>&#xA0;Male</td><td align="char">63</td><td align="char">39</td><td align="char">24</td><td/></tr><tr><td>&#xA0;Female</td><td align="char">5</td><td align="char">4</td><td align="char">1</td><td/></tr><tr><td>Age (years)</td><td align="char"/><td align="char"/><td align="char"/><td>.881</td></tr><tr><td>&#xA0;&#x2264;65</td><td align="char">28</td><td align="char">18</td><td align="char">10</td><td/></tr><tr><td>&#xA0;&gt;65</td><td align="char">40</td><td align="char">25</td><td align="char">15</td><td/></tr><tr><td>BMI</td><td align="char"/><td align="char"/><td align="char"/><td>.988</td></tr><tr><td>&#xA0;&#x2264;24</td><td align="char">40</td><td align="char">24</td><td align="char">14</td><td/></tr><tr><td>&#xA0;&gt;24</td><td align="char">28</td><td align="char">19</td><td align="char">11</td><td/></tr><tr><td>Smoking status</td><td align="char"/><td align="char"/><td align="char"/><td>.718</td></tr><tr><td>&#xA0;Yes</td><td align="char">40</td><td align="char">26</td><td align="char">14</td><td/></tr><tr><td>&#xA0;No</td><td align="char">28</td><td align="char">17</td><td align="char">11</td><td/></tr><tr><td>Tumor size</td><td align="char"/><td align="char"/><td align="char"/><td>.044</td></tr><tr><td>&#xA0;&#x2264;3</td><td align="char">34</td><td align="char">17</td><td align="char">17</td><td/></tr><tr><td>&#xA0;&gt;3</td><td align="char">34</td><td align="char">26</td><td align="char">8</td><td/></tr><tr><td>Histologic grade</td><td align="char"/><td align="char"/><td align="char"/><td>.030</td></tr><tr><td>&#xA0;High</td><td align="char">64</td><td align="char">43</td><td align="char">21</td><td/></tr><tr><td>&#xA0;Low</td><td align="char">4</td><td align="char">0</td><td align="char">4</td><td/></tr><tr><td>Tumor stage</td><td align="char"/><td align="char"/><td align="char"/><td>.032</td></tr><tr><td>&#xA0;&#x399;-II</td><td align="char">23</td><td align="char">10</td><td align="char">13</td><td/></tr><tr><td>&#xA0;&gt;II</td><td align="char">45</td><td align="char">33</td><td align="char">12</td><td/></tr><tr><td>Lymphatic invasion</td><td align="char"/><td align="char"/><td align="char"/><td>.032</td></tr><tr><td>&#xA0;Positive</td><td align="char">48</td><td align="char">26</td><td align="char">22</td><td/></tr><tr><td>&#xA0;Negative</td><td align="char">20</td><td align="char">17</td><td align="char">3</td><td/></tr><tr><td>Distant metastasis</td><td align="char"/><td align="char"/><td align="char"/><td>.197</td></tr><tr><td>&#xA0;Positive</td><td align="char">63</td><td align="char">38</td><td align="char">25</td><td/></tr><tr><td>&#xA0;Negative</td><td align="char">5</td><td align="char">5</td><td align="char">0</td><td/></tr><tr><td>Tumor progress</td><td align="char"/><td align="char"/><td align="char"/><td>.211</td></tr><tr><td>&#xA0;Yes</td><td align="char">38</td><td align="char">27</td><td align="char">11</td><td/></tr><tr><td>&#xA0;No</td><td align="char">30</td><td align="char">16</td><td align="char">14</td><td/></tr></tbody></table></table-wrap><fig id="f0010"><label>Figure 2</label><caption><p>IDO1 is overexpressed human bladder cancer cell lines. Relative protein (A) and mRNA (B) levels of IDO in bladder cancer cell lines (T24, UMUC3, and 5637) and the immortalized human normal bladder epithelial cell line SV-HUC-1 detected by Western blot and qRT-PCR, respectively. (C) mRNA and (D) protein levels of IDO1 in transfected T24 and UMUC3 cells were analyzed using RT-qPCR and Western blot analysis, respectively. GAPDH and &#x3B2;-actin served as the internal controls, respectively. *<italic>P</italic>&#x202F;&lt;&#x202F;.05.</p></caption><alt-text id="al0010">Figure 2</alt-text><graphic xlink:href="gr2"/></fig></p>
+      </sec>
+      <sec id="s0085">
+        <title>Inhibition of bladder cancer cell proliferation by knockdown IDO1</title>
+        <p id="p0085">To determine the biological effects of IDO1 on bladder cancer cell growth, si-IDO1 was transfected into bladder cancer cells to inhibit the expression of IDO1, while si-NC was used as a control. qRT-PCR and Western blot analyses confirmed that the expression of IDO1 was inhibited with si-IDO1 transfection (<xref rid="f0010" ref-type="fig">Figure 2</xref>, <italic>C</italic> and <italic>D</italic>). CCK-8 and colony formation assays were used to study cell proliferation. The CCK-8 assay showed that knockdown of IDO1 significantly inhibited T24 and UMUC3 cell proliferation, while si-NC transfection had no significant effect on their proliferation (<xref rid="f0015" ref-type="fig">Figure 3</xref>, <italic>A</italic> and <italic>B</italic>). Consistently, after culturing for 2&#x202F;weeks, the colony formation rate of cells with IDO1 knockdown was significantly inhibited compared with the control group (<xref rid="f0015" ref-type="fig">Figure 3</xref>, <italic>C</italic> and <italic>D</italic>).<fig id="f0015"><label>Figure 3</label><caption><p>Silencing of IDO1 inhibits cell growth of T24 and UMUC3 cells. (A, B) Cell proliferation was detected at 24, 48, 72, and 96 hours after IDO1 knockdown as determined by CCK8 assay. (C, D) The left panel is a representative image of clone formation of cells after transfection. The right panel shows the number of colonies of cloned cells (Student&#x2019;s <italic>t</italic> test, *<italic>P</italic>&#x202F;&lt;&#x202F;.05).</p></caption><alt-text id="al0015">Figure 3</alt-text><graphic xlink:href="gr3"/></fig></p>
+      </sec>
+      <sec id="s0090">
+        <title>Inhibition of bladder cancer cell migration and invasion by knockdown IDO1</title>
+        <p id="p0090">We evaluated the effect of si-IDO1 on the metastatic capacity of bladder cancer cells. First, we performed cell scratch assays using T24 and UMUC3 cells. The knockdown of IDO1 reduced the ability of these bladder cancer cells to migrate compared to the control group (<xref rid="f0020" ref-type="fig">Figure 4</xref><italic>A</italic>). Next, we performed a tumor cell migration assay. Consistent with the above results, IDO1 downregulation reduced the migration ability of bladder cancer cells (<xref rid="f0020" ref-type="fig">Figure 4</xref><italic>B</italic>). In addition, tumor cell invasion assays also demonstrated that downregulation of IDO1 significantly reduced T24 and UMUC3 cell invasiveness (<xref rid="f0020" ref-type="fig">Figure 4</xref><italic>C</italic>).<fig id="f0020"><label>Figure 4</label><caption><p>Effects of IDO1 knockdown on the inhibition of bladder cancer cell migration, invasion, and EMT. Migration abilities of T24 and UMUC3 cells after IDO1 knockdown detected by cell scratch assays (A) and Transwell tumor cell migration assays (B), respectively. (C) Invasion abilities of T24 and UMUC3 cells after IDO1 knockdown detected by Transwell tumor cell invasion assays. (D) Expression levels of EMT-associated markers in T24 and UMUC3 cells after IDO1 knockdown were evaluated by Western blot analysis.</p></caption><alt-text id="al0020">Figure 4</alt-text><graphic xlink:href="gr4"/></fig></p>
+      </sec>
+      <sec id="s0095">
+        <title>Inhibition of bladder cancer EMT by knockdown IDO1</title>
+        <p id="p0095">The expression of several EMT-related markers also changed due to the effects of IDO1 knockdown. During EMT, the N-cadherin and vimentin levels are upregulated, while the E-cadherin levels are downregulated <xref rid="bb0060" ref-type="bibr">[12]</xref>. In this study, si-IDO1 transfection significantly reduced the protein expression of N-cadherin and vimentin compared to the si-NC group. However, the expression level of E-cadherin was significantly upregulated (<xref rid="f0020" ref-type="fig">Figure 4</xref><italic>D</italic>). Therefore, our results suggest that knockdown of IDO1 can inhibit EMT.</p>
+      </sec>
+      <sec id="s0100">
+        <title>Inhibition of EMT through the IL-<italic>6/STAT3/PD-L1</italic> signaling pathway by knockdown IDO1</title>
+        <p id="p0100">As an important inflammatory factor, IL-6 has been shown to affect the EMT <xref rid="bb0065" ref-type="bibr">[13]</xref>. ELISA experiments confirmed that IL-6 secretion was significantly reduced in the supernatant of si-IDO1&#x2013;treated cells compared to the control group (<xref rid="f0025" ref-type="fig">Figure 5</xref><italic>A</italic>). The Western blot results also showed that knockdown of IDO1 caused a decrease in STAT3 phosphorylation (<xref rid="f0025" ref-type="fig">Figure 5</xref><italic>B</italic>). Therefore, we hypothesized that IL-6/STAT3/PD-L1 signaling is required for IDO1-mediated EMT in bladder cancer. To test this hypothesis, we first added exogenous IL-6 and found that it reversed the expression level of phosphorylated STAT3 as well as upregulated PD-L1 expression (<xref rid="f0025" ref-type="fig">Figure 5</xref><italic>C</italic>). We further examined the role of exogenous IL-6 in EMT in cells by analyzing the expression of EMT-related markers. The addition of exogenous IL-6 significantly downregulated E-cadherin expression, while it upregulated N-cadherin and vimentin expression (<xref rid="f0025" ref-type="fig">Figure 5</xref><italic>D</italic>). Second, we used the STAT3-specific inhibitor AG490 to inhibit STAT3 activation. We observed that AG490 reduced STAT3 phosphorylation and PD-L1 expression (<xref rid="f0030" ref-type="fig">Figure 6</xref><italic>A</italic>). At the same time, we found that the expression of EMT-related markers of the si-IDO1 groups of T24 and UMUC3 cells also changed significantly upon AG490 treatment compared with the control group (<xref rid="f0030" ref-type="fig">Figure 6</xref><italic>B</italic>).<fig id="f0025"><label>Figure 5</label><caption><p>IDO1 affects EMT through IL6/STAT3/PD-L1 in T24 and UMUC3 cells.</p><p>(A) Expression of IL6 in T24 and UMUC3 cells after IDO1 knockdown detected by ELISA assays. (B) STAT3, P-STAT3, and PD-L1 were evaluated by Western blot analysis in T24 and UMUC3 cells after IDO1 knockdown. (C and D) T24 and UMUC3 cells after IDO1 knockdown were pretreated with 100&#x202F;ng/ml of IL-6 for 48&#x202F;hours. The protein levels of STAT3, P-STAT3, PD-L1, and EMT-associated markers were determined by Western blot analysis.</p></caption><alt-text id="al0025">Figure 5</alt-text><graphic xlink:href="gr5"/></fig><fig id="f0030"><label>Figure 6</label><caption><p>AG490 blocks the IL6/STAT3/PD-L1 signaling pathway and is more pronounced after knockdown of IDO1. (A) T24 and UMUC3 cells after IDO1 knockdown were treated with STAT3 specific inhibitor AG490. The protein levels of STAT3, P-STAT3, and PD-L1 were measured by Western blot analysis. (B) EMT-associated markers were measured after treatment with AG490 by Western blot analysis.</p></caption><alt-text id="al0030">Figure 6</alt-text><graphic xlink:href="gr6"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="s0105">
+      <title>Discussion</title>
+      <p id="p0105">In this study, our aim was to elucidate the mechanisms related to tumor EMT in bladder cancer. We focused on IDO1, a key enzyme in tryptophan metabolism. We found that knocking down the expression of IDO1 could reduce the expression level of EMT-related genes as well as inhibit the invasion and migration of bladder cancer cells <italic>in vitro</italic>. Furthermore, we demonstrated that IDO1 may promote EMT by activation of the IL-6/STAT3/PD-L1 pathway.</p>
+      <p id="p0110">Uyttenhove et al. detected the expression of IDO1 in various human tumor tissues by IHC <xref rid="bb0070" ref-type="bibr">[14]</xref>. Their research reveals that IDO1 is highly expressed in a variety of human tumors and is closely related to the tumor immune microenvironment and clinical outcome. In addition, Suzuki et al. studied the serum levels of tryptophan and kynurenine in 123 patients with lung cancer, and they expressed the activity of IDO1 with the kynurenine/tryptophan ratio. Their results suggest that IDO1 may promote tumor progression <italic>in vivo</italic> by depleting tryptophan and accumulating the toxic metabolite kynurenine <xref rid="bb0075" ref-type="bibr">[15]</xref>. Moreover, Folgiero et al. demonstrated that children with acute myeloid leukemia and a high level of IDO1 expression had a significantly reduced 8-year event-free survival compared with those who did not express IDO1 <xref rid="bb0080" ref-type="bibr">[16]</xref>. Together with our data, these data indicate that IDO1 expression is closely related to the development of bladder cancer.</p>
+      <p id="p0115">EMT is an important biological process for tumor migration and invasion. EMT is characterized by the conversion of polar, immobile epithelial cells into mesenchymal cells, which can lead to increased cell migration, resistance to apoptosis, and invasiveness. Simultaneously, the expression of EMT-related molecular markers also changes: the levels of E-cadherin, an epithelial cell marker, decrease, while the levels of N-cadherin and vimentin, mesenchymal cell markers, increase <xref rid="bb0085" ref-type="bibr">[17]</xref>, <xref rid="bb0090" ref-type="bibr">[18]</xref>. Similar to our results, Kolijn et al. <xref rid="bb0020" ref-type="bibr">[4]</xref> have demonstrated that increased IDO1 expression leads to the downregulation of E-cadherin expression and the upregulation of N-cadherin expression in prostate cancer cell lines. Chen et al. <xref rid="bb0095" ref-type="bibr">[19]</xref> also found that kynurenine, a metabolite of IDO1, causes activation of the aromatic hydrocarbon receptor, leading to degradation of E-cadherin in breast cancer. In the case of bladder cancer, despite extensive research on EMT, the effect of IDO1 on EMT has not been reported previously. This study demonstrates that IDO1 is one of the possible pathways for EMT in bladder cancer.</p>
+      <p id="p0120">Meanwhile, IDO1 has been identified as an important component of the proinflammatory, tumor-promoting environment <xref rid="bb0100" ref-type="bibr">[20]</xref>. It has been shown that the expression of IDO1 affects the secretion of various inflammatory cytokines, such as IL-6 and IL-10 <xref rid="bb0105" ref-type="bibr">[21]</xref>, <xref rid="bb0110" ref-type="bibr">[22]</xref>. IL-6 and its receptor IL-6R, located on the cell membrane, are important inflammatory factors that are responsible for activation of the downstream JAK2/STAT3 pathway. Activation of JAK2 protein kinase catalyzes the phosphorylation of STAT3 protein in the nucleus, thereby regulating the expression of EMT-related genes and other genes <xref rid="bb0115" ref-type="bibr">[23]</xref>. Arpita et al. <xref rid="bb0105" ref-type="bibr">[21]</xref> have indicated that IDO1 may promote tumorigenesis through the enhanced expression of the proinflammatory cytokine IL-6, while the lack of IDO1 or IL-6 expression leads to a decrease in the metastatic tumor burden and an increase in survival. In addition, it has been reported previously that IL-6 can promote cancer cell proliferation, invasion, and stem cell production <xref rid="bb0120" ref-type="bibr">[24]</xref>. In our study, ELISA experiments also confirmed that IDO1 affects the expression of IL-6. Similarly, Luo et al. have found that the IL-6/STAT3 signaling pathway affects EMT. They discovered that polyphyllin I, a natural compound, can reverse EMT by regulating the IL-6/STAT3 signaling pathway in non&#x2013;small cell lung cancer <xref rid="bb0125" ref-type="bibr">[25]</xref>. Moreover, Zhang et al. have determined that EMT can be regulated in prostate cancer by the ataxia telangiectasia-mutated (<italic>ATM</italic>) protein kinase/STAT3/PD-L1 signaling pathway and that PD-L1 is significantly reduced when ATM is knocked down <xref rid="bb0130" ref-type="bibr">[26]</xref>. Asgarova et al. also observed upregulated PD-L1 during EMT and described tumor cells' increased proliferation, infiltration, and migration capacities and greater ability to escape immune system detection during EMT <xref rid="bb0135" ref-type="bibr">[27]</xref>. Recent demonstrations showing that adjuvant combined IDO1 inhibitor and PD-L1 inhibitor therapy can greatly improve the effectiveness of immunotherapy <xref rid="bb0140" ref-type="bibr">[28]</xref>, <xref rid="bb0145" ref-type="bibr">[29]</xref>, <xref rid="bb0150" ref-type="bibr">[30]</xref> suggest that IDO1 and PD-L1 may be closely related. In this context, our findings suggest that they may be linked in the EMT process. Therefore, PD-L1 not only participates in tumor immune evasion but also participates in EMT. Thus, we hypothesized that IDO1 may promote EMT in bladder cancer <italic>via</italic> the IL-6/STAT3/PD-L1 signaling pathway (<xref rid="f0035" ref-type="fig">Figure 7</xref>).<fig id="f0035"><label>Figure 7</label><caption><p>The proposed model is a graphical representation of the mechanism of interaction of IDO1 and IL6/STAT3/PD-L1 in EMT regulation in bladder tumor cells.</p></caption><alt-text id="al0035">Figure 7</alt-text><graphic xlink:href="gr7"/></fig></p>
+      <p id="p0125">One limitation of this study should be noted. The role of IDO1 in bladder cancer was only analyzed <italic>in vitro</italic> using cell lines. We will further validate our findings in animal models and further explore the mechanisms by which IDO1 is responsible for the development of bladder cancer.</p>
+    </sec>
+    <sec id="s0110">
+      <title>Conclusion</title>
+      <p id="p0130">In summary, our data reveal that IDO1 significantly promotes the EMT process during bladder cancer development. Knockdown of IDO1 effectively targets cellular EMT by inhibiting the IL-6/STAT3/PD-L1 signaling pathway. Thus, inhibitors of IDO1 may become a new approach for the treatment of bladder cancer in the future.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="bi0005">
+      <title>References</title>
+      <ref id="bb0005">
+        <label>1</label>
+        <element-citation publication-type="journal" id="rf0005">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siegel</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer statistics, 2016</article-title>
+          <source>CA Cancer J Clin</source>
+          <volume>66</volume>
+          <issue>1</issue>
+          <year>2016</year>
+          <fpage>7</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="pmid">26742998</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0010">
+        <label>2</label>
+        <element-citation publication-type="journal" id="rf0010">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alfred Witjes</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lebret</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Comp&#xE9;rat</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Cowan</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>De Santis</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bruins</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Hern&#xE1;ndez</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Espin&#xF3;s</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Dunn</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rouanne</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Updated 2016 EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer</article-title>
+          <source>Eur Urol</source>
+          <volume>71</volume>
+          <issue>3</issue>
+          <year>2017</year>
+          <fpage>462</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="pmid">27375033</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0015">
+        <label>3</label>
+        <element-citation publication-type="journal" id="rf0015">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boyland</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title>The metabolism of tryptophan. 2. The metabolism of tryptophan in patients suffering from cancer of the bladder</article-title>
+          <source>Biochem J</source>
+          <volume>64</volume>
+          <issue>3</issue>
+          <year>1956</year>
+          <fpage>578</fpage>
+          <pub-id pub-id-type="pmid">13373811</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0020">
+        <label>4</label>
+        <element-citation publication-type="journal" id="rf0020">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kolijn</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Verhoef</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Smid</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>B&#xF6;ttcher</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Jenster</surname>
+              <given-names>GW</given-names>
+            </name>
+            <name>
+              <surname>Debets</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>van Leenders</surname>
+              <given-names>GJLH</given-names>
+            </name>
+          </person-group>
+          <article-title>Epithelial-mesenchymal transition in human prostate cancer demonstrates enhanced immune evasion marked by IDO1 expression</article-title>
+          <source>Cancer Res</source>
+          <volume>78</volume>
+          <issue>16</issue>
+          <year>2018</year>
+          <fpage>4671</fpage>
+          <lpage>4679</lpage>
+          <pub-id pub-id-type="pmid">29921693</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0025">
+        <label>5</label>
+        <element-citation publication-type="journal" id="rf0025">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schafer</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hough</surname>
+              <given-names>KP</given-names>
+            </name>
+            <name>
+              <surname>Sawant</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Grant</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Thannickal</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>Zmijewski</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ponnazhagan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Deshane</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoleamine 2,3-dioxygenase regulates anti-tumor immunity in lung cancer by metabolic reprogramming of immune cells in the tumor microenvironment</article-title>
+          <source>Oncotarget</source>
+          <volume>7</volume>
+          <issue>46</issue>
+          <year>2016</year>
+          <fpage>75407</fpage>
+          <lpage>75424</lpage>
+          <pub-id pub-id-type="pmid">27705910</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0030">
+        <label>6</label>
+        <element-citation publication-type="journal" id="rf0030">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindstr&#xF6;m</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Aittoniemi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jylh&#xE4;v&#xE4;</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Eklund</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hurme</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Paavonen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Oja</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>It&#xE4;l&#xE4;-Remes</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sinisalo</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoleamine 2,3-dioxygenase activity and expression in patients with chronic lymphocytic leukemia</article-title>
+          <source>Clin Lymphoma Myeloma Leuk</source>
+          <volume>12</volume>
+          <issue>5</issue>
+          <year>2012</year>
+          <fpage>363</fpage>
+          <pub-id pub-id-type="pmid">22981691</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0035">
+        <label>7</label>
+        <element-citation publication-type="journal" id="rf0035">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ben-Haj-Ayed</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Moussa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ghedira</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gabbouj</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Miled</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bouzid</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Tebra-Mrad</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bouaouina</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Chouchane</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zakhama</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Prognostic value of indoleamine 2,3-dioxygenase activity and expression in nasopharyngeal carcinoma</article-title>
+          <source>Immunol Lett</source>
+          <volume><bold>16</bold>9</volume>
+          <year>2016</year>
+          <fpage>23</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="pmid">26608400</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0040">
+        <label>8</label>
+        <element-citation publication-type="journal" id="rf0040">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nonaka</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Saga</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Fujiwara</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Akimoto</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kagawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Takei</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Machida</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Takikawa</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoleamine 2,3-dioxygenase promotes peritoneal dissemination of ovarian cancer through inhibition of natural killercell function and angiogenesis promotion</article-title>
+          <source>Int J Oncol</source>
+          <volume>38</volume>
+          <issue>1</issue>
+          <year>2011</year>
+          <fpage>113</fpage>
+          <lpage>120</lpage>
+          <pub-id pub-id-type="pmid">21109932</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0045">
+        <label>9</label>
+        <element-citation publication-type="journal" id="rf0045">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wei</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>Xl</given-names>
+            </name>
+          </person-group>
+          <article-title>High Indoleamine 2,3-Dioxygenase Is Correlated With Microvessel Density and Worse Prognosis in Breast Cancer</article-title>
+          <source>Front Immunol</source>
+          <volume>9</volume>
+          <year>2018</year>
+          <fpage>724</fpage>
+          <pub-id pub-id-type="pmid">29719533</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0050">
+        <label>10</label>
+        <element-citation publication-type="journal" id="rf0050">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dowlati</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nethery</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kern</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Combined inhibition of epidermal growth factor receptor and JAK/STAT pathways results in greater growth inhibition in vitro than single agent therapy</article-title>
+          <source>Mol Cancer Ther</source>
+          <volume>3</volume>
+          <issue>4</issue>
+          <year>2004</year>
+          <fpage>459</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="pmid">15078989</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0055">
+        <label>11</label>
+        <element-citation publication-type="journal" id="rf0055">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Livak</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Schmittgen</surname>
+              <given-names>TDJM</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T))</article-title>
+          <source>Method</source>
+          <volume>25</volume>
+          <issue>4</issue>
+          <year>2001</year>
+          <fpage>402</fpage>
+          <lpage>408</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0060">
+        <label>12</label>
+        <element-citation publication-type="journal" id="rf0060">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsai</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Epithelial-mesenchymal plasticity in carcinoma metastasis</article-title>
+          <source>Genes Dev</source>
+          <volume>27</volume>
+          <issue>20</issue>
+          <year>2013</year>
+          <fpage>2192</fpage>
+          <lpage>2206</lpage>
+          <pub-id pub-id-type="pmid">24142872</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0065">
+        <label>13</label>
+        <element-citation publication-type="journal" id="rf0065">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sullivan</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name>
+              <surname>Sasser</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Axel</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Vesuna</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Raman</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Ramirez</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Oberyszyn</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>BM</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin-6 induces an epithelial-mesenchymal transition phenotype in human breast cancer cells</article-title>
+          <source>Oncogene</source>
+          <volume>28</volume>
+          <issue>33</issue>
+          <year>2009</year>
+          <fpage>2940</fpage>
+          <pub-id pub-id-type="pmid">19581928</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0070">
+        <label>14</label>
+        <element-citation publication-type="journal" id="rf0070">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Uyttenhove</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Pilotte</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Theate</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Stroobant</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Colau</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Parmentier</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Boon</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Den Eynde</surname>
+              <given-names>BV</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence for a tumoral immune resistance mechanism based on tryptophan degradation by indoleamine 2,3-dioxygenase</article-title>
+          <source>Nat Med</source>
+          <volume>9</volume>
+          <issue>10</issue>
+          <year>2003</year>
+          <fpage>1269</fpage>
+          <lpage>1274</lpage>
+          <pub-id pub-id-type="pmid">14502282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0075">
+        <label>15</label>
+        <element-citation publication-type="journal" id="rf0075">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Furuhashi</surname>
+              <given-names>SK</given-names>
+            </name>
+          </person-group>
+          <article-title>Increased serum kynurenine/tryptophan ratio correlates with disease progression in lung cancer</article-title>
+          <source>Lung Cancer</source>
+          <volume>67</volume>
+          <issue>3</issue>
+          <year>2010</year>
+          <fpage>361</fpage>
+          <lpage>365</lpage>
+          <pub-id pub-id-type="pmid">19487045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0080">
+        <label>16</label>
+        <element-citation publication-type="journal" id="rf0080">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Folgiero</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Goffredo</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Filippini</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Masetti</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bonanno</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Caruso</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bertaina</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Mastronuzzi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gaspari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zecca</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoleamine 2,3-dioxygenase 1 (IDO1) activity in leukemia blasts correlates with poor outcome in childhood acute myeloid leukemia</article-title>
+          <source>Oncotarget</source>
+          <volume>5</volume>
+          <issue>8</issue>
+          <year>2013</year>
+          <fpage>2052</fpage>
+          <lpage>2064</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0085">
+        <label>17</label>
+        <element-citation publication-type="journal" id="rf0085">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Datta</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of EMT in Colorectal Cancer: A Culprit in Metastasis</article-title>
+          <source>Cancers (Basel)</source>
+          <volume>9</volume>
+          <issue>12</issue>
+          <year>2017</year>
+          <fpage>171</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0090">
+        <label>18</label>
+        <element-citation publication-type="journal" id="rf0090">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gaianigo</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Melisi</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Carbone</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>EMT and Treatment Resistance in Pancreatic Cancer</article-title>
+          <source>Cancers (Basel)</source>
+          <volume>9</volume>
+          <issue>9</issue>
+          <year>2017</year>
+          <fpage>122</fpage>
+          <lpage>138</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0095">
+        <label>19</label>
+        <element-citation publication-type="journal" id="rf0095">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>JY</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Tsai</surname>
+              <given-names>KK</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Hung</surname>
+              <given-names>WC</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer/stroma interplay via cyclooxygenase-2 and indoleamine 2,3-dioxygenase promotes breast cancer progression</article-title>
+          <source>Breast Cancer Res</source>
+          <volume>16</volume>
+          <issue>4</issue>
+          <year>2014</year>
+          <fpage>410</fpage>
+          <pub-id pub-id-type="pmid">25060643</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0100">
+        <label>20</label>
+        <element-citation publication-type="journal" id="rf0100">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muller</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Chandler</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Duhadaway</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Everhart</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>BA</given-names>
+              <suffix>III</suffix>
+            </name>
+            <name>
+              <surname>Kahler</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Pihkala</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Soler</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Munn</surname>
+              <given-names>DH</given-names>
+            </name>
+          </person-group>
+          <article-title>Chronic inflammation that facilitates tumor progression creates local immune suppression by inducing indoleamine 2,3 dioxygenase</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <volume>105</volume>
+          <issue>44</issue>
+          <year>2008</year>
+          <fpage>17073</fpage>
+          <lpage>17078</lpage>
+          <pub-id pub-id-type="pmid">18952840</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0105">
+        <label>21</label>
+        <element-citation publication-type="journal" id="rf0105">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mondal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>DuHadaway</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Sutanto-Ward</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Prendergast</surname>
+              <given-names>GC</given-names>
+            </name>
+            <name>
+              <surname>Bravo-Nuevo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Muller</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <article-title>IDO1 is an Integral Mediator of Inflammatory Neovascularization</article-title>
+          <source>Ebiomedicine</source>
+          <volume>14</volume>
+          <year>2016</year>
+          <fpage>74</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="pmid">27889479</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0110">
+        <label>22</label>
+        <element-citation publication-type="journal" id="rf0110">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haruki</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Miyazaki</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Inata</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Sasaki</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yamamoto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kandori</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yakura</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Noguchi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Touge</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ishikura</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Indoleamine 2,3-dioxygenase 1 in corneal endothelial cells limits herpes simplex virus type 1-induced acquired immune response</article-title>
+          <source>Br J Ophthalmol</source>
+          <volume>99</volume>
+          <issue>10</issue>
+          <year>2015</year>
+          <fpage>1435</fpage>
+          <lpage>1442</lpage>
+          <pub-id pub-id-type="pmid">26142400</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0115">
+        <label>23</label>
+        <element-citation publication-type="journal" id="rf0115">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abubaker</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Luwor</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Escalona</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>McNally</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Quinn</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>EW</given-names>
+            </name>
+            <name>
+              <surname>Findlay</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Targeted Disruption of the JAK2/STAT3 Pathway in Combination with Systemic Administration of Paclitaxel Inhibits the Priming of Ovarian Cancer Stem Cells Leading to a Reduced Tumor Burden</article-title>
+          <source>Front Oncol</source>
+          <volume>4</volume>
+          <year>2014</year>
+          <fpage>75</fpage>
+          <pub-id pub-id-type="pmid">24782986</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0120">
+        <label>24</label>
+        <element-citation publication-type="journal" id="rf0120">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>XL</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>Interleukin-6 signaling regulates anchorage-independent growth, proliferation, adhesion and invasion in human ovarian cancer cells</article-title>
+          <source>Cytokine</source>
+          <volume>59</volume>
+          <issue>2</issue>
+          <year>2012</year>
+          <fpage>228</fpage>
+          <lpage>236</lpage>
+          <pub-id pub-id-type="pmid">22595649</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0125">
+        <label>25</label>
+        <element-citation publication-type="journal" id="rf0125">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lou</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>KY</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Polyphyllin I Overcomes EMT-Associated Resistance to Erlotinib in Lung Cancer Cells via IL-6/STAT3 Pathway Inhibition</article-title>
+          <source>Biol Pharm Bull</source>
+          <volume>40</volume>
+          <issue>8</issue>
+          <year>2017</year>
+          <fpage>1306</fpage>
+          <pub-id pub-id-type="pmid">28515374</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0130">
+        <label>26</label>
+        <element-citation publication-type="journal" id="rf0130">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>BX</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zang</surname>
+              <given-names>YC</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>YB</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>ATM-JAK-PD-L1 signaling pathway inhibition decreases EMT and metastasis of androgen-independent prostate cancer</article-title>
+          <source>Mol Med Rep</source>
+          <volume>17</volume>
+          <issue>5</issue>
+          <year>2018</year>
+          <fpage>7045</fpage>
+          <lpage>7054</lpage>
+          <pub-id pub-id-type="pmid">29568923</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0135">
+        <label>27</label>
+        <element-citation publication-type="journal" id="rf0135">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asgarova</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Asgarov</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Godet</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Peixoto</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Nadaradjane</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Boyer-Guittaut</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Galaine</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Guenat</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mougey</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Perrard</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>PD-L1 expression is regulated by both DNA methylation and NF-kB during EMT signaling in non-small cell lung carcinoma</article-title>
+          <source>Oncoimmunology</source>
+          <volume>7</volume>
+          <issue>5</issue>
+          <year>2018</year>
+          <object-id pub-id-type="publisher-id">e1423170</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0140">
+        <label>28</label>
+        <element-citation publication-type="journal" id="rf0140">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhai</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ladomersky</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dostal</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Lauing</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Swoap</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Billingham</surname>
+              <given-names>LK</given-names>
+            </name>
+            <name>
+              <surname>Gritsina</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mccusker</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Binder</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-tumor cell IDO1 predominantly contributes to enzyme activity and response to CTLA-4/PD-L1 inhibition in mouse glioblastoma</article-title>
+          <source>Brain Behav Immun</source>
+          <volume>62</volume>
+          <year>2017</year>
+          <fpage>24</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="pmid">28179106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0145">
+        <label>29</label>
+        <element-citation publication-type="journal" id="rf0145">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>HQ</given-names>
+            </name>
+            <name>
+              <surname>Zou</surname>
+              <given-names>BQ</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>SY</given-names>
+            </name>
+          </person-group>
+          <article-title>Expression and prognostic values of PD-1, PD-L1 and IDO-1 in sinonasal malignant mucosal melanoma</article-title>
+          <source>Zhonghua Bing Li Xue Za Zhi</source>
+          <volume>46</volume>
+          <issue>11</issue>
+          <year>2017</year>
+          <fpage>782</fpage>
+          <pub-id pub-id-type="pmid">29136692</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0150">
+        <label>30</label>
+        <element-citation publication-type="journal" id="rf0150">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosenbaum</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Gigliotti</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Pai</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Parangi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wachtel</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mino-Kenudson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gunda</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Faquin</surname>
+              <given-names>WC</given-names>
+            </name>
+          </person-group>
+          <article-title>PD-L1 and IDO1 Are Expressed in Poorly Differentiated Thyroid Carcinoma</article-title>
+          <source>Endocr Pathol</source>
+          <volume>29</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">29280051</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <ack id="ac0005">
+      <sec id="s0115">
+        <title>Acknowledgements</title>
+        <p id="p0135">This work was supported in part by a grant from the <funding-source id="gts0005">National Natural Science Foundation of China</funding-source> (#81472389).</p>
+      </sec>
+      <sec id="s0120">
+        <title>Conflict of Interest Statement</title>
+        <p id="p0140">The authors declared that there is no conflict of interest in this work.</p>
+      </sec>
+    </ack>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1 @@
+GL induces DNA damage and activation of pATM/ATR, which phosphorylates H2AX and CHK1 to induce cell cycle arrest at the G2/M phase by CDC25C inhibition. Activation of pATM/ATR also induces apoptosis through a CHK1-independent pathway.

@@ -1,0 +1,1436 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Med Sci Monit</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Med. Sci. Monit</journal-id>
+      <journal-id journal-id-type="publisher-id">Medical Science Monitor</journal-id>
+      <journal-title-group>
+        <journal-title>Medical Science Monitor : International Medical Journal of Experimental and Clinical Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1234-1010</issn>
+      <issn pub-type="epub">1643-3750</issn>
+      <publisher>
+        <publisher-name>International Scientific Literature, Inc.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">30589833</article-id>
+      <article-id pub-id-type="pmc">6322368</article-id>
+      <article-id pub-id-type="doi">10.12659/MSM.911268</article-id>
+      <article-id pub-id-type="publisher-id">911268</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Animal Study</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Stromal-Interacting Molecule 1 (Stim1)/Orai1 Modulates Endothelial Permeability in Ventilator-Induced Lung Injury</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Song</surname>
+            <given-names>Xiumei</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn1-medscimonit-24-9413">A</xref>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-24-9413">B</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-24-9413">C</xref>
+          <xref ref-type="author-notes" rid="fn4-medscimonit-24-9413">D</xref>
+          <xref ref-type="author-notes" rid="fn5-medscimonit-24-9413">E</xref>
+          <xref ref-type="author-notes" rid="fn6-medscimonit-24-9413">F</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Yang</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-24-9413">B</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-24-9413">C</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dong</surname>
+            <given-names>Ling</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-24-9413">B</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-24-9413">C</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yuelan</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="fn1-medscimonit-24-9413">A</xref>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-24-9413">B</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-24-9413">C</xref>
+          <xref ref-type="author-notes" rid="fn4-medscimonit-24-9413">D</xref>
+          <xref ref-type="author-notes" rid="fn5-medscimonit-24-9413">E</xref>
+          <xref ref-type="author-notes" rid="fn6-medscimonit-24-9413">F</xref>
+        </contrib>
+        <aff id="af1-medscimonit-24-9413">Department of Anesthesiology, Qianfoshan Hospital, Shandong University, Jinan, Shandong, P.R. China</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="c1-medscimonit-24-9413">Corresponding Author: Yuelan Wang, e-mail: <email>ssm801117@163.com</email></corresp>
+        <fn id="fn1-medscimonit-24-9413">
+          <label>A</label>
+          <p>Study Design</p>
+        </fn>
+        <fn id="fn2-medscimonit-24-9413">
+          <label>B</label>
+          <p>Data Collection</p>
+        </fn>
+        <fn id="fn3-medscimonit-24-9413">
+          <label>C</label>
+          <p>Statistical Analysis</p>
+        </fn>
+        <fn id="fn4-medscimonit-24-9413">
+          <label>D</label>
+          <p>Data Interpretation</p>
+        </fn>
+        <fn id="fn5-medscimonit-24-9413">
+          <label>E</label>
+          <p>Manuscript Preparation</p>
+        </fn>
+        <fn id="fn6-medscimonit-24-9413">
+          <label>F</label>
+          <p>Literature Search</p>
+        </fn>
+        <fn id="fn7-medscimonit-24-9413">
+          <label>G</label>
+          <p>Funds Collection</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>12</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>24</volume>
+      <fpage>9413</fpage>
+      <lpage>9423</lpage>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>5</month>
+          <year>2018</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>8</month>
+          <year>2018</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; Med Sci Monit, 2018</copyright-statement>
+        <copyright-year>2018</copyright-year>
+        <license license-type="open-access">
+          <license-p>This work is licensed under Creative Common Attribution-NonCommercial-NoDerivatives 4.0 International (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</ext-link>)</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>Increased endothelial permeability is involved in ventilator-induced lung injury (VILI). Stim1/Orai1 mediates store-operated Ca<sup>2+</sup> activation, which modulates endothelial permeability. However, the underlying mechanisms of the Stim1/Orai1 pathway in VILI are poorly understood.</p>
+        </sec>
+        <sec>
+          <title>Material/Methods</title>
+          <p>Wistar rats were exposed to low tidal volume (7 mL/kg) or high tidal volume (40 mL/kg) ventilation. Human Lung Microvascular Endothelial Cells (HULEC) were subjected to 8% or 18% cyclic stretching (CS). BTP2 pretreatment was performed. Lung wet/dry weight ratio, histological changes of lung injury, and bronchoalveolar lavage fluid (BALF) protein were measured. Endothelial permeability and intracellular calcium concentration were evaluated in HULECs. Protein expression was determined by Western blotting.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>High tidal volume mechanical ventilation-induced lung injury (such as severe congestion and hemorrhage) and BTP2 pretreatment protected lungs from injury. The expression of Stim1, Orai1, and PKC&#x3B1;, lung wet/dry weight ratio, and BALF protein level significantly increased in the high tidal volume group compared to the control group and low tidal volume group. Importantly, BTP2 pretreatment alleviated the above-mentioned effects. Compared with exposure to 8% CS, the protein levels of Stim1, Orai1, and PKC&#x3B1; in HULECs significantly increased after exposure to 18% CS for 4 h, whereas BTP2 pretreatment significantly inhibited the increase (P&lt;0.05). BTP2 pretreatment also suppressed increase of endothelial permeability and the intracellular calcium induced by 18% CS (P&lt;0.05).</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>When exposed to high tidal volume or large-magnitude CS, Stim1 and Orai1 expression are upregulated, which further activates calcium-sensitive PKC&#x3B1; and results in calcium overload, endothelial hyperpermeability, and, finally, lung injury.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <title>MeSH Keywords</title>
+        <kwd>Capillary Permeability</kwd>
+        <kwd>Endothelium</kwd>
+        <kwd>Stress, Mechanical</kwd>
+        <kwd>Ventilator-Induced Lung Injury</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>Mechanical ventilation adjuvant therapy, an effective means of artificial replacement of spontaneous breathing, is widely used in patients with respiratory dysfunction in the Intensive Care Unit (ICU), controlled respiration during surgery under general anesthesia, emergency recovery, and other medical processes. It is a basic treatment for the management of patients unable to maintain adequate ventilation and oxygenation. However, mechanical ventilation can cause ventilator-induced lung injury (VILI), thus aggravating respiratory failure [<xref rid="b1-medscimonit-24-9413" ref-type="bibr">1</xref>&#x2013;<xref rid="b3-medscimonit-24-9413" ref-type="bibr">3</xref>]. During mechanical ventilation, the endothelial cells (ECs) are activated, membrane integrity of vascular capillaries is disrupted, and the alveolar lumen fluid exudation is increased. Ventilation dysfunction and severe pulmonary edema are observed [<xref rid="b4-medscimonit-24-9413" ref-type="bibr">4</xref>,<xref rid="b5-medscimonit-24-9413" ref-type="bibr">5</xref>]. However, the underlying mechanisms of VILI are not clearly delineated.</p>
+      <p>Mechanical ventilation can induce Ca<sup>2+</sup> overload, which leads to marked increase of endothelial permeability and endothelial barrier dysfunction [<xref rid="b6-medscimonit-24-9413" ref-type="bibr">6</xref>,<xref rid="b7-medscimonit-24-9413" ref-type="bibr">7</xref>]. Stim1 (Stromal-interacting molecule 1), a sensor of intracellular calcium, located on the endoplasmic reticulum (ER), regulates store-operated Ca<sup>2+</sup> entry (SOCE) to affect cell activation [<xref rid="b8-medscimonit-24-9413" ref-type="bibr">8</xref>&#x2013;<xref rid="b10-medscimonit-24-9413" ref-type="bibr">10</xref>]. Orai1, located on the plasma membrane, is a prototypic store-operated Ca<sup>2+</sup> release-activated Ca<sup>2+</sup> channel protein [<xref rid="b11-medscimonit-24-9413" ref-type="bibr">11</xref>&#x2013;<xref rid="b14-medscimonit-24-9413" ref-type="bibr">14</xref>]. Stim1 and Orai1 mediate SOC activation [<xref rid="b11-medscimonit-24-9413" ref-type="bibr">11</xref>], which is important for control of the endothelial barrier [<xref rid="b15-medscimonit-24-9413" ref-type="bibr">15</xref>]. The classical PKC&#x3B1; isoform in ECs, which contains calcium-binding domains, has an important role in pulmonary edema [<xref rid="b16-medscimonit-24-9413" ref-type="bibr">16</xref>&#x2013;<xref rid="b18-medscimonit-24-9413" ref-type="bibr">18</xref>]. We infer that Stim1 and Orai1 mediates Ca<sup>2+</sup> influx, which activates PKC&#x3B1; and induces lung edema during mechanical ventilation.</p>
+      <p>In this study, we investigated the roles of Stim1 and Orai1 in VILI <italic>in vitro</italic> and <italic>in vivo</italic>, and analyzed the underlying mechanisms of lung edema in VILI.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>Material and Methods</title>
+      <sec>
+        <title>Cell culture and cyclic stretching</title>
+        <p>Human lung microvascular endothelial cells (HULECs) were purchased from ACTT (Maryland, USA) and seeded at a density of 5&#xD7;10<sup>5</sup> cells/well on collagen I-coated flexible-bottom BioFlex plates in MCDB131 medium (Gibco, Carlsbad, USA) supplemented with 10% FBS (Gibco, Carlsbad, USA), 10 ng/ml epidermal growth factor (PeproTech, Rocky Hill, USA), 1 &#x3BC;g/ml hydrocortisone, and 10 mM glutamine.</p>
+        <p>The Flexcell Strain Unit (FX-5000; Flexcell International, Hillsborough, NC) was used for the cyclic stretching experiments. A pattern of CS in the basement membrane surface area at a frequency 0.5 Hz with a stretch-to-relaxation relation of 1: 1 was used [<xref rid="b19-medscimonit-24-9413" ref-type="bibr">19</xref>,<xref rid="b20-medscimonit-24-9413" ref-type="bibr">20</xref>]. Cells were exposed to 8% CS and 18% CS for 2 h or 4 h to determine optimal experimental conditions. Then, cells were divided into 4 groups: control group, 18% CS group, 18% CS+DMSO, and 18% CS +BTP2. Non-stretched cells were used in the control group. In the 18% CS+BTP2 and 18% CS+DMSO group, 20 &#x3BC;M of N-(4-[3,5-bis(trifluoromethyl)-1H-pyrazol-1-yl] phenyl)-4-methyl-1,2,3-thiadiazole-5-carboxamide (BTP2; Santa Cruz Biotechnology, Inc., Santa Cruz, USA) or 3 &#x3BC;l/ml of DMSO (Sigma Chemical Co., St. Louis, USA) was used for 2 h prior to CS.</p>
+      </sec>
+      <sec>
+        <title>Fluo-3 calcium measurement by flow cytometry</title>
+        <p>Immediately after stretching, Fluo-3 AM (Beyotime, Shanghai, China) was added to HULECs to the final concentration of 5&#x2013;10 &#x3BC;M, which were incubated for 30 min in a 37&#xB0;C incubator shielded from light, as previously described [<xref rid="b21-medscimonit-24-9413" ref-type="bibr">21</xref>]. At the same time, the negative control without Fuo-3AM treatment was set up. Cells were collected by centrifugation and re-suspended in calcium-free PBS at 10<sup>6</sup> cells/ml. Fluorescence intensity of 10<sup>4</sup> cells in each group was measured as intracellular calcium concentration by flow cytometry. Each experiment was repeated 3 times.</p>
+      </sec>
+      <sec>
+        <title>Endothelial permeability</title>
+        <p>Endothelial permeability was determined by the influx of Evans blue-labeled albumin across the endothelial monolayer [<xref rid="b22-medscimonit-24-9413" ref-type="bibr">22</xref>]. Cells of the control group and stretching cells were collected by trypsin digestion. Cells (6&#xD7;10<sup>5</sup>/ml) were seeded on 0.4-&#x3BC;m Transwell filters of 6-well plates. We placed 2.6 ml of MCDB131 complete medium in the lower chamber and added 1.5 ml cell suspension or complete medium in the upper chamber. When cell confluence reached 90%, 0.67 mg/ml Evans blue-labeled albumin (1.5 ml) was added to the upper chamber, and the culture medium in the lower chamber was replaced with 4% BSA (2.6 ml). Then, the culture plate was incubated at 37&#xB0;C. At 0.5 h, 1 h, 2 h, 4 h, and 8 h of incubation, 50 ul solution was drawn from the lower chamber to measure absorbance by a microplate reader at 620 nm. Each experiment was repeated 3 times.</p>
+      </sec>
+      <sec>
+        <title>Animals and treatments</title>
+        <p>Forty male healthy Wistar rats (Laboratory Animal Center, Shandong University, China) weighing 200&#x2013;220 g were randomly divided into 5 groups (n=8 in each group): control group (without ventilation), low tidal volume (V<sub>T</sub>=7ml/kg), high tidal volume (V<sub>T</sub>=40 ml/kg), DMSO group (received 0.4 ml/kg i.p. DMSO, 2 h prior to ventilation, V<sub>T</sub>=40 ml/kg), BTP-2 group (received 1mg/kg i.p. BTP-2, 2 h prior to ventilation, V<sub>T</sub>=40 ml/kg).</p>
+        <p>Rats in the control group did not receive ventilation, while rats in the other 4 groups were ventilated for 4 h using an ALC-V8 animal ventilator. Ventilation parameters were set as follows: a respiratory rate of 40 times/min, I/E ratio of 1: 3, a fraction of inspired oxygen of 21%, and no PEEP [<xref rid="b19-medscimonit-24-9413" ref-type="bibr">19</xref>]. Rats were intraperitoneally anesthetized with pentobarbital sodium (60 mg/kg) and ketamine (80 mg/kg). Anesthesia was maintained by intravenous pentobarbital at 30 mg/kg/h via the tail vein. Muscle relaxation was achieved by intravenous pancuronium (0.6 mg/kg/h) [<xref rid="b19-medscimonit-24-9413" ref-type="bibr">19</xref>,<xref rid="b23-medscimonit-24-9413" ref-type="bibr">23</xref>]. After ventilation, rats were sacrificed and the lungs were collected for further analysis. All animal experiments were conducted according to the ethical guidelines of Shandong University.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>BALF protein analysis and lung wet/dry ratios</title>
+        <p>Rats were sacrificed, and bronchoalveolar lavage fluid (BALF) was obtained by instilling 2 ml saline into the left lung 3 times. Approximately 5 ml lavage fluid was retrieved per rat. Samples were centrifuged and supernatants were collected. The protein content in the supernatant was measured using the BCA Protein Assay Kit <sup>[<xref rid="b24-medscimonit-24-9413" ref-type="bibr">24</xref>]</sup>. Each experiment was repeated 3 times.</p>
+        <p>For determination of lung wet-to-dry (W/D) weight ratio, the right lower lung was blotted on filter paper, weighed, and subsequently dried for 3 days to a constant weight in an oven at 60&#xB0;C. W/D weight ratio was calculated by dividing wet by dry lung weight. Each experiment was repeated 3 times.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Western blot analysis</title>
+        <p>Lung tissues were homogenized and lysed in RIPA buffer. Total protein contents were determined by BCA method. Equal amounts of protein samples (20 &#x3BC;g) were separated by NU-PAGE Bis-Tris (4&#x2013;12%) gel electrophoresis and transferred to nitrocellulose membranes. The membrane was incubated with primary antibodies of anti-Stim1 (1: 1000, Abcam, Burlingame, USA), Orai1 (1: 500, Santa Cruz Biotechnology, Inc., Santa Cruz, CA, USA), PKC&#x3B1; (1: 1000, Abcam), and &#x3B2;-actin (1: 1000, CST, Danvers, USA) overnight at 4&#xB0;C. Later, the membranes were washed at least 3 times with TBST at 15-min intervals. The appropriate horseradish peroxidase-conjugated secondary antibody (1: 10000, ZSGB-BIO, China) was added and incubated for 1 h at 37&#xB0;C. &#x3B2;-actin was used as an internal control. Protein bands were detected by the enhanced chemiluminescence (Millipore, Billerica, USA). The blot images were analyzed using Image J software. Each experiment was repeated 3 times.</p>
+      </sec>
+      <sec>
+        <title>HE staining</title>
+        <p>The right upper lung lobe was fixed in formalin, embedded in paraffin, and cut into 4-&#x3BC;m sections. The sections were then stained with H&amp;E and analyzed by light microscopy according to routine procedure. Each experiment was repeated 3 times.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Statistical analysis</title>
+        <p>Statistical analysis was performed using the Statistical Product and Service Solution (SPSS Inc. Chicago, USA) 19.0 statistics package. All measurement data conformed to normal distribution according to a Kolmogorov-Smirnov test (p&gt;0.05). The results are expressed as means &#xB1; SD. Differences among groups were determined by one-way analysis of variance (ANOVA) and Student&#x2019;s <italic>t</italic> test. Differences between groups were determined by least significant difference (LSD) testing. P&lt;0.05 was considered statistically significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Stim1 expression is upregulated in HULEC exposed to 18% CS</title>
+        <p>To evacuate the expression of Stim1 in HULEC exposed to CS, cells were treated with 8% and 18% CS for 0 h, 2 h, and 4 h. Stim1 protein level was detected by Western blotting. The relative density of Stim1 was not significantly different among the 8% CS groups and control group at 2 h and 4 h, but the level of Stim1 in the 18% CS group increased with stretching time. Compared with 8% CS for 4 h, the expression of Stim1 in HULEC exposed to 18% CS for 4 h was significantly upregulated (P&lt;0.01, <xref ref-type="fig" rid="f1-medscimonit-24-9413">Figure 1A, 1B</xref>).</p>
+      </sec>
+      <sec>
+        <title>BTP2 inhibits Orai1 expression in HULECs exposed to 18% CS for 4 h and levels of Stim1 and PKC&#x3B1; are decreased</title>
+        <p>To evaluate the impact of BTP2 pretreatment on levels of Orai1, Stim1, and PKC&#x3B1;, HULECs were exposed to 18% CS with or without pretreatment of BTP2 or DMSO, 2 h prior to CS. Western blotting showed that 18% CS for 4 h significantly increased the levels of Stim1, Orai1, and PKC&#x3B1; compared with the control group (P&lt;0.05, <xref ref-type="fig" rid="f2-medscimonit-24-9413">Figure 2</xref>). Compared with the 18% CS + DMSO group, the levels of Stim1, Orai1, and PKC&#x3B1; in cells treated with 18% CS + BTP2 were significantly decreased (P&lt;0.05). The expression of Stim1 in the 8% CS + BTP2 group was significantly higher than in the control group. However, PKC&#x3B1; level was not significantly different between the 18% CS + BTP2 group and control group. These results demonstrate that BTP2 inhibits Orai1 expression in HULECs exposed to 18% CS, and the levels of Stim1 and PKC&#x3B1; were also decreased when cells were treated with 18% CS + BTP2.</p>
+      </sec>
+      <sec>
+        <title>18% CS induces increased endothelial permeability and BTP2 pretreatment inhibits the process</title>
+        <p>To illustrate the effect of BTP2 on endothelial permeability, after exposure to 18% CS for 4 h, cells were seeded on Transwell filters. We found that endothelial permeability increased progressively in the CS group during the first 6 h, and there was no significant difference at 8 h among the different groups (<xref ref-type="fig" rid="f3-medscimonit-24-9413">Figure 3A</xref>). Then, endothelial permeability was compared in different groups at 4 h after stretching. The results showed BTP2 pretreatment inhibited the increase of endothelial permeability in HULECs exposed to 18% CS for 4 h compared with the 18% CS + DMSO group (P&lt;0.05, <xref ref-type="fig" rid="f3-medscimonit-24-9413">Figure 3B</xref>).</p>
+      </sec>
+      <sec>
+        <title>Cyclic stretching induces calcium influx and BTP2 inhibits it</title>
+        <p>To analyze the influence of BTP2 on calcium influx, the concentration of intracellular Ca<sup>2+</sup> was measured after stretching by flow cytometry (<xref ref-type="fig" rid="f4-medscimonit-24-9413">Figure 4A&#x2013;4D</xref>). Compared with the control group, intracellular Ca<sup>2+</sup> level was significantly increased in cells exposed to 18% CS for 4 h (<xref ref-type="fig" rid="f4-medscimonit-24-9413">Figure 4E</xref>). BTP2 blocked Ca<sup>2+</sup> influx and significantly decreased intracellular Ca<sup>2+</sup> compared with the 18% CS + DMSO group (P&lt;0.05). However, intracellular Ca<sup>2+</sup> in the 18% CS + BTP2 group increased more than in the control group. These results indicate that 18% CS induces calcium influx and BTP2 partially inhibits the process.</p>
+      </sec>
+      <sec>
+        <title>BTP2 administration alleviates lung pathological changes induced by high tidal volume ventilation</title>
+        <p>To observe the pathological changes after ventilation, HE staining was performed. Pathological evaluation revealed that lung tissue retained normal structure without alveolar congestion and hemorrhage in the low tidal volume group, the same as in the control group. However, high tidal volume ventilation induced alveolar congestion and hemorrhage, alveolar walls thickening, neutrophil infiltration, and fluid exudation in alveolar lumen. BTP2 pretreatment obviously attenuated these pathological changes compared with the DMSO group and protected lungs from VILI (<xref ref-type="fig" rid="f5-medscimonit-24-9413">Figure 5</xref>).</p>
+      </sec>
+      <sec>
+        <title>BTP2 pretreatment decreases the level of Orai1, Stim1, and PKC&#x3B1;</title>
+        <p>Rats were ventilated for 4 h with or without pretreatment by BTP2 or DMSO for 2 h. The expression of Stim1, orai1, and PKC&#x3B1; were detected by Western blotting (<xref ref-type="fig" rid="f6-medscimonit-24-9413">Figure 6</xref>). Compared with the control group, low tidal volume ventilation had no obvious effect on protein expression of Stim1, Orai1, and PKC&#x3B1; (P&gt;0.05). High tidal volume ventilation significantly increased the expression of them in lung tissue compared with low- tidal volume (P&lt;0.05). BTP2 administration reduced the expression of Orai1 and PKC&#x3B1; compared with the DMSO + high tidal volume group. The level of Stim1 after BTP2 injection decreased compared with the DMSO + high tidal volume group (P&lt;0.05), but still was increased compared with the control group (P&lt;0.05).</p>
+      </sec>
+      <sec>
+        <title>BTP2 pretreatment reverses the increase of W/D weight ratio and the total protein in BALF induced by high tidal volume</title>
+        <p>To evaluate the extent of lung edema, the lung W/D weight ratio and BALF protein were determined. W/D ratios and BALF protein significantly increased after high tidal volume ventilation for 4 h, while there was no obvious difference between the low tidal volume group and the control group (<xref ref-type="fig" rid="f7-medscimonit-24-9413">Figure 7A, 7B</xref>). BTP2 pretreatment reversed the increase of W/D ratios and BALF protein induced by high tidal volume ventilation and reduced lung edema.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Mechanical ventilation is essential for patients with acute respiratory distress syndrome and respiratory dysfunction, but VILI is also considered as an important factor contributing to mortality [<xref rid="b1-medscimonit-24-9413" ref-type="bibr">1</xref>&#x2013;<xref rid="b3-medscimonit-24-9413" ref-type="bibr">3</xref>]. Pulmonary edema is the major pathological change in VILI. Previous studies showed that ventilation can induce Ca<sup>2+</sup> overload in ECs, increase endothelial permeability, and lead to pulmonary edema [<xref rid="b6-medscimonit-24-9413" ref-type="bibr">6</xref>,<xref rid="b7-medscimonit-24-9413" ref-type="bibr">7</xref>,<xref rid="b25-medscimonit-24-9413" ref-type="bibr">25</xref>,<xref rid="b26-medscimonit-24-9413" ref-type="bibr">26</xref>]. The mechanism is partly understood but is still far from clear. Our study revealed that high tidal volume and high magnitude stretching activated SOCE though Stim1/Orai1 in ECs, and then activated PKC&#x3B1;, combining with more Ca<sup>2+</sup>, which increased endothelial permeability and induced lung edema. BTP2, an inhibitor of Orai1, prevented Ca<sup>2+</sup> influx, reversed endothelial hyperpermeability, and protected from lung edema.</p>
+      <p>Our team exposed pulmonary ECs to pathological or physiological CS (18% or 8% distension, respectively) to recapitulate a high and low tidal volume mechanical ventilation regimen [<xref rid="b19-medscimonit-24-9413" ref-type="bibr">19</xref>,<xref rid="b20-medscimonit-24-9413" ref-type="bibr">20</xref>]. The 8% CS had no significant effect on Stim1 protein expression. By contrast to the control group, the expression of Stim1 and Orai1 in EC exposed to 18% CS for 4 h was obviously elevated. We infer that pathological stretching can activate the Stim1/Orai1 signal pathway. Debroy et al. [<xref rid="b27-medscimonit-24-9413" ref-type="bibr">27</xref>] found that LPS induced Stim1 mRNA and protein expression in human and mouse lung ECs. Other researchers demonstrated Stim1 was activated by reactive oxygen species (ROS) via Orai1 channel and an elevation in cytosolic Ca<sup>2+</sup> in lung exposed to LPS, suggesting that Stim1/Orai1 signaling an important mechanism of ROS-mediated EC function and lung edema exposed to LPS [<xref rid="b8-medscimonit-24-9413" ref-type="bibr">8</xref>]. <italic>In vivo</italic>, we also found that mechanical ventilation at high tidal volume markedly increased the expression of Stim1 and Orai1. Our data suggest that endothelial Stim1/Orai1 pathway is involved in VILI.</p>
+      <p>Endothelial permeability mildly increased in Transwell filters after seeding for 2 h and obviously increased after 4&#x2013;6 h, and no significant difference at 8 h among different groups. We speculate that cells repair their own damage gradually after culturing for 8 h. Endothelial hyperpermeability is the initiation factor of lung edema. Our study showed that endothelial permeability significantly increased after ECs were exposed to 18% CS for 4 h. BALF protein and lung W/D ratio changes are functional measures of EC activation associated with increased vascular permeability, which induce lung edema directly [<xref rid="b28-medscimonit-24-9413" ref-type="bibr">28</xref>]. In this study, we found that high tidal volume ventilation led to an increase of total BALF protein and lung W/D ration. Lung edema was observed simultaneously. Pathologically, CS as a model to simulate high tidal volume ventilation-induced lung edema in rats can increase endothelial permeability.</p>
+      <p>Stim proteins sense the ER luminal Ca<sup>2+</sup> levels through their N-terminal Ca<sup>2+</sup>-binding EF-hand domains [<xref rid="b13-medscimonit-24-9413" ref-type="bibr">13</xref>,<xref rid="b29-medscimonit-24-9413" ref-type="bibr">29</xref>]. Then, the activation of Stim proteins follows a similar pattern of aggregation and translocation into ER-plasma membrane junctions and combines directly with the highly Ca<sup>2+</sup>-selective family of Orai channels to generate Ca<sup>2+</sup> entry signals [<xref rid="b30-medscimonit-24-9413" ref-type="bibr">30</xref>,<xref rid="b31-medscimonit-24-9413" ref-type="bibr">31</xref>]. BTP2, a store-operated calcium channel inhibitor, inhibits Orai1 channel, blocks Ca<sup>2+</sup> influx, and plays an important role in attenuating ischemia-reperfusion injury, thus regulating immune response and relieving inflammation [<xref rid="b32-medscimonit-24-9413" ref-type="bibr">32</xref>&#x2013;<xref rid="b35-medscimonit-24-9413" ref-type="bibr">35</xref>]. BTP2 pretreatment significantly inhibited the calcium influx after stretching stimulation through Orai1 channel. Our studies showed that the expression of Stim1 and Orai1 decreased, calcium concentration in EC decreased, and endothelial hyperpermeability was reversed. We infer that BTP2 may inhibit increase of endothelial permeability and ventilator-induced lung edema through Stim1/Orai1 mediated Ca<sup>2+</sup> influx.</p>
+      <p>The two main Ca<sup>2+</sup> influx channels of non-excitable cells are the Orai and TRP families of Ca<sup>2+</sup> channels. Stim1 can interact with TRPC1 and TRPC4 to mediate Ca<sup>2+</sup> entry-dependent disruption of the lung endothelial barrier [<xref rid="b36-medscimonit-24-9413" ref-type="bibr">36</xref>]. Stim1 also combines with TRPV4, a member of the TRP family, in the regulation of SOCE by its C-terminal domain through the protein-protein interaction [<xref rid="b37-medscimonit-24-9413" ref-type="bibr">37</xref>], and initiates the acute calcium-dependent permeability increase during ventilator-induced lung injury [<xref rid="b38-medscimonit-24-9413" ref-type="bibr">38</xref>]. Therefore, the mechanism underlying the role of Ca<sup>2+</sup> signaling in regulation of endothelial permeability of lung endothelium is very complex. Future studies should be performed to better understand the prominent role of Stim1 and Orai1 in mediating changes of endothelial permeability in VILI.</p>
+      <p>PKC is a family of serine/threonine kinases that has many different isotypes. The classical PKC&#x3B1; isoform in ECs, which contains calcium-binding domains, has an important role in pulmonary edema [<xref rid="b16-medscimonit-24-9413" ref-type="bibr">16</xref>&#x2013;<xref rid="b18-medscimonit-24-9413" ref-type="bibr">18</xref>]. Our study suggests that 18% cyclic stretching and large tidal volume ventilation induced PKC&#x3B1; expression in <italic>in vitro</italic> and <italic>in vivo</italic> models. PKC&#x3B1; are activated by signals such as increased cytosolic Ca<sup>2+</sup> [<xref rid="b16-medscimonit-24-9413" ref-type="bibr">16</xref>]. We found that PKC&#x3B1; expression was reduced after BTP2 pretreatment. Possibly because of decreasing Ca<sup>2+</sup>, PKC&#x3B1; was not activated. Activation of PKC&#x3B1; is accompanied by translocation to the plasma membrane [<xref rid="b39-medscimonit-24-9413" ref-type="bibr">39</xref>]; unfortunately, we did not examine PKC&#x3B1; translocation. We speculate that Stim1/Orai1 regulates vascular permeability via the calcium-sensitive PKC&#x3B1; signaling pathway (<xref ref-type="fig" rid="f8-medscimonit-24-9413">Figure 8</xref>). However, further study is needed to verify that activated PKC&#x3B1; not only depends on increase of expression, but also on increase of function.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>In conclusion, our findings demonstrate that Stim1/Orai1 elevates permeability of ECs exposed to CS and regulates ventilator-induced lung edema, perhaps through calcium-sensitive PKC&#x3B1;. BTP2 can inhibit calcium influx, reverse endothelial hyperpermeability, and reduce lung injury via inhibiting the Orai1 channel. Our study provides an important mechanism for lung edema formation during mechanical ventilation and a potent therapeutic target for protecting the lungs from VILI.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn8-medscimonit-24-9413">
+        <p><bold>Source of support:</bold> This work was supported by the Natural Science Foundation of Shandong Province (Grant No. ZR2014HQ029) and the National Natural Science Foundation of China (Grant No. 81570074)</p>
+      </fn>
+      <fn id="fn9-medscimonit-24-9413" fn-type="COI-statement">
+        <p>
+          <bold>Conflict of interests</bold>
+        </p>
+        <p>None.</p>
+      </fn>
+    </fn-group>
+    <glossary id="GL">
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term id="G1">VILI</term>
+          <def>
+            <p>ventilator-induced lung injury</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G2">DMSO</term>
+          <def>
+            <p>dimethyl sulfoxide</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G3">BALF</term>
+          <def>
+            <p>bronchoalveolar lavage fluid</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G4">W/D</term>
+          <def>
+            <p>wet/dry weight</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G5">Stim1</term>
+          <def>
+            <p>stromal-interacting molecule 1</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G6">CS</term>
+          <def>
+            <p>cyclic stretching</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G7">SOCE</term>
+          <def>
+            <p>store-operated calcium entry</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G8">HULEC</term>
+          <def>
+            <p>human lung microvascular endothelial cells</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="G9">ARDS</term>
+          <def>
+            <p>acute respiratory distress syndrome</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <title>References</title>
+      <ref id="b1-medscimonit-24-9413">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beitler</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Malhotra</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>BT</given-names>
+            </name>
+          </person-group>
+          <article-title>Ventilator-induced Lung Injury</article-title>
+          <source>Clin Chest Med</source>
+          <year>2016</year>
+          <volume>37</volume>
+          <fpage>633</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="pmid">27842744</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b2-medscimonit-24-9413">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Villar</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Blanco</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Slutsky</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <article-title>Ventilator-induced lung injury and sepsis: 2 sides of the same coin?</article-title>
+          <source>Minerva Anestesiol</source>
+          <year>2011</year>
+          <volume>77</volume>
+          <fpage>647</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="pmid">21617628</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b3-medscimonit-24-9413">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuchnicka</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Maciejewski</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Ventilator-associated lung injury</article-title>
+          <source>Anaesthesiol Intensive Ther</source>
+          <year>2013</year>
+          <volume>45</volume>
+          <fpage>164</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">24092514</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b4-medscimonit-24-9413">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meliton</surname>
+              <given-names>AY</given-names>
+            </name>
+            <name>
+              <surname>Mu&#xF1;oz</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Meliton</surname>
+              <given-names>LN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mechanical induction of group V phospholipase A(2) causes lung inflammation and acute lung injury</article-title>
+          <source>Am J Physiol Lung Cell Mol Physiol</source>
+          <year>2013</year>
+          <volume>304</volume>
+          <fpage>L689</fpage>
+          <lpage>700</lpage>
+          <pub-id pub-id-type="pmid">23525785</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b5-medscimonit-24-9413">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fan</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Villar</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Slutsky</surname>
+              <given-names>AS</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel approaches to minimize ventilator-induced lung injury</article-title>
+          <source>BMC Med</source>
+          <year>2013</year>
+          <volume>11</volume>
+          <fpage>85</fpage>
+          <pub-id pub-id-type="pmid">23536968</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b6-medscimonit-24-9413">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiruppathi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ahmmed</surname>
+              <given-names>GU</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Malik</surname>
+              <given-names>AB</given-names>
+            </name>
+          </person-group>
+          <article-title>Ca2+ signaling, TRP channels, and endothelial permeability</article-title>
+          <source>Microcirculation</source>
+          <year>2006</year>
+          <volume>13</volume>
+          <fpage>693</fpage>
+          <lpage>708</lpage>
+          <pub-id pub-id-type="pmid">17085428</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b7-medscimonit-24-9413">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jurek</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Hirano-Kobayashi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prevention of ventilator-induced lung edema by inhalation of nanoparticles releasing ruthenium red</article-title>
+          <source>Am J Respir Cell Mol Biol</source>
+          <year>2014</year>
+          <volume>50</volume>
+          <fpage>1107</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="pmid">24405281</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b8-medscimonit-24-9413">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gandhirajan</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Chandramoorthy</surname>
+              <given-names>HC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Blockade of NOX2 and STIM1 signaling limits lipopolysaccharide-induced vascular inflammation</article-title>
+          <source>J Clin Invest</source>
+          <year>2013</year>
+          <volume>123</volume>
+          <fpage>887</fpage>
+          <lpage>902</lpage>
+          <pub-id pub-id-type="pmid">23348743</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b9-medscimonit-24-9413">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DebRoy</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Soni</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cooperative signaling via transcription factors NF-&#x3BA;B and AP1/c-Fos mediates endothelial cell STIM1 expression and hyperpermeability in response to endotoxin</article-title>
+          <source>J Biol Chem</source>
+          <year>2014</year>
+          <volume>289</volume>
+          <fpage>24188</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">25016017</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b10-medscimonit-24-9413">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cioffi</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Alvarez</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Essential role of a Ca2+-selective, store-operated current (ISOC) in endothelial cell permeability: Determinants of the vascular leak site</article-title>
+          <source>Circ Res</source>
+          <year>2005</year>
+          <volume>96</volume>
+          <fpage>856</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="pmid">15790951</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b11-medscimonit-24-9413">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fahrner</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Derler</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Jardin</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Romanin</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The STIM1/Orai signaling machinery</article-title>
+          <source>Channels (Austin)</source>
+          <year>2013</year>
+          <volume>7</volume>
+          <fpage>330</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">24107921</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b12-medscimonit-24-9413">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soboloff</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Spassova</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>XD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Orai1 and STIM reconstitute store-operated calcium channel function</article-title>
+          <source>J Biol Chem</source>
+          <year>2006</year>
+          <volume>281</volume>
+          <fpage>20661</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">16766533</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b13-medscimonit-24-9413">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Covington</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>Single-molecule analysis of diffusion and trapping of STIM1 and Orai1 at endoplasmic reticulum-plasma membrane junctions</article-title>
+          <source>Mol Biol Cell</source>
+          <year>2014</year>
+          <volume>25</volume>
+          <fpage>3672</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="pmid">25057023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b14-medscimonit-24-9413">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prakriya</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Store-operated Orai channels: Structure and function</article-title>
+          <source>Curr Top Membr</source>
+          <year>2013</year>
+          <volume>71</volume>
+          <fpage>1</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="pmid">23890109</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b15-medscimonit-24-9413">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Norwood</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Dean</surname>
+              <given-names>DA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Store-operated calcium entry and increased endothelial cell permeability</article-title>
+          <source>Am J Physiol Lung Cell Mol Physiol</source>
+          <year>2000</year>
+          <volume>279</volume>
+          <fpage>L815</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="pmid">11053015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b16-medscimonit-24-9413">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siflinger-Birnboim</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein kinase C modulates pulmonary endothelial permeability: A paradigm for acute lung injury</article-title>
+          <source>Am J Physiol Lung Cell Mol Physiol</source>
+          <year>2003</year>
+          <volume>284</volume>
+          <fpage>L435</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="pmid">12573983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b17-medscimonit-24-9413">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mondrinos</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Kennedy</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Lyons</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Protein kinase C and acute respiratory distress syndrome</article-title>
+          <source>Shock</source>
+          <year>2013</year>
+          <volume>39</volume>
+          <fpage>467</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="pmid">23572089</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b18-medscimonit-24-9413">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferro</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Neumann</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gertzberg</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Protein kinase C-alpha mediates endothelial barrier dysfunction induced by TNF-alpha</article-title>
+          <source>Am J Physiol Lung Cell Mol Physiol</source>
+          <year>2000</year>
+          <volume>278</volume>
+          <issue>6</issue>
+          <fpage>L1107</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="pmid">10835315</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b19-medscimonit-24-9413">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Activation of c-Src tyrosine kinase mediated the degradation of occludin in ventilator-induced lung injury</article-title>
+          <source>Respir Res</source>
+          <year>2014</year>
+          <volume>15</volume>
+          <fpage>158</fpage>
+          <pub-id pub-id-type="pmid">25471013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b20-medscimonit-24-9413">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Protective role of p120-catenin in maintaining the integrity of adherens and tight junctions in ventilator-induced lung injury</article-title>
+          <source>Respir Res</source>
+          <year>2015</year>
+          <volume>16</volume>
+          <fpage>58</fpage>
+          <pub-id pub-id-type="pmid">25986488</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b21-medscimonit-24-9413">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Al-Maghout</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Role of dicer enzyme in the regulation of Store-Operated Calcium Entry (SOCE) in CD4+ T Cells</article-title>
+          <source>Cell Physiol Biochem</source>
+          <year>2016</year>
+          <volume>39</volume>
+          <fpage>1360</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="pmid">27607422</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b22-medscimonit-24-9413">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tauseef</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kini</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Knezevic</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Activation of sphingosine kinase-1 reverses the increase in lung vascular permeability through sphingosine-1-phosphate receptor signaling in endothelial cells</article-title>
+          <source>Circ Res</source>
+          <year>2008</year>
+          <volume>103</volume>
+          <fpage>1164</fpage>
+          <lpage>72</lpage>
+          <pub-id pub-id-type="pmid">18849324</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b23-medscimonit-24-9413">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuiper</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Pl&#xF6;tz</surname>
+              <given-names>FB</given-names>
+            </name>
+            <name>
+              <surname>Groeneveld</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>High tidal volume mechanical ventilation-induced lung injury in rats is greater after acid instillation than after sepsis-induced acute lung injury, but does not increase systemic inflammation: an experimental study</article-title>
+          <source>BMC Anesthesiol</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <fpage>26</fpage>
+          <pub-id pub-id-type="pmid">22204611</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b24-medscimonit-24-9413">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>FB</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>ZW</given-names>
+            </name>
+          </person-group>
+          <article-title>A study on the role of apoptotic human umbilical cord mesenchymal stem cells in bleomycin-induced acute lung injury in rat models</article-title>
+          <source>Eur Rev Med Pharmacol Sci</source>
+          <year>2016</year>
+          <volume>20</volume>
+          <fpage>969</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="pmid">27010158</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b25-medscimonit-24-9413">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Caluch</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fodil</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Force control of endothelium permeability in mechanically stressed pulmonary micro-vascular endothelial cells</article-title>
+          <source>Biomed Mater Eng</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <fpage>163</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">22766716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b26-medscimonit-24-9413">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Millar</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Summers</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Griffiths</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The pulmonary endothelium in acute respiratory distress syndrome: insights and therapeutic opportunities</article-title>
+          <source>Thorax</source>
+          <year>2016</year>
+          <volume>71</volume>
+          <fpage>462</fpage>
+          <lpage>73</lpage>
+          <pub-id pub-id-type="pmid">26968969</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b27-medscimonit-24-9413">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DebRoy</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Soni</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cooperative signaling via transcription factors NF-&#x3BA;B and AP1/c-Fos mediates endothelial cell STIM1 expression and hyperpermeability in response to endotoxin</article-title>
+          <source>J Biol Chem</source>
+          <year>2014</year>
+          <volume>289</volume>
+          <fpage>24188</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">25016017</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b28-medscimonit-24-9413">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Bartolak-Suki</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Suki</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Linking ventilator injury-induced leak across the blood-gas barrier to derangements in murine lung function</article-title>
+          <source>Front Physiol</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>466</fpage>
+          <pub-id pub-id-type="pmid">28736528</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b29-medscimonit-24-9413">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soboloff</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Madesh</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <article-title>Sensing cellular stress through STIM proteins</article-title>
+          <source>Nat Chem Biol</source>
+          <year>2011</year>
+          <volume>7</volume>
+          <fpage>488</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="pmid">21769090</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b30-medscimonit-24-9413">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tirado-Lee</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yamashita</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Prakriya</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Conformational changes in the Orai1 C-terminus evoked by STIM1 binding</article-title>
+          <source>PLoS One</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <fpage>e0128622</fpage>
+          <pub-id pub-id-type="pmid">26035642</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b31-medscimonit-24-9413">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McNally</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Somasundaram</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jairaman</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The C- and N-terminal STIM1 binding sites on Orai1 are required for both trapping and gating CRAC channels</article-title>
+          <source>J Physiol</source>
+          <year>2013</year>
+          <volume>591</volume>
+          <fpage>2833</fpage>
+          <lpage>50</lpage>
+          <pub-id pub-id-type="pmid">23613525</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b32-medscimonit-24-9413">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>BTP2, a store-operated calcium channel inhibitor, attenuates lung ischemia-reperfusion injury in rats</article-title>
+          <source>Inflammation</source>
+          <year>2017</year>
+          <volume>40</volume>
+          <fpage>778</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="pmid">28168659</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b33-medscimonit-24-9413">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohga</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Takezawa</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Arakida</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Characterization of YM-58483/BTP2, a novel store-operated Ca2+ entry blocker, on T cell-mediated immune responses <italic>in vivo</italic></article-title>
+          <source>Int Immunopharmacol</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <fpage>1787</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="pmid">18793756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b34-medscimonit-24-9413">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zitt</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Strauss</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Schwarz</surname>
+              <given-names>EC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Potent inhibition of Ca2+ release-activated Ca2+ channels and T-lymphocyte activation by the pyrazole derivative BTP2</article-title>
+          <source>J Biol Chem</source>
+          <year>2004</year>
+          <volume>279</volume>
+          <fpage>12427</fpage>
+          <lpage>37</lpage>
+          <pub-id pub-id-type="pmid">14718545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b35-medscimonit-24-9413">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>XH</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>YZ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A store-operated calcium channel inhibitor attenuates collagen-induced arthritis</article-title>
+          <source>Br J Pharmacol</source>
+          <year>2015</year>
+          <volume>172</volume>
+          <fpage>2991</fpage>
+          <lpage>3002</lpage>
+          <pub-id pub-id-type="pmid">25651822</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b36-medscimonit-24-9413">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sundivakkam</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Freichel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Ca(2+) sensor stromal interaction molecule 1 (STIM1) is necessary and sufficient for the store-operated Ca(2+) entry function of transient receptor potential canonical (TRPC) 1 and 4 channels in endothelial cells</article-title>
+          <source>Mol Pharmacol</source>
+          <year>2012</year>
+          <volume>81</volume>
+          <fpage>510</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="pmid">22210847</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b37-medscimonit-24-9413">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shin</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Chun</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Phosphorylation on TRPV4 Serine 824 Regulates Interaction with STIM1</article-title>
+          <source>Open Biochem J</source>
+          <year>2015</year>
+          <volume>9</volume>
+          <fpage>24</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="pmid">25972993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b38-medscimonit-24-9413">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamanaka</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Jian</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Weber</surname>
+              <given-names>DS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>TRPV4 initiates the acute calcium-dependent permeability increase during ventilator-induced lung injury in isolated mouse lungs</article-title>
+          <source>Am J Physiol Lung Cell Mol Physiol</source>
+          <year>2007</year>
+          <volume>293</volume>
+          <fpage>L923</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="pmid">17660328</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b39-medscimonit-24-9413">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newton</surname>
+              <given-names>AC</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein kinase C</article-title>
+          <source>IUBMB Life</source>
+          <year>2008</year>
+          <volume>60</volume>
+          <fpage>765</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="pmid">18683875</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b40-medscimonit-24-9413">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Berry</surname>
+              <given-names>CT</given-names>
+            </name>
+            <name>
+              <surname>Ruthel</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>T cell receptor-induced nuclear factor &#x3BA;B (NF-&#x3BA;B) signaling and transcriptional activation are regulated by STIM1- and Orai1-mediated calcium entry</article-title>
+          <source>J Biol Chem</source>
+          <year>2016</year>
+          <volume>291</volume>
+          <fpage>8440</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="pmid">26826124</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="f1-medscimonit-24-9413" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>Cyclic stretching-induced increased expression of Stim1 in HULEC. The ECs were exposed to 8% or 18% cyclic stretching for 0 h, 2 h, and 4 h. Stim1 expression was detected by Western blotting. (<bold>A</bold>) Shows representative Western blotting results. (<bold>B</bold>) Shows semi-quantitative Western blotting results. ** P&lt;0.05 compared with control group; * P&lt;0.01 compared with 8% CS for 4 h.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g001"/>
+    </fig>
+    <fig id="f2-medscimonit-24-9413" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>Analysis of Stim1, Orai1, and PKC&#x3B1; protein expression in ECs. ECs pre-treated with DMSO or BTP2 for 2 h were exposed to 18% cyclic stretching. (<bold>A</bold>) Representative blot is shown from 3 independent experiments. The protein bands were quantified by densitometry relative to &#x3B2;-actin. (<bold>A, B</bold>) Show Stim1 protein levels in ECs. (<bold>C, D</bold>) Show Orai1 protein levels. (<bold>E, F</bold>) Show PKC&#x3B1; protein levels. ** and <sup>#</sup>, P&lt;0.05, compared with control group. * P&lt;0.05 compared with DMSO+CS group. Data are mean &#xB1;SD.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g002"/>
+    </fig>
+    <fig id="f3-medscimonit-24-9413" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>Endothelial permeability determined by the influx of Evans blue-labeled albumin. (<bold>A</bold>) Shows endothelial permeability represented by the absorbance value changed as ECs were exposed to 18% CS (CS group) or not (control group) for indicated time. * and <sup>#</sup>, P&lt;0.05 compared with control group. (<bold>B</bold>) Indicates that ECs pre-treated with DMSO or BTP2 were exposed to 18% CS. After 4 h, endothelial permeability was measured. ** P&lt;0.05, compared with control group; * P&lt;0.05, compared with DMSO+18% CS group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g003"/>
+    </fig>
+    <fig id="f4-medscimonit-24-9413" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>Analysis of calcium influx. ECs pre-treated with DMSO or BTP2 were exposed to 18% cyclic stretching and calcium influx of 10<sup>4</sup> ECs in each group was detected by flow cytometry. (<bold>A&#x2013;D</bold>) Representative flow cytometry results of each group. (<bold>E</bold>) Quantitative flow cytometry results of each group. ** and <sup>#</sup>, P&lt;0.05, compared with control group; * P&lt;0.05, compared with DMSO+18%CS group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g004"/>
+    </fig>
+    <fig id="f5-medscimonit-24-9413" position="float">
+      <label>Figure 5</label>
+      <caption>
+        <p>Representative morphology of the lung. Rats were divided into 5 groups according to different treatments. HE staining was performed to observe the lung morphology after ventilation. Representative HE staining results are shown. Original magnification, &#xD7;200.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g005"/>
+    </fig>
+    <fig id="f6-medscimonit-24-9413" position="float">
+      <label>Figure 6</label>
+      <caption>
+        <p>Analysis of Stim1, Orai1, and PKC&#x3B1; protein expression in lung tissues of rats. Rats were divided into 5 groups according to different treatments. Protein expression was detected with Western blotting. Representative and semi-quantitative Western blotting of Stim1 (<bold>A, B</bold>), Orai1 (<bold>C, D</bold>), and PKC&#x3B1; (<bold>E, F</bold>) in rats lung tissue are shown. <sup>#</sup>, P&lt;0.05 compared with control group. ** P&lt;0.05 compared with LV<sub>T</sub> group; <bold>*</bold>P&lt;0.05 compared with DMSO+HV<sub>T</sub> group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g006"/>
+    </fig>
+    <fig id="f7-medscimonit-24-9413" position="float">
+      <label>Figure 7</label>
+      <caption>
+        <p>Analysis of the lung W/D weight ratio (<bold>A</bold>) and the BALF protein (<bold>B</bold>). Rats with different treatments were sacrificed after ventilation or no treatment. Lungs and BALF were collected. The lung W/D weight ratio and BALF protein was detected. <sup>#</sup>, P&lt;0.05 compared with control group. ** P&lt;0.05 compared with LV<sub>T</sub> group; * P&lt;0.05 compared with DMSO+HV<sub>T</sub> group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g007"/>
+    </fig>
+    <fig id="f8-medscimonit-24-9413" position="float">
+      <label>Figure 8</label>
+      <caption>
+        <p>Model to depict functional coupling between Stim1- and Orai1-mediating calcium entry. Stim1/Orai1-mediated calcium entry is critical for endothelial permeability via activation of calcium-sensitive PKC&#x3B1;. Within these ER-PM junctions, Ca<sup>2+</sup> enters via Orai1 (the PM Ca<sup>2+</sup> entry channel), where the channel interacts with Stim1 (the ER luminal Ca<sup>2+</sup> sensor), and is activated. Ca<sup>2+</sup> entry through Orai1 channel induces multiple signaling pathways such as activation of the NF-&#x3BA;B pathway [<xref rid="b40-medscimonit-24-9413" ref-type="bibr">40</xref>]. The classical PKC&#x3B1; isoforms contains both calcium- and diacylglycerol-binding domains, and activation of PKC&#x3B1; is accompanied by translocation to the plasma membrane. ER &#x2013; endoplasmic reticulum; PM &#x2013; plasmic membrane; DAG &#x2013; diacylglycerol.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-24-9413-g008"/>
+    </fig>
+  </floats-group>
+</article>
+</pmc-articleset>

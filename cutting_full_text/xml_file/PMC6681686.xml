@@ -1,0 +1,1187 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Med Sci Monit</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Med. Sci. Monit</journal-id>
+      <journal-id journal-id-type="publisher-id">Medical Science Monitor</journal-id>
+      <journal-title-group>
+        <journal-title>Medical Science Monitor : International Medical Journal of Experimental and Clinical Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1234-1010</issn>
+      <issn pub-type="epub">1643-3750</issn>
+      <publisher>
+        <publisher-name>International Scientific Literature, Inc.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31350844</article-id>
+      <article-id pub-id-type="pmc">6681686</article-id>
+      <article-id pub-id-type="doi">10.12659/MSM.916838</article-id>
+      <article-id pub-id-type="publisher-id">916838</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Animal Study</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Osteoprotegerin (OPG) Promotes Recruitment of Endothelial Progenitor Cells (EPCs) via CXCR4 Signaling Pathway to Improve Bone Defect Repair</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Rongfeng</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-25-5572">B</xref>
+          <xref ref-type="author-notes" rid="fn4-medscimonit-25-5572">D</xref>
+          <xref ref-type="author-notes" rid="fn6-medscimonit-25-5572">F</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Jianwei</given-names>
+          </name>
+          <xref ref-type="aff" rid="af2-medscimonit-25-5572">2</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-25-5572">C</xref>
+          <xref ref-type="author-notes" rid="fn5-medscimonit-25-5572">E</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Shengpeng</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-25-5572">B</xref>
+          <xref ref-type="author-notes" rid="fn4-medscimonit-25-5572">D</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Dong</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn1-medscimonit-25-5572">A</xref>
+          <xref ref-type="author-notes" rid="fn6-medscimonit-25-5572">F</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Xiaohua</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-25-5572">C</xref>
+          <xref ref-type="author-notes" rid="fn6-medscimonit-25-5572">F</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Jingshu</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn1-medscimonit-25-5572">A</xref>
+          <xref ref-type="author-notes" rid="fn4-medscimonit-25-5572">D</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shen</surname>
+            <given-names>Jie</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn2-medscimonit-25-5572">B</xref>
+          <xref ref-type="author-notes" rid="fn5-medscimonit-25-5572">E</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Xie</surname>
+            <given-names>Zhao</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-medscimonit-25-5572">1</xref>
+          <xref ref-type="author-notes" rid="fn1-medscimonit-25-5572">A</xref>
+          <xref ref-type="author-notes" rid="fn3-medscimonit-25-5572">C</xref>
+          <xref ref-type="author-notes" rid="fn7-medscimonit-25-5572">G</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-medscimonit-25-5572">
+<label>1</label>National and Regional United Engineering Laboratory of Tissue Engineering, Department of Orthopedics, Southwest Hospital, Army Medical University (Third Military Medical University), Chongqing, P.R. China</aff>
+      <aff id="af2-medscimonit-25-5572">
+<label>2</label>Department of Orthopedics, The First People&#x2019;s Hospital of Chenzhou, Chenzhou, Hunan, P.R. China</aff>
+      <author-notes>
+        <corresp id="c1-medscimonit-25-5572">Corresponding Author: Zhao Xie, e-mail: <email>xiezhao54981@163.com</email></corresp>
+        <fn id="fn1-medscimonit-25-5572">
+          <label>A</label>
+          <p>Study Design</p>
+        </fn>
+        <fn id="fn2-medscimonit-25-5572">
+          <label>B</label>
+          <p>Data Collection</p>
+        </fn>
+        <fn id="fn3-medscimonit-25-5572">
+          <label>C</label>
+          <p>Statistical Analysis</p>
+        </fn>
+        <fn id="fn4-medscimonit-25-5572">
+          <label>D</label>
+          <p>Data Interpretation</p>
+        </fn>
+        <fn id="fn5-medscimonit-25-5572">
+          <label>E</label>
+          <p>Manuscript Preparation</p>
+        </fn>
+        <fn id="fn6-medscimonit-25-5572">
+          <label>F</label>
+          <p>Literature Search</p>
+        </fn>
+        <fn id="fn7-medscimonit-25-5572">
+          <label>G</label>
+          <p>Funds Collection</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>7</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>25</volume>
+      <fpage>5572</fpage>
+      <lpage>5579</lpage>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>7</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; Med Sci Monit, 2019</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <license license-type="open-access">
+          <license-p>This work is licensed under Creative Common Attribution-NonCommercial-NoDerivatives 4.0 International (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</ext-link>)</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>The aim of this study was to investigate the effect of using osteoprotegerin (OPG) to treat bone defects mediated by endothelial progenitor cell (EPC) recruitment and migration through the CXCR4 signaling pathway.</p>
+        </sec>
+        <sec>
+          <title>Material/Methods</title>
+          <p>The EPCs extracted from human peripheral blood were cultured <italic>in vitro</italic> and the expression of CXCR4 and its downstream p-AKT was monitored by the Western blot analysis after OPG treatment. Using the scratch wound healing test and Transwell assay, we assessed the variables influencing the effect of OPG on EPCs after pre-treatment with CXCR4 blocker (AMD3100) and PI3K blocker (Ly294002). After 4 weeks, the bone defect repair condition was estimated via micro-CT and staining with HE and Masson trichrome. Then, immunofluorescence staining was performed to assess angiogenesis in bone defects, while the expression of EPC marker and vascular endothelial growth factor receptor 2 (VEGFR2) was detected by immunohistochemical staining.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>The EPCs treated with OPG had increased levels of CXCR4 and p-AKT. Moreover, the difference in EPC levels among groups in the scratch wound healing experiment and migration experiment indicated that the OPG treatment promoted cell migration and AMD3100 and LY294002 inhibited the function of OPG. In addition, OPG promoted angiogenesis and repair of bone defect in rats, and these effects were abolished by AMD3100 and LY294002 administration.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>OPG enhanced the proliferation and migration of EPCs through the CXCR4 pathway and promoted angiogenesis and bone formation at bone defect sites.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <title>MeSH Keywords</title>
+        <kwd>Angiogenesis Inducing Agents</kwd>
+        <kwd>Osteoprotegerin</kwd>
+        <kwd>Receptors, CXCR4</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>Bone defect is the damaged bone structure caused by destructive trauma or osteonecrosis due to inflammatory ischemia; it is one of the most severe diseases treated in orthopedics departments [<xref rid="b1-medscimonit-25-5572" ref-type="bibr">1</xref>]. Bone defects increase the risk of delayed union or nonunion of bone tissues and dyskinesia, as well as increasing the risk of disability. At present, bone grafting is the main treatment used [<xref rid="b2-medscimonit-25-5572" ref-type="bibr">2</xref>], but bone resorption and nonunion often occur in the lesion area due to limited revascularization. Bone is superiorly vascularized tissue; therefore, the rate and range of angiogenesis determine the efficiency of osteoanagenesis and defect repair [<xref rid="b3-medscimonit-25-5572" ref-type="bibr">3</xref>,<xref rid="b4-medscimonit-25-5572" ref-type="bibr">4</xref>]. Rapid vascularization of tissue-engineered artificial bone implanted in the body is needed for its survival and function [<xref rid="b5-medscimonit-25-5572" ref-type="bibr">5</xref>]. Endothelial progenitor cells (EPCs) are a group of immature endothelial cells which can further proliferate and differentiate [<xref rid="b6-medscimonit-25-5572" ref-type="bibr">6</xref>] but they lack the characteristic phenotype of mature endothelial cells and cannot form lumen structure [<xref rid="b7-medscimonit-25-5572" ref-type="bibr">7</xref>]. EPCs function mainly in the angiogenesis and repair of ischemic tissue after birth. EPCs have been reported to play an important role in the treatment of cardiovascular and cerebrovascular diseases, peripheral vascular diseases, and wound healing, which provide new ideas and approaches for research and treatment of ischemic diseases [<xref rid="b8-medscimonit-25-5572" ref-type="bibr">8</xref>]. With recognition of the necessity of vascularization in tissue-engineered bone, construction of osteoblasts combined with EPCs has become one of the common methods used to promote osteogenesis [<xref rid="b9-medscimonit-25-5572" ref-type="bibr">9</xref>]. Recruitment of EPCs promotes angiogenesis at the bone defect site and improves the survival rate of artificial bone grafts [<xref rid="b10-medscimonit-25-5572" ref-type="bibr">10</xref>]. Osteoprotegerin (OPG) is a soluble secretory glycoprotein of the TNFR superfamily, which is mainly produced by osteoblasts and vascular endothelial cells [<xref rid="b11-medscimonit-25-5572" ref-type="bibr">11</xref>]. Other tissues, such as heart, kidney, liver, and spleen, can also secrete it. It is an inductive receptor of the receptor activator of NF-&#x3BA;B ligand (RANKL), which reduces the production of osteoclasts (OCs) by binding to RANKL [<xref rid="b12-medscimonit-25-5572" ref-type="bibr">12</xref>]. In addition, OPG also inhibits endothelial cell apoptosis and promotes vascular endothelial cell maturation [<xref rid="b13-medscimonit-25-5572" ref-type="bibr">13</xref>]. However, the effects of OPG on EPCs in the bone defect model are still unknown. In this study, we explored the effect of OPG on EPCs, and found that OPG promoted recruitment and migration of EPCs through the CXCR4 pathway after bone defects were created, and enhanced angiogenesis to achieve structural remodeling of bone.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>Material and Methods</title>
+      <sec>
+        <title>Cell culture and treatment</title>
+        <p>EPCs were isolated from the blood of healthy persons via flow cytometry (CD133+ and VEGFR2+) and cultured <italic>in vitro</italic> for experiments. The specific steps were: Purified EPCs inoculated in 25-cm<sup>2</sup> culture flasks appended to the Dulbecco&#x2019;s modified Eagle medium (DMEM) (Gibco, Rockville, MD, USA) containing 10% fetal bovine serum (FBS) (Gibco, Rockville, MD, USA) and 1% penicillin/streptomycin for <italic>in vitro</italic> amplification. After the cell growth density was satisfactory, EPCs were treated with the same volume of phosphate-buffered saline (PBS), OPG, OPG+AMD3100, and OPG+LY294002 for 24 h following starvation in serum-free DMEM for 24 h. The post-treatment cells were continued to culture for subsequent experiments.</p>
+      </sec>
+      <sec>
+        <title>Animals and groups</title>
+        <p>A total of 60 male Sprague-Dawley (SD) rats, ages 6&#x2013;8 weeks and weighing 280&#x2013;320 g, were used in the bone defect model. Rats were house 5 per cage under normal environmental conditions (standard food and drinking water, room temperature of 24&#xB0;C, 12-h artificial circadian cycle). The experimental animals were randomly divided into 4 groups. In the control group, rats received local injection of 0.9% normal saline after modeling of bone defect. In the OPG group, rats received local injection of OPG solvent into the bone defect site. In the OPG+AMD3100 group, rats were treated with AMD3100 on the basis of OPG solvent. In the OPG+LY294002 group, rats were administered OPG and LY294002 injected into the injury site.</p>
+      </sec>
+      <sec>
+        <title>Operative procedure and treatment</title>
+        <p>The rats were first anesthetized by intraperitoneal injection of 10% chloral hydrate solution, then the fur of the right thigh was shaved off. We made a small incision along the long axis of the femur in parallel direction after disinfection with iodophor and used blunt dissection to separate muscle to expose the femur. The middle femur was taken and a 5&#xD7;5 mm bone defect was made with a micro-drill. Then, the filler was placed in the defect area, the muscle fascia was closed, and the skin was sutured and sterilized again. Within 1 week of modeling, we injected 0.9% normal saline, OPG, OPG+AMD3100, or OPG+LY294002 locally to the defect site (once every 2 days).</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Western blot analysis</title>
+        <p>The different treated EPCs were transformed into protein using a whole protein extraction kit containing protease inhibitor and phosphatase inhibitor on ice. The protein-containing mixture was centrifuged at high speed (14 000 rpm, 15 min) at low temperature (4&#xB0;C) to obtain protein supernatant. The obtained protein solution was used to determination the concentration according to the bicinchoninic acid (BCA) method (Pierce, Rockford, IL, USA). After protein concentrations were assessed in each group, electrophoretic separation of protein was performed on 10% sodium dodecyl sulfate-polyacrylamide gel. Then, the dispersed protein was transferred onto a polyvinylidene fluoride (PVDF) membrane (Millipore, Billerica, MA, USA) at 4&#xB0;C for 2 h. The transferred protein membrane was blocked by a specific antibody fixation with 5% non-fat milk transfected by Tris-buffered saline with Tween-20 (TBST) for 1 h. After washing 3 times in TBST, the membrane was incubated with the primary antibody (CXCR4, Abcam, Cambridge, MA, USA, Rabbit, 1: 100; p-AKT, Cell Signaling Technology, Danvers, MA, USA, Rabbit, 1: 2000; t-AKT, Cell Signaling Technology, Danvers, MA, USA, Rabbit, 1: 1000; GAPDH, Proteintech, Rosemont, IL, USA, 1: 10 000) of the corresponding proteins at 4&#xB0;C overnight. The membrane was extricated from the primary antibody and was washed 3 times. The specific binding secondary antibody (Goat Anti-Rabbit IgG, YiFeiXue Biotechnology, Nanjing, China, 1: 10 000) was incubated with the membrane at room temperature for 1 h and washed 3 times. Proteins were visualized by electrochemiluminescence (ECL).</p>
+      </sec>
+      <sec>
+        <title>Scratch wound healing test and Transwell migration assay</title>
+        <p>EPCs in logarithmic growth phase were inoculated in a 12-well culture plate with DMEM culture medium containing 10% fetal bovine serum and 1% penicillin/streptomycin in 5% CO<sub>2</sub> at 37&#xB0;C. After the cells were grown to 90% confluence, we scratched the monolayer cells with a 100-&#x3BC;L micropipette tip. After washing 3 times in PBS, complete culture medium containing OPG, OPG+AMD3100, and OPG+LY294002 was added. After the cells were cultured at 37&#xB0;C and 5% CO<sub>2</sub> in an incubator for 24 h, the width of the scratch wound was measured using an inverted microscope.</p>
+        <p>Transwell chambers were placed in a 24-well culture plate, and the EPCs were treated with serum-free DMEM for starvation for 12 h, then we added 100 &#x3BC;L cell suspension to each of the upper chambers with a liquid-transfer gun. In addition to the blank control group, the complete culture medium containing OPG, OPG+AMD3100, or OPG+LY294002 was injected into the upper chambers, and 600 &#x3BC;L of DMEM with 10% fetal bovine serum was placed into the lower chambers. The 24-well plates were incubated in a constant-temperature incubator for 48 h, then the culture medium was discarded, the lower chambers were washed 3 times with PBS, and we added into 600 &#x3BC;L of 4% paraformaldehyde (PFA) for cell fixation. Half an hour later, we discarded the PFA fixative, washed the cells, and dyed the cells with 1% crystal violet reagent for 30 min. After washing 3 times, the numbers of EPCs in each group were counted under a microscope and photographed.</p>
+      </sec>
+      <sec>
+        <title>Histology and immunohistochemistry</title>
+        <p>After bone defect treatment, the rat femurs of the affected side were removed and placed into 4% PFA solution for 24-h immobilization. Then, the femurs were dehydrated and decalcified with equal-concentration gradient ethanol, embedded in paraffin, and cut into 5-um sections with a rotary microtome. After being deparaffinized, we performed hematoxylin-eosin (HE) staining and Masson trichrome staining to assess bone defect healing and formation of bone collagen. In addition, immunohistochemical staining was performed to observe the expression of vascular endothelial growth factor receptor 2 (VEGFR2) and immunofluorescence staining was used to assess vascular growth status.</p>
+      </sec>
+      <sec>
+        <title>Microcomputed tomography</title>
+        <p>At 28 days after injury, the rats were anesthetized and placed on an examination table. Bone defect healing was scanned and imaged by SCANCO vivo CT40 (70 kV 114u A).</p>
+      </sec>
+      <sec>
+        <title>Statistical analyses</title>
+        <p>All the data obtained in this experiment were analyzed and processed by Statistical Product and Service Solutions (SPSS 16.0) (SPSS, Inc., Chicago, IL, USA). The results are expressed as mean &#xB1; standard deviation (&#x3C7;&#xB1;s). The difference between 2 groups assessed by <italic>t</italic> test. Comparison between groups was done using one-way ANOVA followed by post hoc test (least significant difference). <italic>P</italic> values &lt;0.05 were considered statistically significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>OPG expression in EPCs occurred via the CXCR4 signaling pathway <italic>in vitro</italic></title>
+        <p>We first utilized the extracted protein from EPCs to detect the action pathway of OPG. In the group treated with OPG, the CXCR4 protein level was increased and its downstream activation site phosphorylated AKT (p-AKT) was improved correspondingly, yet the total AKT (t-AKT) had no apparent change (<xref ref-type="fig" rid="f1-medscimonit-25-5572">Figure 1A, 1B</xref>). The protein tendency of the 2 different groups demonstrated that the influence of OPG in the EPCs was mainly mediated by the CXCR4 signaling pathway.</p>
+      </sec>
+      <sec>
+        <title>OPG promoted proliferation and migration of EPCs, but the effect was weakened by inhibition of CXCR4 and PI3K</title>
+        <p>To better understand the role of OPG in EPCs, we investigated the effects of OPG on cell proliferation and migration and administrated 2 different signaling pathway inhibitors (AMD3100 and LY294002). They made rivalry for CXCR4 and PI3K respectively. We observed images from the 4 groups after the scratch wound healing test after OPG treatment, showing a smaller scratch wound compared with the control group, but the proportions were not significantly reduced (<xref ref-type="fig" rid="f2-medscimonit-25-5572">Figure 2A, 2B</xref>). The Transwell assay showed that OPG treatment enhanced cell migration ability, and the AMD3100 and LY294002 reduced the migration ability of EPCs (<xref ref-type="fig" rid="f2-medscimonit-25-5572">Figure 2C, 2D</xref>). Our results show that OPG increased the proliferation and migration abilities of cells via the CXCR4 signaling pathway, and the effectiveness of OPG was suppressed via the pathway inhibitors.</p>
+      </sec>
+      <sec>
+        <title>The administration of OPG promoted vascular regeneration in bone defect via enhancing the expression of EPCs</title>
+        <p>One week after the establishment of the bone defect rat model, we utilized immunohistochemical staining to observe the expression of EPCs at the injured site, and immunofluorescence staining was used to visualize vascular endothelial regeneration. The rats treated with OPG exhibited prominent VEGFR2 expression characteristics, and the images from the OPG group showed the strong expression of EPCs at the defect site. However, the CXCR4 and the PI3K inhibitors reduced the VEGFR2 level, and the fluorescent staining of the 2 inhibitor groups indicated that inhibition of the CXCR4 signaling pathway weakened endothelial cell regeneration, as mediated by OPG (<xref ref-type="fig" rid="f3-medscimonit-25-5572">Figure 3A, 3B</xref>). These results proved that the OPG treatment in bone defect induced the accumulation and activation of the EPCs and improved the endothelial cell regeneration and angiogenesis, but suppression occurred following inhibition of the CXCR4 signaling pathway.</p>
+      </sec>
+      <sec>
+        <title>The treatment of OPG strengthened recovery of the bone defect and collagen formation</title>
+        <p>Histological staining was used to assess recovery of the bone defect injured site, and we also performed micro-CT and histologic analysis of all samples at 28 days. The images of the OPG-injected group displayed predominant bone growth and high bone density, yet the injection of mixed inhibitors impeded the osteogenic function of OPG (<xref ref-type="fig" rid="f4-medscimonit-25-5572">Figure 4A&#x2013;4C</xref>). In addition, the collagen content at the defect site injected with OPG was increased compared with the control group. However, the intervention with the 2 different inhibitors reduced formation of collagen, which impeded defect recovery (<xref ref-type="fig" rid="f4-medscimonit-25-5572">Figure 4D</xref>). All of the above outcomes revealed that the osteogenic effect and the function of collagen formation of OPG promoted healing of the defect, and blocking of the CXCR4 signaling pathway reversed the effect that OPG exerted.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Bone defect is an important and difficult orthopedic disease. Because of the huge defect at its broken end, it leads to serious dysfunction of the affected limb, which seriously affects the lives of patients [<xref rid="b14-medscimonit-25-5572" ref-type="bibr">14</xref>,<xref rid="b15-medscimonit-25-5572" ref-type="bibr">15</xref>]. Effectively promoting osteogenesis and survival of implanted bone is key to the treatment of bone defects [<xref rid="b16-medscimonit-25-5572" ref-type="bibr">16</xref>]. Therefore, angiogenesis at site of the bone defect is particularly important, determining growth rate and plasticity of neonatal bone [<xref rid="b17-medscimonit-25-5572" ref-type="bibr">17</xref>].</p>
+      <p>OPG is an OC inhibitor that blocks binding of RANKL and the receptor activator of NF-&#x3BA;B (RANK), as well as inhibiting differentiation and maturation of OCs and inducing OCs apoptosis [<xref rid="b18-medscimonit-25-5572" ref-type="bibr">18</xref>&#x2013;<xref rid="b20-medscimonit-25-5572" ref-type="bibr">20</xref>]. However, there has been no specific research on the role of OPG in vascular regeneration during osteogenesis. OPG has a functional effect on EPCs, and EPCs are specific hematopoietic progenitor cells derived from bone marrow [<xref rid="b21-medscimonit-25-5572" ref-type="bibr">21</xref>,<xref rid="b22-medscimonit-25-5572" ref-type="bibr">22</xref>]. These cells are immature endothelial cells that can be mobilized into the peripheral circulating blood by bone marrow mobilization [<xref rid="b23-medscimonit-25-5572" ref-type="bibr">23</xref>]. Differentiation into endotheliocytes is an important functional characteristic of EPCs, and they can also migrate, adhere, and form tubules [<xref rid="b24-medscimonit-25-5572" ref-type="bibr">24</xref>,<xref rid="b25-medscimonit-25-5572" ref-type="bibr">25</xref>]. EPCs have an important physiological role in maintaining vascular homeostasis and regulating angiogenesis [<xref rid="b26-medscimonit-25-5572" ref-type="bibr">26</xref>,<xref rid="b27-medscimonit-25-5572" ref-type="bibr">27</xref>]. OPG has long been considered as a critical factor in regulating osteoclast function and bone density alterations [<xref rid="b28-medscimonit-25-5572" ref-type="bibr">28</xref>,<xref rid="b29-medscimonit-25-5572" ref-type="bibr">29</xref>]. Previous studies demonstrated that OPG improved osteosarcoma and osteoporosis through modulating osteoclast activity [<xref rid="b30-medscimonit-25-5572" ref-type="bibr">30</xref>,<xref rid="b31-medscimonit-25-5572" ref-type="bibr">31</xref>]. Moreover, some studies have found that OPG may play a potential role in endothelial cell phenotype in angiogenesis [<xref rid="b32-medscimonit-25-5572" ref-type="bibr">32</xref>]. However, the specific therapeutic effect and mechanism of OPG in bone defect repair and angiogenesis have rarely been reported. Based on the unpredictability of OPG in the treatment of bone defects, we performed the above experiments and confirmed that OPG promoted the migration and proliferation of human EPCs, and accelerated angiogenesis and collagenation in a rat bone defect model by independently upregulating the CXCR4 pathway. Therefore, OPG ameliorated healing at the defect site in rats (<xref ref-type="fig" rid="f5-medscimonit-25-5572">Figure 5</xref>).</p>
+      <p>The present results suggest that OPG improves the survival rate of artificial bone after bone defect surgery, and may play an important role in accelerating bone growth and plasticity. We did not assess the optimal treatment dose and timing of OPG in treatment of bone defects, and this needs to be explored in further research, as well as the effect of OPG administration on human osteanagenesis. We found that OPG is a promising treatment to promote angiogenesis after bone grafting in bone defects.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Treatment with OPG accelerated the migration and proliferation of EPCs through the CXCR4 pathway and promoted angiogenesis and collagenation at the bone defect lesion site. Thus, OPG effectively accelerated bone repair in rats.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn8-medscimonit-25-5572">
+        <p><bold>Source of support:</bold> National Natural Science Foundation of China, Grant/Award No. 81672160; Key project of the General Logistics Research Plan of PLA, Grant/Award No. BWS13C014</p>
+      </fn>
+      <fn id="fn9-medscimonit-25-5572" fn-type="COI-statement">
+        <p>
+          <bold>Conflict of interest</bold>
+        </p>
+        <p>None.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="b1-medscimonit-25-5572">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ono</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Okamoto</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nakashima</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>IL-17-producing gamma delta T cells enhance bone regeneration</article-title>
+          <source>Nat Commun</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>10928</fpage>
+          <pub-id pub-id-type="pmid">26965320</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b2-medscimonit-25-5572">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Betz</surname>
+              <given-names>OB</given-names>
+            </name>
+            <name>
+              <surname>Betz</surname>
+              <given-names>VM</given-names>
+            </name>
+            <name>
+              <surname>Nazarian</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Delayed administration of adenoviral BMP-2 vector improves the formation of bone in osseous defects</article-title>
+          <source>Gene Ther</source>
+          <year>2007</year>
+          <volume>14</volume>
+          <fpage>1039</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="pmid">17460719</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b3-medscimonit-25-5572">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maes</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kobayashi</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Selig</surname>
+              <given-names>MK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoblast precursors, but not mature osteoblasts, move into developing and fractured bones along with invading blood vessels</article-title>
+          <source>Dev Cell</source>
+          <year>2010</year>
+          <volume>19</volume>
+          <fpage>329</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="pmid">20708594</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b4-medscimonit-25-5572">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armitage</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Faber</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Drosdowech</surname>
+              <given-names>DS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Humeral head bone defects: Remplissage, allograft, and arthroplasty</article-title>
+          <source>Orthop Clin North Am</source>
+          <year>2010</year>
+          <volume>41</volume>
+          <fpage>417</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="pmid">20497816</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b5-medscimonit-25-5572">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kneser</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Polykandriotis</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ohnolz</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Engineering of vascularized transplantable bone tissues: Induction of axial vascularization in an osteoconductive matrix using an arteriovenous loop</article-title>
+          <source>Tissue Eng</source>
+          <year>2006</year>
+          <volume>12</volume>
+          <fpage>1721</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="pmid">16889503</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b6-medscimonit-25-5572">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dvorin</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Wylie-Sears</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kaushal</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Quantitative evaluation of endothelial progenitors and cardiac valve endothelial cells: Proliferation and differentiation on poly-glycolic acid/poly-4-hydroxybutyrate scaffold in response to vascular endothelial growth factor and transforming growth factor beta1</article-title>
+          <source>Tissue Eng</source>
+          <year>2003</year>
+          <volume>9</volume>
+          <fpage>487</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="pmid">12857416</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b7-medscimonit-25-5572">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szmitko</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Fedak</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Weisel</surname>
+              <given-names>RD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Endothelial progenitor cells: New hope for a broken heart</article-title>
+          <source>Circulation</source>
+          <year>2003</year>
+          <volume>107</volume>
+          <fpage>3093</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="pmid">12821589</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b8-medscimonit-25-5572">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Urao</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Inomata</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Razvi</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Role of nox2-based NADPH oxidase in bone marrow and progenitor cell function involved in neovascularization induced by hindlimb ischemia</article-title>
+          <source>Circ Res</source>
+          <year>2008</year>
+          <volume>103</volume>
+          <fpage>212</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">18583711</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b9-medscimonit-25-5572">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Unger</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Sartoris</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Tissue-like self-assembly in cocultures of endothelial cells and osteoblasts and the formation of microcapillary-like structures on three-dimensional porous biomaterials</article-title>
+          <source>Biomaterials</source>
+          <year>2007</year>
+          <volume>28</volume>
+          <fpage>3965</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">17582491</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b10-medscimonit-25-5572">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Nauth</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Expression of VEGF gene isoforms in a rat segmental bone defect model treated with EPCs</article-title>
+          <source>J Orthop Trauma</source>
+          <year>2012</year>
+          <volume>26</volume>
+          <fpage>689</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="pmid">22932749</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b11-medscimonit-25-5572">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grigoropoulou</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Eleftheriadou</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Zoupas</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Tentolouris</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of the osteoprotegerin/RANKL/RANK system in diabetic vascular disease</article-title>
+          <source>Curr Med Chem</source>
+          <year>2011</year>
+          <volume>18</volume>
+          <fpage>4813</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">21919846</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b12-medscimonit-25-5572">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kanno</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ishisaki</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kawashita</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Plasminogen/plasmin modulates bone metabolism by regulating the osteoblast and osteoclast function</article-title>
+          <source>J Biol Chem</source>
+          <year>2011</year>
+          <volume>286</volume>
+          <fpage>8952</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="pmid">21239499</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b13-medscimonit-25-5572">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Secchiero</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Corallini</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Rimondi</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Activation of the p53 pathway down-regulates the osteoprotegerin expression and release by vascular endothelial cells</article-title>
+          <source>Blood</source>
+          <year>2008</year>
+          <volume>111</volume>
+          <fpage>1287</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="pmid">18000166</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b14-medscimonit-25-5572">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>KV</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Guda</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Improving bone formation in a rat femur segmental defect by controlling bone morphogenetic protein-2 release</article-title>
+          <source>Tissue Eng Part A</source>
+          <year>2011</year>
+          <volume>17</volume>
+          <fpage>1735</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="pmid">21338268</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b15-medscimonit-25-5572">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhumiratana</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bernhard</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Alfi</surname>
+              <given-names>DM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Tissue-engineered autologous grafts for facial bone reconstruction</article-title>
+          <source>Sci Transl Med</source>
+          <year>2016</year>
+          <volume>8</volume>
+          <fpage>343r</fpage>
+          <lpage>83r</lpage>
+        </element-citation>
+      </ref>
+      <ref id="b16-medscimonit-25-5572">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Iku</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mu</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Implantation with new three-dimensional porous titanium web for treatment of parietal bone defect in rabbit</article-title>
+          <source>Artif Organs</source>
+          <year>2013</year>
+          <volume>37</volume>
+          <fpage>623</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="pmid">23565586</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b17-medscimonit-25-5572">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beck</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nehrbass</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Stoddart</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The use of reamer irrigator aspirator (RIA) autograft harvest in the treatment of critical-sized iliac wing defects in sheep: Investigation of dexamethasone and beta-tricalcium phosphate augmentation</article-title>
+          <source>Bone</source>
+          <year>2013</year>
+          <volume>53</volume>
+          <fpage>554</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">23274345</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b18-medscimonit-25-5572">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cho</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>YH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mesenchymal stem cells inhibit RANK-RANKL interactions between osteoclasts and Th17 cells via osteoprotegerin activity</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>83419</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="pmid">29137353</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b19-medscimonit-25-5572">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zou</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoprotegerin disrupts peripheral adhesive structures of osteoclasts by modulating Pyk2 and Src activities</article-title>
+          <source>Cell Adh Migr</source>
+          <year>2016</year>
+          <volume>10</volume>
+          <fpage>299</fpage>
+          <lpage>309</lpage>
+          <pub-id pub-id-type="pmid">26743491</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b20-medscimonit-25-5572">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grimaud</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Soubigou</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Couillaud</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Receptor activator of nuclear factor kappaB ligand (RANKL)/osteoprotegerin (OPG) ratio is increased in severe osteolysis</article-title>
+          <source>Am J Pathol</source>
+          <year>2003</year>
+          <volume>163</volume>
+          <fpage>2021</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="pmid">14578201</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b21-medscimonit-25-5572">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shinde</surname>
+              <given-names>PV</given-names>
+            </name>
+            <name>
+              <surname>Friedrich</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>Wolley</surname>
+              <given-names>AE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bone marrow-derived lin(&#x2212;)c-kit(+)Sca-1+ stem cells do not contribute to vasculogenesis in Lewis lung carcinoma</article-title>
+          <source>Neoplasia</source>
+          <year>2005</year>
+          <volume>7</volume>
+          <fpage>234</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="pmid">15799823</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b22-medscimonit-25-5572">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Llevadot</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Murasawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kureishi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>HMG-CoA reductase inhibitor mobilizes bone marrow &#x2013; derived endothelial progenitor cells</article-title>
+          <source>J Clin Invest</source>
+          <year>2001</year>
+          <volume>108</volume>
+          <fpage>399</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="pmid">11489933</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b23-medscimonit-25-5572">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lane</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Law</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Maruyama</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Harvesting and enrichment of hematopoietic progenitor cells mobilized into the peripheral blood of normal donors by granulocyte-macrophage colony-stimulating factor (GM-CSF) or G-CSF: Potential role in allogeneic marrow transplantation</article-title>
+          <source>Blood</source>
+          <year>1995</year>
+          <volume>85</volume>
+          <fpage>275</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="pmid">7528570</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b24-medscimonit-25-5572">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yan</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MicroRNA-126 regulates EPCs function: Implications for a role of miR-126 in preeclampsia</article-title>
+          <source>J Cell Biochem</source>
+          <year>2013</year>
+          <volume>114</volume>
+          <fpage>2148</fpage>
+          <lpage>59</lpage>
+          <pub-id pub-id-type="pmid">23553946</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b25-medscimonit-25-5572">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Badorff</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Brandes</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Popp</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Transdifferentiation of blood-derived human adult endothelial progenitor cells into functionally active cardiomyocytes</article-title>
+          <source>Circulation</source>
+          <year>2003</year>
+          <volume>107</volume>
+          <fpage>1024</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="pmid">12600917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b26-medscimonit-25-5572">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thum</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Schmitter</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Fleissner</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impairment of endothelial progenitor cell function and vascularization capacity by aldosterone in mice and humans</article-title>
+          <source>Eur Heart J</source>
+          <year>2011</year>
+          <volume>32</volume>
+          <fpage>1275</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="pmid">20926363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b27-medscimonit-25-5572">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mostefai</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Andriantsitohaina</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <article-title>Plasma membrane microparticles in angiogenesis: Role in ischemic diseases and in cancer</article-title>
+          <source>Physiol Res</source>
+          <year>2008</year>
+          <volume>57</volume>
+          <fpage>311</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">18597583</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b28-medscimonit-25-5572">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simonet</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Lacey</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Dunstan</surname>
+              <given-names>CR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoprotegerin: A novel secreted protein involved in the regulation of bone density</article-title>
+          <source>Cell</source>
+          <year>1997</year>
+          <volume>89</volume>
+          <fpage>309</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">9108485</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b29-medscimonit-25-5572">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lacey</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Timms</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>HL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoprotegerin ligand is a cytokine that regulates osteoclast differentiation and activation</article-title>
+          <source>Cell</source>
+          <year>1998</year>
+          <volume>93</volume>
+          <fpage>165</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">9568710</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b30-medscimonit-25-5572">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Honore</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Luger</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Sabino</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoprotegerin blocks bone cancer-induced skeletal destruction, skeletal pain and pain-related neurochemical reorganization of the spinal cord</article-title>
+          <source>Nat Med</source>
+          <year>2000</year>
+          <volume>6</volume>
+          <fpage>521</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="pmid">10802707</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b31-medscimonit-25-5572">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Min</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Morony</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sarosi</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoprotegerin reverses osteoporosis by inhibiting endosteal osteoclasts and prevents vascular calcification by blocking a process resembling osteoclastogenesis</article-title>
+          <source>J Exp Med</source>
+          <year>2000</year>
+          <volume>192</volume>
+          <fpage>463</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="pmid">10952716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b32-medscimonit-25-5572">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cross</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Osteoprotegerin (OPG) &#x2013; a potential new role in the regulation of endothelial cell phenotype and tumour angiogenesis?</article-title>
+          <source>Int J Cancer</source>
+          <year>2010</year>
+          <volume>118</volume>
+          <fpage>1901</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="f1-medscimonit-25-5572" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>The expression of osteoprotegerin (OPG) in endothelial progenitor cells (EPCs) was through the CXCR4 signaling pathway <italic>in vitro</italic>. (<bold>A</bold>) Results of protein bands of CXCR4, p-AKT, t-AKT, and GAPDH in the control group and OPG treatment groups. (<bold>B</bold>) There were significant differences in CXCR4 and p-AKT in the 2 groups, as shown by gray value analysis (* means there was a significant difference <italic>vs.</italic> the control group).</p>
+      </caption>
+      <graphic xlink:href="medscimonit-25-5572-g001"/>
+    </fig>
+    <fig id="f2-medscimonit-25-5572" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>OPG promoted the proliferation and migration of EPCs, but the effect was weakened by inhibition of CXCR4 and PI3K. (<bold>A</bold>) Scratch area of EPCs in different intervention groups at 0 h and 24 h after the scratch was made. (<bold>B</bold>) Compared with the control group, there was a significant difference in the ratio of scratch area in the OPG group after 24 h. There were significant differences in the proportion of scratch area between the inhibitor treatment groups and the OPG group (# means there is a significant difference from the OPG group). (<bold>C</bold>) Number of EPCs in the lower chambers in different intervention groups at 48 h after treatment. (<bold>D</bold>) Cell count analysis showed that cell numbers in the OPG group were significantly different from that of the control group, and the number of cells in the inhibitors groups were also significantly different from that of the control group and the OPG group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-25-5572-g002"/>
+    </fig>
+    <fig id="f3-medscimonit-25-5572" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>The administration of OPG promoted vascular regeneration in bone defect via enhancing the expression of the EPCs. (<bold>A</bold>) It shows the results of VEGFR2 immunohistochemical staining in each group. (<bold>B</bold>) Results of immunofluorescence staining of vascular endothelial cells in each group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-25-5572-g003"/>
+    </fig>
+    <fig id="f4-medscimonit-25-5572" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>Treatment with OPG strengthened recovery of bone defect and collagen formation. (<bold>A</bold>) Micro-CT imaging of femur of affected limbs of rats in each group 28 days after modeling. (<bold>B</bold>) Evaluation of bone mineral density of injury site in each group at 28 days. (<bold>C</bold>) Evaluation of bone volume at 28 days after injury among groups. (<bold>D</bold>) HE and Masson staining of bone collagen at defect after injury in each group.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-25-5572-g004"/>
+    </fig>
+    <fig id="f5-medscimonit-25-5572" position="float">
+      <label>Figure 5</label>
+      <caption>
+        <p>The signal pathway simulation of OPG regulating proliferation and migration of endothelial progenitor cells.</p>
+      </caption>
+      <graphic xlink:href="medscimonit-25-5572-g005"/>
+    </fig>
+  </floats-group>
+</article>
+</pmc-articleset>

@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+FAK,FAK,2
+FAK,PAXILLIN,2
+FAK,AKT,2
+PAXILLIN,PAXILLIN,2
+PAXILLIN,AKT,2
+AKT,AKT,2

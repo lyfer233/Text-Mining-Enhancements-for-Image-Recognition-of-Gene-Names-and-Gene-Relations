@@ -1,0 +1,3 @@
+{
+    "Fig. 5": "Interesting gene regulatory interactions with respect to PI3K-Akt signaling and Ras signaling pathway. PI3K-Akt signaling components are represented by oval shape. Genes involved in Ras signaling are represented by rectangular shape. Yellow color represent the perturbed genes involved in both signaling pathway. In this figure, we have shown the PI3K-Akt enriched genes in red color, while the genes enriched in Ras pathway are represented by rectangular shape. The yellow color represents the genes which undergoes perturbation experiments to obtain the gene-gene regulatory network. The edges with arrow signs represent the four fold increase in the expression of target/effected genes, while edges with dot represent the four fold down-regulation"
+}

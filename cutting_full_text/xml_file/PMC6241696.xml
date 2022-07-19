@@ -1,0 +1,1548 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Onco Targets Ther</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Onco Targets Ther</journal-id>
+      <journal-id journal-id-type="publisher-id">OncoTargets and Therapy</journal-id>
+      <journal-title-group>
+        <journal-title>OncoTargets and therapy</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1178-6930</issn>
+      <publisher>
+        <publisher-name>Dove Medical Press</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">30532552</article-id>
+      <article-id pub-id-type="pmc">6241696</article-id>
+      <article-id pub-id-type="doi">10.2147/OTT.S173339</article-id>
+      <article-id pub-id-type="publisher-id">ott-11-8107</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Follicle-stimulating hormone inhibits cervical cancer via NF-&#x3BA;B pathway</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shi</surname>
+            <given-names>Xi</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+          <xref ref-type="author-notes" rid="fn1-ott-11-8107">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Qiu</surname>
+            <given-names>Shiwei</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+          <xref ref-type="author-notes" rid="fn1-ott-11-8107">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhuang</surname>
+            <given-names>Wei</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+          <xref ref-type="author-notes" rid="fn1-ott-11-8107">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Caiji</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Shili</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yuan</surname>
+            <given-names>Na</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yuan</surname>
+            <given-names>Fukang</given-names>
+          </name>
+          <xref ref-type="aff" rid="af2-ott-11-8107">2</xref>
+          <xref ref-type="corresp" rid="c2-ott-11-8107"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Qiao</surname>
+            <given-names>Yuehua</given-names>
+          </name>
+          <xref ref-type="aff" rid="af1-ott-11-8107">1</xref>
+          <xref ref-type="corresp" rid="c1-ott-11-8107"/>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-ott-11-8107">
+<label>1</label>The Institute of Audiology and Speech Science of Xuzhou Medical College, Xuzhou 221002, People&#x2019;s Republic of China, <email>yuehuaqiao001@163.com</email></aff>
+      <aff id="af2-ott-11-8107">
+<label>2</label>Department of Vascular Surgery of Xuzhou Central Hospital, Xuzhou Institute of Cardiovascular Disease, Xuzhou 221009, People&#x2019;s Republic of China, <email>jsbuck520@163.com</email></aff>
+      <author-notes>
+        <corresp id="c1-ott-11-8107">Correspondence: Yuehua Qiao, The Institute of Audiology and Speech Science of Xuzhou Medical College, Xuzhou 221002, People&#x2019;s Republic of China, Tel +86 516 8580 2300, Fax +86 516 8580 2121, Email <email>yuehuaqiao001@163.com</email></corresp>
+        <corresp id="c2-ott-11-8107">Fukang Yuan, Department of Vascular Surgery of Xuzhou Central Hospital, Xuzhou Institute of Cardiovascular Disease, 199 Jiefang Road, Xuzhou 221009, People&#x2019;s Republic of China, Tel +86 181 6877 9157, Email <email>jsbuck520@163.com</email></corresp>
+        <fn id="fn1-ott-11-8107" fn-type="equal">
+          <label>*</label>
+          <p>These authors contributed equally to this work</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>11</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>11</volume>
+      <fpage>8107</fpage>
+      <lpage>8115</lpage>
+      <permissions>
+        <copyright-statement>&#xA9; 2018 Shi et al. This work is published and licensed by Dove Medical Press Limited</copyright-statement>
+        <copyright-year>2018</copyright-year>
+        <license>
+          <license-p>The full terms of this license are available at <ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link> and incorporate the Creative Commons Attribution &#x2013; Non Commercial (unported, v3.0) License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</ext-link>). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>Follicle-stimulating hormone (FSH) has multiple biological functions. It is currently considered that FSH can inhibit cervical cancer, and our aim was to explore the underlying molecular mechanisms.</p>
+        </sec>
+        <sec>
+          <title>Materials and methods</title>
+          <p>An in vivo experiment using nude mice injected with HeLa cells was performed. Flow cytometry, western blotting, and real-time quantitative PCR analyses were done.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>Twenty one days after injection of HeLa cells, the subcutaneous tumor mass was significantly lower (<italic>P</italic>&lt;0.01) in mice treated with 20 mIU/mL FSH, but did not disappear. In vitro observations indicated that FSH might inhibit cell proliferation and activate cell apoptosis to induce the reduction of HeLa cells. The mRNA and protein levels of Cyclin D1, Cyclin E1, and Caspase 3 changed accordingly as expected in vivo and in vitro. Moreover, FSH inactivated the nuclear factor-kappa B (NF-&#x3BA;B) pathway in subcutaneous tumors; the NF-&#x3BA;B(p65) activity in HeLa cells was significantly decreased using 20 mIU/mL FSH and was increased when FSH was administered along with lipopolysaccharide, accompanied by the same change of cell number. Further, FSH accelerated protein kinase A (PKA) activity, but inactivated glycogen synthase kinase 3 beta (GSK-3&#x3B2;) activity. Specific inhibition of PKA and/or GSK-3&#x3B2; provided in vitro evidence that directly supported the FSH-mediated inhibition of GSK-3&#x3B2; to inactivate NF-&#x3BA;B via the promotion of PKA activity.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>Our data are the first description of the molecular regulatory mechanisms of FSH-mediated inhibition of the development of cervical cancer by decreasing the cell cycle and activating cell apoptosis via the PKA/GSK-3&#x3B2;/NF-&#x3BA;B pathway.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <title>Keywords</title>
+        <kwd>FSH</kwd>
+        <kwd>cervical cancer</kwd>
+        <kwd>cell cycle</kwd>
+        <kwd>apoptosis</kwd>
+        <kwd>PKA</kwd>
+        <kwd>NF-&#x3BA;B</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Follicle-stimulating hormone (FSH) is a pituitary glycoprotein hormone with an important role in the control of the progesterone synthesis in granular cells. FSH is involved in the manufacture of estrogen for mammalian reproduction.<xref rid="b1-ott-11-8107" ref-type="bibr">1</xref>&#x2013;<xref rid="b3-ott-11-8107" ref-type="bibr">3</xref> In the ovaries, FSH combines with its specific membrane receptor, FSHR, which activates G proteins, adenylate cyclase (cAMP), and protein kinase A (PKA), to upregulate the expression of genes involved in estrogen biosynthesis.<xref rid="b4-ott-11-8107" ref-type="bibr">4</xref>&#x2013;<xref rid="b6-ott-11-8107" ref-type="bibr">6</xref></p>
+      <p>Multiple biological functions of FSH have been demonstrated. Except for reproduction, FSH positively regulates fat deposition in adipose tissue of chickens and mice.<xref rid="b7-ott-11-8107" ref-type="bibr">7</xref>&#x2013;<xref rid="b9-ott-11-8107" ref-type="bibr">9</xref> Lack of estrogen in postmenopausal women can increase the risks of cardiovascular disease, obesity, and osteoporosis, with the feedback-mediated increase in the level of FSH level in the blood.<xref rid="b10-ott-11-8107" ref-type="bibr">10</xref>&#x2013;<xref rid="b12-ott-11-8107" ref-type="bibr">12</xref> Compensation therapy with estrogen injection has been used as an antiaging strategy.<xref rid="b13-ott-11-8107" ref-type="bibr">13</xref>,<xref rid="b14-ott-11-8107" ref-type="bibr">14</xref> However, this therapy has negative consequences concerning the occurrence of cancer.<xref rid="b15-ott-11-8107" ref-type="bibr">15</xref>&#x2013;<xref rid="b17-ott-11-8107" ref-type="bibr">17</xref></p>
+      <p>Nuclear factor-kappa B (NF-&#x3BA;B) is a nuclear transcription factor that regulates the expression of a large number of genes that are critical for the regulation of apoptosis, viral replication, tumorigenesis, inflammation, and various autoimmune diseases.<xref rid="b18-ott-11-8107" ref-type="bibr">18</xref>&#x2013;<xref rid="b20-ott-11-8107" ref-type="bibr">20</xref> NF-&#x3BA;B is closely related to the growth and metastasis of tumors, as it inhibits cell apoptosis, with Caspase 3 (CASP3) having an important regulatory role in the process.<xref rid="b21-ott-11-8107" ref-type="bibr">21</xref> In addition, Cyclin D1 (<italic>CCND1</italic>) is the downstream gene of NF-&#x3BA;B<xref rid="b22-ott-11-8107" ref-type="bibr">22</xref> and is the key regulatory gene in the cell cycle.<xref rid="b23-ott-11-8107" ref-type="bibr">23</xref> The continuous activation of NF-&#x3BA;B is associated with dysregulated cell proliferation.</p>
+      <p>In this article, we describe how nude mice were injected with HeLa cells as a cervical cancer model. We report a positive role of FSH in the repression of cervical cancer that is manifest as decreased proliferation and increased apoptosis of cells. The molecular mechanism of FSH on the repression of cervical cancer is demonstrated. Our findings increase the knowledge of the regulation of cervical cancer and provide a new view on estrogen replacement therapy for menopausal woman.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Animal ethical statement</title>
+        <p>All animal experiments were performed in accordance with protocols approved by the Animal Research Committee of the Institute of Audiology and Speech Science of Xuzhou Medical College (protocol number: XMC-A02-2017-018). All of the animal experiments were approved and guided by the Animal Care and Use Committee of Xuzhou Medical Collage.</p>
+      </sec>
+      <sec>
+        <title>Cell culture and treatment</title>
+        <p>HeLa cells in 96- or 6-well plates or 10-cm dishes were cultured with RPMI1640 medium containing 10% fetal bovine serum (FBS). HeLa cells were treated with different concentrations of FSH (5, 10, 20, and 40 mIU/mL) or were not treated with FSH (control group) for 60 hours (the rapid period of cell proliferation) to optimize the working concentration of FSH. The 20-mIU/mL FSH concentration was selected to use for the subsequent experiments. Cells were untreated (control) or treated with FSH 20 mIU/mL for either 48 hours (cell cycle, cell apoptosis, gene expression assays) or 60 hours (cell proliferation assay). Cells with FSH treatment were also co-treated for 8 hours with 20 &#xB5;mol/l of the PKA inhibitor H89 for 8 hours or 5 &#xB5;g/mL lipopolysaccharide (LPS) to activate NF-&#x3BA;B, as previously described.<xref rid="b24-ott-11-8107" ref-type="bibr">24</xref>,<xref rid="b25-ott-11-8107" ref-type="bibr">25</xref> In the cells treated with FSH and H89, GSK-3&#x3B2; activity could also be inhibited using 10 &#xB5;M TWS119. All cells were collected for analyses.</p>
+      </sec>
+      <sec>
+        <title>Animals and treatment</title>
+        <p>Thirty six 6-week-old female nude mice (Vital River, Beijing, China) with similar weight (&#xB1;0.5 g) were housed under a 12/12-hour light/dark cycle in a specific-pathogen free environment. The mouse model was previously described.<xref rid="b26-ott-11-8107" ref-type="bibr">26</xref> All mice were injected with 1&#xD7;10<sup>7</sup> HeLa cells (purchased from National Infrastructure of Cell Line Resource, Beijing, China) and randomly divided into three groups. One group was treated daily with 20 mIU/mL FSH (Sigma-Aldrich, St Louis, MO, USA) in 0.2 mL physiological saline by intra-peritoneal injection. The other two groups were treated with 0.2 mL physiological saline as controls. When tumor masses were evident after the injection of HeLa cells in control mice, the mice in one of the control groups were intraperitoneally injected daily with 20 mIU/mL FSH. The other control group was injected with the same volume of physiological saline. All mice were killed 21 days after the first injection. Tumors were completely excised and stored at &#x2212;80&#xB0;C.</p>
+      </sec>
+      <sec>
+        <title>Cell proliferation</title>
+        <p>Cells were cultured in 96-well dishes (1&#xD7;10<sup>5</sup> cells per well) in RPMI1640 medium containing 5% FBS and induced with different concentrations of FSH (5, 10, 20, and 40 mIU/mL) or specific 20 mIU/mL FSH for 60 hours. Cell proliferation was determined by the 3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide (MTT) assay. Based on the treatment with 20 mIU/mL FSH, cells were treated with H89 (20 &#xB5;M) for 8 hours, and cell numbers were determined. Twenty microliters of MTT (5 mg/mL) aliquots were added to each well and incubated for 4 hours at 37&#xB0;C. After removing the supernatant, formazan crystals were dissolved in 200 &#xB5;L of dimethylsulfoxide, and the absorbance was measured at 490 nm. There were eight replicate wells for each group to ensure the accuracy of the experiment.</p>
+      </sec>
+      <sec>
+        <title>Flow cytometry</title>
+        <p>Cells in 6-cm culture dishes were untreated or treated with 20 mIU/mL FSH for 48 hours and then used for the analysis of cell cycle or cell apoptosis using a FACSCanto II flow cytometer. For the cell cycle analysis, cells were mixed with 0.25% Triton X-100 and 5 &#xB5;L propidium iodide (PI) and incubated for 30 minutes at room temperature in the dark. Cells were resuspended in 0.5 mL of phosphate-buffered saline (PBS) and analyzed immediately. For the cell apoptosis assay, cells were digested with trypsin, centrifuged at 300 &#xD7; <italic>g</italic> for 5 minutes and washed with ice-cold PBS. The cell pellets were re-suspended in 100 &#xB5;L Annexin V-binding buffer, transferred to a 5-mL culture tube containing 5 &#xB5;L Annexin V-fluorescein isothiocyanate (FITC), and mixed with 10 &#xB5;L PI. Each tube was gently vortexed and incubated for 15 minutes at room temperature in the dark. Subsequently, 300 &#xB5;L of binding buffer was added, and the cells were analyzed immediately.</p>
+      </sec>
+      <sec>
+        <title>Real-time quantitative polymerase chain reaction (Q-PCR)</title>
+        <p>The expression levels of genes in tumor tissue (untreated or treated with FSH for 21 days) and cell samples (untreated or treated with 20 mIU/mL FSH for 48 hours) were detected by real-time Q-PCR. Primer information is provided in <xref rid="t1-ott-11-8107" ref-type="table">Table 1</xref>. Each 20 &#xB5;L PCR mixture contained 10 &#xB5;L 2&#xD7; iQ&#x2122; SYBR Green Supermix, 0.5 &#xB5;L (10 mM) of each primer, and 1 &#xB5;L cDNA. Reactions were incubated in an ABI 7500 Real-Time PCR Detection System (Thermo Fisher Scientific, Waltham, MA, USA). A melting curve was constructed to verify that only a single PCR product was amplified. Samples were assayed in triplicate with SDs of CT values not exceeding 0.5 on a within-run basis.</p>
+      </sec>
+      <sec>
+        <title>Enzyme linked immunosorbent assay (ELISA)</title>
+        <p>PKA activity was determined in tumor tissue and HeLa cell samples with different treatments using an ELISA kit (BioVision, San Francisco, CA, USA) according to the manufacturer&#x2019;s instructions.</p>
+      </sec>
+      <sec>
+        <title>Western blotting</title>
+        <p>The activities of CASP3, NF-&#x3BA;B(p65), and glycogen synthase kinase 3 beta (GSK-3&#x3B2;) were detected in tumor tissue and HeLa cells in vivo and in vitro from mice and cells treated with FSH. The nuclear or cytoplasmic fraction was extracted from every sample using the Nuclear and Cytoplasmic Protein Extraction Kit (Beyotime, Shanghai, China) according to the manufacturer&#x2019;s instructions. The total protein levels of all samples were assayed with a BCA Protein Assay Kit using monoclonal antibodies to anti-&#x3B2;-actin, anti-CASP3, anti-pNF-&#x3BA;B(p65), and anti-pGSK-3&#x3B2; (all from Abcam, Cambridge, UK).</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>Statistical analysis</title>
+        <p>ANOVA was done using Statistical Analysis Systems software (Version 8.2; SAS Institute, Cary, NC, USA) to determine significance (accepted at <italic>P</italic>&lt;0.05 or <italic>P</italic>&lt;0.01). The data are mean &#xB1; SD.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>FSH inhibits cervical cancer development by regulating cell proliferation and apoptosis</title>
+        <p>FSH (10&#x2013;40 mIU/mL) significantly inhibited (<italic>P</italic>&lt;0.05 or &lt;0.01) the number of HeLa cells (<xref ref-type="fig" rid="f1-ott-11-8107">Figure 1A</xref>). In subsequent in vivo and in vitro experiments, 20 mIU/mL FSH was used (<xref ref-type="fig" rid="f1-ott-11-8107">Figure 1A</xref>). Mice were injected with HeLa cells. None of the control and treated mice died during this phase of the study. Subcutaneous tumors were present in all mice injected with HeLa cells for 10 days. At that time, the mice that had not been treated with FSH treatment were divided into two groups that were untreated or treated with 20 mIU/mL FSH for another 11 days to further clarify the effect of FSH on cervical cancer. After the total 21 days of injection of HeLa cells, the tumor masses in FSH-treated mice were significantly smaller (<italic>P</italic>&lt;0.01) than the tumors in mice not treated with FSH, but did not vanish (<xref ref-type="fig" rid="f1-ott-11-8107">Figure 1B</xref>).</p>
+        <p>Additional validations in vitro were performed. HeLa cells (1&#xD7;10<sup>5</sup> cells per well in 96-well dishes) were cultured with 20 mIU/mL FSH for 60 hours, and cell viability was assessed using the MTT assay. The number of viable cells in the FSH-treated group was significantly lower (<italic>P</italic>&lt;0.01) than that in controls without FSH (<xref ref-type="fig" rid="f1-ott-11-8107">Figure 1C</xref>). Furthermore, HeLa cells were left untreated or were treated with 20 mIU/mL FSH for 48 hours, and the cell cycle and apoptosis were examined using flow cytometry. Compared with control cells, the rate of S phase in the treated cells was significantly lower (<italic>P</italic>&lt;0.01), the rate of G1 phase was significantly higher (<italic>P</italic>&lt;0.01) (<xref rid="t2-ott-11-8107" ref-type="table">Table 2</xref>), and the rate of apoptosis was obviously higher in treated cells (<xref ref-type="fig" rid="f1-ott-11-8107">Figure 1D</xref>). Genetically, as the key factor to cell apoptosis, the level of cleaved caspase 3 (CASP3) measured by western blotting was obviously increased in tumor tissue from mice treated with 20 mIU/mL FSH compared with controls (<xref ref-type="fig" rid="f1-ott-11-8107">Figure 1E</xref>).</p>
+      </sec>
+      <sec>
+        <title>FSH inactivates NF-&#x3BA;B activity to inhibit subcutaneous tumor</title>
+        <p>NF-&#x3BA;B(p65) activity was detected to clarify if NF-&#x3BA;B was involved in the FSH repression of cervical cancer. In tumor tissue, the NF-&#x3BA;B(p65) activity obviously declined with FSH treatment (<xref ref-type="fig" rid="f2-ott-11-8107">Figure 2A</xref>). Cells were divided into three groups. One group was a control, and the other two groups were treated for 8 hours with 20 mIU/mL FSH or 20 mIU/mL FSH plus 5 &#xB5;g/mL LPS. Compared with the control cells, the NF-&#x3BA;B(p65) activity became lower in the FSH-treated group and recovered to the same level of the NF-&#x3BA;B(p65) activity in the presence of LPS (<xref ref-type="fig" rid="f2-ott-11-8107">Figure 2A</xref>). The 60-hour FSH plus LPS treatment resulted in significantly higher numbers of cells (<italic>P</italic>&lt;0.01) in FSH-treated mice (<xref ref-type="fig" rid="f2-ott-11-8107">Figure 2B</xref>).</p>
+        <p>Detection of downstream functional genes related to cell proliferation or apoptosis was done in vivo and in vitro. The mRNA levels of <italic>Cyclin D1</italic> (<italic>Ccnd1</italic>) and <italic>Cyclin E1</italic> (<italic>Ccne1</italic>) genes were significantly downregulated in tumor tissue from mice treated with 20 mIU/mL FSH (<italic>P</italic>&lt;0.01). HeLa cell injection with FSH in the absence or presence of LPS for 8 hours yielded significant decreases of <italic>Ccnd1</italic> and <italic>Ccne1</italic> mRNA levels (both <italic>P</italic>&lt;0.01) in the 20 mIU/mL FSH group and was upregulated in the presence of LPS (<xref ref-type="fig" rid="f2-ott-11-8107">Figure 2C</xref>). Accordingly, the cleaved CASP3 level was markedly increased in HeLa cells treated with 20 mIU/mL FSH for 8 hours compared with control cells. The level decreased upon exposure to LPS (<xref ref-type="fig" rid="f2-ott-11-8107">Figure 2D</xref>).</p>
+      </sec>
+      <sec>
+        <title>FSH inactivates GSK-3&#x3B2; to inhibit NF-&#x3BA;B by inducing PKA activity</title>
+        <p>FSHR-PKA and GSK-3&#x3B2; were analyzed to explore the regulation of FSH on NF-&#x3BA;B activity. <italic>Fshr</italic> mRNA and protein levels were upregulated in tumor tissues treated with 20 mIU/mL FSH compared to tumor tissue without FSH (<italic>P</italic>&lt;0.01) (<xref ref-type="fig" rid="f3-ott-11-8107">Figure 3A</xref>). Moreover, as shown in <xref ref-type="fig" rid="f3-ott-11-8107">Figure 3B and C</xref>, the PKA level also was obviously increased, and the activity of GSK-3&#x3B2; was significantly reduced in tumor tissue upon treatment with 20 mIU/mL FSH than in tumor tissue without FSH.</p>
+        <p>On the basis of FSH treatment, HeLa cells in vitro were treated with H89 (PKA inhibitor) for 8 hours. PKA activity was increased for FSH and then significantly decreased (<italic>P</italic>&lt;0.05 or <italic>P</italic>&lt;0.01) upon treatment with H89, accompanied by a significantly opposite change of GSK-3&#x3B2; activity (<xref ref-type="fig" rid="f3-ott-11-8107">Figure 3B and C</xref>). In HeLa cells treated with FSH and H89, NF-&#x3BA;B(p65) activity was significantly decreased in the presence of TWS119 (GSK-3&#x3B2; inhibitor) (<xref ref-type="fig" rid="f3-ott-11-8107">Figure 3D</xref>), suggesting that FSH inhibited GSK-3&#x3B2; activity via PKA to affect the NF-&#x3BA;B(p65) activity in controlling development of subcutaneous tumors.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>FSH that is active in association with its specific membrane receptor, FSHR, has important roles in reproduction and lipid biosynthesis via the cAMP-PKA-CREB pathway.<xref rid="b1-ott-11-8107" ref-type="bibr">1</xref>&#x2013;<xref rid="b3-ott-11-8107" ref-type="bibr">3</xref>,<xref rid="b7-ott-11-8107" ref-type="bibr">7</xref>&#x2013;<xref rid="b9-ott-11-8107" ref-type="bibr">9</xref> The present data clearly demonstrate the positive role of FSH hormone in cervical cancer and clarify the systematic molecular mechanism. Our findings add to the knowledge of the regulation of cervical cancer and provide a new view on replacement therapy of estrogen for menopausal woman.</p>
+      <p>The effect of FSH for cervical cancer was assessed in vivo and in vitro. FSH applied at different stages of tumor development could inhibit the development of subcutaneous tumors, but did not dictate tumor occurrence. The MTT viability assay indicated that 20 mIU/mL FSH inhibited HeLa cells in vitro. Flow cytometry confirmed that FSH inhibited the progression from G1 to S phase in HeLa cells. The collective results indicate that FSH inhibits the development of subcutaneous tumors by inhibiting cell proliferation.</p>
+      <p>The molecular regulatory mechanism of FSH on cervical cancer was investigated. FSH has different regulatory roles on NF-&#x3BA;B in different cell types,<xref rid="b27-ott-11-8107" ref-type="bibr">27</xref>,<xref rid="b28-ott-11-8107" ref-type="bibr">28</xref> and NF-&#x3BA;B(p65) in the NF-&#x3BA;B pathway is important in the regulation of cell proliferation and apoptosis.<xref rid="b29-ott-11-8107" ref-type="bibr">29</xref>&#x2013;<xref rid="b31-ott-11-8107" ref-type="bibr">31</xref> This knowledge prompted us to explore NF-&#x3BA;B(p65) activity. As expected, the activity was obviously decreased in tumors from mice treated with FSH before the development of a tumor mass. As the specific activator of NF-&#x3BA;B,<xref rid="b32-ott-11-8107" ref-type="bibr">32</xref> 5 &#xB5;g/mL LPS was used to validate the role of NF-&#x3BA;B(p65) in vitro. After HeLa cells were treated by LPS for 8 hours, treatment with 20 mIU/mL FSH recovered the activities of NF-&#x3BA;B(p65) that had been reduced by FSH. Accordingly, the cell number significantly increased. Using HeLa cells with the same treatment, the mRNA levels of <italic>Ccnd1</italic> and <italic>Ccne1</italic>, as the downstream function genes and factor-related cell cycle or cell proliferation,<xref rid="b33-ott-11-8107" ref-type="bibr">33</xref>,<xref rid="b34-ott-11-8107" ref-type="bibr">34</xref> were downregulated for FSH and then upregulated after the addition of LPS. However, as a key factor in regulating the cell apoptosis,<xref rid="b35-ott-11-8107" ref-type="bibr">35</xref>,<xref rid="b36-ott-11-8107" ref-type="bibr">36</xref> the induction of cleaved CASP3 was evident in tumor tissue and HeLa cells treated with 20 mIU/mL FSH, again supporting the FSH-mediated inhibition of apoptosis inhibition. In vitro, cleaved CASP3 was downregulated with the addition of LPS from the higher levels that had resulted from the presence of FSH. The results support the view that FSH inactivates the NF-&#x3BA;B pathway to control subcutaneous tumors by inhibiting cell proliferation and activating cell apoptosis.</p>
+      <p>The present results add to the data concerning the clinical value of PKA activity on the effect of FSH<xref rid="b8-ott-11-8107" ref-type="bibr">8</xref>,<xref rid="b37-ott-11-8107" ref-type="bibr">37</xref>,<xref rid="b38-ott-11-8107" ref-type="bibr">38</xref> and the important role of GSK-3&#x3B2; in regulating the activity of NF-&#x3BA;B.<xref rid="b39-ott-11-8107" ref-type="bibr">39</xref>,<xref rid="b40-ott-11-8107" ref-type="bibr">40</xref> In tumor tissue in the FSH treated group, the mRNA level of <italic>Fshr</italic> and PKA activity were significantly upregulated, but the level of activated GSK-3&#x3B2; was significantly downregulated compared to tumor tissue without FSH, indicating a relationship of PKA and GSK-3&#x3B2; with FSH in controlling subcutaneous tumors. After the blockage of PKA in vitro for 8 hours, the activated GSK-3&#x3B2; level was obviously increased with the inactivation of PKA, as has been reported.<xref rid="b41-ott-11-8107" ref-type="bibr">41</xref> Furthermore, the activity of NF-&#x3BA;B(p65) recovered with the inactivation of PKA and activation of GSK-3&#x3B2;, but was again decreased in the presence of the inhibition of GSK-3&#x3B2; by TWS119. These results prove that PKA reduces the activity of NF-&#x3BA;B by inactivating GSK-3&#x3B2;.</p>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>We report for the first time the molecular regulatory mechanisms of FSH in the inhibited development of cervical cancer. The inhibition is due to the decreased cell cycle and activation of cell apoptosis via the PKA-GSK-3&#x3B2;-NF-&#x3BA;B signaling pathway. After PKA is activated in the presence of FSH and GSK-3&#x3B2; activity is downregulated, inducing the inactivation of the NF-&#x3BA;B pathway (<xref ref-type="fig" rid="f4-ott-11-8107">Figure 4</xref>). Downstream of this process, CCND1, CCNE1, and CASP3 are important in regulating the cell number of cervical cancer. Our findings add to the knowledge of the regulation of cervical cancer and provide new data concerning estrogen replacement therapy for menopausal woman.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The study was supported by grants from Six Talent Peaks project in Jiangsu Province (2014-WSN-043), the Chinese Postdoctoral Science Foundation (2015M571818 and 2013 M530473), the National Natural Science Funds of China (No 81470684, 31300624 and 81800916), the Clinical Medicine Science and Technology Special Foundation (b12014032), the Natural Science Foundation of Jiangsu Province, People&#x2019;s Republic of China (BK20161168), and the Social Development Project of Xuzhou, People&#x2019;s Republic of China (KC17109).</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="COI-statement">
+        <p>
+          <bold>Disclosure</bold>
+        </p>
+        <p>The authors report no conflicts of interest in this work.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="b1-ott-11-8107">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demoura</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Adashi</surname>
+              <given-names>EY</given-names>
+            </name>
+            <name>
+              <surname>Payne</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Insulin-like growth factor-I-mediated amplification of follicle-stimulating hormone-supported progesterone accumulation by cultured rat granulosa cells: enhancement of steroidogenic enzyme activity and expression</article-title>
+          <source>Biol Reprod</source>
+          <year>1997</year>
+          <volume>56</volume>
+          <issue>4</issue>
+          <fpage>946</fpage>
+          <lpage>953</lpage>
+          <pub-id pub-id-type="pmid">9096877</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b2-ott-11-8107">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdennebi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Monget</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Pisselet</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Comparative expression of luteinizing hormone and follicle-stimulating hormone receptors in ovarian follicles from high and low prolific sheep breeds</article-title>
+          <source>Biol Reprod</source>
+          <year>1999</year>
+          <volume>60</volume>
+          <issue>4</issue>
+          <fpage>845</fpage>
+          <lpage>854</lpage>
+          <pub-id pub-id-type="pmid">10084957</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b3-ott-11-8107">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fran&#xE7;ois</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Petit</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Giton</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A novel action of follicle-stimulating hormone in the ovary promotes estradiol production without inducing excessive follicular growth before puberty</article-title>
+          <source>Sci Rep</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <fpage>46222</fpage>
+          <pub-id pub-id-type="pmid">28397811</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b4-ott-11-8107">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoang</surname>
+              <given-names>YD</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>BN</given-names>
+            </name>
+            <name>
+              <surname>Luderer</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <article-title>Follicle-stimulating hormone and estradiol interact to stimulate glutathione synthesis in rat ovarian follicles and granulosa cells</article-title>
+          <source>Biol Reprod</source>
+          <year>2009</year>
+          <volume>81</volume>
+          <issue>4</issue>
+          <fpage>636</fpage>
+          <lpage>646</lpage>
+          <pub-id pub-id-type="pmid">19516019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b5-ott-11-8107">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Follicular stimulating hormone accelerates atherogenesis by increasing endothelial VCAM-1 expression</article-title>
+          <source>Theranostics</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <issue>19</issue>
+          <fpage>4671</fpage>
+          <lpage>4688</lpage>
+          <pub-id pub-id-type="pmid">29187895</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b6-ott-11-8107">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xu</surname>
+              <given-names>Gu Y</given-names>
+            </name>
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>BW</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of A-kinase anchoring protein 95 in the regulation of cytochrome P450 family 19 subfamily A member 1 (CYP19A1) in human ovarian granulosa cells</article-title>
+          <source>Reprod Fertil Dev</source>
+          <comment>Epub</comment>
+          <year>2018</year>
+          <month>2</month>
+          <day>5</day>
+        </element-citation>
+      </ref>
+      <ref id="b7-ott-11-8107">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cui</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>FSH stimulates lipid biosynthesis in chicken adipose tissue by upregulating the expression of its receptor FSHR</article-title>
+          <source>J Lipid Res</source>
+          <year>2012</year>
+          <volume>53</volume>
+          <issue>5</issue>
+          <fpage>909</fpage>
+          <lpage>917</lpage>
+          <pub-id pub-id-type="pmid">22345708</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b8-ott-11-8107">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>XM</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>GL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>FSH regulates fat accumulation and redistribution in aging through the G&#x3B1;i/Ca(2+)/CREB pathway</article-title>
+          <source>Aging Cell</source>
+          <year>2015</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>409</fpage>
+          <lpage>420</lpage>
+          <pub-id pub-id-type="pmid">25754247</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b9-ott-11-8107">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yuen</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Blocking FSH induces thermogenic adipose tissue and reduces body fat</article-title>
+          <source>Nature</source>
+          <year>2017</year>
+          <volume>546</volume>
+          <issue>7656</issue>
+          <fpage>107</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="pmid">28538730</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b10-ott-11-8107">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mikkola</surname>
+              <given-names>TS</given-names>
+            </name>
+            <name>
+              <surname>Tuomikoski</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lyytinen</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Increased cardiovascular mortality risk in women discontinuing postmenopausal hormone therapy</article-title>
+          <source>J Clin Endocrinol Metab</source>
+          <year>2015</year>
+          <volume>100</volume>
+          <issue>12</issue>
+          <fpage>4588</fpage>
+          <lpage>4594</lpage>
+          <pub-id pub-id-type="pmid">26414962</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b11-ott-11-8107">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abbasi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Farzam</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Mamaghani</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Yazdi</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationship between metabolic syndrome and its components with bone densitometry in post-menopausal women</article-title>
+          <source>Diabetes Metab Syndr Suppl</source>
+          <year>2017</year>
+          <volume>1</volume>
+          <fpage>S73</fpage>
+          <lpage>S76</lpage>
+        </element-citation>
+      </ref>
+      <ref id="b12-ott-11-8107">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thurston</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>BD</given-names>
+            </name>
+            <name>
+              <surname>Shufelt</surname>
+              <given-names>CL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Menopausal symptoms and cardiovascular disease mortality in the Women&#x2019;s Ischemia Syndrome Evaluation (WISE)</article-title>
+          <source>Menopause</source>
+          <year>2017</year>
+          <volume>24</volume>
+          <issue>2</issue>
+          <fpage>126</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="pmid">27676638</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b13-ott-11-8107">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Botteri</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>St&#xF8;er</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>Sakshaug</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Menopausal hormone therapy and risk of melanoma: do estrogens and progestins have a different role?</article-title>
+          <source>Int J Cancer</source>
+          <year>2017</year>
+          <volume>141</volume>
+          <issue>9</issue>
+          <fpage>1763</fpage>
+          <lpage>1770</lpage>
+          <pub-id pub-id-type="pmid">28685818</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b14-ott-11-8107">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johansen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Liavaag</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Iversen</surname>
+              <given-names>OE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Use of hormone replacement therapy after risk-reducing salpingo-oophorectomy</article-title>
+          <source>Acta Obstet Gynecol Scand</source>
+          <year>2017</year>
+          <volume>96</volume>
+          <issue>5</issue>
+          <fpage>547</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="pmid">28236297</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b15-ott-11-8107">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Botteri</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>St&#xF8;er</surname>
+              <given-names>NC</given-names>
+            </name>
+            <name>
+              <surname>Sakshaug</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Menopausal hormone therapy and colorectal cancer: a linkage between nationwide registries in Norway</article-title>
+          <source>BMJ Open</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <issue>11</issue>
+          <fpage>e017639</fpage>
+        </element-citation>
+      </ref>
+      <ref id="b16-ott-11-8107">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tamimi</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lagergren</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Adami</surname>
+              <given-names>HO</given-names>
+            </name>
+            <name>
+              <surname>Brusselaers</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Menopausal hormone therapy and cancer risk: an overestimated risk?</article-title>
+          <source>Eur J Cancer</source>
+          <year>2017</year>
+          <volume>84</volume>
+          <fpage>60</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="pmid">28783542</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b17-ott-11-8107">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crandall</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Hovey</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Andrews</surname>
+              <given-names>CA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Breast cancer, endometrial cancer, and cardiovascular events in participants who used vaginal estro-gen in the Women&#x2019;s Health Initiative Observational Study</article-title>
+          <source>Menopause</source>
+          <year>2018</year>
+          <volume>25</volume>
+          <issue>1</issue>
+          <fpage>11</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">28816933</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b18-ott-11-8107">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamashita</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Millward</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Inoshita</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antiviral innate immunity disturbs podocyte cell function</article-title>
+          <source>J Innate Immun</source>
+          <year>2013</year>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>231</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="pmid">23296190</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b19-ott-11-8107">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Triptolide sensitizes human breast cancer cells to tumor necrosis factor-&#x3B1;-induced apoptosis by inhibiting activation of the nuclear factor-&#x3BA;B pathway</article-title>
+          <source>Mol Med Rep</source>
+          <year>2016</year>
+          <volume>13</volume>
+          <issue>4</issue>
+          <fpage>3257</fpage>
+          <lpage>3264</lpage>
+          <pub-id pub-id-type="pmid">26935527</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b20-ott-11-8107">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sokolova</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Naumann</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>NF-&#x3BA;B signaling in gastric cancer</article-title>
+          <source>Toxins</source>
+          <year>2017</year>
+          <volume>9</volume>
+          <issue>4</issue>
+          <fpage>119</fpage>
+        </element-citation>
+      </ref>
+      <ref id="b21-ott-11-8107">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burgess</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Bolderson</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>MN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Activation and cleavage of SASH1 by caspase-3 mediates an apoptotic response</article-title>
+          <source>Cell Death Dis</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <issue>11</issue>
+          <fpage>e2469</fpage>
+          <pub-id pub-id-type="pmid">27831555</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b22-ott-11-8107">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Activation of the EGFR/Akt/NF-&#x3BA;B/cyclinD1 survival signaling pathway in human cholesteatoma epithelium</article-title>
+          <source>Eur Arch Otorhinolaryngol</source>
+          <year>2014</year>
+          <volume>271</volume>
+          <issue>2</issue>
+          <fpage>265</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="pmid">23463347</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b23-ott-11-8107">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shirali</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Aghaei</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Shabani</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Adenosine induces cell cycle arrest and apoptosis via cyclinD1/Cdk4 and Bcl-2/Bax pathways in human ovarian cancer cell line OVCAR-3</article-title>
+          <source>Tumour Biol</source>
+          <year>2013</year>
+          <volume>34</volume>
+          <issue>2</issue>
+          <fpage>1085</fpage>
+          <lpage>1095</lpage>
+          <pub-id pub-id-type="pmid">23345014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b24-ott-11-8107">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Combination therapy with protein kinase inhibitor H89 and tetrandrine elicits enhanced synergistic anti-tumor efficacy</article-title>
+          <source>J Exp Clin Cancer Res</source>
+          <year>2018</year>
+          <volume>37</volume>
+          <issue>1</issue>
+          <fpage>114</fpage>
+          <pub-id pub-id-type="pmid">29866132</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b25-ott-11-8107">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>Y-B</given-names>
+            </name>
+            <name>
+              <surname>Lei</surname>
+              <given-names>X-L</given-names>
+            </name>
+            <name>
+              <surname>Qian</surname>
+              <given-names>Z-J</given-names>
+            </name>
+          </person-group>
+          <article-title>Butyrolactone-I from coral-derived fungus <italic>Aspergillus terreus</italic> attenuates neuro-inflammatory response via suppression of NF-&#x3BA;B pathway in BV-2 cells</article-title>
+          <source>Mar Drugs</source>
+          <year>2018</year>
+          <volume>16</volume>
+          <issue>6</issue>
+          <fpage>202</fpage>
+        </element-citation>
+      </ref>
+      <ref id="b26-ott-11-8107">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xia</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Combining metformin and nelfinavir exhibits synergistic effects against the growth of human cervical cancer cells and xenograft in nude mice</article-title>
+          <source>Sci Rep</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <fpage>43373</fpage>
+          <pub-id pub-id-type="pmid">28252027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b27-ott-11-8107">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sharrow</surname>
+              <given-names>AC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>FSH directly regulates bone mass</article-title>
+          <source>Cell</source>
+          <year>2006</year>
+          <volume>125</volume>
+          <issue>2</issue>
+          <fpage>247</fpage>
+          <lpage>260</lpage>
+          <pub-id pub-id-type="pmid">16630814</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b28-ott-11-8107">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gao</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Haq</surname>
+              <given-names>IU</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of NF-&#x3BA;B promotes autophagy via JNK signaling pathway in porcine granulosa cells</article-title>
+          <source>Biochem Biophys Res Commun</source>
+          <year>2016</year>
+          <volume>473</volume>
+          <issue>1</issue>
+          <fpage>311</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="pmid">27016483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b29-ott-11-8107">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Korashy</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Maayah</surname>
+              <given-names>ZH</given-names>
+            </name>
+            <name>
+              <surname>Al Anazi</surname>
+              <given-names>FE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sunitinib inhibits breast cancer cell proliferation by inducing apoptosis, cell-cycle arrest and DNA repair while inhibiting NF-&#x3BA;B signaling pathways</article-title>
+          <source>Anticancer Res</source>
+          <year>2017</year>
+          <volume>37</volume>
+          <issue>9</issue>
+          <fpage>4899</fpage>
+          <lpage>4909</lpage>
+          <pub-id pub-id-type="pmid">28870911</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b30-ott-11-8107">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Luo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>YL</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Ursolic acid inhibits breast cancer growth by inhibiting proliferation, inducing autophagy and apoptosis, and suppressing inflammatory responses via the PI3K/AKT and NF-&#x3BA;B signaling pathways <italic>in vitro</italic></article-title>
+          <source>Exp Ther Med</source>
+          <year>2017</year>
+          <volume>14</volume>
+          <issue>4</issue>
+          <fpage>3623</fpage>
+          <lpage>3631</lpage>
+          <pub-id pub-id-type="pmid">29042957</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b31-ott-11-8107">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Batool</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Aziz</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>BK</given-names>
+            </name>
+            <name>
+              <surname>Mahmood</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Rumex dentatus</italic> inhibits cell proliferation, arrests cell cycle, and induces apoptosis in MDA-MB-231 cells through suppression of the NF-&#x3BA;B pathway</article-title>
+          <source>Front Pharmacol</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>731</fpage>
+          <pub-id pub-id-type="pmid">29075192</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b32-ott-11-8107">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title><italic>Toxoplasma gondii</italic> excretory/secretory antigens (TgESAs) suppress pro-inflammatory cytokine secretion by inhibiting TLR-induced NF-&#x3BA;B activation in LPS-stimulated murine macrophages</article-title>
+          <source>Oncotarget</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <issue>51</issue>
+          <fpage>88351</fpage>
+          <lpage>88359</lpage>
+          <pub-id pub-id-type="pmid">29179440</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b33-ott-11-8107">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saini</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Sanyal</surname>
+              <given-names>SN</given-names>
+            </name>
+          </person-group>
+          <article-title>Cell cycle regulation and apoptotic cell death in experimental colon carcinogenesis: intervening with cyclooxygenase-2 inhibitors</article-title>
+          <source>Nutr Cancer</source>
+          <year>2015</year>
+          <volume>67</volume>
+          <issue>4</issue>
+          <fpage>620</fpage>
+          <lpage>636</lpage>
+          <pub-id pub-id-type="pmid">25825916</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b34-ott-11-8107">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Q</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>HOXC13 promotes proliferation of lung adenocarcinoma via modulation of CCND1 and CCNE1</article-title>
+          <source>Am J Cancer Res</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <issue>9</issue>
+          <fpage>1820</fpage>
+          <lpage>1834</lpage>
+          <pub-id pub-id-type="pmid">28979806</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b35-ott-11-8107">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiekow</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Figueir&#xF3;</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Dietrich</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Quercetin derivative induces cell death in glioma cells by modulating NF-&#x3BA;B nuclear translocation and caspase-3 activation</article-title>
+          <source>Eur J Pharm Sci</source>
+          <year>2016</year>
+          <volume>84</volume>
+          <fpage>116</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="pmid">26802551</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b36-ott-11-8107">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olivera Santa-Catalina</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Caballero Bermejo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Argent</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>JNK signaling pathway regulates sorbitol-induced Tau proteolysis and apoptosis in SH-SY5Y cells by targeting caspase-3</article-title>
+          <source>Arch Biochem Biophys</source>
+          <year>2017</year>
+          <volume>636</volume>
+          <fpage>42</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="pmid">29126968</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b37-ott-11-8107">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rossi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gasperi</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Paro</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Follicle-stimulating hormone activates fatty acid amide hydrolase by protein kinase A and aromatase-dependent pathways in mouse primary Sertoli cells</article-title>
+          <source>Endocrinology</source>
+          <year>2007</year>
+          <volume>148</volume>
+          <issue>3</issue>
+          <fpage>1431</fpage>
+          <lpage>1439</lpage>
+          <pub-id pub-id-type="pmid">17110429</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b38-ott-11-8107">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hunzicker-Dunn</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Lopez-Biladeau</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Law</surname>
+              <given-names>NC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>PKA and GAB2 play central roles in the FSH signaling pathway to PI3K and AKT in ovarian granulosa cells</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2012</year>
+          <volume>109</volume>
+          <issue>44</issue>
+          <fpage>E2979</fpage>
+          <lpage>E2988</lpage>
+          <pub-id pub-id-type="pmid">23045700</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b39-ott-11-8107">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanchez</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Sniderhan</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>AL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Glycogen synthase kinase 3beta-mediated apoptosis of primary cortical astrocytes involves inhibition of nuclear factor kappaB signaling</article-title>
+          <source>Mol Cell Biol</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <issue>13</issue>
+          <fpage>4649</fpage>
+          <lpage>4662</lpage>
+          <pub-id pub-id-type="pmid">12808104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b40-ott-11-8107">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ougolkov</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Fernandez-Zapico</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Savoy</surname>
+              <given-names>DN</given-names>
+            </name>
+            <name>
+              <surname>Urrutia</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Billadeau</surname>
+              <given-names>DD</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycogen synthase kinase-3beta participates in nuclear factor kappaB-mediated gene transcription and cell survival in pancreatic cancer cells</article-title>
+          <source>Cancer Res</source>
+          <year>2005</year>
+          <volume>65</volume>
+          <issue>6</issue>
+          <fpage>2076</fpage>
+          <lpage>2081</lpage>
+          <pub-id pub-id-type="pmid">15781615</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b41-ott-11-8107">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belenky</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Breitbart</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Role and regulation of glycogen synthase kinase-3 beta in bovine spermatozoa</article-title>
+          <source>Mol Reprod Dev</source>
+          <year>2017</year>
+          <volume>84</volume>
+          <issue>1</issue>
+          <fpage>8</fpage>
+          <lpage>18</lpage>
+          <pub-id pub-id-type="pmid">27864906</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="f1-ott-11-8107" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>Positive effect of FSH on subcutaneous tumors in vivo and in vitro.</p>
+        <p><bold>Notes:</bold> Nude mice were injected with HeLa cells for 21 days, accompanied by 20 mIU/mL FSH or in the absence of FSH before/after tumor occurred, and HeLa cells were untreated or treated with 20 mIU/mL FSH for 60 hours. (<bold>A</bold>) The effect of different FSH concentrations on the cell number of HeLa cells (n=8). (<bold>B</bold>) The occurrence of tumor mass and the weight of tumor mass in nude mice with the different treatments (n=12). (<bold>C</bold>) The number of HeLa cells untreated or treated with FSH using the MTT assay (n=8). (<bold>D</bold>) The detection of cell cycle and apoptosis by flow cytometry (n=3). (<bold>E</bold>) Western blotting levels of cleaved CASP3 level in HeLa cells that were untreated or treated with FSH. Data are mean &#xB1; SEM (n=6). <sup>*</sup><italic>P</italic>&lt;0.05, <sup>**</sup><italic>P</italic>&lt;0.01.</p>
+        <p><bold>Abbreviations:</bold> FSH, follicle-stimulating hormone; CASP3, Caspase 3.</p>
+      </caption>
+      <graphic xlink:href="ott-11-8107Fig1"/>
+    </fig>
+    <fig id="f2-ott-11-8107" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <p>FSH inhibits the NF-&#x3BA;B pathway to control subcutaneous tumors.</p>
+        <p><bold>Notes:</bold> Tumor tissue was untreated or treated with 20 mIU/mL FSH, and HeLa cells treated with 20 mIU/mL FSH were untreated or treated with &#xB5;g/mL LPS for 8 hours or 60 hours. (<bold>A</bold>) NF-&#x3BA;B(p65) activity in vivo and in vitro. (<bold>B</bold>) On the basis of 20 mIU/mL FSH, the number of HeLa cells treated with LPS for 60 hours was determined. (<bold>C</bold>) The mRNA levels of genes (<italic>CCND1</italic> and <italic>CCNE1</italic>) related to cell cycle in tumor tissue or HeLa cells. (<bold>D</bold>) The levels of cleaved CASP3 in tumor tissue or HeLa cells. Data are mean &#xB1; SEM (n=3). <sup>**</sup><italic>P</italic>&lt;0.01.</p>
+        <p><bold>Abbreviations:</bold> FSH, follicle-stimulating hormone; LPS, lipopolysaccharide; CASP3, Caspase 3.</p>
+      </caption>
+      <graphic xlink:href="ott-11-8107Fig2"/>
+    </fig>
+    <fig id="f3-ott-11-8107" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <p>FSH inhibits the activity of GSK-3&#x3B2; to control subcutaneous tumors.</p>
+        <p><bold>Notes:</bold> Tumor tissue untreated or treated with 20 mIU/mL FSH, and HeLa cells treated with 20 mIU/mL FSH plus H89 (a GSK-3&#x3B2; specific inhibitor), and either untreated or treated with TWS119 (a GSK-3&#x3B2; specific inhibitor) for 8 hours were examined. (<bold>A</bold>) FSHR levels of mRNA determined by Q-PCR and protein determined by immunohistochemistry in tumor tissue. (<bold>B</bold>) The changes of PKA activities in vivo and in vitro. (<bold>C</bold>) Change of GSK-3&#x3B2; activities in HeLa cells treated with H89 were determined on the basis of 20 mIU/mL FSH. (<bold>D</bold>) Change of NF-&#x3BA;B(p65) activities in HeLa cells treated with TWS119 determined on the basis of FSH and H89. Data are mean &#xB1; SEM (n=3). <sup>*</sup><italic>P</italic>&lt;0.05; <sup>**</sup><italic>P</italic>&lt;0.01.</p>
+        <p><bold>Abbreviations:</bold> FSH, follicle-stimulating hormone; PKA, protein kinase A; Q-PCR, quantitative polymerase chain reaction.</p>
+      </caption>
+      <graphic xlink:href="ott-11-8107Fig3"/>
+    </fig>
+    <fig id="f4-ott-11-8107" position="float">
+      <label>Figure 4</label>
+      <caption>
+        <p>Mechanistic regulatory network of FSH to cervical cancer, mediated through the PKA-NF-&#x3BA;B pathway.</p>
+        <p><bold>Note:</bold> After PKA activates FSH, GSK-3&#x3B2; activity is downregulated, which induces the inactivation of the NF-&#x3BA;B pathway to decrease the cell cycle and activate cell apoptosis.</p>
+        <p><bold>Abbreviations:</bold> FSH, follicle-stimulating hormone; PKA, protein kinase A; GSK-3&#x3B2;, glycogen synthase kinase 3 beta; NF-&#x3BA;B, nuclear factor-kappa B; CASP3, Caspase 3.</p>
+      </caption>
+      <graphic xlink:href="ott-11-8107Fig4"/>
+    </fig>
+    <table-wrap id="t1-ott-11-8107" position="float">
+      <label>Table 1</label>
+      <caption>
+        <p>The specific primers for Q-PCR</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th valign="top" align="left" rowspan="1" colspan="1">Gene</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">Sequence</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">Product size (bp)</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">Accession no</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1">FSHR</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">F:5&#x2032;-GTGCATTCAACGGAACCCAG-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">154</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">NM_013523</td>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1">R:5&#x2032;-TCTAAGCCATGGTTGGGCAG-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1">CCND1</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">F:5&#x2032;-GGAGCCCTTGAAGAAGAGCC-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">246</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">NM_007631</td>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1">R:5&#x2032;-TCATCCGCCTCTGGCATTTT-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1">CCNE1</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">F:5&#x2032;-AAGCGAGGATAGCAGTCAGC-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">175</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">NM_007633</td>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1">R:5&#x2032;-GCCCCAATTCAAGACGGGAA-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1">&#x3B2;-actin</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">F:5&#x2032;-TATTGCTGCGCTCGTTGTTG-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">135</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">NM_205518</td>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1">R:5&#x2032;-TGGCCCATACCAACCATCAC-3&#x2032;</td>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+            <td valign="top" align="left" rowspan="1" colspan="1"/>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="tfn1-ott-11-8107">
+          <p><bold>Abbreviation:</bold> Q-PCR, quantitative polymerase chain reaction.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap id="t2-ott-11-8107" position="float">
+      <label>Table 2</label>
+      <caption>
+        <p>The percentage of cell number in different phases of cell cycle to HeLa cell with FSH treatment or without FSH treatment (control)</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" valign="top" align="left" colspan="1">Group</th>
+            <th colspan="3" valign="top" align="left" rowspan="1">Phase
+<hr/></th>
+          </tr>
+          <tr>
+            <th valign="top" align="left" rowspan="1" colspan="1">S (%)</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">G1 (%)</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">G2 (%)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1">Control (no FSH)</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">43.74&#xB1;1.06<sup>a</sup></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">43.79&#xB1;0.63<sup>b</sup></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">12.47&#xB1;1.05</td>
+          </tr>
+          <tr>
+            <td valign="top" align="left" rowspan="1" colspan="1">Treatment (with FSH)</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">28.59&#xB1;1.29<sup>b</sup></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">60.86&#xB1;1.11<sup>a</sup></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">10.55&#xB1;0.99</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="tfn2-ott-11-8107">
+          <p><bold>Note:</bold> Different lowercase letters on the shoulder (<sup>a</sup> and <sup>b</sup>) in the same column showed a significant difference (<italic>P</italic>&lt;0.01).</p>
+        </fn>
+        <fn id="tfn3-ott-11-8107">
+          <p><bold>Abbreviation:</bold> FSH, follicle-stimulating hormone.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1 @@
+NREP, HIPK2, PRDM16, SMAD3 and their roles in the canonical TGF-beta signalling pathway. The region-dependent accumulation of rare variants dataset was significantly enriched in the genes connected to the TGF-beta pathway. Highlighted are the four genes contained in the dataset. Interactions were drawn using Pathvisio 3.2.4.

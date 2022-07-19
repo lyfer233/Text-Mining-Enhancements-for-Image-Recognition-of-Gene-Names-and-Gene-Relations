@@ -1,0 +1,533 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Cell Biol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J. Cell Biol</journal-id>
+      <journal-title-group>
+        <journal-title>The Journal of Cell Biology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0021-9525</issn>
+      <issn pub-type="epub">1540-8140</issn>
+      <publisher>
+        <publisher-name>The Rockefeller University Press</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">15263022</article-id>
+      <article-id pub-id-type="pmc">2172299</article-id>
+      <article-id pub-id-type="publisher-id">200312013</article-id>
+      <article-id pub-id-type="doi">10.1083/jcb.200312013</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Articles</subject>
+          <subj-group>
+            <subject>Article</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Roles played by a subset of integrin signaling molecules in cadherin-based cell&#x2013;cell adhesion</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yano</surname>
+            <given-names>Hajime</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mazaki</surname>
+            <given-names>Yuichi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kurokawa</surname>
+            <given-names>Kazuo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hanks</surname>
+            <given-names>Steven K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Matsuda</surname>
+            <given-names>Michiyuki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sabe</surname>
+            <given-names>Hisataka</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<label>1</label>Department of Molecular Biology, Osaka Bioscience Institute, Osaka 565-0874, Japan</aff>
+      <aff id="aff2">
+<label>2</label>Department of Tumor Virology, Research Institute for Microbial Diseases, Osaka University, Osaka 565-0871, Japan</aff>
+      <aff id="aff3">
+<label>3</label>Department of Cell Biology, Vanderbilt University School of Medicine, Nashville, TN 37232</aff>
+      <aff id="aff4">
+<label>4</label>Graduate School of Biostudies, Kyoto University, Kyoto 606-8502, Japan</aff>
+      <author-notes>
+        <fn>
+          <p>Address correspondence to Hisataka Sabe, Dept. of Molecular Biology, Osaka Bioscience Institute, Osaka 565-0874, Japan. Tel.: (81) 6-6872-4814. Fax: (81) 6-6871-6686. email: <email>sabe@obi.or.jp</email>
+</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>19</day>
+        <month>7</month>
+        <year>2004</year>
+      </pub-date>
+      <volume>166</volume>
+      <issue>2</issue>
+      <fpage>283</fpage>
+      <lpage>295</lpage>
+      <history>
+        <date date-type="received">
+          <day>1</day>
+          <month>12</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>6</month>
+          <year>2004</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2004, The Rockefeller University Press</copyright-statement>
+        <license license-type="openaccess">
+          <license-p>This article is distributed under the terms of an Attribution&#x2013;Noncommercial&#x2013;Share Alike&#x2013;No Mirror Sites license for the first six months after the publication date (see <ext-link ext-link-type="uri" xlink:href="http://www.rupress.org/terms">http://www.rupress.org/terms</ext-link>). After six months it is available under a Creative Commons License (Attribution&#x2013;Noncommercial&#x2013;Share Alike 4.0 Unported license, as described at <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Integrins can intercommunicate with cadherins. Here, we examined their possible relationship by use of small interfering RNA&#x2013;mediated protein knockdown in HeLa cells. We found that a subset of integrin signaling molecules, namely Fak and paxillin, but not p130 Crk-associated substrate or proline-rich tyrosine kinase 2, participate in processes regulating N-cadherin&#x2013;based cell&#x2013;cell adhesion. Paxillin was found to be required primarily for the recruitment of Fak to robust focal adhesions. Our results suggest that at least some signals involving Fak are linked to a mechanism down-regulating Rac1 activity at the cell periphery, which appears to be important for the formation of N-cadherin&#x2013;based adhesions in motile cells. Our analyses simultaneously exemplified the essential role of Fak in the maintenance of cell&#x2013;cell adhesions in collective cell migration, a type of migration occurring in embryonic development and carcinoma invasion.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Fak; integrin; N-cadherin; paxillin; siRNA</kwd>
+      </kwd-group>
+    </article-meta>
+    <notes>
+      <fn-group>
+        <fn>
+          <p>Abbreviations used in this paper: FA, focal adhesion; FAT, focal adhesion targeting; FRET, fluorescence resonance energy transfer; FRNK, Fak-related nonkinase; p130Cas, p130 Crk-associated substrate; Pyk2, proline-rich tyrosine kinase 2; siRNA, small interfering RNA.</p>
+        </fn>
+      </fn-group>
+    </notes>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>Cells possess a broad spectrum of migration mechanisms. Integrin-mediated cell substratum adhesion and migration often occur together with cadherin-based cell&#x2013;cell adhesion, and a number of papers have documented a variety of events where the coordinated regulation of these two different modes of adhesion occur. For example, both of these adhesions are simultaneously involved in cell migration, such as migration of cells as a sheet, observed with migrations of the blastoderm and ectoderm, which are followed by closure of the neural tube. Collective migration is also observed in invasions and metastases of carcinomas, such as lobular breast cancer, epithelial prostate cancer, and large cell lung cancer (<xref rid="bib14" ref-type="bibr">Friedl and Wolf, 2003</xref>). It has been shown that in cancer cells that have collectively migrated out from a primary explanted melanoma tissue culture, path-finding cells localized at the leading tips of the collective typically possess both the &#x3B2;1 integrin&#x2013;positive membrane ruffles at the leading edges and cadherin-based cell&#x2013;cell adhesions at the rear sides (<xref rid="bib21" ref-type="bibr">Hegerfeldt et al., 2002</xref>). On the other hand, integrin-mediated cell motility may be antagonized by cadherin-based cell&#x2013;cell adhesion, as observed for example during neural tube closure and wound-healing processes of tissues or cultured cells. It has also been demonstrated that invasions and metastases of carcinomas can be suppressed by the forced expression of E-cadherin (<xref rid="bib34" ref-type="bibr">Perl et al., 1998</xref>). On the other hand, down-regulation of E-cadherin&#x2013;based cell&#x2013;cell adhesion has also been shown to precede the hepatocyte growth factor&#x2013;induced cell scattering, which is dependent on integrins (<xref rid="bib28" ref-type="bibr">Li et al., 2001</xref>). Recent reports have begun to unveil possible molecular mechanisms of the cross-talk between these two different modes of adhesion, such as translocation of the nonreceptor-type tyrosine kinase Fer between N-cadherin assembly and the &#x3B2;1 integrin complex (<xref rid="bib3" ref-type="bibr">Arregui et al., 2000</xref>), and integrin-linked kinase&#x2013;mediated regulation of E-cadherin expression (<xref rid="bib45" ref-type="bibr">Wu et al., 1998</xref>).</p>
+      <p>One of the early intracellular responses to integrin activation is the induction of cellular protein tyrosine phosphorylation (<xref rid="bib18" ref-type="bibr">Guan and Shalloway, 1992</xref>). Our aim in this paper was to examine whether integrin-mediated cellular tyrosine phosphorylation events can intercommunicate with cadherin-based cell adhesions, and if so, to understand the possible mechanisms by which they achieve such intercommunication. We began our analysis by using the small interfering RNA (siRNA)&#x2013;mediated knockdown of protein expression. siRNAs function very efficiently and effectively in HeLa cells, with minimal harmful effects (<xref rid="bib12" ref-type="bibr">Elbashir et al., 2001</xref>). As an initial trial, we used HeLa cells as a model and examined the roles played by four representative integrin assembly signaling molecules&#x2014;Fak, proline-rich tyrosine kinase 2 (Pyk2), p130 Crk-associated substrate (p130Cas), and paxillin&#x2014;all involved in protein tyrosine phosphorylation (<xref rid="bib49" ref-type="bibr">Zamir and Geiger, 2001</xref>). Fak and Pyk2 are the major protein tyrosine kinases localized to focal complexes and focal adhesions (FAs; <xref rid="bib33" ref-type="bibr">Nakamura et al., 2001</xref>; <xref rid="bib49" ref-type="bibr">Zamir and Geiger, 2001</xref>), and both have multiple tyrosine phosphorylation sites together with several other protein interaction modules (<xref rid="bib38" ref-type="bibr">Schlaepfer et al., 1999</xref>). p130Cas and paxillin are both scaffold adaptor proteins with multiple tyrosine phosphorylation sites and other protein interaction modules (<xref rid="bib10" ref-type="bibr">DeMali et al., 2003</xref>). p130Cas and paxillin can be phosphorylated by Fak or Pyk2, and bind directly to these kinases (<xref rid="bib38" ref-type="bibr">Schlaepfer et al., 1999</xref>; <xref rid="bib4" ref-type="bibr">Avraham et al., 2000</xref>). It has been proposed that activation of Fak and Pyk2 can lead to the activation of the Ras pathway, through recruitment of Grb-2 to phosphorylation sites of these kinases (<xref rid="bib38" ref-type="bibr">Schlaepfer et al., 1999</xref>). On the other hand, tyrosine phosphorylation of p130Cas and paxillin have been shown to be linked to the regulation of Rho family GTPases, though the actual outcomes may vary depending on the cellular context or cellular environments (<xref rid="bib10" ref-type="bibr">DeMali et al., 2003</xref>). However, downstream signaling pathways of these molecules have not yet been fully understood. Here, we explored the possible involvement and roles of these four proteins in the formation and maintenance of N-cadherin&#x2013;based cell&#x2013;cell adhesions during collision and collective migration of HeLa cells.</p>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <sec>
+        <title>Knockdown of either Fak or paxillin, but not p130Cas or Pyk2, affects the formation of N-cadherin&#x2013;based cell&#x2013;cell adhesions in HeLa cells</title>
+        <p>To analyze the intercommunication between integrins and cadherins, we searched for suitable cell lines that satisfied the following conditions: (1) siRNAs act efficiently in most of the cell population without severe side effects, together with the availability of genome information; (2) expression of integrins and cadherins is well characterized; and (3) cadherin-based cell&#x2013;cell adhesions are formed efficiently upon collision of migrating cells. We examined almost a dozen cell lines, including HeLa, MDCK, and NMuMG, and also primary cultures of epithelial cells and fibroblasts. HeLa cells have previously been shown to form N-cadherin&#x2013;based cell&#x2013;cell adhesions (<xref rid="bib44" ref-type="bibr">Wahl et al., 2003</xref>). We found that HeLa cells almost exclusively expressed N-cadherin, whereas other cells expressed mixtures of at least two or three different cadherins at comparable levels (unpublished data). HeLa cells also satisfied the other conditions mentioned above, and hence we decided to use this cell line as a model for our initial analysis.</p>
+        <p>We achieved &gt;90% suppression of the integrin signaling molecules, Fak, paxillin, p130Cas, and Pyk2, upon incubation with the respective siRNA duplexes for 40&#x2013;44 h (<xref rid="fig1" ref-type="fig">Fig. 1, A and B</xref>; unpublished data). There seemed to be some interference regarding expression levels of these proteins, always observed in our repeated siRNA experiments (<xref rid="fig1" ref-type="fig">Fig. 1</xref> A); paxillin knockdown increased Pyk2 by two- to threefold, and conversely Pyk2 knockdown slightly decreased paxillin. Pyk2 knockdown also decreased p130Cas. These interferences may not be due to nonspecific effects of the siRNAs because siRNAs targeting different sequences of paxillin also increased Pyk2 (unpublished data). N-cadherin expression was not remarkably changed by these siRNAs, whereas a slight decrease was observed by the p130Cas knockdown (<xref rid="fig1" ref-type="fig">Fig. 1</xref> A).</p>
+        <fig id="fig1" position="float">
+          <label>Figure 1.</label>
+          <caption>
+            <p>
+<bold>Loss of Fak or paxillin expression affects formation of N-cadherin&#x2013;based cell&#x2013;cell adhesions in motile HeLa cells.</bold> (A and B) siRNA-mediated knockdown of integrin signaling proteins. HeLa cells were transfected with siRNA duplexes to knockdown of protein expression of p130Cas (Cas), paxillin (Pax), Fak, and Pyk2, as indicated. A control included an irrelevant siRNA duplex (ctrl). Each 20 &#x3BC;g of cell lysates was separated on SDS-PAGE and subjected to immunoblot analyses, as indicated (A); percentages of the knockdown are shown (B). Results are means &#xB1; SEM from three independent experiments. Protein levels of N-cadherin (N-Cad) and &#x3B1;-, &#x3B2;-, &#x3B3;-, and p120-catenin (&#x3B1;-ctn, &#x3B2;-ctn, &#x3B3;-ctn, and p120-ctn, respectively) were also shown by immunoblotting (A). (C and D) siRNA-treated cells were replated onto collagen at a sparse or saturation density in the absence of serum (C, left two panels), or at a sparse density in the presence of 10% FCS (C, right two panels) as described in Materials and methods. After incubation for 3 or 24 h, cells were fixed and subjected to N-cadherin immunostaining (C). Bars (for all panels in C), 50 &#x3BC;m. Percentages of the N-cadherin&#x2013;positive cell&#x2013;cell contact areas are shown (D), in which four different bars, from left to the right, correspond to the four different replating and culture conditions in C, from left to the right, respectively. (E) Restoration by rescue cDNAs. Each rescue cDNAs or empty vector (&#x2212;) was transfected into the corresponding siRNA-treated cells, and cells expressing exogenous Fak or paxillin were identified, as described in Materials and methods. Percentages of the N-cadherin&#x2013;positive cell&#x2013;cell contact areas were measured after a 3-h incubation of cells replated at a sparse density in the absence of serum. In D and E, results are means &#xB1; SEM from four independent experiments, in each of which &gt;50 cell&#x2013;cell contact areas were examined.</p>
+          </caption>
+          <graphic xlink:href="200312013f1"/>
+        </fig>
+        <p>There are at least two ways to form N-cadherin&#x2013;based cell&#x2013;cell adhesions in HeLa cells when replated onto collagen-coated dishes: one is formation upon cell&#x2013;cell collision of migrating cells, in which cells are initially replated at a sparse density, and the other is by replating cells at a saturation density from the first. Under these two conditions, we examined whether the substantial loss of integrin signaling molecules affects the formation of N-cadherin&#x2013;based cell&#x2013;cell adhesions. Serum was not added in our assays in order to examine signals primarily from integrin adhesions, unless otherwise indicated. Moreover, throughout our experiments, we used PBS containing EDTA, but not trypsin, to harvest cells in order to avoid the proteolytic degradation of cell surface proteins. When control cells were replated at a saturation density, clear staining of N-cadherin at cell&#x2013;cell junctions was observed (<xref rid="fig1" ref-type="fig">Fig. 1</xref> C). Such staining was not significantly affected by pretreating cells with siRNAs for any of the four integrin signaling molecules (<xref rid="fig1" ref-type="fig">Fig. 1</xref> C). When assessed with cells initially replated at a sparse density and then allowed to migrate for 3 h, clear staining of N-cadherin at contact sites was still seen in the control, p130Cas knockdown, and Pyk2 knockdown cells (<xref rid="fig1" ref-type="fig">Fig. 1</xref> C). However, under these conditions we found that staining of N-cadherin at the contact areas became almost undetectable when Fak or paxillin were knocked down (<xref rid="fig1" ref-type="fig">Fig. 1, C and D</xref>). By video recording, we simultaneously confirmed that most of the cell&#x2013;cell contacts (&gt;70&#x2013;80%) were formed as a consequence of cell migration, and were almost absent at the initial time of replating at a sparse density. Such inefficiency of N-cadherin staining at contact sites in Fak and paxillin knockdown cells was seen throughout our observation from 30 min to 3 h after replating (unpublished data), or even 24 h after replating at a sparse density, in which cells were maintained in the presence of serum and became almost confluent (<xref rid="fig1" ref-type="fig">Fig. 1, C and D</xref>).</p>
+        <p>To confirm that loss of the N-cadherin staining in Fak and paxillin knockdown cells was due to the loss of these proteins, we transfected mouse Fak cDNA or a mutant form of human paxillin cDNA, together with the corresponding siRNAs. Mouse Fak did not contain the target sequence of the human Fak siRNA duplex. The mutant paxillin cDNA was made by changing the nucleotide sequence, without changing the coding amino acids, so that the mutant was no more a target for the paxillin siRNA duplex. Expression of these cDNAs in the corresponding siRNA-treated cells efficiently restored the N-cadherin staining, replated at a sparse density (<xref rid="fig1" ref-type="fig">Fig. 1</xref> E).</p>
+      </sec>
+      <sec>
+        <title>Fak and paxillin knockdown cells exhibit aberrant membrane protrusions</title>
+        <p>To obtain a clue as to how the loss of paxillin or Fak expression affects N-cadherin&#x2013;based adhesion, we examined the properties of isolated, noncontacting cells. After replating, &#x223C;15 min was required for most of the cells to adhere onto the collagen, and &#x223C;30&#x2013;40 min was required for each cell to be spread out and become nonrefractile (<xref rid="fig2" ref-type="fig">Fig. 2</xref> C). Such time courses of adhesion and spreading were not notably affected by siRNA treatment for any of the four proteins (<xref rid="fig2" ref-type="fig">Fig. 2</xref> C; unpublished data). However, we found that aberrant large protrusions (&gt;20 &#x3BC;m in length) were frequently generated in the Fak or paxillin knockdown cells, which were seldom seen in the control, p130Cas knockdown, or Pyk2 knockdown cells (<xref rid="fig2" ref-type="fig">Fig. 2, A and B</xref>). These cells started to generate large protrusions after being well spread out on the collagen (40&#x2013;50 min after replating; <xref rid="fig2" ref-type="fig">Fig. 2</xref> C). Video recording of cells revealed that these aberrant protrusions were not static, but dynamic&#x2014;continuously disappearing and newly forming (<xref rid="fig2" ref-type="fig">Fig. 2, C and D</xref>). These results suggest that some component(s) regulating cytoskeletal dynamics is malfunctioning, perhaps aberrantly up-regulated, in HeLa cells when Fak or paxillin are substantially lost. Because serum was not added, this putative component(s) might be associated primarily with integrin signaling pathways, activated by adhesion of cells to collagen (see below). Inhibition of the formation of the aberrant protrusions by expression of mouse Fak cDNA or the rescue mutant of paxillin cDNA was confirmed (Fig. S1, available at <ext-link ext-link-type="uri" xlink:href="http://www.jcb.org/cgi/content/full/jcb.200312013/DC1">http://www.jcb.org/cgi/content/full/jcb.200312013/DC1</ext-link>).</p>
+        <fig id="fig2" position="float">
+          <label>Figure 2.</label>
+          <caption>
+            <p>
+<bold>Aberrant large protrusion formation in Fak and paxillin knockdown HeLa cells.</bold> (A and B) Morphology of siRNA-treated cells replated on collagen at a sparse density and incubated for 3 h (A), and percentages of cells bearing aberrant protrusions (&gt;20 &#x3BC;m in length) are shown (B). Over 70 knockdown cells were counted in each of the four independent experiments. Error bars, SEM. (C) Time-lapse video recording of Fak and paxillin knockdown cells after replating. Numbers represent time in min after the replating. Bars (A and C), 50 &#x3BC;m. (D) Dynamics of the aberrant large protrusion formation. Video images as in C were analyzed and shown as the frequencies of the aberrant protrusion formation (times/cell/h). Error bars, SEM. Abbreviations are the same as in <xref rid="fig1" ref-type="fig">Fig. 1</xref>.</p>
+          </caption>
+          <graphic xlink:href="200312013f2"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Evidence for the involvement of collagen receptors</title>
+        <p>We used collagen type I as a substratum. HeLa cells are thought to use &#x3B1;2&#x3B2;1 integrin as their major collagen I receptor (<xref rid="bib47" ref-type="bibr">Yang-Kao et al., 2003</xref>). Then, we obtained evidence for the involvement of collagen receptors in phenotypes induced by Fak and paxillin knockdown (Fig. S2, available at <ext-link ext-link-type="uri" xlink:href="http://www.jcb.org/cgi/content/full/jcb.200312013/DC1">http://www.jcb.org/cgi/content/full/jcb.200312013/DC1</ext-link>).</p>
+      </sec>
+      <sec>
+        <title>Properties of robust FAs in siRNA-treated cells</title>
+        <p>Next, we examined properties of integrin &#x3B2;1&#x2013;positive FAs in the siRNA-treated cells. We used phosphotyrosine and vinculin as FA markers in addition to &#x3B2;1 integrin, Fak, and paxillin, and counted FAs formed 3 h after replating, which were at least positive for integrin &#x3B2;1 and larger than 1 &#x3BC;m in length (hereafter referred to as &#x201C;robust FA&#x201D;; see <xref rid="fig3" ref-type="fig">Fig. 3</xref> A). Control cells formed 43.1 &#xB1; 2.2 such robust FAs per cell; almost all of them were positive for phosphotyrosine, and &#x223C;80% were positive for vinculin, Fak, and/or paxillin (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). p130Cas and Pyk2 knockdown cells exhibited similar numbers and qualities of robust FAs as seen in the control cells (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). On the other hand, the numbers of &#x3B2;1-positive robust FAs per cell were reduced to about a half in Fak and paxillin knockdown cells (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). Moreover, in Fak knockdown cells, &lt;10% of the robust FAs were positive for phosphotyrosine, although &#x223C;80% of them were still positive for vinculin and/or paxillin (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). In paxillin knockdown cells, on the other hand, the recruitment of phosphotyrosine, vinculin, and Fak was largely reduced (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). These results suggest that HeLa cells adhered on collagen, paxillin, and Fak participate in the efficient formation of integrin &#x3B2;1&#x2013;positive robust FAs. The results also suggest that paxillin is necessary for the efficient recruitment of Fak and vinculin to robust FAs, whereas Fak may be dispensable in recruiting paxillin or vinculin. Talin and tensin may also be important for FA assembly (<xref rid="bib49" ref-type="bibr">Zamir and Geiger, 2001</xref>). However, using antibodies for talin and tensin, we observed only marginal staining of these proteins in robust FAs of HeLa cells (unpublished data). Again, numbers and quality of robust FAs in Fak and paxillin knockdown cells were substantially restored to those in control cells by the expression of each of the corresponding rescue cDNAs (unpublished data).</p>
+        <fig id="fig3" position="float">
+          <label>Figure 3.</label>
+          <caption>
+            <p>
+<bold>Properties of integrin &#x3B2;1&#x2013;positive robust FAs in siRNA-treated HeLa cells.</bold> siRNA-treated cells were replated onto collagen at a sparse density, incubated for 3 h, and then fixed and subjected to &#x3B2;1 integrin immunostaining (A). Bars, 50 &#x3BC;m. FAs, which were positive for &#x3B2;1 staining and &gt;1 &#x3BC;m in length, were scored for their staining for other proteins (B) as indicated. 4G10; phosphotyrosine. Other abbreviations are the same as in <xref rid="fig1" ref-type="fig">Fig. 1</xref>. Over 30 knockdown cells were counted in each of the three independent experiments. Error bars, SEM.</p>
+          </caption>
+          <graphic xlink:href="200312013f3"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Fak and paxillin are involved in the negative regulation of Rac1 activity</title>
+        <p>Several Rho family GTPases, such as Rac1 and Cdc42, can be activated by integrin signaling (<xref rid="bib10" ref-type="bibr">DeMali et al., 2003</xref>), and are greatly involved in membrane dynamics and remodeling (<xref rid="bib40" ref-type="bibr">Takenawa and Miki, 2001</xref>). Using the fluorescence resonance energy transfer (FRET) technique, we then examined the activity of Rac1 and Cdc42 in situ. HeLa cells transfected with the pRaichu-Rac plasmid for detection of a FRET specific for Rac1 activation (<xref rid="bib25" ref-type="bibr">Itoh et al., 2002</xref>) gave rise to significant signals mostly at the cell peripheral areas (unpublished data; see <xref rid="fig4" ref-type="fig">Fig. 4</xref> A). On the other hand, transfection of the pRaichu-Cdc42 plasmid for detection of Cdc42 FRET activity (<xref rid="bib25" ref-type="bibr">Itoh et al., 2002</xref>) did not give rise to notable signals (unpublished data). Then, we measured Rac1-specific FRET signals in cells in physical contact with others. siRNA-treated and pRaichu-Rac&#x2013;transfected cells were replated at a sparse density and then were allowed to migrate and collide with each other. We found that Rac1 signals were significantly lowered at cell&#x2013;cell contact sites, whereas they remained high at the peripheries not in contact with other cells (<xref rid="fig4" ref-type="fig">Fig. 4, A and B</xref>). In contrast, Rac1 signals were not efficiently down-regulated at cell&#x2013;cell contact areas in the Fak and paxillin knockdown cells (<xref rid="fig4" ref-type="fig">Fig. 4, A and B</xref>). Most of the aberrant protrusions in isolated Fak and paxillin knockdown cells were also high in Rac1 signals (unpublished data). Therefore, Fak and paxillin appear to be necessary for the localized down-regulation of Rac1 activity at the cell&#x2013;cell contact areas in motile HeLa cells.</p>
+        <fig id="fig4" position="float">
+          <label>Figure 4.</label>
+          <caption>
+            <p>
+<bold>Fak and paxillin participate in the down-regulation of Rac1 activity in motile HeLa cells.</bold> (A) FRET imaging of Rac1 activity. siRNA-treated cells were transfected with pRaichu-Rac and were replated onto collagen at a sparse density. Ratio images of YFP/CFP representing the FRET efficiency for Rac1 activity were then obtained with live cells within 15 min to 1 h after replating, as described in Materials and methods. The upper and lower limits of the ratio range are shown on the right side. Dashed lines indicate the contours of contacting adjacent cells. Differential interference contrast images (DIC) are also shown. Arrowheads indicate cell&#x2013;cell contact sites. Bar, 30 &#x3BC;m. (B) Statistical representation of the Rac1 FRET imaging results. Rectangles, each 5 &#xD7; 30 &#x3BC;m in size, were fitted onto the cell peripheries of the FRET images, as shown in A, and numbers of the rectangles in which &gt;80% were taken up by signals with the ratio range within the highest two classes (2.85&#x2013;3.1 for ctrl, and 3.0&#x2013;3.3 for Fak and Pax) were scored as &#x201C;Rac1-active peripheral areas.&#x201D; Percentages of the &#x201C;Rac1-active&#x201D; rectangles with regard to the contact areas or noncontacting areas are shown, in which &gt;80 rectangles were examined in each case. Percentages of the Rac1-active rectangles of the noncontact areas were similar to those measured with isolated cells (not depicted). (C&#x2013;F) Effects of expression of Rac1 mutants on N-cadherin staining at cell&#x2013;cell junctions (C and D) and formation of aberrant protrusions (E and F) in siRNA-treated cells. Cells were cotransfected with Cy3-labeled siRNAs and empty vector (&#x2212;), and with HA-tagged Rac1G12V or Rac1T17N cDNAs, as indicated. They were then replated at a sparse density and incubated for 3 h, and were subjected to immunostaining for the HA tag and N-cadherin. Cells incorporated siRNAs were identified by Cy3. Cells positive for the HA tag were marked by asterisks in the right panels. Bars (C and E), 50 &#x3BC;m. Statistical representation of the results is shown (D and F) in which &gt;30 cells double positive for siRNAs and Rac cDNAs were counted in each of the three independent experiments. Error bars, SEM. (G and H) Enhanced migration by knockdown of Fak or paxillin, and its suppression by Rac1T17N. Cells, transfected with siRNAs, or siRNAs and Rac1T17N cDNA, were replated onto collagen and subjected to time-lapse video recording for 3 h in the absence of serum. Cell migration was traced (G), and migration rates (&#x3BC;m/h) are shown (H). 20 knockdown cells were examined in each of the three independent experiments. Error bars, SEM. Transfection of siRNAs and Rac1T17N in each cell was confirmed by immunostaining after the video recording. Bar, 100 &#x3BC;m. Abbreviations are the same as in <xref rid="fig1" ref-type="fig">Fig. 1</xref> unless otherwise indicated.</p>
+          </caption>
+          <graphic xlink:href="200312013f4"/>
+        </fig>
+        <p>To test this hypothesis, we expressed Rac1 mutants in siRNA-treated cells, and the cells were then replated at a sparse density and allowed to migrate. Expression of Rac1G12V, a GTP hydrolysis-defective mutant, caused substantial loss of N-cadherin staining at the cell&#x2013;cell contacts in control cells, whereas Rac1T17 N, a GTP binding-defective mutant, did not (<xref rid="fig4" ref-type="fig">Fig. 4, C and D</xref>). Moreover, expression of Rac1T17 N could restore N-cadherin staining in 70&#x2013;80% of the population of Fak or paxillin knockdown cells, which were in contact with other cells (<xref rid="fig4" ref-type="fig">Fig. 4, C and D</xref>). In noncontacting, isolated Fak or paxillin knockdown cells, expression of Rac1T17 N suppressed formation of the aberrant large protrusions in most of the cell population (<xref rid="fig4" ref-type="fig">Fig. 4, E and F</xref>).</p>
+      </sec>
+      <sec>
+        <title>Enhanced cell motility by Fak and paxillin knockdown</title>
+        <p>Rac1 activation can lead to enhanced cell motility (<xref rid="bib27" ref-type="bibr">Klemke et al., 1998</xref>). To further verify the above notion, we next measured cell motile activity. Cells were replated on collagen at a sparse density, and migration was then traced by video recording. Control cells exhibited motility with a rate of &#x223C;5 &#x3BC;m/h, and both p130Cas and Pyk2 knockdown cells exhibited slightly reduced motility (<xref rid="fig4" ref-type="fig">Fig. 4, G and H</xref>). In contrast, both Fak and paxillin knockdown cells exhibited remarkably enhanced motility, which was over 20 &#x3BC;m/h (<xref rid="fig4" ref-type="fig">Fig. 4, G and H</xref>). The enhanced motility was inhibited by expression of Rac1T17 N (<xref rid="fig4" ref-type="fig">Fig. 4, G and H</xref>), or restored by expression of each of the corresponding rescue cDNAs (unpublished data).</p>
+        <p>It has been reported that gene targeting of Fak or paxillin results in a severe reduction in cell motility in experiments using fibroblasts isolated from gene knock-out mice (<xref rid="bib24" ref-type="bibr">Ilic et al., 1995</xref>; <xref rid="bib19" ref-type="bibr">Hagel et al., 2002</xref>). We examined whether the phenotypes we observed above are very specific to HeLa cells. We found that siRNA-mediated knockdown of Fak or paxillin in BJ human normal diploid fibroblasts also causes enhanced motility (<xref rid="fig5" ref-type="fig">Fig. 5</xref>, A&#x2013;C), formation of aberrant protrusions, and reduction in a number of integrin &#x3B2;1&#x2013;positive robust FAs, when cultured on collagen (Fig. S3, available at <ext-link ext-link-type="uri" xlink:href="http://www.jcb.org/cgi/content/full/jcb.200312013/DC1">http://www.jcb.org/cgi/content/full/jcb.200312013/DC1</ext-link>). Moreover, overexpression of Fak-related nonkinase (FRNK), a kinase domain-deleted form of Fak and which may act to inhibit functions of endogenous Fak (<xref rid="bib41" ref-type="bibr">Taylor et al., 2001</xref>), also caused enhanced motility of HeLa cells on collagen (<xref rid="fig5" ref-type="fig">Fig. 5, D and E</xref>).</p>
+        <fig id="fig5" position="float">
+          <label>Figure 5.</label>
+          <caption>
+            <p>
+<bold>Effects of Fak and paxillin knockdown on cell motility in BJ cell and of FRNK in HeLa cell.</bold> BJ cells were treated with Fak or paxillin siRNAs, or with an irrelevant control siRNA duplex (ctrl) as indicated. (A) 20 &#x3BC;g of each cell lysate was separated by SDS-PAGE and subjected to immunoblot analyses, as indicated. Protein levels of N-cadherin (N-Cad) were also examined. White line indicates that intervening lanes have been spliced out. (B and C) Enhanced migration by knockdown of Fak or paxillin. Cell migration on collagen substrate was monitored (B), and the migration rates were calculated (C) as in <xref rid="fig4" ref-type="fig">Fig. 4, G and H</xref>. (D and E) HeLa cells were transfected with empty vector (&#x2212;) or HA-tagged FRNK cDNA, and were replated onto collagen in the absence of serum. Cell migration was monitored (D), and the migration rates were calculated (E) as in <xref rid="fig4" ref-type="fig">Fig. 4, G and H</xref>. Transfected cells were identified by HA staining after video recording. In E, 20 transfected cells were examined in each of three independent experiments. Bars (B and D), 100 &#x3BC;m. Error bars, SEM.</p>
+          </caption>
+          <graphic xlink:href="200312013f5"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Involvement of Tyr861 phosphorylation of Fak</title>
+        <p>Our analysis of the components of robust FAs suggested that paxillin is necessary for the efficient recruitment of Fak. Consistent with this notion, altered phenotypes that were observed in paxillin knockdown cells were also observed in Fak knockdown cells. Paxillin can be divided into two portions: the NH<sub>2</sub>-terminal half containing tyrosine phosphorylation sites, proline-rich domains, and LD motifs, and the COOH-terminal half containing four LIM domains (<xref rid="bib43" ref-type="bibr">Turner, 2000</xref>). The former is necessary for binding to Fak, and the latter is necessary for FA localization. We found that expression of neither of these domains was able to restore the altered phenotypes observed in the paxillin knockdown cells (unpublished data). However, because of the complexity of the structure of paxillin, we were unable to determine precisely whether paxillin acts only to recruit Fak to the FAs in our assays.</p>
+        <p>Then, we focused on Fak. Fak possesses several tyrosines that become phosphorylated, as well as other functional modules (<xref rid="bib38" ref-type="bibr">Schlaepfer et al., 1999</xref>; see <xref rid="fig6" ref-type="fig">Fig. 6</xref> A). Using site-specific antibodies, we have previously shown that Tyr397, Tyr407, and Tyr861 are heavily phosphorylated in migrating epithelial cells, whereas phosphorylation of Tyr925 was almost undetectable (<xref rid="bib33" ref-type="bibr">Nakamura et al., 2001</xref>). A high level of Tyr925 phosphorylation was detected in v-Src transformed fibroblasts (<xref rid="bib33" ref-type="bibr">Nakamura et al., 2001</xref>). In HeLa cells adhered on collagen in the absence of serum, Tyr397 and Tyr861 were found to be significantly phosphorylated, whereas phosphorylation of Tyr925 and Tyr407 was almost undetectable (<xref rid="fig6" ref-type="fig">Fig. 6</xref> B). This phosphorylation pattern was not changed when cells were replated at a sparse or saturation density (<xref rid="fig6" ref-type="fig">Fig. 6</xref> B). Then, we expressed mutants of mouse Fak cDNAs in the Fak knockdown cells in order to examine which domains or sites of Fak are necessary for its functions (<xref rid="fig6" ref-type="fig">Fig. 6</xref>, C&#x2013;F). Lys454 is the ATP-binding site essential for the kinase activity. The focal adhesion targeting (FAT) domain binds paxillin and is necessary for FA localization of Fak. We found that mutants of Lys454 (K454R) and the FAT domain (a deletion mutant; &#x394;FAT) could not restore any of the Fak knockdown phenotypes, that is, loss of N-cadherin&#x2013;based adhesions (<xref rid="fig6" ref-type="fig">Fig. 6</xref> D), aberrant protrusion formation (<xref rid="fig6" ref-type="fig">Fig. 6</xref> E), and inefficient formation of robust FAs (<xref rid="fig6" ref-type="fig">Fig. 6</xref> F). Consistent with the above biochemical results, the nonphosphorylation mutants of Tyr397 (Y397F) and Tyr861 (Y861F) restored none of these three phenotypes, whereas mutation of Tyr407 (Y407F) rescued all three (<xref rid="fig6" ref-type="fig">Fig. 6</xref>, D&#x2013;F). Therefore, the kinase activity, the FAT domain, and phosphorylation at Tyr397 and Tyr861 of Fak appear to be important for Fak functions regarding all three different aspects. By immunostaining, we observed that Tyr397- and Tyr861-phosphorylated Fak localized to the integrin &#x3B2;1&#x2013;positive robust FAs in parental HeLa cells (unpublished data). Y397F, Y407F, K454R, and Y861F mutants localized to the integrin &#x3B2;1&#x2013;positive FAs in the Fak knockdown cells, but the &#x394;FAT mutant did not (Fig. S4, available at <ext-link ext-link-type="uri" xlink:href="http://www.jcb.org/cgi/content/full/jcb.200312013/DC1">http://www.jcb.org/cgi/content/full/jcb.200312013/DC1</ext-link>).</p>
+        <fig id="fig6" position="float">
+          <label>Figure 6.</label>
+          <caption>
+            <p>
+<bold>Motifs required for Fak functions in HeLa cells.</bold> (A) Structure of Fak. Numbers represent amino acids. Y, tyrosine; FAT, focal adhesion targeting domain. (B) Tyrosine phosphorylation of Fak. Immunoprecipitated Fak, from cells kept in suspension for 30 min (sus) or replated onto collagen for 30 min at a sparse or saturation density in the absence of serum, were analyzed using phosphorylation site-specific antibodies or a phosphotyrosine antibody (4G10) as indicated. (C&#x2013;E) Effects of Fak mutants on Fak knockdown phenotypes. Fak siRNA-treated cells were transfected with HA-tagged mouse Fak cDNAs with the indicated mutations (see text for the abbreviations). Expression of these mutants are shown by Fak blotting (C). White lines indicate that intervening lanes have been spliced out. Controls included an irrelevant siRNA duplex (ctrl) and empty vector (&#x2212;) as indicated. Percentages of N-cadherin&#x2013;positive cell&#x2013;cell contact areas, percentages of cells bearing aberrant large protrusions, and numbers of integrin &#x3B2;1&#x2013;positive robust FAs are shown in D&#x2013;F, in which each assay was performed as in <xref rid="fig1" ref-type="fig">Fig. 1</xref> E, <xref rid="fig2" ref-type="fig">Fig. 2</xref> E, and <xref rid="fig4" ref-type="fig">Fig. 4</xref> B, respectively. Lanes 1&#x2013;8 in D&#x2013;F correspond to those in C. Error bars, SEM.</p>
+          </caption>
+          <graphic xlink:href="200312013f6"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Role of Fak and paxillin in collective cell migration</title>
+        <p>During wound closure of HeLa cells, cells facing the wound edges and actively migrating still maintain N-cadherin adhesion at the rear sides (<xref rid="fig7" ref-type="fig">Fig. 7</xref> B, ctrl). Cells located within the cell sheet also maintain N-cadherin adhesion (<xref rid="fig7" ref-type="fig">Fig. 7</xref> B, ctrl). HeLa cells can thus exhibit properties of collective migration, as reported with other invasive carcinomas in vivo (<xref rid="bib31" ref-type="bibr">Nabeshima et al., 1999</xref>). Then, we examined whether knockdown of Fak or paxillin affects the maintenance of N-cadherin adhesion in collective migration. We showed that even Fak and paxillin knockdown cells can form N-cadherin adhesions when replated at a saturation density (<xref rid="fig1" ref-type="fig">Fig. 1</xref> C). Hence, we replated siRNA-treated cells at a saturation density, and the cell cultures were then scratched, as commonly performed in a wound-healing assay. Wound regions were then allowed to heal by cell migration in the presence of serum for 8 h. As shown in <xref rid="fig7" ref-type="fig">Fig. 7</xref> A, in the case of control, p130Cas knockdown, and Pyk2-knockdown cells, although cell migration was effectively induced, only a few migrating cells were detached and migrated out from the cell sheet. In contrast, when Fak or paxillin was knocked down, most migrating cells were detached and migrated out from the cell sheet (<xref rid="fig7" ref-type="fig">Fig. 7</xref> A). Immunostaining of these cells revealed that the N-cadherin adhesions were substantially lost not only in the detached cells, but also in cells located at the wound-healing areas and hence actively migrating, whereas N-cadherin adhesions were maintained in cells located behind the original wound edges (<xref rid="fig7" ref-type="fig">Fig. 7, B and C</xref>). The control, p130Cas knockdown, or Pyk2 knockdown cells retained the N-cadherin adhesions even when located at the wound-healing areas and hence actively migrating (<xref rid="fig7" ref-type="fig">Fig. 7, B and C</xref>). Therefore, Fak and paxillin are necessary for the maintenance of N-cadherin&#x2013;based cell&#x2013;cell adhesion in the collective migration of HeLa cells.</p>
+        <fig id="fig7" position="float">
+          <label>Figure 7.</label>
+          <caption>
+            <p>
+<bold>Requirement for Fak and paxillin in collective migration of HeLa cells.</bold> siRNA-treated cells were replated onto collagen at a saturation density and subjected to the wound-healing assay in the presence of serum, as described in the Materials and methods. After 8 h of incubation, the cells were fixed and subjected to N-cadherin immunostaining (N-cad in B), or their phase-contrast images were taken (A, and the top panels in B). Broken lines indicate the original wound edges. In the bottom two panels in B, N-cadherin immunostaining of cells located within the solid or dashed rectangles in the top panel are shown. Percentages of cells with N-cadherin&#x2013;positive cell&#x2013;cell contacts are also shown in C (gray bars, cells located behind the original wound edges; black bars, cells migrated into the wound-healing areas). Over 70 contact areas were counted in each of the three independent experiments. Error bars, SEM. Bars, 250 &#x3BC;m in A; 50 &#x3BC;m in B. Abbreviations are the same as in <xref rid="fig1" ref-type="fig">Fig. 1</xref>.</p>
+          </caption>
+          <graphic xlink:href="200312013f7"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>Integrins engage in a variety of intracellular signaling pathways, depending on factors including types of integrins, the extracellular matrices, and cellular contexts. Cadherins also consist of a large number of isoforms, expressed in various types of cells (<xref rid="bib46" ref-type="bibr">Yagi and Takeichi, 2000</xref>). Integrins and cadherins often intercommunicate with each other. In this report, we examined whether protein tyrosine phosphorylation events that are induced preferentially by integrin activation, and not directly engaged in the cadherin system, can deliver signals to intercommunicate with intracellular processes involved in cadherin-based cell&#x2013;cell adhesion, and showed an example of such intercommunication using a model system.</p>
+      <p>We observed that loss of Fak or paxillin expression, but not Pyk2 or p130Cas expression, affects the efficient formation of N-cadherin adhesion and the plasma membrane dynamics of migrating HeLa cells, and also causes enhancement of the cell motility, all of which could be significantly restored by expression of Rac1T17N. However, because N-cadherin adhesions are efficiently formed when Fak and paxillin knockdown HeLa cells are replated at a confluent density, Fak and paxillin are not directly involved in the machinery regulating the N-cadherin adhesions. Using the FRET technique, we assessed Rac1 activity in noncontacting and contacting HeLa cells. However, because of the light sensitivity of our FRET probe, we were unable to trace changes of Rac1 activity in detail during the early phases of the cell&#x2013;cell collisions. To help assessment of our results, we instead provided the statistical data. Our results indicated that Rac1 activity is relatively high at the free peripheral membrane areas, whereas it is down-regulated, though not totally suppressed, at cell&#x2013;cell contact areas. Such down-regulation of Rac1 activity appears to be hampered by knocking down Fak or paxillin in HeLa cells. Possible changes of Rac1 activities in these knockdown cells could not be detected by a biochemical method, perhaps because they were too small to be detected by such a method (unpublished data).</p>
+      <p>Expression of an active form of Rac1 (Rac1G12V) affected the accumulation of N-cadherin at contact sites of HeLa cells. We also showed that expression of a dominant-negative form of Rac1 (Rac1T17N) can restore the N-cadherin accumulation in Fak and paxillin knockdown cells. Rac1 localizes to cell&#x2013;cell junctions, and there is a consensus that Rac1 plays important roles in cadherin-based cell&#x2013;cell contacts, although the modes of involvement may differ depending on the cell type (<xref rid="bib6" ref-type="bibr">Braga et al., 1999</xref>; <xref rid="bib17" ref-type="bibr">Fukata and Kaibuchi, 2001</xref>). For example, formation of N-cadherin&#x2013;based cell&#x2013;cell adhesions was accompanied by a decrease in Rac1 activity during myogenesis (<xref rid="bib8" ref-type="bibr">Charrasse et al., 2002</xref>). In MDCK cells, on the other hand, increased accumulation of E-cadherin at cell&#x2013;cell contact sites has been observed in the presence of activated Rac1 (<xref rid="bib23" ref-type="bibr">Hordijik et al., 1997</xref>; <xref rid="bib39" ref-type="bibr">Takaishi et al., 1997</xref>; <xref rid="bib11" ref-type="bibr">Ehrlich et al., 2002</xref>), whereas it was decreased by dominant-negative Rac1 (<xref rid="bib39" ref-type="bibr">Takaishi et al., 1997</xref>). In keratinocytes, dominant-negative Rac1 and constitutive active Rac1 both diminished accumulation of E-cadherin at cell&#x2013;cell contacts (<xref rid="bib5" ref-type="bibr">Braga et al., 1997</xref>, <xref rid="bib7" ref-type="bibr">2000</xref>). Moreover, cellular regulation of N-cadherin is not identical to that of E-cadherin. For example, Hakai, which is a ubiquitin E3 ligase and acts to down-regulate E-cadherin, does not recognize N-cadherin (<xref rid="bib16" ref-type="bibr">Fujita et al., 2002</xref>). Forced expression of N-cadherin in keratinocyte PAM212 cells expressing endogenous E- and P-cadherins causes disappearance of endogenous cadherins from the cell&#x2013;cell junctions (<xref rid="bib15" ref-type="bibr">Fujimori and Takeichi, 1993</xref>). It has also been demonstrated that forced expression of N-cadherin in noninvasive, E-cadherin&#x2013;positive breast cancer cells produces invasive cells (<xref rid="bib20" ref-type="bibr">Hazan et al., 2000</xref>). Therefore, effects of Rac1 may also differ depending on the types of cadherins. Serum was not added in most of our experiments in order to investigate Rac1 activity induced primarily via integrin stimuli. Together, one of the most plausible explanations of our results is that besides the mechanism for the up-regulation of Rac1 activity (<xref rid="bib10" ref-type="bibr">DeMali et al., 2003</xref>), integrin signals include a mechanism to down-regulate Rac1 activity at the cell&#x2013;cell contact areas of the cell periphery, in which Fak and paxillin play pivotal roles. Such a down-regulation mechanism ought to operate especially upon cell&#x2013;cell collisions during migration, and might hence be deeply involved in the process of the N-cadherin&#x2013;based cell&#x2013;cell adhesion formation in motile HeLa cells (also see below). Because aberrant large protrusions are formed in noncontacting, isolated cells if their Fak or paxillin is lost, Fak- or paxillin-mediated down-regulation of Rac1 activity may operate not only during cell collisions, but might also be necessary for the maintenance of normal cell morphology and normal plasma membrane dynamics in motile HeLa cells.</p>
+      <p>It has been well accepted that certain types of cells in culture exhibit the ability of &#x201C;contact inhibition of movement,&#x201D; i.e., a transient stop in migration upon cell&#x2013;cell collision (<xref rid="bib1" ref-type="bibr">Abercrombie and Heasysman, 1953</xref>). By video recording, we observed that HeLa cells exhibit the property of contact inhibition of movement, and loss of Fak or paxillin expression hampered these transient stops in migration (unpublished data). Rac1 activity is important for and can facilitate cell migration (<xref rid="bib27" ref-type="bibr">Klemke et al., 1998</xref>). Thus, one can envisage that the mechanism of down-regulation of Rac1 activity at cell&#x2013;cell contact areas locally might also be closely related to the contact inhibition of movement. On the other hand, several independent analyses have shown that amounts of GTP-Rac1 are increased by the formation of cadherin-mediated cell&#x2013;cell adhesions (<xref rid="bib17" ref-type="bibr">Fukata and Kaibuchi, 2001</xref>). Therefore, as integrin engagement initially down-regulates RhoA activity, which later on becomes highly activated by integrin signaling (<xref rid="bib36" ref-type="bibr">Ren et al., 1999</xref>), cell&#x2013;cell adhesion may also down-regulate Rac1 activity at early stages of the contacting, which later on can become activated. Activation of Rac1 activity by cadherins may preferentially occur in certain types of cells, such as MDCK, which need drastic remodeling of the cortical actin cytoskeleton upon E-cadherin&#x2013;based cell&#x2013;cell adhesion to form the apical&#x2013;basal polarization. Using FRET imaging, we examined whether Rac1 activity is activated later on at cell&#x2013;cell contact areas in HeLa cells, but have not obtained clear evidence for such activation. HeLa cells under our culture conditions did not appear to form the apical&#x2013;basal polarization even after being well contacted with each other, but remained &#x201C;nonpolarized,&#x201D; as assessed by staining of their microtubule organization (unpublished data).</p>
+      <p>Collective cell migration occurs during carcinoma invasion, as well as during embryonic development, as already mentioned. During collective migration, cells need integrin signaling for their migration, and motile cells simultaneously need to maintain cell&#x2013;cell adhesion. Thus, it is interesting to investigate whether there is an intercommunication between integrins and the cell&#x2013;cell adhesion systems. As an extension of our analyses, we showed that Fak and paxillin are essential for collective migration of HeLa cells, especially for the maintenance of N-cadherin&#x2013;based cell&#x2013;cell adhesion. N-cadherin is categorized as an invasive cadherin, often expressed in invasive and metastatic carcinomas (<xref rid="bib29" ref-type="bibr">Mareel and Leroy, 2003</xref>). In most of our assays other than that for collective migration, serum was not supplied. However, serum was required for the collective migration of HeLa cells, which was induced upon scratching the confluent cultures. Addition of serum can activate Fak or phosphorylate paxillin, both dependent and independent of integrins (<xref rid="bib37" ref-type="bibr">Retta et al., 1996</xref>). Therefore, our current analysis does not distinguish whether the signal(s) from Fak and paxillin is evoked via integrins or via others. In any case, we confirmed that Fak Tyr861 and kinase activity are important for the maintenance of N-cadherin adhesion in collective migration, whereas again Tyr925 was not significantly phosphorylated (unpublished data).</p>
+      <p>Because our results suggest that a major role played by paxillin may be the efficient recruitment of Fak to robust FAs, we focused on Fak rather than paxillin. Our results indicate that the kinase activity, phosphorylation of Tyr397 and Tyr861, and the FAT domain appear to be necessary for Fak functions involved in N-cadherin&#x2013;based adhesion during cell&#x2013;cell collisions, maintenance of normal cell morphology, and efficient formation of integrin &#x3B2;1&#x2013;positive robust FAs. There is a well-accepted model that Fak, when activated, initially phosphorylates Tyr397, and recruits other protein tyrosine kinases like Src or Fyn to this phosphorylated site. These secondary protein tyrosine kinases then phosphorylate the COOH-terminal tyrosines, such as Try861 and Tyr925. Then, they finally act to recruit downstream signaling molecules. Unlike phosphorylated Tyr925, proteins that bind to phosphorylated Tyr861 have not been reported. However, increasing numbers of analyses suggest the importance of Tyr861 phosphorylation, such as in epithelial&#x2013;mesenchymal transition, cell migration, VEGF signaling of vascular endothelial cells, and in development (<xref rid="bib2" ref-type="bibr">Abu-Ghazaleh et al., 2001</xref>; <xref rid="bib33" ref-type="bibr">Nakamura et al., 2001</xref>; <xref rid="bib13" ref-type="bibr">Eliceiri et al., 2002</xref>; <xref rid="bib9" ref-type="bibr">Crawford et al., 2003</xref>). Despite of our extensive analyses, we have not yet succeeded in identifying factors or events acting together with Tyr861 phosphorylation. On the other hand, it has been shown that a GTPase-activating protein (Graf) binds to the COOH-terminal proline-rich domain, but preferentially acts on RhoA and Cdc42, and not Rac1 (<xref rid="bib22" ref-type="bibr">Hildebrand et al., 1996</xref>).</p>
+      <p>Our results indicate that localization of paxillin to FAs precedes that of Fak. In agreement with our results, <xref rid="bib26" ref-type="bibr">Kip et al. (2001)</xref> have shown that paxillin lacking its major Fak-binding site can still localize to FAs, whereas on the other hand, <xref rid="bib30" ref-type="bibr">Miyamoto et al. (1995)</xref> have reported that localization of Fak to FAs precedes that of paxillin in fibroblasts. Moreover, our results indicate that loss of Fak or paxillin increases cell motile activity of HeLa cells as well as BJ cells. Although these results are consistent with our previous results that overexpression of paxillin decreases cell motile activities (<xref rid="bib48" ref-type="bibr">Yano et al., 2000</xref>), this notion is again not consistent with previous reports using gene knockout mouse fibroblasts, as already mentioned (<xref rid="bib24" ref-type="bibr">Ilic et al., 1995</xref>; <xref rid="bib19" ref-type="bibr">Hagel et al., 2002</xref>). Consistent with our Fak knockdown phenotype, we moreover observed that overexpression of FRNK increases HeLa cell motility, whereas this overexpression inhibits the motility of 3T3 fibroblasts and smooth muscle cells (<xref rid="bib41" ref-type="bibr">Taylor et al., 2001</xref>). We used collagen type I as an extracellular substrate and did not add serum in these assays. On the other hand, <xref rid="bib24" ref-type="bibr">Ilic et al. (1995)</xref> have used fibronectin when they observed reduced cell motility with their Fak gene knockout fibroblasts, which was established by the introduction of a p53 mutant. In our experiments, motility of HeLa cells was highly reduced on fibronectin as compared with that on collagen, and no notable increase in motility was observed by Fak and paxillin knockdown (unpublished data). We also noticed that Fak and paxillin knockdown generates large protrusions in HeLa cells, where Rac1 is highly activated. Such large protrusions were also seen in BJ cells upon Fak and paxillin knockdown. On the other hand, generation of such large protrusions have not been reported for fibroblasts derived from Fak and paxillin gene knockout mice. Therefore, several differences may contribute to generate these different outcomes of cell motility between our present work and previous reports. Paxillin is an adaptor protein bearing multiple signaling modules, and hence may not determine its own roles and functions by itself. Indeed, it has been shown that paxillin acts differently in different cell types by engaging different downstream signaling molecules (<xref rid="bib35" ref-type="bibr">Petit et al., 2000</xref>; <xref rid="bib42" ref-type="bibr">Tsubouchi et al., 2002</xref>). Fak also has multiple signaling modules, and may thus function differently in different cellular contexts.</p>
+      <p>In conclusion, our results indicate that at least a part of the Fak signaling pathways are linked to mechanisms down-regulating Rac1 activity at the cell periphery, which appears to be necessary for maintenance of proper dynamics and morphology of the plasma membrane, and is also important for efficient formation and maintenance of cadherin-based cell&#x2013;cell adhesions in motile cells. We also showed that Fak plays an essential role in collective cell migration. Both positive and negative regulations are necessary for the proper function of Rac1. Precise understanding of the mechanism controlling Rac1 activity at the cell periphery and the mechanism coordinating integrins and cadherins in collective migration awaits the identification of a protein(s) or intracellular event(s) acting together with the Tyr861 phosphorylation of Fak (<xref rid="fig8" ref-type="fig">Fig. 8</xref>).</p>
+      <fig id="fig8" position="float">
+        <label>Figure 8.</label>
+        <caption>
+          <p>
+<bold>A hypothetical model showing the roles of Fak and paxillin in motile HeLa cells.</bold> Integrin signals have been well documented to include a pathway that leads to activation of Rac1 activity, such as through the p130Cas and Crk pathway. Such activation of Rac1 is closely related to plasma membrane ruffling and enhanced cell motility. Our results suggest that integrin signals also include a pathway that evokes a mechanism to down-regulate Rac1 activity at the cell&#x2013;cell contact areas of the cell periphery, in which the presence of Fak and paxillin appears to be essential. Paxillin participates in efficient FA recruitment of Fak, and Tyr861 phosphorylation may be important for Fak function. Such localized down-regulation of Rac1 activity appears to be crucial for the maintenance of the normal morphology and normal dynamics of the plasma membrane, the formation of N-cadherin&#x2013;based cell&#x2013;cell adhesions, and perhaps also for the maintenance of N-cadherin&#x2013;based cell&#x2013;cell adhesions in the collective migration of HeLa cells. Integrin-mediated down-regulation of Rac1 activity upon cell&#x2013;cell collision may also be important for the contact inhibition of movement.</p>
+        </caption>
+        <graphic xlink:href="200312013f8"/>
+      </fig>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Cell culture and siRNA-mediated protein knockdown</title>
+        <p>BJ cells, obtained from Dr. T. Akagi (Osaka Bioscience Institute, Osaka, Japan), and HeLa cells were maintained in DME with 10% FCS (Hyclone). Protein knockdown was performed by use of the RNA interference technique (<xref rid="bib12" ref-type="bibr">Elbashir et al., 2001</xref>). siRNA duplexes used were as follows: Fak, 5&#x2032;-GCGAUUAUAUGUUAGAGAUAGUU-3&#x2032; and 5&#x2032;-CUAUCUCUAACAUAUAAUCGCUU-3&#x2032;; paxillin, 5&#x2032;-CCCUGACGAAAGAGAAGCCUAUU-3&#x2032; and 5&#x2032;-UAGGCUUCUCUUUCGUCAGGGUU-3&#x2032;; p130Cas, 5&#x2032;-ACCACCACGCAGUCUACGACGUU-3&#x2032; and 5&#x2032;-CGUCGUAGACUGCGUGGUGGUUU-3&#x2032;; and Pyk2, 5&#x2032;-UGAGCCGAGUAAAGUUGGGCAUU-3&#x2032; and 5&#x2032;-UGCCCAACUUUACUCGGCUCAUU-3&#x2032;. Cells were transfected with 60 nM of siRNA duplexes in Opti-MEM (GIBCO BRL) using Oligofectamine&#x2122; (Invitrogen) or PolyFect<sup>&#xAE;</sup> (QIAGEN), according to the manufacturer's instructions, and were incubated for 40&#x2013;44 h with DME containing 10% FCS. As a control, siRNA duplex with an irrelevant sequence (Dharmacon Research) was used. Cells were then collected by incubation with PBS containing 5 mM EDTA for 15 min at 37&#xB0;C. After a wash with DME, they were replated in DME onto collagen type I coated culture dishes (10 &#x3BC;g/ml; UBI) at two different densities: at a sparse density, 8 &#xD7; 10<sup>4</sup> cells/35-mm diameter; or at a saturation density, 2.2 &#xD7; 10<sup>6</sup> cells/35-mm diameter. For the replated cultures, serum was not added unless otherwise indicated.</p>
+      </sec>
+      <sec>
+        <title>FRET imaging of Rac1 activity</title>
+        <p>HeLa cells, transfected with siRNAs and pRaichu-Rac, were replated onto collagen and incubated for 15 min. Cells were then subjected to image acquisition using a microscope (model IX70; Olympus) equipped with a charge-coupled device camera (CoolSNAP HQ&#x2122;; Roper Scientific) and controlled by MetaMorph<sup>&#xAE;</sup> software (Universal Imaging Corp.); the FRET efficiencies for Rac1 were calculated as described previously (<xref rid="bib25" ref-type="bibr">Itoh et al., 2002</xref>). The exposure time was 0.15 s when binning was set to 4 by 4. After background subtraction, the ratio image of YFP/CFP was created with MetaMorph<sup>&#xAE;</sup> software and was used to represent FRET efficiency.</p>
+      </sec>
+      <sec>
+        <title>Wound-healing assays</title>
+        <p>Cells were replated onto collagen at a saturation density (2.2 &#xD7; 10<sup>6</sup> cells/35-mm diameter) in the absence of serum and were incubated for 3 h. They were then scratched manually with the needle of a 10-&#x3BC;l syringe (Hamilton). After being washed with DME, wound regions were allowed to heal for 8 h in DME containing 10% FCS before analysis. Without serum, neither control cells nor knockdown cells exhibited significant migration.</p>
+      </sec>
+      <sec>
+        <title>Immunofluorescent microscopy</title>
+        <p>Cells were fixed in 4% PFA in Hanks' salt solution at 37&#xB0;C, 3 h after replating onto collagen unless otherwise indicated, and analyzed using laser confocal microscopy with the attached computer software (LSM 510 version 2.5; Carl Zeiss MicroImaging, Inc.) as previously described (<xref rid="bib32" ref-type="bibr">Nakamura et al., 2000</xref>), or with a camera system (AxioCam; Carl Zeiss MicroImaging, Inc.).</p>
+      </sec>
+      <sec>
+        <title>Online supplemental material</title>
+        <p>Four supplemental figures and legends indicate the following: (a) confirmation that formation of the aberrant membrane protrusions was due to the loss of Fak and paxillin (Fig. S1); (b) evidence for the involvement of collagen receptors (Fig. S2); (c) morphology and the reduction of the robust FAs in siRNA treated BJ cells (Fig. S3); and (d) subcellular localization of Fak mutants in Fak knockdown HeLa cells (Fig. S4). Materials and methods for cDNAs and their expression, antibodies, peptides, immunoblotting, immunofluorescent microscopy, and phase-contrast video images and references cited in supplemental materials are shown. Online supplemental materials are available at <ext-link ext-link-type="uri" xlink:href="http://www.jcb.org/cgi/content/full/jcb.200312013/DC1">http://www.jcb.org/cgi/content/full/jcb.200312013/DC1</ext-link>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We are grateful to Junko Sakakura, Manami Hiraishi, and Yumiko Shibata for their technical assistance and to Mayumi Yoneda for her secretarial work. We also thank Kozo Kaibuchi, Toshinori Iwahara, Tsuyoshi Akagi, and Hidesaburo Hanafusa for cDNAs and cells, and Helena Akiko Popiel for her critical reading of the manuscript.</p>
+      <p>This work was supported in part by Grants-in-aid from the Ministry of Education, Science, Sports and Culture of Japan; and Grants from Takeda Pharmaceutical Co. and Uehara Memorial Foundation. Osaka Bioscience Institute was founded in commemoration of the centenary of the municipal government of Osaka City, and is supported by Osaka City.</p>
+    </ack>
+    <ref-list>
+      <ref id="bib1">
+        <mixed-citation publication-type="journal">Abercrombie, M., and J.E.M. Heasysman. <year>1953</year>. Social behavior of cells in tissue culture. I. Speed of movement of chick breast fibroblast in relation to their mutual contacts. <source>Exp. Cell Res.</source>
+<volume>5</volume>:<fpage>111</fpage>&#x2013;131.
+<pub-id pub-id-type="pmid">13083622</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib2">
+        <mixed-citation publication-type="journal">Abu-Ghazaleh, R., J. Kabir, H. Jia, M. Lob, and I. Zachary. <year>2001</year>. Src mediates stimulation by vascular endothelial growth factor of the phosphorylation of focal adhesion kinase at tyrosine 861, and migration and anti-apoptosis in endothelial cells. <source>Biochem. J.</source>
+<volume>360</volume>:<fpage>255</fpage>&#x2013;264.
+<pub-id pub-id-type="pmid">11696015</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib3">
+        <mixed-citation publication-type="journal">Arregui, C., P. Pathre, J. Lilien, and J. Balsamo. <year>2000</year>. The nonreceptor tyrosine kinase Fer mediates cross-talk between N-cadherin and &#x3B2;1-integrins. <source>J. Cell Biol.</source>
+<volume>149</volume>:<fpage>1263</fpage>&#x2013;1273.
+<pub-id pub-id-type="pmid">10851023</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib4">
+        <mixed-citation publication-type="journal">Avraham, H., S.Y. Park, K. Schinkmann, and S. Avraham. <year>2000</year>. RAFTK/Pyk2-mediated cellular signalling. <source>Cell. Signal.</source>
+<volume>12</volume>:<fpage>123</fpage>&#x2013;133.
+<pub-id pub-id-type="pmid">10704819</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib5">
+        <mixed-citation publication-type="journal">Braga, V.M.M., L.M. Machesky, A. Hall, and N.A. Hotchin. <year>1997</year>. The small GTPases Rho and Rac are required for the establishment of cadherin-dependent cell&#x2013;cell contacts. <source>J. Cell Biol.</source>
+<volume>137</volume>:<fpage>1421</fpage>&#x2013;1431.
+<pub-id pub-id-type="pmid">9182672</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib6">
+        <mixed-citation publication-type="journal">Braga, V.M.M., A.D. Maschio, L.M. Machesky, and E. Dejana. <year>1999</year>. Regulation of cadherin function by Rho and Rac: modulation by junction maturation and cellular context. <source>Mol. Biol. Cell.</source>
+<volume>10</volume>:<fpage>9</fpage>&#x2013;22.
+<pub-id pub-id-type="pmid">9880323</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib7">
+        <mixed-citation publication-type="journal">Braga, V.M.M., M. Betson, X. Li, and N. Lamarche-Vane. <year>2000</year>. Activation of the small GTPase Rac is sufficient to disrupt cadherin-dependent cell-cell adhesion in normal human keratinocytes. <source>Mol. Biol. Cell.</source>
+<volume>11</volume>:<fpage>3703</fpage>&#x2013;3721.
+<pub-id pub-id-type="pmid">11071901</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib8">
+        <mixed-citation publication-type="journal">Charrasse, S., M. Meriane, F. Comunale, A. Blangy, and C. Gauthier-Rouviere. <year>2002</year>. N-cadherin-dependent cell&#x2013;cell contact regulates Rho GTPases and &#x3B2;-catenin localization in mouse C2C12 myoblasts. <source>J. Cell Biol.</source>
+<volume>158</volume>:<fpage>953</fpage>&#x2013;965.
+<pub-id pub-id-type="pmid">12213839</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib9">
+        <mixed-citation publication-type="journal">Crawford, B.D., C.A. Henry, T.A. Clason, A.L. Becker, and M.B. Hille. <year>2003</year>. Activity and distribution of paxillin, focal adhesion kinase, and cadherin indicate cooperative roles during zebrafish morphogenesis. <source>Mol. Biol. Cell.</source>
+<volume>14</volume>:<fpage>3065</fpage>&#x2013;3081.
+<pub-id pub-id-type="pmid">12925747</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib10">
+        <mixed-citation publication-type="journal">DeMali, K.A., K. Wennerberg, and K. Burridge. <year>2003</year>. Integrin signaling to the actin cytoskeleton. <source>Curr. Opin. Cell Biol.</source>
+<volume>15</volume>:<fpage>572</fpage>&#x2013;582.
+<pub-id pub-id-type="pmid">14519392</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib11">
+        <mixed-citation publication-type="journal">Ehrlich, J.S., M.D.H. Hansen, and W.J. Nelson. <year>2002</year>. Spatio-temporal regulation of Rac1 localization and lamellipodia dynamics during epithelial cell-cell adhesion. <source>Dev. Cell.</source>
+<volume>3</volume>:<fpage>259</fpage>&#x2013;270.
+<pub-id pub-id-type="pmid">12194856</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib12">
+        <mixed-citation publication-type="journal">Elbashir, S.M., J. Harborth, W. Lendeckel, A. Yalcin, and T. Tuschi. <year>2001</year>. Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells. <source>Nature.</source>
+<volume>411</volume>:<fpage>494</fpage>&#x2013;498.
+<pub-id pub-id-type="pmid">11373684</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib13">
+        <mixed-citation publication-type="journal">Eliceiri, B.P., X.S. Puente, J.D. Hood, D.G. Stupack, D.D. Schlaepfer, X.Z. Huang, D. Sheppard, and D.A. Cheresh. <year>2002</year>. Src-mediated coupling of focal adhesion kinase to integrin &#x3B1;(v)&#x3B2;5 in vascular endothelial growth factor signaling. <source>J. Cell Biol.</source>
+<volume>157</volume>:<fpage>149</fpage>&#x2013;160.
+<pub-id pub-id-type="pmid">11927607</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib14">
+        <mixed-citation publication-type="journal">Friedl, P., and K. Wolf. <year>2003</year>. Tumour-cell invasion and migration: Diversity and escape mechanisms. <source>Nat. Rev. Cancer.</source>
+<volume>3</volume>:<fpage>362</fpage>&#x2013;374.
+<pub-id pub-id-type="pmid">12724734</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib15">
+        <mixed-citation publication-type="journal">Fujimori, T., and M. Takeichi. <year>1993</year>. Disruption of epithelial cell-cell adhesion by exogenous expression of a mutated nonfunctional N-cadherin. <source>Mol. Biol. Cell.</source>
+<volume>4</volume>:<fpage>37</fpage>&#x2013;47.
+<pub-id pub-id-type="pmid">8443408</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib16">
+        <mixed-citation publication-type="journal">Fujita, Y., G. Krause, M. Scheffner, D. Zechner, H.E. Leddy, J. Behrens, T. Sommer, and W. Birchmeier. <year>2002</year>. Hakai, a c-Cbl-like protein, ubiquitinates and induces endocytosis of the E-cadherin complex. <source>Nat. Cell Biol.</source>
+<volume>4</volume>:<fpage>222</fpage>&#x2013;231.
+<pub-id pub-id-type="pmid">11836526</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib17">
+        <mixed-citation publication-type="journal">Fukata, M., and K. Kaibuchi. <year>2001</year>. Rho-family GTPases in cadherin-mediated cell-cell adhesion. <source>Nat. Rev. Mol. Cell Biol.</source>
+<volume>2</volume>:<fpage>887</fpage>&#x2013;897.
+<pub-id pub-id-type="pmid">11733768</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib18">
+        <mixed-citation publication-type="journal">Guan, J.L., and D. Shalloway. <year>1992</year>. Regulation of focal adhesion-associated protein tyrosine kinase by both cellular adhesion and oncogenic transformation. <source>Nature.</source>
+<volume>358</volume>:<fpage>690</fpage>&#x2013;692.
+<pub-id pub-id-type="pmid">1379699</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib19">
+        <mixed-citation publication-type="journal">Hagel, M., E.L. George, A. Kim, R. Tamimi, S.L. Opitz, C.E. Turner, A. Imamoto, and S.M. Thomas. <year>2002</year>. The adaptor protein paxillin is essential for normal development in the mouse and is a critical transducer of fibronectin signaling. <source>Mol. Cell. Biol.</source>
+<volume>22</volume>:<fpage>901</fpage>&#x2013;915.
+<pub-id pub-id-type="pmid">11784865</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib20">
+        <mixed-citation publication-type="journal">Hazan, R.B., G.R. Phillips, R.F. Qiao, L. Norton, and S.A. Aaronson. <year>2000</year>. Exogenous expression of N-cadherin in breast cancer cells induces cell migration, invasion, and metastasis. <source>J. Cell Biol.</source>
+<volume>148</volume>:<fpage>779</fpage>&#x2013;790.
+<pub-id pub-id-type="pmid">10684258</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib21">
+        <mixed-citation publication-type="journal">Hegerfeldt, Y., M. Tusch, E.B. Brocker, and P. Friedl. <year>2002</year>. Collective cell movement in primary melanoma explants: Plasticity of cell-cell interaction, &#x3B2;1-integrin function, and migration strategies. <source>Cancer Res.</source>
+<volume>62</volume>:<fpage>2125</fpage>&#x2013;2130.
+<pub-id pub-id-type="pmid">11929834</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib22">
+        <mixed-citation publication-type="journal">Hildebrand, J.D., J.M. Taylor, and J.T. Parsons. <year>1996</year>. An SH3 domain-containing GTPase-activating protein for Rho and Cdc42 associates with focal adhesion kinase. <source>Mol. Cell. Biol.</source>
+<volume>16</volume>:<fpage>3169</fpage>&#x2013;3178.
+<pub-id pub-id-type="pmid">8649427</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib23">
+        <mixed-citation publication-type="journal">Hordijik, P.L., J.P. ten Klooster, R.A. van der Kammen, F. Michiels, L.C. Oomen, and J.G. Collard. <year>1997</year>. Inhibition of invasion of epithelial cells by Tiam1-Rac signaling. <source>Science.</source>
+<volume>278</volume>:<fpage>1464</fpage>&#x2013;1466.
+<pub-id pub-id-type="pmid">9367959</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib24">
+        <mixed-citation publication-type="journal">Ilic, D., Y. Furuta, S. Kanazawa, N. Takeda, K. Sobue, N. Nakatsuji, S. Nomura, J. Fujimoto, M. Okada, and T. Yamamoto. <year>1995</year>. Reduced cell motility and enhanced focal adhesion contact formation in cells from FAK-deficient mice. <source>Nature.</source>
+<volume>377</volume>:<fpage>539</fpage>&#x2013;544.
+<pub-id pub-id-type="pmid">7566154</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib25">
+        <mixed-citation publication-type="journal">Itoh, R.E., K. Kurokawa, Y. Ohba, H. Yoshizaki, N. Mochizuki, and M. Matsuda. <year>2002</year>. Activation of Rac and Cdc42 video imaged by fluorescent resonance energy transfer-based single-molecule probes in the membrane of living cells. <source>Mol. Cell. Biol.</source>
+<volume>22</volume>:<fpage>6582</fpage>&#x2013;6591.
+<pub-id pub-id-type="pmid">12192056</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib26">
+        <mixed-citation publication-type="journal">Kip, A.W., H. Zhang, M.C. Brown, S.N. Nikolopoulos, M.C. Riedy, A.F. Horwitz, and C.E. Turner. <year>2001</year>. The LD4 motif of paxillin regulates cell spreading and motility through an interaction with paxillin kinase linker (PKL). <source>J. Cell Biol.</source>
+<volume>154</volume>:<fpage>161</fpage>&#x2013;176.
+<pub-id pub-id-type="pmid">11448998</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib27">
+        <mixed-citation publication-type="journal">Klemke, R.L., J. Leng, R. Molander, P.C. Brooks, K. Vuori, and D.A. Cheresh. <year>1998</year>. CAS/Crk coupling serves as a &#x201C;molecular switch&#x201D; for induction of cell migration. <source>J. Cell Biol.</source>
+<volume>140</volume>:<fpage>961</fpage>&#x2013;972.
+<pub-id pub-id-type="pmid">9472046</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib28">
+        <mixed-citation publication-type="journal">Li, G., H. Schaider, K. Satyamoorthy, Y. Hanakawa, K. Hashimoto, and M. Herlyn. <year>2001</year>. Downregulation of E-cadherin and Desmoglein 1 by autocrine hepatocyte growth factor during melanoma development. <source>Oncogene.</source>
+<volume>20</volume>:<fpage>8125</fpage>&#x2013;8135.
+<pub-id pub-id-type="pmid">11781826</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib29">
+        <mixed-citation publication-type="journal">Mareel, M., and A. Leroy. <year>2003</year>. Clinical, cellular, and molecular aspects of cancer invasion. <source>Physiol. Rev.</source>
+<volume>83</volume>:<fpage>337</fpage>&#x2013;376.
+<pub-id pub-id-type="pmid">12663862</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib30">
+        <mixed-citation publication-type="journal">Miyamoto, S., H. Teramoto, O.A. Coso, J.S. Gutkind, P.D. Burbelo, S.K. Akiyama, and K.M. Yamada. <year>1995</year>. Integrin function: molecular hierarchies of cytoskeletal and signaling molecules. <source>J. Cell Biol.</source>
+<volume>131</volume>:<fpage>791</fpage>&#x2013;805.
+<pub-id pub-id-type="pmid">7593197</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib31">
+        <mixed-citation publication-type="journal">Nabeshima, K., T. Inoue, Y. Shimao, H. Kataoka, and M. Koono. <year>1999</year>. Cohort migration of carcinoma cells: differentiated colorectal carcinoma cells move as cohort cell clusters or sheets. <source>Histol. Histopathol.</source>
+<volume>14</volume>:<fpage>1183</fpage>&#x2013;1197.
+<pub-id pub-id-type="pmid">10506935</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib32">
+        <mixed-citation publication-type="journal">Nakamura, K., H. Yano, H. Uchida, S. Hashimoto, E. Schaefer, and H. Sabe. <year>2000</year>. Tyrosine phosphorylation of paxillin alpha is involved in temporospatial regulation of paxillin-containing focal adhesion formation and F-actin organization in motile cells. <source>J. Biol. Chem</source>. <volume>275</volume>:<fpage>27155</fpage>&#x2013;27164.
+<pub-id pub-id-type="pmid">10823820</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib33">
+        <mixed-citation publication-type="journal">Nakamura, K., H. Yano, E. Schaefer, and H. Sabe. <year>2001</year>. Different modes and qualities of tyrosine phosphorylation of Fak and Pyk2 during epithelial-mesenchymal transdifferentiation and cell migration: analysis of specific phosphorylation events using site-directed antibodies. <source>Oncogene.</source>
+<volume>20</volume>:<fpage>2626</fpage>&#x2013;2635.
+<pub-id pub-id-type="pmid">11420674</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib34">
+        <mixed-citation publication-type="journal">Perl, A.K., P. Wilgenbus, U. Dahl, H. Semb, and G. Christofori. <year>1998</year>. A causal role for E-cadherin in the transition from adenoma to carcinoma. <source>Nature</source>. <volume>392</volume>:<fpage>190</fpage>&#x2013;193.
+<pub-id pub-id-type="pmid">9515965</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib35">
+        <mixed-citation publication-type="journal">Petit, V., B. Boyer, D. Lentz, C.E. Turner, J.P. Thiery, and A.M. Valles. <year>2000</year>. Phosphorylation of tyrosine residues 31 and 118 on paxillin regulates cell migration through an association with CRK in NBT-II cells. <source>J. Cell Biol.</source>
+<volume>148</volume>:<fpage>957</fpage>&#x2013;970.
+<pub-id pub-id-type="pmid">10704446</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib36">
+        <mixed-citation publication-type="journal">Ren, X.D., W.B. Kiosses, and M.A. Schwartz. <year>1999</year>. Regulation of the small GTP-binding protein Rho by cell adhesion and the cytoskeleton. <source>EMBO J.</source>
+<volume>18</volume>:<fpage>578</fpage>&#x2013;585.
+<pub-id pub-id-type="pmid">9927417</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib37">
+        <mixed-citation publication-type="journal">Retta, S.F., S.T. Barry, D.R. Critchley, P. Defilippi, L. Silengo, and G. Tarone. <year>1996</year>. Focal adhesion and stress fiber formation is regulated by tyrosine phosphatase activity. <source>Exp. Cell Res.</source>
+<volume>229</volume>:<fpage>307</fpage>&#x2013;317.
+<pub-id pub-id-type="pmid">8986614</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib38">
+        <mixed-citation publication-type="journal">Schlaepfer, D.D., R.H. Christof, and D.J. Sieg. <year>1999</year>. Signaling through focal adhesion kinase. <source>Prog. Biophys. Mol. Biol.</source>
+<volume>71</volume>:<fpage>435</fpage>&#x2013;478.
+<pub-id pub-id-type="pmid">10354709</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib39">
+        <mixed-citation publication-type="journal">Takaishi, K., T. Sasaki, H. Kotani, H. Nishioka, and Y. Takai. <year>1997</year>. Regulation of cell&#x2013;cell adhesion by Rac and Rho small G proteins in MDCK cells. <source>J. Cell Biol.</source>
+<volume>139</volume>:<fpage>1047</fpage>&#x2013;1059.
+<pub-id pub-id-type="pmid">9362522</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib40">
+        <mixed-citation publication-type="journal">Takenawa, T., and H. Miki. <year>2001</year>. WASP and WAVE family proteins: key molecules for rapid rearrangement of cortical actin filaments and cell movement. <source>J. Cell Sci.</source>
+<volume>114</volume>:<fpage>1801</fpage>&#x2013;1809.
+<pub-id pub-id-type="pmid">11329366</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib41">
+        <mixed-citation publication-type="journal">Taylor, J.M., C.P. Mack, K. Nolan, C.P. Regan, G.K. Owens, and J.T. Parsons. <year>2001</year>. Selective expression of an endogenous inhibitor of FAK regulates proliferation and migration of vascular smooth muscle cells. <source>Mol. Cell. Biol.</source>
+<volume>21</volume>:<fpage>1565</fpage>&#x2013;1572.
+<pub-id pub-id-type="pmid">11238893</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib42">
+        <mixed-citation publication-type="journal">Tsubouchi, A., J. Sakakura, R. Yagi, Y. Mazaki, E. Schaefer, H. Yano, and H. Sabe. <year>2002</year>. Localized suppression of RhoA activity by Tyr31/118-phosphorylated paxillin in cell adhesion and migration. <source>J. Cell Biol.</source>
+<volume>159</volume>:<fpage>673</fpage>&#x2013;683.
+<pub-id pub-id-type="pmid">12446743</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib43">
+        <mixed-citation publication-type="journal">Turner, C.E. <year>2000</year>. Paxillin interactions. <source>J. Cell Sci.</source>
+<volume>113</volume>:<fpage>4139</fpage>&#x2013;4140.
+<pub-id pub-id-type="pmid">11069756</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib44">
+        <mixed-citation publication-type="journal">Wahl, J.K., III, Y.J. Kim, J.M. Cullen, K.R. Johnson, and M.J. Wheelock. <year>2003</year>. N-cadherin-catenin complex form prior to cleavage of the proregion and transport to the plasma membrane. <source>J. Biol. Chem.</source>
+<volume>278</volume>:<fpage>17269</fpage>&#x2013;17276.
+<pub-id pub-id-type="pmid">12604612</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib45">
+        <mixed-citation publication-type="journal">Wu, C., S.Y. Keightley, C. Leung-Hagesteijn, G. Radeva, M. Coppolino, S. Goicoechea, J.A. McDonald, and S. Dedhar. <year>1998</year>. Integrin-linked kinase protein regulates fibronectin matrix assembly, E-cadherin expression, and tumorigenicity. <source>J. Biol. Chem.</source>
+<volume>273</volume>:<fpage>528</fpage>&#x2013;536.
+<pub-id pub-id-type="pmid">9417112</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib46">
+        <mixed-citation publication-type="journal">Yagi, T., and M. Takeichi. <year>2000</year>. Cadherin superfamily genes: functions, genomic organization, and neurologic diversity. <source>Genes Dev.</source>
+<volume>14</volume>:<fpage>1169</fpage>&#x2013;1180.
+<pub-id pub-id-type="pmid">10817752</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib47">
+        <mixed-citation publication-type="journal">Yang-Kao, W., W. Yao-Hsien, W. Chau-Zen, S. Junne-Ming, C. Wen-Tai, L. Shu-Han, C. Yung-Hen, and T. Ming-Jer. <year>2003</year>. Rigidity of collagen fibrils controls collagen gel-induced down-regulation of focal adhesion complex proteins mediated by &#x3B1;2 &#x3B2;1 integrin. <source>J. Biol. Chem.</source>
+<volume>278</volume>:<fpage>21886</fpage>&#x2013;21892.
+<pub-id pub-id-type="pmid">12676963</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib48">
+        <mixed-citation publication-type="journal">Yano, H., H. Uchida, T. Iwasaki, M. Mukai, H. Akedo, K. Nakamura, S. Hashimoto, and H. Sabe. <year>2000</year>. Paxillin &#x3B1; and Crk-associated substrate exert opposing effects on cell migration and contact inhibition of growth through tyrosine phosphorylation. <source>Proc. Natl. Acad. Sci. USA.</source>
+<volume>97</volume>:<fpage>9076</fpage>&#x2013;9081.
+<pub-id pub-id-type="pmid">10922062</pub-id></mixed-citation>
+      </ref>
+      <ref id="bib49">
+        <mixed-citation publication-type="journal">Zamir, E., and B. Geiger. <year>2001</year>. Molecular complexity and dynamics of cell-matrix adhesions. <source>J. Cell Sci.</source>
+<volume>114</volume>:<fpage>3583</fpage>&#x2013;3590.
+<pub-id pub-id-type="pmid">11707510</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,11 @@
+gene_name_1,gene_name_2,co_occurrence
+FAS,FAS,4
+FAS,JNK,4
+FAS,AP,4
+FAS,C-JUN,4
+JNK,JNK,4
+JNK,AP,4
+JNK,C-JUN,4
+AP,AP,8
+AP,C-JUN,4
+C-JUN,C-JUN,4

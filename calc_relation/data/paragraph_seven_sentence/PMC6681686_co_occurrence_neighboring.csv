@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+CXCR4,CXCR4,4
+CXCR4,EPC,4
+CXCR4,OPG,4
+EPC,EPC,38
+EPC,OPG,38
+OPG,OPG,58

@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+ORAI1,ORAI1,2
+ORAI1,PKCA,2
+ORAI1,STIM1,2
+PKCA,PKCA,18
+PKCA,STIM1,2
+STIM1,STIM1,2

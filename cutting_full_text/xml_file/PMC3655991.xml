@@ -1,0 +1,607 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+      <journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosone</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS ONE</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1932-6203</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">23696882</article-id>
+      <article-id pub-id-type="pmc">3655991</article-id>
+      <article-id pub-id-type="publisher-id">PONE-D-13-07274</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0064344</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Molecular cell biology</subject>
+            <subj-group>
+              <subject>Signal transduction</subject>
+              <subj-group>
+                <subject>Signaling cascades</subject>
+                <subj-group>
+                  <subject>Stress signaling cascade</subject>
+                  <subject>c-Jun N-terminal kinase signaling cascade</subject>
+                </subj-group>
+              </subj-group>
+              <subj-group>
+                <subject>Signaling in Cellular Processes</subject>
+                <subj-group>
+                  <subject>Apoptotic Signaling</subject>
+                  <subject>Tor Signaling</subject>
+                </subj-group>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Cellular Stress Responses</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Chemistry</subject>
+          <subj-group>
+            <subject>Environmental Chemistry</subject>
+            <subj-group>
+              <subject>Pollutants</subject>
+              <subj-group>
+                <subject>Heavy Metals</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Medicine</subject>
+          <subj-group>
+            <subject>Anatomy and Physiology</subject>
+            <subj-group>
+              <subject>Renal System</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Nephrology</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Dual Regulation of Cadmium-Induced Apoptosis by mTORC1 through Selective Induction of IRE1 Branches in Unfolded Protein Response</article-title>
+        <alt-title alt-title-type="running-head">mTORC1 and Cd-Induced Apoptosis</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kato</surname>
+            <given-names>Hironori</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Katoh</surname>
+            <given-names>Ryohei</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kitamura</surname>
+            <given-names>Masanori</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+          <xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<label>1</label>
+<addr-line>Department of Molecular Signaling, Interdisciplinary Graduate School of Medicine and Engineering, University of Yamanashi, Chuo, Yamanashi, Japan</addr-line>
+</aff>
+      <aff id="aff2">
+<label>2</label>
+<addr-line>Department of Pathology, Interdisciplinary Graduate School of Medicine and Engineering, University of Yamanashi, Yamanashi, Japan</addr-line>
+</aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Sugiura</surname>
+            <given-names>Reiko</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">
+<addr-line>Kinki University School of Pharmaceutical Sciences, Japan</addr-line>
+</aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>masanori@yamanashi.ac.jp</email></corresp>
+        <fn fn-type="COI-statement">
+          <p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: HK MK. Performed the experiments: HK RK. Analyzed the data: HK MK. Wrote the paper: HK MK.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>5</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>8</volume>
+      <issue>5</issue>
+      <elocation-id>e64344</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>4</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2013 Kato et al</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Kato et al</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Cadmium (Cd) causes generation of reactive oxygen species (ROS) that trigger renal tubular injury. We found that rapamycin, an inhibitor of mTORC1, attenuated Cd-induced apoptosis in renal tubular cells. Knockdown of Raptor, a positive regulator of mTORC1, also had the similar effect. However, rapamycin did not alter generation of ROS, suggesting that mTORC1 is a target downstream of ROS. Indeed, ROS caused activation of mTORC1, which contributed to induction of a selective branch of the unfolded protein response (UPR); <italic>i.e.</italic>, the IRE1 pathway. Although Cd triggered three major UPR pathways, activation of mTORC1 by Cd did not contribute to induction of the PERK&#x2013;eIF2&#x3B1; and ATF6 pathways. Consistently, knockdown of Raptor caused suppression of JNK without affecting the PERK&#x2013;eIF2&#x3B1; pathway in Cd-exposed cells. Knockdown of TSC2, a negative regulator of mTORC1, caused activation of mTORC1 and enhanced Cd induction of the IRE1&#x2013;JNK pathway and apoptosis without affecting other UPR branches. Inhibition of IRE1&#x3B1; kinase led to suppression of JNK activity and apoptosis in Cd-treated cells. Dominant-negative inhibition of JNK also suppressed Cd-induced apoptosis. In contrast, inhibition of IRE1&#x3B1; endoribonuclease activity or downstream XBP1 modestly enhanced Cd-induced apoptosis. <italic>In vivo</italic>, administration with rapamycin suppressed activation of mTORC1 and JNK, but not eIF2&#x3B1;, in the kidney of Cd-treated mice. It was correlated with attenuation of tubular injury and apoptotic cell death in the tubules. These results elucidate dual regulation of Cd-induced renal injury by mTORC1 through selective induction of IRE1 signaling.</p>
+      </abstract>
+      <funding-group>
+        <funding-statement>This work was supported by Grant-in-Aids for Scientific Research from the Ministry of Education, Culture, Sports, Science and Technology, Japan (No. 19651024 to M. Kitamura; No. 40610283 to H. Kato). (<ext-link ext-link-type="uri" xlink:href="http://www.jsps.go.jp">http://www.jsps.go.jp</ext-link>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+      <counts>
+        <page-count count="12"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>Cadmium (Cd) is one of highly toxic metals and accumulates in a variety of organs, especially in the kidney, through cigarette smoking and drinking of contaminated water <xref rid="pone.0064344-Lind1" ref-type="bibr">[1]</xref>, <xref rid="pone.0064344-Jarup1" ref-type="bibr">[2]</xref>. Cd exposure is nephrotoxic and causes renal tubular damage, the main target of the Cd-related toxicity. In the kidney, accumulation of Cd occurs mainly in the proximal tubules, and other nephron segments are affected only at later stages of intoxication <xref rid="pone.0064344-Bernard1" ref-type="bibr">[3]</xref>.</p>
+      <p>It is known that Cd toxicity is mediated by oxidative stress. A line of evidence showed that Cd alters antioxidant defense mechanisms and increases generation of reactive oxygen species (ROS) including superoxide anion and hydrogen peroxide <xref rid="pone.0064344-Oh1" ref-type="bibr">[4]</xref>&#x2013;<xref rid="pone.0064344-Ognjanovi1" ref-type="bibr">[7]</xref>. ROS have the potential to modify proteins, lipids and DNA, leading to apoptotic cell death via several stress pathways including the endoplasmic reticulum (ER) stress response <xref rid="pone.0064344-Stohs1" ref-type="bibr">[8]</xref>&#x2013;<xref rid="pone.0064344-Yokouchi1" ref-type="bibr">[11]</xref>.</p>
+      <p>ER stress is caused by accumulation of unfolded or misfolded proteins in the ER and implicated in the induction of apoptosis under a wide range of pathological situations <xref rid="pone.0064344-Lee1" ref-type="bibr">[12]</xref>, <xref rid="pone.0064344-Kaufman1" ref-type="bibr">[13]</xref>. ER stress induces the unfolded protein response (UPR) that inhibits or facilitates apoptosis <xref rid="pone.0064344-Kim1" ref-type="bibr">[14]</xref>.The UPR comprises three major signaling pathways initiated by inositol-requiring enzyme 1 (IRE1), RNA-dependent protein kinase-like ER kinase (PERK) and activating transcription factor 6 (ATF6) <xref rid="pone.0064344-Ron1" ref-type="bibr">[15]</xref>. IRE1 catalyzes removal of a 26-nucleotide intron from the X-box binding protein 1 (<italic>XBP1</italic>) mRNA. This molecular event depends on the endoribonuclease (RNase) domain of IRE1 and leads to production of active XBP1 and consequent activation of ER-associated protein degradation (ERAD). Activation of PERK leads to phosphorylation of eukaryotic translation initiation factor 2&#x3B1; (eIF2&#x3B1;) and suppresses global protein translation. In response to ER stress, ATF6 is transported to the Golgi, cleaved by S1P and S2P proteases and relocates to the nucleus, leading to induction of ER chaperones such as 78 kDa glucose-regulated protein (GRP78) and GRP94. These branches of the UPR contribute to alleviation of ER stress <xref rid="pone.0064344-Ron1" ref-type="bibr">[15]</xref>, <xref rid="pone.0064344-Rutkowski1" ref-type="bibr">[16]</xref>. However, distinct pro-apoptotic UPR is also induced during ER stress. It includes; 1) activation of caspase-12 through a Ca<sup>2+</sup>-dependent pathway, 2) activation of apoptosis signal-regulating kinase 1 (ASK1) and c-Jun N-terminal kinase (JNK) via interaction of IRE1&#x3B1; with tumor necrosis factor receptor-associated factor 2 (TRAF2), and induction of pro-apoptotic CCAAT/enhancer-binding protein-homologous protein (CHOP) by PERK&#x2013;eIF2&#x3B1; signaling. These UPR pathways contribute to apoptosis during ER stress <xref rid="pone.0064344-Ron1" ref-type="bibr">[15]</xref>, <xref rid="pone.0064344-Rutkowski1" ref-type="bibr">[16]</xref>.</p>
+      <p>Mammalian target of rapamycin complex 1 (mTORC1) is composed of mTOR, regulatory associated protein of mTOR (raptor) and mLST8, which is sensitive to a macrolide antibiotic agent, rapamycin. mTORC1 is one of key regulators for cell growth and metabolism through direct phosphorylation of ribosomal p70S6 kinase (p70S6K) and eIF4E-binding protein <xref rid="pone.0064344-Wullschleger1" ref-type="bibr">[17]</xref>, <xref rid="pone.0064344-Laplante1" ref-type="bibr">[18]</xref>. A recent report indicated that Cd has the potential to activate mTORC1, which might be involved in apoptosis of neuronal cells <xref rid="pone.0064344-Chen1" ref-type="bibr">[19]</xref>. However, mechanisms underlying mTORC1-induced apoptosis are largely unknown. In the present investigation, we aimed at examining how ROS and mTORC1 regulate three major branches of the UPR in Cd-exposed renal tubular cells. Our current results demonstrate dual regulation of Cd-induced apoptosis by mTORC1 through selective induction of IRE1 signaling <italic>in vitro</italic> and <italic>in vivo</italic>.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s2">
+      <title>Materials and Methods</title>
+      <sec id="s2a">
+        <title>Reagents</title>
+        <p>Rapamycin, cadmium chloride, N-acetylcysteine (NAC), menadione and 2,3-dimethoxy-1,4-naphthoquinone (DMNQ) were purchased from Sigma-Aldrich Japan (Tokyo, Japan).</p>
+      </sec>
+      <sec id="s2b">
+        <title>Cells and Stable Transfectants</title>
+        <p>The rat renal tubular epithelial cell line NRK-52E was purchased from American Type Culture Collection (Manassas, VA). Cells were maintained in Dulbecco's modified Eagle's medium/Ham's F-12 (Gibco-BRL, Gaithersburg, MD) supplemented with 5 % fetal bovine serum (FBS). All experiments were performed in the presence of 1 % FBS.</p>
+      </sec>
+      <sec id="s2c">
+        <title>Transient Transfection</title>
+        <p>Using GeneJuice Transfection Reagent (Novagen, Madison, WI), cells were transiently transfected with XBP1(S), a spliced form of XBP1 (provided by Dr. Akihiro Tomida, Japanese Foundation of Cancer Research, Tokyo, Japan) <xref rid="pone.0064344-Park1" ref-type="bibr">[20]</xref>; XBP1-DN, a dominant-negative mutant of XBP1 (provided by Dr. Laurie H. Glimcher, Harvard Medical School, MA) <xref rid="pone.0064344-Lee2" ref-type="bibr">[21]</xref>; IRE1&#x3B1;K599A, a kinase-defective mutant of IRE1&#x3B1; (provided by Dr. Masayuki Miura, University of Tokyo, Tokyo, Japan) <xref rid="pone.0064344-Iwawaki1" ref-type="bibr">[22]</xref>; IRE1&#x3B1;&#x394;RNase, RNase domain-deleted mutant of IRE1&#x3B1; (provided by Dr. Kazunori Imaizumi, University of Hiroshima, Hiroshima, Japan) <xref rid="pone.0064344-Ogata1" ref-type="bibr">[23]</xref>; JNK-DN, a dominant-negative mutant of JNK (provided by Dr. Roger J. Davis, University of Massachusetts Medical Center Worcester, MA) <xref rid="pone.0064344-Drijard1" ref-type="bibr">[24]</xref>; or siRNAs. siRNA for tuberous sclerosis complex 2 (TSC2) and Raptor were purchased from TAKARA (Shiga, Japan). The nucleotide sequences are: siTSC2, 5&#x2032;-GGCCCUCACAGACAAUGGA-3&#x2032;; and siRaptor, 5&#x2032;-GCCUGAGUCUGUGAAUGUA-3&#x2032; <xref rid="pone.0064344-Piao1" ref-type="bibr">[25]</xref>. 5&#x2032;-GCUGCAAUCGAUUGAUAGC-3&#x2032; was used as a control siRNA.</p>
+      </sec>
+      <sec id="s2d">
+        <title>Western Blot Analysis</title>
+        <p>Western blot analysis was performed as described previously <xref rid="pone.0064344-Kato1" ref-type="bibr">[26]</xref>. Anti-caspase-3, anti-phospho-PERK (Thr980), anti-phospho-eIF2&#x3B1; (Ser51), anti-phospho-JNK (Thr183/Tyr185), anti-JNK, anti-phospho-p70S6K (Thr389), anti-p70S6K, anti-phospho-p38 MAPK (Thr180/Thr182), anti-p38 MAPK and anti-TSC2 antibodies were purchased from Cell Signaling Technology (Beverly, MA). Anti-PERK, anti-XBP1, anti-ATF4 (CREB-2), anti-eIF2&#x3B1; and anti-GRP78 antibodies were purchased from Santa Cruz Biotechnology (Santa Cruz, CA). ATF6 was detected by anti-ATF6 antibody (IMGENEX, San Diego, CA). As loading controls, levels of &#x3B2;-actin and lamin B1 were evaluated using anti-&#x3B2;-actin (Sigma-Aldrich Japan) and anti-lamin B1 antibodies (Invitrogen, Carlsbad, CA). Densitometric analysis was performed using ImageJ Software (National Institutes of Health, Bethesda, MD). Nuclear protein extraction was performed using the ProteoExtract Subcellular Proteome Extraction Kit (Calbiochem, San Diego, CA) according to the manufacturer's protocol.</p>
+      </sec>
+      <sec id="s2e">
+        <title>RT-PCR</title>
+        <p>Reverse transcription was performed using PrimeScript 1st Strand cDNA Synthesis Kit (Takara, Ootsu, Japan). RT-PCR of <italic>XBP1</italic> mRNAs was performed as described previously <xref rid="pone.0064344-Kato1" ref-type="bibr">[26]</xref>.</p>
+      </sec>
+      <sec id="s2f">
+        <title>Assessment of Cell Death</title>
+        <p>After exposure to Cd, morphologic examination was performed by phase-contrast microscopy. The number of viable cells (both attached cells and floating cells) was estimated by trypan blue exclusion. Cleavage of procaspase-3 was used as another indicator for apoptosis.</p>
+      </sec>
+      <sec id="s2g">
+        <title>Detection of ROS</title>
+        <p>Generation of ROS was detected using Total ROS/Superoxide Detection Kit (Enzo Life Sciences, Farmingdale, NY). Cells were loaded with ROS-responsive fluorescence probe for 1 hr. After washing with phosphate-buffered saline (PBS), cells were exposed to Cd for 6 hr and subjected to fluorescence microscopy.</p>
+      </sec>
+      <sec id="s2h">
+        <title>Animal Experiment</title>
+        <p>C57BL/6 mice (20&#x2013;25 g body weight; 20 male mice) were intraperitoneally injected (i.p.) with PBS or rapamycin (1.5 mg/kg) on day 1, 2, 3 and 4. On day 2, mice were administrated twice with Cd (10 mg/kg, i.p.) at an interval of 12 hr. After 3 days (day 5), kidneys were removed and processed for tissue sectioning for histopathological analysis and terminal deoxynucleotidyl transferase-mediated dUTP-biotin nick end labeling (TUNEL) assay, as described below. Renal cortex and liver were also used for Western blot analysis. All animal experiments were approved by the Animal Experiment Committee of the University of Yamanashi. All efforts were made to minimize suffering.</p>
+      </sec>
+      <sec id="s2i">
+        <title>Histopathological Analysis and TUNEL Assay</title>
+        <p>Kidneys were fixed in 4 % phosphate-buffered paraformaldehyde overnight at 4&#xB0;C and embedded in paraffin. Tissue sections were stained with hematoxylin and eosin (HE). TUNEL assay was performed as described previously <xref rid="pone.0064344-Kato1" ref-type="bibr">[26]</xref>. TUNEL stained sections were mounted in VECTASHIELD mounting medium (Vector Laboratories, Burlingame, CA). The number of TUNEL-positive cells per field was counted and compared the data in different groups.</p>
+      </sec>
+      <sec id="s2j">
+        <title>Statistical Analysis</title>
+        <p>Assessment of cell death was performed in quadruplicate. Data were presented as means &#xB1; SE. Statistical analysis was performed using non-parametric Mann-Whitney <italic>U</italic> test to compare data in different groups. <italic>P</italic> value &lt;0.05 was considered to indicate a statistically significant difference.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Results</title>
+      <sec id="s3a">
+        <title>Involvement of mTORC1 in Cd-triggered Apoptosis</title>
+        <p>A previous report indicated activation of mTORC1 by Cd in neuronal cell lines <xref rid="pone.0064344-Chen1" ref-type="bibr">[19]</xref>. We first examined activation of mTORC1 after exposure to Cd in NRK-52E renal tubular cells. Phosphorylation of p70S6K was used as an indicator for mTORC1 activation. As shown in <xref ref-type="fig" rid="pone-0064344-g001">Figure 1A</xref>, activity of mTORC1 was rapidly up-regulated following exposure to Cd, and it was completely abrogated by the treatment with rapamycin. The activation progressed in a time-dependent manner for at least 24 hr (<xref ref-type="fig" rid="pone-0064344-g001">Figure 1B</xref>).</p>
+        <fig id="pone-0064344-g001" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g001</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Involvement of mTORC1 in Cd-triggered apoptosis.</title>
+            <p>(A, B) NRK-52E cells were exposed to cadmium (Cd; 10 &#xB5;M) in the absence or presence of rapamycin (Rap; 100 nM) for indicated time periods and subjected to Western blot analysis of phosphorylated p70S6K. The level of total p70S6K protein is shown at the bottom as a loading control. (C) Cells were treated with Cd in the absence or presence of rapamycin for 72 hr and subjected to phase-contrast microscopy (left) and trypan blue analysis for quantitative assessment of cellular death (right). Assays were performed in quadruplicate, and data are shown as means &#xB1; SE. An asterisk indicates a statistically significant differences (<italic>p</italic>&lt;0.05). (D) Cells were treated with indicated agents for 48 hr, and Western blot analysis was performed to analyze cleavage of procaspase-3. The level of &#x3B2;-actin is shown at the bottom as a loading control. (E&#x2013;G) Cells were transfected with siRaptor (20 nM) or control siRNA (sictrl; 20 nM), treated with Cd and subjected to Western blot analysis of phosphorylated p70S6K (E), assessment of cell death (F) and analysis of procaspase-3 cleavage (G). (H) Cells were loaded with ROS-responsive fluorescence probe for 1 hr, treated with Cd and rapamycin for 6 hr and subjected to fluorescence microscopy. Light microscopic image is shown at the bottom. (I, J) Cells were treated with indicated reagents [menadione (10 &#xB5;M), DMNQ (5 &#xB5;M), NAC (1 mM; pretreatment for 1 hr), Cd (10 &#xB5;M)] for indicated time periods and subjected to Western blot analysis of phosphorylated p70S6K and p38 MAPK.</p>
+          </caption>
+          <graphic xlink:href="pone.0064344.g001"/>
+        </fig>
+        <p>We next examined an effect of rapamycin on Cd-triggered cellular death. Microscopic analysis showed that rapamycin significantly attenuated Cd-induced cell injury (<xref ref-type="fig" rid="pone-0064344-g001">Figure 1C</xref>). It was associated with inhibition of caspase-3 activation (<xref ref-type="fig" rid="pone-0064344-g001">Figure 1D</xref>), suggesting that rapamycin suppressed Cd-induced apoptosis. Raptor is an essential component of mTORC1, and knockdown of Raptor by siRNA attenuated Cd-induced activation of mTORC1 (<xref ref-type="fig" rid="pone-0064344-g001">Figure 1E</xref>). The down-regulation of mTORC1 by Raptor siRNA significantly suppressed cellular death and activation of caspase-3 caused by Cd (<xref ref-type="fig" rid="pone-0064344-g001">Figures 1F and 1G</xref>). These results suggest that mTORC1 plays a crucial role in Cd-triggered apoptosis of renal tubular cells.</p>
+        <p>It is known that Cd causes apoptosis through generation of ROS <xref rid="pone.0064344-Liu1" ref-type="bibr">[27]</xref>. We examined whether or not rapamycin alters Cd-triggered generation of ROS. For this purpose, cells were loaded with a ROS-responsive fluorescence probe and exposed to Cd. As shown in <xref ref-type="fig" rid="pone-0064344-g001">Figure 1H</xref>, generation of ROS was induced by exposure to Cd, whereas it was unaffected by the treatment of rapamycin. This result suggested that mTORC1 is involved in Cd-induced apoptosis downstream of oxidative stress. To examine this possibility, we tested the potential of ROS to activate mTORC1. Cells were treated with ROS generators menadione and DMNQ <xref rid="pone.0064344-Sugawara1" ref-type="bibr">[28]</xref>, <xref rid="pone.0064344-Criddle1" ref-type="bibr">[29]</xref>, and phosphorylation of p70S6K was evaluated. Western blot analysis showed that menadione or DMNQ induced phosphorylation of p70S6K and p38 mitogen-activated protein kinase (p38 MAPK), the latter of which is an endogenous marker for oxidative stress <xref rid="pone.0064344-Yamada1" ref-type="bibr">[30]</xref> (<xref ref-type="fig" rid="pone-0064344-g001">Figure 1I</xref>). Of note, phosphorylation of p70S6K and p38 MAPK by Cd was completely abolished by the treatment with antioxidant NAC (<xref ref-type="fig" rid="pone-0064344-g001">Figure 1J</xref>).</p>
+      </sec>
+      <sec id="s3b">
+        <title>Selective Induction of the IRE1 Pathway by mTORC1</title>
+        <p>ROS have the potential to induce ER stress <xref rid="pone.0064344-Yokouchi2" ref-type="bibr">[31]</xref>. To identify UPR pathways responsible for the mTORC1-mediated pro-apoptotic effect of Cd, we first examined a role of the PERK&#x2013;eIF2&#x3B1; pathway. Exposure of cells to Cd induced phosphorylation of PERK and eIF2&#x3B1;. However, inhibition of mTORC1 by rapamycin did not affect this induction (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2A</xref>). Consistent with this result, Cd-triggered nuclear translocation of ATF4, a signaling event downstream of eIF2&#x3B1;, was not affected by rapamycin (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2B</xref>). These results suggested lack of involvement of the PERK&#x2013;eIF2&#x3B1; pathway in the mTORC1-mediated pro-apoptotic effect of Cd.</p>
+        <fig id="pone-0064344-g002" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Selective induction of the IRE1 pathway by mTORC1 during Cd exposure.</title>
+            <p>Cells were treated with Cd together with or without rapamycin for indicated time periods and subjected to RT-PCR analysis of <italic>XBP1</italic> mRNA (E) and Western blot analysis of phosphorylated PERK and phosphorylated eIF2&#x3B1; (A), nuclear ATF4 (B), nuclear ATF6 (C), total GRP78 (D), nuclear XBP1 (F) and phosphorylated JNK (G, H). As loading controls, protein levels of PERK, eIF2&#x3B1;, lamin B1 and JNK are shown. XBP1(U), unspliced form of <italic>XBP1</italic>; XBP1(S), spliced form of <italic>XBP1</italic>. (I, J) Cells were pretreated with NAC for 1 hr, treated with Cd for 6 hr and subjected to Western blot analysis of nuclear XBP1 (I) and phosphorylated JNK (J).</p>
+          </caption>
+          <graphic xlink:href="pone.0064344.g002"/>
+        </fig>
+        <p>We next examined a role of the ATF6 pathway. Exposure of cells to Cd caused nuclear translocation of ATF6. However, this process was not affected by inhibition of mTORC1 by rapamycin (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2C</xref>). Consistent with this result, Cd-triggered induction of GRP78, an event downstream of ATF6, was not altered by rapamycin (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2D</xref>). These results suggested that the ATF6 pathway was not involved in the mTORC1-mediated pro-apoptotic effect of Cd.</p>
+        <p>We investigated a role of the IRE1 pathway in the pro-apoptotic effect of mTORC1 in Cd-exposed cells. For this purpose, splicing of <italic>XBP1</italic> mRNA and nuclear accumulation of XBP1 were used as indicators for IRE1&#x3B1; RNase activity. As shown in <xref ref-type="fig" rid="pone-0064344-g002">Figures 2E and 2F</xref>, both splicing of <italic>XBP1</italic> and nuclear accumulation of XBP1 were induced by Cd. In contrast to other UPR branches, the induction and activation of XBP1 via IRE1&#x3B1; were inhibited by the treatment with rapamycin. We further examined an effect of rapamycin on IRE1&#x3B1; kinase activity. The kinase domain of IRE1 activates JNK via interaction with TRAF2 and ASK1, contributing to ER stress-induced apoptosis <xref rid="pone.0064344-Nishitoh1" ref-type="bibr">[32]</xref>. Western blot analysis showed that phosphorylation of JNK1 and JNK2, especially JNK1, was rapidly induced by Cd (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2G</xref>). This activation was progressed for at least 24 hr (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2H</xref>). When mTORC1 was inhibited by rapamycin, phosphorylation of JNK was markedly diminished (<xref ref-type="fig" rid="pone-0064344-g002">Figures 2G and 2H</xref>). Of note, scavenging of ROS by NAC also attenuated nuclear translocation of XBP1 (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2I</xref>) and phosphorylation of JNK (<xref ref-type="fig" rid="pone-0064344-g002">Figure 2J</xref>) in Cd-exposed cells.</p>
+        <p>To confirm selective involvement of the IRE1 pathway in Cd-triggered, mTORC1-related apoptosis, cells were transfected with siRaptor, stimulated with Cd and subjected to Western blot analysis. Consistent with the results using rapamycin, suppression of mTORC1 by knockdown of Raptor led to blunted activation of JNK by Cd without affecting the PERK&#x2013;eIF2&#x3B1; pathway (<xref ref-type="fig" rid="pone-0064344-g003">Figure 3A</xref>). To further confirm this result, we also employed siRNA to knockdown TSC2, a negative regulator for mTORC1 <xref rid="pone.0064344-Inoki1" ref-type="bibr">[33]</xref>. Down-regulation of TSC2 and up-regulation of mTORC1 activity by siTSC2 were confirmed by Western blot analysis (<xref ref-type="fig" rid="pone-0064344-g003">Figure 3B</xref>). In the cells transfected with siTSC2, Cd-induced nuclear accumulation of XBP1 was enhanced, whereas nuclear translocation of ATF4 and ATF6 was unaffected (<xref ref-type="fig" rid="pone-0064344-g003">Figure 3C</xref>). Similarly, phosphorylation of JNK1 and JNK2 in response to Cd was also reinforced in TSC2-knockdown cells, whereas phosphorylation of PERK and eIF2&#x3B1; was unaffected (<xref ref-type="fig" rid="pone-0064344-g003">Figure 3D</xref>). The selective reinforcement of the mTORC1&#x2013;IRE1 pathway by siTSC2 was associated with accelerated cell death in Cd-exposed cells. As shown in <xref ref-type="fig" rid="pone-0064344-g003">Figure 3E</xref>, siTSC2 significantly enhanced percentages of dead cells following exposure to Cd. Western blot analysis also showed that cleavage of procaspase-3 was enhanced in TSC2-knockdown cells (<xref ref-type="fig" rid="pone-0064344-g003">Figure 3F</xref>). These data further support the idea that, in Cd-exposed cells, activated mTORC1 selectively induces the IRE1 pathway and thereby causes apoptosis. It is consistent with our previous finding that mTORC1 is required for activation of IRE1&#x3B1; in ER stress-exposed cells <xref rid="pone.0064344-Kato1" ref-type="bibr">[26]</xref>.</p>
+        <fig id="pone-0064344-g003" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Selective induction of the IRE1 pathway and apoptosis by mTORC1 activated by Cd.</title>
+            <p>(A) Cells were transfected with sictrl and siRaptor (A) or siTSC2 (B&#x2013;D), treated with Cd for 6 hr and subjected to Western blot analysis of the molecules indicated on the left. In (C), nuclear proteins were used for analysis. (E, F) The sictrl- and siTSC2-transfected cells were treated with Cd and subjected to phase-contrast microscopy (E, left), trypan blue analysis (E, right) and Western blot analysis of caspase-3 (F).</p>
+          </caption>
+          <graphic xlink:href="pone.0064344.g003"/>
+        </fig>
+      </sec>
+      <sec id="s3c">
+        <title>Dual Regulation of Cd-induced Apoptosis by IRE1</title>
+        <p>The IRE1 pathway may modulate apoptotic processes positively or negatively, depending on different cellular contexts. In some situations, the IRE1&#x2013;JNK pathway is considered to be pro-apoptotic, whereas the IRE1&#x2013;XBP1 pathway may be anti-apoptotic via induction of ER chaperones and ERAD factors <xref rid="pone.0064344-Kim1" ref-type="bibr">[14]</xref>, <xref rid="pone.0064344-Rutkowski1" ref-type="bibr">[16]</xref>. However, in other situations, XBP1 may function as a pro-apoptotic molecule <xref rid="pone.0064344-Zeng1" ref-type="bibr">[34]</xref>, and JNK could contribute to cell survival <xref rid="pone.0064344-Yu1" ref-type="bibr">[35]</xref>. To determine exact contribution of IRE1 signaling to the control of Cd-triggered apoptosis, we first focused on the function of the IRE1&#x3B1; kinase domain. For this purpose, cells were transfected with a kinase-defective mutant of IRE1&#x3B1; (IRE1&#x3B1;K599A). Effective suppression of IRE1&#x3B1; kinase activity was confirmed by Western blot analysis using JNK phosphorylation as an indicator (<xref ref-type="fig" rid="pone-0064344-g004">Figure 4A</xref>). As shown in <xref ref-type="fig" rid="pone-0064344-g004">Figure 4B</xref>, dominant-negative inhibition of IRE1&#x3B1; kinase resulted in suppression of Cd-triggered cellular death. It was associated with attenuation of caspase-3 activation (<xref ref-type="fig" rid="pone-0064344-g004">Figure 4C</xref>). Under the suppression of IRE1&#x3B1; kinase activity, the pro-apoptotic effect of siTSC2 was abolished (<xref ref-type="fig" rid="pone-0064344-g004">Figures 4D and 4E</xref>), indicating that IRE1&#x3B1; kinase activity is required for Cd-triggered, mTORC1-related apoptosis. To further confirm this result, cells were transfected with a dominant-negative mutant of JNK, and the apoptotic response to Cd was retested. As shown in <xref ref-type="fig" rid="pone-0064344-g004">Figures 4F and 4G</xref>, suppression of JNK led to significant inhibition of cellular death and cleavage of procaspase-3 in Cd-exposed cells. Of note, under the suppression of JNK, the pro-apoptotic effect of siTSC2 was abolished (<xref ref-type="fig" rid="pone-0064344-g004">Figures 4H and 4I</xref>). Taken together, these results suggest that the IRE1&#x2013;JNK pathway is required for Cd-triggered, mTORC1-related apoptosis.</p>
+        <fig id="pone-0064344-g004" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Pro-apoptotic role of the IRE1&#x2013;JNK pathway in Cd-triggered, mTORC1-mediated apoptosis.</title>
+            <p>(A&#x2013;C, F, G) Cells were transfected with empty vector (Vector) and IRE1&#x3B1;K599A (A&#x2013;C) or dominant-negative mutant of JNK1 (JNK-DN) (F, G), treated with Cd for indicated time periods (A) or 60 &#x2013; 72 hr (B, C, F, G) and subjected to Western blot analysis of phosphorylated JNK (A), trypan blue analysis (B, F) and assessment of procaspase-3 cleavage (C, G). (D, E, H, I) Cells were co-transfected with IRE1&#x3B1;K599A and siTSC2 (D, E) or JNK-DN and siTSC2 (H, I), treated with Cd for 60 &#x2013; 72 hr, and subjected to trypan blue analysis (D, H) and Western blot analysis of caspase-3 (E, I). NS, not statistically significant.</p>
+          </caption>
+          <graphic xlink:href="pone.0064344.g004"/>
+        </fig>
+        <p>We next focused on the function of the IRE1&#x3B1; RNase domain. For this purpose, cells were transfected with an RNase-deleted mutant of IRE1&#x3B1; (IRE1&#x3B1;&#x394;RNase). Effective suppression of IRE1&#x3B1; RNase activity was confirmed by Western blot analysis using nuclear XBP1 as an indicator (<xref ref-type="fig" rid="pone-0064344-g005">Figure 5A</xref>). As shown in <xref ref-type="fig" rid="pone-0064344-g005">Figure 5B</xref>, dominant-negative inhibition of IRE1&#x3B1; RNase resulted in enhancement of Cd-triggered cellular death. It was associated with increased caspase-3 activation (<xref ref-type="fig" rid="pone-0064344-g005">Figure 5C</xref>). To further confirm this result, cells were transfected with a dominant-negative mutant of XBP1, and the apoptotic response to Cd was retested. As shown in <xref ref-type="fig" rid="pone-0064344-g005">Figures 5D and 5E</xref>, suppression of XBP1 led to significant increases in cellular death and cleavage of procaspase-3 in Cd-exposed cells. Furthermore, apoptotic cell death in Cd-exposed cells was substantially inhibited by transfection with <italic>XBP1(S)</italic>, a gene encoding the spliced form of XBP1 (<xref ref-type="fig" rid="pone-0064344-g005">Figures 5F and 5G</xref>). Of note, under overexpression of <italic>XBP1(S)</italic>, the pro-apoptotic effect of siTSC2 was abolished (<xref ref-type="fig" rid="pone-0064344-g005">Figures 5H and 5I</xref>). These results suggest that, in contrast to the IRE1&#x2013;JNK pathway, the IRE1&#x2013;XBP1 pathway counteracts against Cd-triggered, mTORC1-related apoptosis.</p>
+        <fig id="pone-0064344-g005" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Anti-apoptotic role of the IRE1&#x2013;XBP1 pathway that counteracts the pro-apoptotic IRE1&#x2013;JNK.</title>
+            <p>(A&#x2013;G) Cells were transfected with empty vector and IRE1&#x3B1;&#x394;RNase (A&#x2013;C), dominant-negative mutant of XBP1 (XBP1-DN) (D, E) or XBP1(S) (F, G), treated with Cd for 6 hr (A) or 60 hr (B&#x2013;G) and subjected to Western blot analysis of nuclear XBP1 (A), trypan blue analysis (B, D, F) and assessment of procaspase-3 cleavage (C, E, G). (H, I) Cells were co-transfected with XBP1(S) and siTSC2, treated with Cd for 60 hr, and subjected to trypan blue analysis (H) and Western blot analysis of caspase-3 (I).</p>
+          </caption>
+          <graphic xlink:href="pone.0064344.g005"/>
+        </fig>
+      </sec>
+      <sec id="s3d">
+        <title>
+<italic>In Vivo</italic> Suppression of Cd-triggered Apoptosis in Renal Tubules by Blockade of mTORC1</title>
+        <p>We examined whether <italic>in vivo</italic> inhibition of mTORC1 can block Cd-triggered, IRE1&#x2013;JNK-mediated pro-apoptotic pathway in renal tubules. For this purpose, mice were injected with PBS or rapamycin intraperitoneally on days 1, 2, 3 and 4. On day 2, mice were exposed to Cd. After 3 days (day 5), kidneys were removed and processed for Western blot analysis and tissue sectioning for histopathological analysis and TUNEL assay. As shown in <xref ref-type="fig" rid="pone-0064344-g006">Figure 6A</xref>, activation of mTORC1 was induced in the kidneys after exposure to Cd, which was abolished by administration with rapamycin (top row). Consistent with our <italic>in vitro</italic> findings, inhibition of mTORC1 resulted in suppression of JNK activation indicated by the level of phosphorylated c-Jun (<xref ref-type="fig" rid="pone-0064344-g006">Figure 6A</xref>, third row). In contrast, phosphorylation of eIF2&#x3B1; by Cd was not affected by rapamycin (<xref ref-type="fig" rid="pone-0064344-g006">Figure 6A</xref>, fifth row). It suggests that, like in cultured tubular cells, mTORC1 is not involved in the activation of the PERK&#x2013;eIF2&#x3B1; pathway by Cd. Of note, the same results were also observed in the liver (data not shown). In consistent with this finding, histopathological analysis showed that injury of the renal tubules by Cd was markedly attenuated by administration with rapamycin (<xref ref-type="fig" rid="pone-0064344-g006">Figure 6B</xref>). Furthermore, TUNEL-positive apoptotic cells increased in Cd-exposed tubules, which was significantly attenuated by rapamycin (<xref ref-type="fig" rid="pone-0064344-g006">Figure 6C</xref>). The number of TUNEL-positive cells significantly decreased by the treatment with rapamycin from 78&#xB1;21 cells/field to 38&#xB1;8 cells/field (<xref ref-type="fig" rid="pone-0064344-g006">Figure 6D</xref>). These results provide <italic>in vivo</italic> evidence supporting our conclusion that mTORC1 causes apoptosis of renal tubular cells through induction of the selective UPR, <italic>i.e</italic>., the IRE1&#x2013;JNK pathway.</p>
+        <fig id="pone-0064344-g006" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g006</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>
+<italic>In vivo</italic> suppression of Cd-triggered apoptosis in renal tubules by blockade of mTORC1.</title>
+            <p>Mice (5 mice/group) were injected with PBS or rapamycin (1.5 mg/kg) intraperitoneally on day 1, 2, 3 and 4. On day 2, mice were administered twice with Cd (10 mg/kg) at an interval of 12 hr. After 3 days (day 5), renal cortex were subjected to Western blot analysis of molecules indicated on the left (A), histopathological analysis (HE staining) (B) and TUNEL assay (C). In (A), quantitative analysis of individual bands is shown in the right graphs. In (D), the number of TUNEL-positive cells per field was evaluated quantitatively. Data are expressed as means &#xB1; SE, and an asterisk indicates a statistically significant difference (<italic>p</italic>&lt;0.05).</p>
+          </caption>
+          <graphic xlink:href="pone.0064344.g006"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussion</title>
+      <p>In the present report, we disclosed a crucial role of the mTORC1&#x2013;IRE1 pathway in the regulation of Cd-triggered apoptosis <italic>in vitro</italic> and <italic>in vivo</italic>. We found; 1) under the exposure to Cd, mTORC1 is activated through generation of ROS, 2) activation of mTORC1 selectively induces the IRE1 pathway, but not the PERK and ATF6 pathways, and 3) the IRE1&#x2013;JNK pathway is the major pro-apoptotic pathway in Cd-triggered, mTORC1-mediated apoptosis, which is partially counteracted by the IRE1&#x2013;XBP1 anti-apoptotic pathway. The outline of our current findings is illustrated in <xref ref-type="fig" rid="pone-0064344-g007">Figure 7</xref>.</p>
+      <fig id="pone-0064344-g007" orientation="portrait" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0064344.g007</object-id>
+        <label>Figure 7</label>
+        <caption>
+          <title>Dual regulation of Cd-induced apoptosis by mTORC1 through selective induction of the IRE1 pathways.</title>
+          <p>Cd induces activation of mTORC1 through generation of ROS. mTORC1 subsequently activates IRE1 without affecting PERK and ATF6, although mTORC1-independent mechanisms may also be involved in Cd/ROS-induced IRE1 activation. Activation of the IRE1 at the kinase domain leads to phosphorylation of JNK, leading to apoptotic cell death. On the other hand, activation of the IRE1 at the RNase domain causes generation of active XBP1. This IRE1&#x2013;XBP1 pathway modestly counteracts the pro-apoptotic action of IRE1&#x2013;JNK signaling.</p>
+        </caption>
+        <graphic xlink:href="pone.0064344.g007"/>
+      </fig>
+      <p>Generation of ROS plays a crucial role in Cd-induced apoptosis <xref rid="pone.0064344-Liu1" ref-type="bibr">[27]</xref>. ROS may directly induce cellular death through oxidative damage of proteins, lipids and nucleic acids <xref rid="pone.0064344-Valko2" ref-type="bibr">[10]</xref>. However, recent investigation indicated more complicated mechanisms underlying Cd-induced apoptosis. For example, some investigators suggested involvement of mTORC1, and others indicated a role of ER stress in some cell types <xref rid="pone.0064344-Chen1" ref-type="bibr">[19]</xref>, <xref rid="pone.0064344-Yokouchi2" ref-type="bibr">[31]</xref>, <xref rid="pone.0064344-Wang1" ref-type="bibr">[36]</xref>. Currently, linkage among oxidative stress, ER stress and mTORC1 has not been fully elucidated. A previous report showed that ROS activated mTORC1 via activation of phosphoinositide 3 kinase, a positive regulator of mTORC1, and via inhibition of AMP-activated protein kinase, a negative regulator of mTORC1 <xref rid="pone.0064344-Chen2" ref-type="bibr">[37]</xref>. However, it is still unclear how mTORC1 contributes to Cd-triggered apoptosis. In the present report, we showed that ROS-mediated activation of mTORC1 caused selective induction of the pro-apoptotic branch of the UPR, the IRE1&#x2013;JNK pathway, leading to apoptosis.</p>
+      <p>In this report, we showed that mTORC1 has the potential to up-regulate both RNase and kinase activities of IRE1&#x3B1; without affecting other UPR branches. It means that mTORC1 triggers activation of IRE1&#x3B1; without induction of ER stress. If so, how does mTORC1 activate IRE1&#x3B1;? Some previous report suggested that action of IRE1 (as RNase and kinase) requires binding of adaptor proteins such as Bcl-2 family proteins Bax and Bak to the C-terminal of IRE1&#x3B1; <xref rid="pone.0064344-Hetz1" ref-type="bibr">[38]</xref>. Lam <italic>et al.</italic> reported that the mTORC1 pathway contributes to up-regulation of BH3-only proteins (<italic>e.g.,</italic> Bim and Puma) that increase the level of Bax and Bak in the ER. In the ER, these molecules are up-regulated by BH3-only proteins <xref rid="pone.0064344-Hetz2" ref-type="bibr">[39]</xref>&#x2013;<xref rid="pone.0064344-Lam1" ref-type="bibr">[41]</xref>. mTORC1 may cause activation of IRE1&#x3B1; through up-regulation of these adaptor proteins.</p>
+      <p>Individual UPR pathways possess both pro-apoptotic and anti-apoptotic properties. Lin <italic>et al.</italic> reported that, under persistent ER stress, activation of IRE1&#x3B1; was only transient and attenuated in the later phase in HEK293 cells. When IRE1&#x3B1; activity was sustained artificially, cell survival was rather enhanced, suggesting the pro-survival role of the IRE1 pathway <xref rid="pone.0064344-Lin1" ref-type="bibr">[42]</xref>. In the current report, however, we showed that activation of mTORC1 by Cd caused induction of the pro-apoptotic IRE1 pathway in NRK-52E cells. We also found that the pro-apoptotic process is a little complicated. The IRE1&#x3B1; kinase domain contributes to apoptosis through activation of JNK, whereas the IRE1&#x3B1; RNase domain counteracts modestly against apoptosis via induction of XBP1. The anti-apoptotic effect of XBP1 may be via induction of ER chaperones and ERAD factors that attenuate ER stress <xref rid="pone.0064344-Rutkowski2" ref-type="bibr">[43]</xref>.</p>
+      <p>Currently, it is unclear why the IRE1 pathway is anti-apoptotic in some cellular contexts, whereas it turns around to be pro-apoptotic in other situations. On possibility is that the UPR may be different depending on cell types and/or triggers. For example, in HEK293 cells exposed to relatively high concentrations of tunicamycin and thapsigargin, activation of IRE1&#x3B1; kinase activity was only transient <xref rid="pone.0064344-Lin1" ref-type="bibr">[42]</xref>. In contrast, in our experimental setting, Cd caused sustained phosphorylation of JNK in NRK-52E cells. The different kinetics of JNK activation, or different balance between IRE1&#x2013;XBP1 and IRE1&#x2013;JNK signaling possibly results in different roles of IRE1 in regulating cellular fate.</p>
+      <p>In <xref ref-type="fig" rid="pone-0064344-g007">Figure 7</xref>, we have illustrated that mTORC1 plays a role in linking Cd/ROS signaling to IRE1 activation. However, this process may not be direct and could also be mediated by other signaling molecules. For example, a previous report showed that suppression of Akt was involved in mTORC1-induced activation of IRE1 <xref rid="pone.0064344-Kato1" ref-type="bibr">[26]</xref>. Similarly, we cannot exclude a possibility that Cd-triggered IRE1 activation and apoptosis are mediated not only by mTORC1 but also by some mTORC1-independent mechanisms.</p>
+      <p>Cd causes ER stress and triggers three major branches of the UPR <xref rid="pone.0064344-Yokouchi1" ref-type="bibr">[11]</xref>. Individual UPR pathways are mainly pro-apoptotic or anti-apoptotic. For example, as demonstrated in this report, the IRE1 pathway is mainly pro-apoptotic. In contrast, the PERK pathway is mainly anti-apoptotic <xref rid="pone.0064344-Yokouchi1" ref-type="bibr">[11]</xref>. Towards prevention or treatment of Cd-induced renal tubular injury, selective inhibitors of the pro-apoptotic UPR may be advantageous over the use of chemical chaperones that interfere with all UPR pathways. Currently, however, little is known about agents that selectively inhibit particular pro-apoptotic branches. In the present report, we showed that <italic>in vivo</italic> administration with rapamycin selectively suppressed Cd-triggered activation of the IRE1&#x2013;JNK signaling, but not the PERK pathway, resulting in significant attenuation of renal tubular injury. Our findings raise a possibility that rapamycin may be useful for the treatment of a wide range of ER stress-related disorders including Cd-induced tissue injury.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank Dr. Laurie H. Glimcher (Harvard Medical School), Dr. Ron Prywes (Columbia University), Dr. Kenneth Walsh (Boston University School of Medicine), Dr. Takao Iwawaki (RIKEN), Dr. Kazunori Imaizumi (University of Hiroshima) and Dr. David Ron (University of Cambridge) for providing us with plasmids. We also appreciate technical assistance by Mrs. Mikiko Yoda.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0064344-Lind1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lind</surname><given-names>Y</given-names></name>, <name><surname>Engman</surname><given-names>J</given-names></name>, <name><surname>Jorhem</surname><given-names>L</given-names></name>, <name><surname>Glynn</surname><given-names>AW</given-names></name> (<year>1997</year>) <article-title>Cadmium accumulation in liver and kidney of mice exposed to the same weekly cadmium dose continuously or once a week</article-title>. <source>Food Chem Toxicol</source>
+<volume>35</volume>: <fpage>891</fpage>&#x2013;<lpage>895</lpage>.<pub-id pub-id-type="pmid">9409629</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Jarup1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Jarup</surname><given-names>L</given-names></name>, <name><surname>Akesson</surname><given-names>A</given-names></name> (<year>2009</year>) <article-title>Current status of cadmium as an environmental health problem</article-title>. <source>Toxicol Appl Pharmaco</source>
+<volume>238</volume>: <fpage>201</fpage>&#x2013;<lpage>208</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Bernard1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Bernard</surname><given-names>A</given-names></name> (<year>2004</year>) <article-title>Renal dysfunction induced by cadmium: biomarkers of critical effects</article-title>. <source>Bio Metals</source>
+<volume>17</volume>: <fpage>519</fpage>&#x2013;<lpage>523</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Oh1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Oh</surname><given-names>SH</given-names></name>, <name><surname>Lim</surname><given-names>SC</given-names></name> (<year>2006</year>) <article-title>A rapid and transient ROS generation by cadmium triggers apoptosis via caspase-dependent pathway in HepG2 cells and this is inhibited through N-acetylcysteine-mediated catalase upregulation</article-title>. <source>Toxicol Appl Pharmacol</source>
+<volume>212</volume>: <fpage>212</fpage>&#x2013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">16169029</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Pathak1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Pathak</surname><given-names>N</given-names></name>, <name><surname>Khandelwal</surname><given-names>S</given-names></name> (<year>2006</year>) <article-title>Oxidative stress and apoptotic changes in murine splenocytes exposed to cadmium</article-title>. <source>Toxicology</source>
+<volume>220</volume>: <fpage>26</fpage>&#x2013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">16413650</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Valko1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Valko</surname><given-names>M</given-names></name>, <name><surname>Rhodes</surname><given-names>CJ</given-names></name>, <name><surname>Moncol</surname><given-names>J</given-names></name>, <name><surname>Izakovic</surname><given-names>M</given-names></name>, <name><surname>Mazur</surname><given-names>M</given-names></name> (<year>2006</year>) <article-title>Free radicals, metals and antioxidants in oxidative stress-induced cancer</article-title>. <source>Chem Biol Interact</source>
+<volume>160</volume>: <fpage>1</fpage>&#x2013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">16430879</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Ognjanovi1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ognjanovi&#x107;</surname><given-names>BI</given-names></name>, <name><surname>Markovi&#x107;</surname><given-names>SD</given-names></name>, <name><surname>Ethordevi&#x107;</surname><given-names>NZ</given-names></name>, <name><surname>Trbojevi&#x107;</surname><given-names>IS</given-names></name>, <name><surname>Stajn</surname><given-names>AS</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Cadmium-induced lipid peroxidation and changes in antioxidant defense system in the rat testes: protective role of coenzyme Q(10) and vitamin E</article-title>. <source>Reprod Toxicol</source>
+<volume>29</volume>: <fpage>191</fpage>&#x2013;<lpage>197</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Stohs1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Stohs</surname><given-names>SJ</given-names></name>, <name><surname>Bagchi</surname><given-names>D</given-names></name> (<year>1995</year>) <article-title>Oxidative mechanisms in the toxicity of metal ions</article-title>. <source>Free Radic Biol Med</source>
+<volume>18</volume>: <fpage>321</fpage>&#x2013;<lpage>336</lpage>.<pub-id pub-id-type="pmid">7744317</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-FigueiredoPereira1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Figueiredo-Pereira</surname><given-names>ME</given-names></name>, <name><surname>Yakushin</surname><given-names>S</given-names></name>, <name><surname>Cohen</surname><given-names>G</given-names></name> (<year>1998</year>) <article-title>Disruption of the intracellular sulfhydryl homeostasis by cadmium-induced oxidative stress leads to protein thiolation and ubiquitination in neuronal cells</article-title>. <source>J Biol Chem</source>
+<volume>273</volume>: <fpage>12703</fpage>&#x2013;<lpage>12709</lpage>.<pub-id pub-id-type="pmid">9582293</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Valko2">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Valko</surname><given-names>M</given-names></name>, <name><surname>Leibfritz</surname><given-names>D</given-names></name>, <name><surname>Moncol</surname><given-names>J</given-names></name>, <name><surname>Cronin</surname><given-names>MT</given-names></name>, <name><surname>Mazur</surname><given-names>M</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>Free radicals and antioxidants in normal physiological functions and human disease</article-title>. <source>Int J Biochem Cell Biol</source>
+<volume>39</volume>: <fpage>44</fpage>&#x2013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">16978905</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Yokouchi1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yokouchi</surname><given-names>M</given-names></name>, <name><surname>Hiramatsu</surname><given-names>N</given-names></name>, <name><surname>Hayakawa</surname><given-names>K</given-names></name>, <name><surname>Kasai</surname><given-names>A</given-names></name>, <name><surname>Takano</surname><given-names>Y</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>Atypical, bidirectional regulation of cadmium-induced apoptosis via distinct signaling of unfolded protein response</article-title>. <source>Cell Death Differ</source>
+<volume>14</volume>: <fpage>1467</fpage>&#x2013;<lpage>1474</lpage>.<pub-id pub-id-type="pmid">17464326</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Lee1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lee</surname><given-names>AS</given-names></name> (<year>2002</year>) <article-title>The glucose-regulated proteins: stress induction and clinical applications</article-title>. <source>Trends Biochem Sci</source>
+<volume>26</volume>: <fpage>504</fpage>&#x2013;<lpage>510</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Kaufman1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kaufman</surname><given-names>RJ</given-names></name> (<year>2002</year>) <article-title>Orchestrating the unfolded protein response in health and disease</article-title>. <source>J Clin Invest</source>
+<volume>110</volume>: <fpage>1389</fpage>&#x2013;<lpage>1398</lpage>.<pub-id pub-id-type="pmid">12438434</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Kim1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kim</surname><given-names>R</given-names></name>, <name><surname>Emi</surname><given-names>M</given-names></name>, <name><surname>Tanabe</surname><given-names>K</given-names></name>, <name><surname>Murakami</surname><given-names>S</given-names></name> (<year>2006</year>) <article-title>Role of the unfolded protein response in cell death</article-title>. <source>Apoptosis</source>
+<volume>11</volume>: <fpage>5</fpage>&#x2013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">16374548</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Ron1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ron</surname><given-names>D</given-names></name>, <name><surname>Walter</surname><given-names>P</given-names></name> (<year>2007</year>) <article-title>Signal integration in the endoplasmic reticulum unfolded protein response</article-title>. <source>Nat Rev Mol Cell Biol</source>
+<volume>8</volume>: <fpage>519</fpage>&#x2013;<lpage>529</lpage>.<pub-id pub-id-type="pmid">17565364</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Rutkowski1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Rutkowski</surname><given-names>DT</given-names></name>, <name><surname>Kaufman</surname><given-names>RJ</given-names></name> (<year>2004</year>) <article-title>A trip to the ER: coping with stress</article-title>. <source>Trends Cell Biol</source>
+<volume>14</volume>: <fpage>20</fpage>&#x2013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">14729177</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Wullschleger1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Wullschleger</surname><given-names>S</given-names></name>, <name><surname>Loewith</surname><given-names>R</given-names></name>, <name><surname>Hall</surname><given-names>MN</given-names></name> (<year>2006</year>) <article-title>TOR signaling in growth and metabolism</article-title>. <source>Cell</source>
+<volume>124</volume>: <fpage>471</fpage>&#x2013;<lpage>484</lpage>.<pub-id pub-id-type="pmid">16469695</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Laplante1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Laplante</surname><given-names>M</given-names></name>, <name><surname>Sabatini</surname><given-names>DM</given-names></name> (<year>2009</year>) <article-title>mTOR signaling at a glance</article-title>. <source>J Cell Sci</source>
+<volume>122</volume>: <fpage>3589</fpage>&#x2013;<lpage>3594</lpage>.<pub-id pub-id-type="pmid">19812304</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Chen1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Chen</surname><given-names>L</given-names></name>, <name><surname>Liu</surname><given-names>L</given-names></name>, <name><surname>Luo</surname><given-names>Y</given-names></name>, <name><surname>Huang</surname><given-names>S</given-names></name> (<year>2008</year>) <article-title>MAPK and mTOR pathways are involved in cadmium-induced neuronal apoptosis</article-title>. <source>J Neurochem</source>
+<volume>105</volume>: <fpage>251</fpage>&#x2013;<lpage>261</lpage>.<pub-id pub-id-type="pmid">18021293</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Park1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Park</surname><given-names>HR</given-names></name>, <name><surname>Tomida</surname><given-names>A</given-names></name>, <name><surname>Sato</surname><given-names>S</given-names></name>, <name><surname>Tsukumo</surname><given-names>Y</given-names></name>, <name><surname>Yun</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>Effect on tumor cells of blocking survival response to glucose deprivation</article-title>. <source>J Natl Cancer Inst</source>
+<volume>96</volume>: <fpage>1300</fpage>&#x2013;<lpage>1310</lpage>.<pub-id pub-id-type="pmid">15339968</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Lee2">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lee</surname><given-names>AH</given-names></name>, <name><surname>Iwakoshi</surname><given-names>NN</given-names></name>, <name><surname>Anderson</surname><given-names>KC</given-names></name>, <name><surname>Glimcher</surname><given-names>LH</given-names></name> (<year>2003</year>) <article-title>Proteasome inhibitors disrupt the unfolded protein response in myeloma cells</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>100</volume>: <fpage>9946</fpage>&#x2013;<lpage>9951</lpage>.<pub-id pub-id-type="pmid">12902539</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Iwawaki1">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Iwawaki</surname><given-names>T</given-names></name>, <name><surname>Akai</surname><given-names>R</given-names></name>, <name><surname>Kohno</surname><given-names>K</given-names></name>, <name><surname>Miura</surname><given-names>M</given-names></name> (<year>2004</year>) <article-title>A transgenic mouse model for monitoring endoplasmic reticulum stress</article-title>. <source>Nat Med</source>
+<volume>10</volume>: <fpage>98</fpage>&#x2013;<lpage>102</lpage>.<pub-id pub-id-type="pmid">14702639</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Ogata1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ogata</surname><given-names>M</given-names></name>, <name><surname>Hino</surname><given-names>S</given-names></name>, <name><surname>Saito</surname><given-names>A</given-names></name>, <name><surname>Morikawa</surname><given-names>K</given-names></name>, <name><surname>Kondo</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Autophagy is activated for cell survival after endoplasmic reticulum stress</article-title>. <source>Mol Cell Biol</source>
+<volume>26</volume>: <fpage>9220</fpage>&#x2013;<lpage>9231</lpage>.<pub-id pub-id-type="pmid">17030611</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Drijard1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<name><surname>D&#xE9;rijard</surname><given-names>B</given-names></name>, <name><surname>Hibi</surname><given-names>M</given-names></name>, <name><surname>Wu</surname><given-names>IH</given-names></name>, <name><surname>Barrett</surname><given-names>T</given-names></name>, <name><surname>Su</surname><given-names>B</given-names></name>, <etal>et al</etal> (<year>1994</year>) <article-title>JNK1: a protein kinase stimulated by UV light and Ha-Ras that binds and phosphorylates the c-Jun activation domain</article-title>. <source>Cell</source>
+<volume>76</volume>: <fpage>1025</fpage>&#x2013;<lpage>1037</lpage>.<pub-id pub-id-type="pmid">8137421</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Piao1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Piao</surname><given-names>X</given-names></name>, <name><surname>Kobayashi</surname><given-names>T</given-names></name>, <name><surname>Wang</surname><given-names>L</given-names></name>, <name><surname>Shiono</surname><given-names>M</given-names></name>, <name><surname>Takagi</surname><given-names>Y</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>Regulation of folliculin (the BHD gene product) phosphorylation by Tsc2-mTOR pathway</article-title>. <source>Biochem Biophys Res Commun</source>
+<volume>389</volume>: <fpage>16</fpage>&#x2013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">19695222</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Kato1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kato</surname><given-names>H</given-names></name>, <name><surname>Nakajima</surname><given-names>S</given-names></name>, <name><surname>Saito</surname><given-names>Y</given-names></name>, <name><surname>Takahashi</surname><given-names>S</given-names></name>, <name><surname>Katoh</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2012</year>) <article-title>mTORC1 serves ER stress-triggered apoptosis via selective activation of the IRE1-JNK pathway</article-title>. <source>Cell Death Differ</source>
+<volume>19</volume>: <fpage>310</fpage>&#x2013;<lpage>320</lpage>.<pub-id pub-id-type="pmid">21779001</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Liu1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Liu</surname><given-names>J</given-names></name>, <name><surname>Qu</surname><given-names>W</given-names></name>, <name><surname>Kadiiska</surname><given-names>MB</given-names></name> (<year>2009</year>) <article-title>Role of oxidative stress in cadmium toxicity and carcinogenesis</article-title>. <source>Toxicol Appl Pharmacol</source>
+<volume>238</volume>: <fpage>209</fpage>&#x2013;<lpage>214</lpage>.<pub-id pub-id-type="pmid">19236887</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Sugawara1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Sugawara</surname><given-names>M</given-names></name>, <name><surname>Sugawara</surname><given-names>Y</given-names></name>, <name><surname>Wen</surname><given-names>K</given-names></name>, <name><surname>Giulivi</surname><given-names>C</given-names></name> (<year>2002</year>) <article-title>Generation of oxygen free radicals in thyroid cells and inhibition of thyroid peroxidase</article-title>. <source>Exp Biol Med</source>
+<volume>227</volume>: <fpage>141</fpage>&#x2013;<lpage>146</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Criddle1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Criddle</surname><given-names>DN</given-names></name>, <name><surname>Gillies</surname><given-names>S</given-names></name>, <name><surname>Baumgartner-Wilson</surname><given-names>HK</given-names></name>, <name><surname>Jaffar</surname><given-names>M</given-names></name>, <name><surname>Chinje</surname><given-names>EC</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Menadione-induced reactive oxygen species generation via redox cycling promotes apoptosis of murine pancreatic acinar cells</article-title>. <source>J Biol Chem</source>
+<volume>281</volume>: <fpage>40485</fpage>&#x2013;<lpage>40492</lpage>.<pub-id pub-id-type="pmid">17088248</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Yamada1">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yamada</surname><given-names>T</given-names></name>, <name><surname>Egashira</surname><given-names>N</given-names></name>, <name><surname>Bando</surname><given-names>A</given-names></name>, <name><surname>Nishime</surname><given-names>Y</given-names></name>, <name><surname>Tonogai</surname><given-names>Y</given-names></name>, <etal>et al</etal> (<year>2012</year>) <article-title>Activation of p38 MAPK by oxidative stress underlying epirubicin-induced vascular endothelial cell injury</article-title>. <source>Free Radic Biol Med</source>
+<volume>52</volume>: <fpage>1285</fpage>&#x2013;<lpage>1293</lpage>.<pub-id pub-id-type="pmid">22330067</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Yokouchi2">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yokouchi</surname><given-names>M</given-names></name>, <name><surname>Hiramatsu</surname><given-names>N</given-names></name>, <name><surname>Hayakawa</surname><given-names>K</given-names></name>, <name><surname>Okamura</surname><given-names>M</given-names></name>, <name><surname>Du</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Involvement of selective reactive oxygen species upstream of proapoptotic branches of unfolded protein response</article-title>. <source>J Biol Chem</source>
+<volume>283</volume>: <fpage>4252</fpage>&#x2013;<lpage>4260</lpage>.<pub-id pub-id-type="pmid">18086661</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Nishitoh1">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Nishitoh</surname><given-names>H</given-names></name>, <name><surname>Matsuzawa</surname><given-names>A</given-names></name>, <name><surname>Tobiume</surname><given-names>K</given-names></name>, <name><surname>Saegusa</surname><given-names>K</given-names></name>, <name><surname>Takeda</surname><given-names>K</given-names></name>, <etal>et al</etal> (<year>2002</year>) <article-title>ASK1 is essential for endoplasmic reticulum stress-induced neuronal cell death triggered by expanded polyglutamine repeats</article-title>. <source>Genes Dev</source>
+<volume>16</volume>: <fpage>1345</fpage>&#x2013;<lpage>1355</lpage>.<pub-id pub-id-type="pmid">12050113</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Inoki1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Inoki</surname><given-names>K</given-names></name>, <name><surname>Li</surname><given-names>Y</given-names></name>, <name><surname>Zhu</surname><given-names>T</given-names></name>, <name><surname>Wu</surname><given-names>J</given-names></name>, <name><surname>Guan</surname><given-names>KL</given-names></name> (<year>2002</year>) <article-title>TSC2 is phosphorylated and inhibited by Akt and suppresses mTOR signaling</article-title>. <source>Nat Cell Biol</source>
+<volume>4</volume>: <fpage>648</fpage>&#x2013;<lpage>657</lpage>.<pub-id pub-id-type="pmid">12172553</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Zeng1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Zeng</surname><given-names>L</given-names></name>, <name><surname>Zampetaki</surname><given-names>A</given-names></name>, <name><surname>Margariti</surname><given-names>A</given-names></name>, <name><surname>Pepe</surname><given-names>AE</given-names></name>, <name><surname>Alam</surname><given-names>S</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>Sustained activation of XBP1 splicing leads to endothelial apoptosis and atherosclerosis development in response to disturbed flow</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>106</volume>: <fpage>8326</fpage>&#x2013;<lpage>8331</lpage>.<pub-id pub-id-type="pmid">19416856</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Yu1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yu</surname><given-names>C</given-names></name>, <name><surname>Minemoto</surname><given-names>Y</given-names></name>, <name><surname>Zhang</surname><given-names>J</given-names></name>, <name><surname>Liu</surname><given-names>J</given-names></name>, <name><surname>Tang</surname><given-names>F</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>JNK suppresses apoptosis via phosphorylation of the proapoptotic Bcl-2 family protein BAD</article-title>. <source>Mol Cell</source>
+<volume>13</volume>: <fpage>329</fpage>&#x2013;<lpage>340</lpage>.<pub-id pub-id-type="pmid">14967141</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Wang1">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Wang</surname><given-names>Z</given-names></name>, <name><surname>Wang</surname><given-names>H</given-names></name>, <name><surname>Xu</surname><given-names>ZM</given-names></name>, <name><surname>Ji</surname><given-names>YL</given-names></name>, <name><surname>Chen</surname><given-names>YH</given-names></name>, <etal>et al</etal> (<year>2012</year>) <article-title>Cadmium-induced teratogenicity: association with ROS-mediated endoplasmic reticulum stress in placenta</article-title>. <source>Toxicol Appl Pharmacol</source>
+<volume>259</volume>: <fpage>236</fpage>&#x2013;<lpage>247</lpage>.<pub-id pub-id-type="pmid">22252055</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Chen2">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Chen</surname><given-names>L</given-names></name>, <name><surname>Xu</surname><given-names>B</given-names></name>, <name><surname>Liu</surname><given-names>L</given-names></name>, <name><surname>Luo</surname><given-names>Y</given-names></name>, <name><surname>Zhou</surname><given-names>H</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>Cadmium induction of reactive oxygen species activates the mTOR pathway, leading to neuronal cell death</article-title>. <source>Free Radic Biol Med</source>
+<volume>50</volume>: <fpage>624</fpage>&#x2013;<lpage>632</lpage>.<pub-id pub-id-type="pmid">21195169</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Hetz1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hetz</surname><given-names>C</given-names></name>, <name><surname>Bernasconi</surname><given-names>P</given-names></name>, <name><surname>Fisher</surname><given-names>J</given-names></name>, <name><surname>Lee</surname><given-names>AH</given-names></name>, <name><surname>Bassik</surname><given-names>MC</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Proapoptotic BAX and BAK modulate the unfolded protein response by a direct interaction with IRE1&#x3B1;</article-title>. <source>Science</source>
+<volume>312</volume>: <fpage>572</fpage>&#x2013;<lpage>576</lpage>.<pub-id pub-id-type="pmid">16645094</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Hetz2">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hetz</surname><given-names>C</given-names></name>, <name><surname>Glimcher</surname><given-names>LH</given-names></name> (<year>2009</year>) <article-title>Fine-tuning of the unfolded protein response: Assembling the IRE1&#x3B1; interactome</article-title>. <source>Mol Cell</source>
+<volume>35</volume>: <fpage>551</fpage>&#x2013;<lpage>561</lpage>.<pub-id pub-id-type="pmid">19748352</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Klee1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Klee</surname><given-names>M</given-names></name>, <name><surname>Pallauf</surname><given-names>K</given-names></name>, <name><surname>Alcal&#xE1;</surname><given-names>S</given-names></name>, <name><surname>Fleischer</surname><given-names>A</given-names></name>, <name><surname>Pimentel-Mui&#xF1;os</surname><given-names>FX</given-names></name> (<year>2009</year>) <article-title>Mitochondrial apoptosis induced by BH3-only molecules in the exclusive presence of endoplasmic reticular Bak</article-title>. <source>EMBO J</source>
+<volume>28</volume>: <fpage>1757</fpage>&#x2013;<lpage>1768</lpage>.<pub-id pub-id-type="pmid">19339988</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Lam1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lam</surname><given-names>D</given-names></name>, <name><surname>Dickens</surname><given-names>D</given-names></name>, <name><surname>Reid</surname><given-names>EB</given-names></name>, <name><surname>Loh</surname><given-names>SH</given-names></name>, <name><surname>Moisoi</surname><given-names>N</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>MAP4K3 modulates cell death via the post-transcriptional regulation of BH3-only proteins</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>106</volume>: <fpage>11978</fpage>&#x2013;<lpage>11983</lpage>.<pub-id pub-id-type="pmid">19587239</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Lin1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lin</surname><given-names>JH</given-names></name>, <name><surname>Li</surname><given-names>H</given-names></name>, <name><surname>Yasumura</surname><given-names>D</given-names></name>, <name><surname>Cohen</surname><given-names>HR</given-names></name>, <name><surname>Zhang</surname><given-names>C</given-names></name>, <etal>et al</etal> (<year>2007</year>) <article-title>IRE1 signaling affects cell fate during the unfolded protein response</article-title>. <source>Science</source>
+<volume>318</volume>: <fpage>944</fpage>&#x2013;<lpage>949</lpage>.<pub-id pub-id-type="pmid">17991856</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0064344-Rutkowski2">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Rutkowski</surname><given-names>DT</given-names></name>, <name><surname>Kaufman</surname><given-names>RJ</given-names></name> (<year>2007</year>) <article-title>That which does not kill me makes me stronger: adapting to chronic ER stress</article-title>. <source>Trends Biochem Sci</source>
+<volume>32</volume>: <fpage>469</fpage>&#x2013;<lpage>476</lpage>.<pub-id pub-id-type="pmid">17920280</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

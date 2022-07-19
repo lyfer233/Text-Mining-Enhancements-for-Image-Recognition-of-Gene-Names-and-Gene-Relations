@@ -1,0 +1,1 @@
+A small amount of NO produced by NOS1 selectively modifies PTEN by S-nitrosylation, which is dependent on its interaction with PTEN. This led to activation of the AKT/mTOR signaling pathway, the down-regulation of autophagy

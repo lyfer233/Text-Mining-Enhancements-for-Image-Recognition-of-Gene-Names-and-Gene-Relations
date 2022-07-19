@@ -1,0 +1,391 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Dose Response</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Dose Response</journal-id>
+      <journal-id journal-id-type="publisher-id">DOS</journal-id>
+      <journal-id journal-id-type="hwp">spdos</journal-id>
+      <journal-title-group>
+        <journal-title>Dose-Response</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1559-3258</issn>
+      <publisher>
+        <publisher-name>SAGE Publications</publisher-name>
+        <publisher-loc>Sage CA: Los Angeles, CA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">31695582</article-id>
+      <article-id pub-id-type="pmc">6820189</article-id>
+      <article-id pub-id-type="doi">10.1177/1559325819885293</article-id>
+      <article-id pub-id-type="publisher-id">10.1177_1559325819885293</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Potential Biomarkers of Radiation Damage</subject>
+          <subj-group subj-group-type="heading">
+            <subject>Review</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Roles of Hedgehog Signaling Pathway in Radioresistance of Cervical Cancer</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7047-4901</contrib-id>
+          <name>
+            <surname>Liu</surname>
+            <given-names>Chang</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1-1559325819885293">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Rensheng</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1-1559325819885293">1</xref>
+          <xref ref-type="corresp" rid="corresp1-1559325819885293"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1-1559325819885293">
+<label>1</label>Department of Radiotherapy, The First Affiliated Hospital of Guangxi Medical University, Nanning, China</aff>
+      <author-notes>
+        <corresp id="corresp1-1559325819885293">Rensheng Wang, Department of Radiotherapy, The First Affiliated Hospital of Guangxi Medical University, Nanning 530021, China. Email: <email>13807806008@163.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>10</month>
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <season>Oct-Dec</season>
+        <year>2019</year>
+      </pub-date>
+      <volume>17</volume>
+      <issue>4</issue>
+      <elocation-id>1559325819885293</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>7</month>
+          <year>2019</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>6</day>
+          <month>9</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>9</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2019</copyright-statement>
+        <copyright-year>2019</copyright-year>
+        <copyright-holder content-type="sage">SAGE Publications</copyright-holder>
+        <license license-type="creative-commons" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">
+          <license-p>This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Radiotherapy is an important treatment of cervical cancer, especially for advanced cervical cancer. According to research reports, Hedgehog signaling pathway plays an essential role in the growth, invasion, metastasis, recurrence, drug resistance, and radioresistance of cervical cancer. The components of Hedgehog signaling pathway could be biomarkers, related to progression and prognosis of cervical cancer. In addition, targeted therapy for Hedgehog signaling pathway is expected to become a new strategy for the treatment of radioresistant cervical cancer. This review summarizes the research status and progress of the relationship between radiation resistance and activation of Hedgehog signaling pathway in cervical cancer.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>cervical cancer</kwd>
+        <kwd>Hedgehog signaling pathway</kwd>
+        <kwd>biomarker</kwd>
+        <kwd>radioresistance</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="award1-1559325819885293">
+          <funding-source id="funding1-1559325819885293">
+            <institution-wrap>
+              <institution>the Basic Ability Enhancement Project of Young Teachers in Guangxi Zhuang Autonomous Region</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id rid="funding1-1559325819885293">No. 2018KY0134</award-id>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>October-December 2019</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="section1-1559325819885293">
+      <title>Introduction</title>
+      <p>According to the World Health Organization statistics in 2015, noncommunicable diseases have become the main cause of death worldwide. It is estimated that in the 21st century, cancer will become the foremost cause of death in the world. Cervical cancer is a common malignant tumor in women and the statistics show that there are about 570 000 new cases worldwide in 2018, of which 311 000 died. Among female malignant tumors, the incidence and mortality of cervical cancer ranks the fourth in the world. Moreover, in some economically backward areas, the incidence and mortality of cervical cancer is even second only to breast cancer.<sup><xref rid="bibr1-1559325819885293" ref-type="bibr">1</xref></sup> In recent years, the mortality and morbidity of cervical cancer have decreased, which is due to the widespread early screening of cervical cancer and human papillomavirus (HPV) vaccination resulting in timely prevention, detection, and diagnosis of precancerous lesions. However, in some developing countries, insufficient resources and out-of-date equipment mean that many primary health-care centers that can conduct early screening for cervical cancer and HPV vaccination are thus unable to provide corresponding preventive measures.<sup><xref rid="bibr2-1559325819885293" ref-type="bibr">2</xref></sup> At the same time, disease-related knowledge is still insufficient, which has become a major obstacle to early prevention and treatment of cervical cancer,<sup><xref rid="bibr3-1559325819885293" ref-type="bibr">3</xref></sup> making the recommendations of American Society of Clinical Oncology in the cervical cancer screening guidelines issued in 2016 difficult to achieve.<sup><xref rid="bibr4-1559325819885293" ref-type="bibr">4</xref></sup> Moreover, the treatment of advanced cervical cancer, like most other cancers, has associated problems, such as ineffective treatments, radiotherapy/chemotherapy resistance, recurrence of cancer and eventually, death.<sup><xref rid="bibr5-1559325819885293" ref-type="bibr">5</xref></sup> Often, advanced patients can no longer receive surgical treatment, so have a very short median survival period; less than 20% of people can have a survival period of more than 1 year.<sup><xref rid="bibr6-1559325819885293" ref-type="bibr">6</xref></sup> Consequently, there is an urgent need to explore the best treatment options.</p>
+      <p>Nowadays, the therapeutic method of cervical cancer is still radiotherapy-based comprehensive treatment. Previous studies have shown that HPV infection itself is not enough to cause malignant changes and promote the development of the disease; changes in other cells and genes occur in the process of transformation from low-grade lesions to invasive cancers, including activation of some signal transduction pathways, which is also a potential cause of radioresistance in cervical cancer.<sup><xref rid="bibr7-1559325819885293" ref-type="bibr">7</xref></sup> The Hedgehog signaling pathway has been shown to play an indispensable role in the growth, invasion, metastasis, recurrence, drug resistance, and radioresistance of cervical cancer. Moreover, active Hedgehog signals can be detected in all cervical cancer cell lines, regardless of whether or not HPV exists. Therefore, in order to develop new therapeutic strategies, it is necessary to further understand the role of this pathway, especially its role in the behavior of advanced cervical cancer cells. This article reviews the research status and progress of the relationship between radiation resistance and Hedgehog signaling pathway in cervical cancer.</p>
+      <sec id="section2-1559325819885293">
+        <title>Hedgehog Signaling Pathway and Cancer</title>
+        <p>In 1980, the Hedgehog gene was first identified in Drosophila by N&#xFC;sslein-Volhard and Wieschaus.<sup><xref rid="bibr8-1559325819885293" ref-type="bibr">8</xref></sup> Hedgehog signaling molecules in mammals include 3 ligands, Sonic Hedgehog (SHH), Indian Hedgehog, and Desert Hedgehog; 2 negative regulatory receptors, PTCH1 and PTCH2; a key signal transduction protein, SMO; and 3 oncogenic transcription factors: Gli1, Gli2, and Gli3.<sup><xref rid="bibr9-1559325819885293" ref-type="bibr">9</xref></sup> PTCH1, a transmembrane transporter, can inhibit the activity of signal transduction protein SMO in the absence of HH ligand. The binding of HH ligand to PTCH1 triggers the activation of Hedgehog signaling pathway. At the same time, PTCH1 is inactivated by binding to HH, thus eliminating the inhibitory effect on SMO, thereby activating the transcription factor in the cytoplasm, which is Gli protein<sup><xref rid="bibr9-1559325819885293" ref-type="bibr">9</xref></sup> in mammals. Ultimately, Gli transcription factors will be activated and released from protein complexes, and the activated Gli transcription factors are the ultimate effectors of this pathway. It eventually enters the nucleus, inducing the expression of various oncogenes under specific conditions, which regulate cell differentiation, proliferation, and survival. In many human malignant tumors, abnormal Hedgehog signaling pathways are often observed.<sup><xref rid="bibr10-1559325819885293" ref-type="bibr">10</xref></sup> As a result, the components of Hedgehog signaling pathway can serve as biomarkers for tumor development, which have been demonstrated by numerous studies. Bai et al demonstrated that high expression of Gli3 is associated with poor overall survival (OS) in patients. Gli3 expression is an independent prognostic factor in OS, so it can be used as a biomarker to predict the prognosis of patients.<sup><xref rid="bibr11-1559325819885293" ref-type="bibr">11</xref></sup> The study from Wang et al suggested that Shh and Gli1 overexpression were both associated with unfavorable OS and disease-free survival (DFS). Additionally, Smo overexpression was related to poor DFS. However, there were no significant associations between OS and overexpression of Ptch1, Gli2, and Smo, or between DFS and overexpression of Ptch1 and Gli2. It shows that Hedgehog signaling pathway is now a hotspot as biomarkers.<sup><xref rid="bibr12-1559325819885293" ref-type="bibr">12</xref></sup>
+</p>
+        <p>There are 2 forms of activation of the Hedgehog signaling pathway: nonligand dependent and ligand dependent. The activation of nonligand-dependent Hedgehog signaling pathway is the classical activation mode of the Hedgehog signaling pathway, which is realized by the loss of PTCH1, the activation of SMO, or the activation of Gli and plays an important role in the formation of tumors.<sup><xref rid="bibr13-1559325819885293" ref-type="bibr">13</xref></sup> Whether the ligand-dependent activation mode is the main factor driving cancer growth has not been clarified. However, it was found in the xenograft mouse model of human tumors that Hedgehog signaling pathway is overactivated with the increase in HH ligand secretion, whether from autocrine of tumor cells or paracrine of surrounding matrix (autocrine/paracrine regulatory mechanisms; <xref ref-type="fig" rid="fig1-1559325819885293">Figures 1</xref> and <xref ref-type="fig" rid="fig2-1559325819885293">2</xref>).<sup><xref rid="bibr14-1559325819885293" ref-type="bibr">14</xref></sup>
+</p>
+        <fig id="fig1-1559325819885293" orientation="portrait" position="float">
+          <label>Figure 1.</label>
+          <caption>
+            <p>PTCH1 inhibits the activation of Hedgehog signaling pathway.</p>
+          </caption>
+          <graphic xlink:href="10.1177_1559325819885293-fig1"/>
+        </fig>
+        <fig id="fig2-1559325819885293" orientation="portrait" position="float">
+          <label>Figure 2.</label>
+          <caption>
+            <p>The combination of HH ligand and PTCH1 releases the inhibition and triggers the activation of Hedgehog signaling pathway.</p>
+          </caption>
+          <graphic xlink:href="10.1177_1559325819885293-fig2"/>
+        </fig>
+      </sec>
+      <sec id="section3-1559325819885293">
+        <title>Hedgehog Signaling Pathway and Cancer Stem Cells</title>
+        <p>Increasingly, more studies have found that tumors are composed of heterogeneous cell populations, some of which are defined as cancer-initiating cells or cancer stem cells (CSCs), considered to be the main causes of radiation resistance, drug resistance, and recurrence after treatment of malignant tumors.<sup><xref rid="bibr15-1559325819885293" ref-type="bibr">15</xref></sup> Many researchers believe that CSCs are more radiation resistant than normal cancer cells, so they explain the radiation resistance of tumors through CSCs.<sup><xref rid="bibr16-1559325819885293" ref-type="bibr">16</xref></sup> Recently, studies have shown that CSCs are one of the causes of recurrence of head and neck squamous cell carcinoma after radiotherapy.<sup><xref rid="bibr17-1559325819885293" ref-type="bibr">17</xref></sup> There are many transporters on the surface of CSCs cells, which also produce DNA repair enzymes and overexpress antiapoptotic proteins to prevent cell apoptosis, thereby explaining why most cancer cells are destroyed during radiotherapy while CSCs survive.<sup><xref rid="bibr18-1559325819885293" ref-type="bibr">18</xref></sup> It was found that there was a high expression of stem cell markers in radioresistant cells, indicating that radioresistant cells might be composed of CSCs.<sup><xref rid="bibr19-1559325819885293" ref-type="bibr">19</xref></sup> Hedgehog signaling pathway is a highly conserved embryonic development pathway, which is involved in the regulation of cell proliferation and differentiation during embryonic development and in the growth of many organs.<sup><xref rid="bibr20-1559325819885293" ref-type="bibr">20</xref></sup> In adult tissues, the Hedgehog signaling pathway is suppressed and usually remains relatively static, except that it plays a role in the process of tissue repair and regeneration.<sup><xref rid="bibr21-1559325819885293" ref-type="bibr">21</xref></sup> During the development of the cerebellum, SHH secreted by Purkinje cells promotes the proliferation of granulosa cell precursors through promoting the production of stem cells and the expression of proliferation genes, such as <italic>MYC</italic>, <italic>cyclin D1</italic>, <italic>IGF2</italic>, and <italic>BMI1</italic>. In the adult brain, neural stem cells continue to provide new neurons for the brain, while the Hedgehog signaling pathway is only responsible for maintaining the activity of these stem cells.<sup><xref rid="bibr22-1559325819885293" ref-type="bibr">22</xref></sup> It is reported that Hedgehog signaling pathway is active in CSC and related to stem cell markers.<sup><xref rid="bibr23-1559325819885293" ref-type="bibr">23</xref></sup> Evidence has shown that the activation of Hedgehog signaling pathway plays a key role in tumorigenesis, promoting the phenotype of CSCs, epithelial&#x2013;mesenchymal transition, and metastasis.<sup><xref rid="bibr21-1559325819885293" ref-type="bibr">21</xref></sup> Moreover, the Hedgehog signaling pathway is activated by ionizing radiation.<sup><xref rid="bibr24-1559325819885293" ref-type="bibr">24</xref></sup> Kurebayashi et al used the Hedgehog signaling pathway inhibitor GANT61 to show that the inhibitor had anti-CSCs activity, confirming that the Hedgehog signaling pathway plays a primary role in the regulation of CSCs and determines the characteristics of stem cells by regulating the expression of multiple genes. Of note, in order to maintain the characteristics of stem cells and the ability of self-renewal and infinite proliferation of cancer cells, the relevant pathways must be active to further obtain radioresistance, which is also consistent with the results of the high expression of the Hedgehog signaling pathway in radioresistant cervical cancer cells.<sup><xref rid="bibr25-1559325819885293" ref-type="bibr">25</xref></sup>
+</p>
+      </sec>
+      <sec id="section4-1559325819885293">
+        <title>Hedgehog Signaling Pathway Mediates Radioresistance to Cervical Cancer</title>
+        <p>Radiotherapy plays an important role in the treatment of cervical cancer, especially in the treatment of advanced cervical cancer. Although the mechanism of cervical cancer has been extensively studied, the specific molecular mechanism leading to radioresistance in cervical cancer has not yet been clarified. According to previous reports, the components of Hedgehog signaling pathway gradually increased with the progression of normal epithelial cells to squamous cell carcinoma.<sup><xref rid="bibr26-1559325819885293" ref-type="bibr">26</xref></sup> Therefore, it is known that Hedgehog signaling pathway plays a certain role in the occurrence and development of squamous cell carcinoma. Samarzija and Beard argued that HPV infection alone was not enough to cause cervical cancer, so they explored the Hedgehog signaling pathway to explore the possibility of its &#x201C;second strike&#x201D; leading to cervical cancer. It was found that Hedgehog signaling pathway was abnormally active in cervical cancer cells, participated in the occurrence and development of cervical cancer, and played a regulatory role in the migration of cervical cancer cells.<sup><xref rid="bibr27-1559325819885293" ref-type="bibr">27</xref></sup> Studies have shown that the survival rate of cervical cancer cells can be reduced by 3 small interfering RNAs targeting Gli3,<sup><xref rid="bibr28-1559325819885293" ref-type="bibr">28</xref></sup> confirming that the Hedgehog signaling pathway mediates the proliferation and invasion of cervical cancer. To further explore the role of this pathway in the acquisition of radioresistance in cervical cancer cells, Chunxian et al established cervical cancer cell lines Hela-RR and Siha-RR that are resistant to radiotherapy and verified the radioresistance of Hela-RR and Siha-RR under 6, 8, and 10 Gy irradiation. Experiments showed that the levels of SMO and Gli1 in Hela-RR and Siha-RR were significantly higher than those in parental Hela and Siha cells, while the survival rate of radioresistant cervical cancer cells decreased after SMO knockout.<sup><xref rid="bibr29-1559325819885293" ref-type="bibr">29</xref></sup>
+</p>
+        <p>In conclusion, the Hedgehog signaling pathway plays an important role in the pathogenesis of cervical cancer, mediating the acquisition of radioresistance in cervical cancer. Although the function and significance of the Hedgehog pathway in cervical cancer are still unclear, active exploration of the relationship between Hedgehog signaling pathway and radiation resistance of cervical cancer has far-reaching significance for the treatment of cervical cancer.</p>
+      </sec>
+      <sec id="section5-1559325819885293">
+        <title>Targeted Therapy of Hedgehog Signaling Pathway in Radioresistance Cervical Cancer</title>
+        <p>At present, there are 3 kinds of radical radiotherapy for cervical cancer, including external irradiation, brachytherapy, and cisplatin combined with radiotherapy and chemotherapy (RTCT). Different therapies have a common goal, that is, to improve cancer control rate or treatment tolerance.<sup><xref rid="bibr30-1559325819885293" ref-type="bibr">30</xref></sup> However, often radioresistance in the treatment of cervical cancer leads to the failure of radical radiotherapy. Furthermore, as the current treatment regimen approaches (or reaches) the tolerance limit of normal tissues, it seems impossible to further increase the dose of radiotherapy or cytotoxic drugs of the combined radiotherapy.<sup><xref rid="bibr20-1559325819885293" ref-type="bibr">20</xref></sup> Therefore, in order to improve the tolerance of cervical cancer to radiotherapy, there is an urgent need to explore new targeted drugs and to combine traditional treatments for cervical cancer.</p>
+        <p>Chaudary et al demonstrated that the Hedgehog signaling pathway is an effective therapeutic target for cervical cancer using a xenotransplantation animal model of cervical cancer in situ. Using anti-SHH monoclonal antibody 5E1 or clinical SMO inhibitor Sonidegib (LDE225), they found that the addition of the Hedgehog inhibitor to the treatment could significantly improve the therapeutic effect, slow down the growth of tumors, prolong the survival time of animals, and reduce lymph node metastasis compared to radiotherapy alone or the RTCT group. Moreover, the additional acute toxicity of Hedgehog inhibitors has not been observed, indicating that patients can tolerate them well.<sup><xref rid="bibr20-1559325819885293" ref-type="bibr">20</xref></sup> In January 2012, the SMO receptor inhibitor vismodegib was approved by the Food and Drug Administration for the treatment of unresectable or metastatic basal cell carcinoma. Basset-Seguin et al<sup><xref rid="bibr31-1559325819885293" ref-type="bibr">31</xref></sup> reported that vismodegib has clinical efficacy in patients with advanced basal cell carcinoma unsuitable for surgical treatment. Onishi et al suggested that the Hedgehog signaling pathway may be an important therapeutic target in pancreatic cancer, and Hedgehog inhibitors could be used alone in the treatment of pancreatic cancer. However, for the treatment of other tumors, appropriate combination of other treatments is still needed to achieve the best therapeutic effect.<sup><xref rid="bibr32-1559325819885293" ref-type="bibr">32</xref></sup> Like pancreatic cancer, the upregulation of Hedgehog signaling pathway exists in cervical cancer that is resistant to radiotherapy, with the activation of Hedgehog signaling pathway achieved through ligand-dependent paracrine pathway. Therefore, for new breakthroughs in the treatment strategy of radioresistant cervical cancer, targeted therapy of the Hedgehog signaling pathway is an important direction. When Hedgehog signaling pathway inhibitors are used in combination with target-translated drugs,<sup><xref rid="bibr33-1559325819885293" ref-type="bibr">33</xref></sup> this not only increases the radiosensitivity of cervical cancer but also reduces the toxicity and drug resistance of Hedgehog signaling pathway inhibitors.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="section6-1559325819885293">
+      <title>Conclusion</title>
+      <p>Since the discovery of the Hedgehog gene, the abnormal activation of Hedgehog signaling pathway has been proved to exist in many cancers and play a regulatory role in the occurrence and development of cancer, which could be biomarkers associated with survival and prognosis. Numerous studies have shown that this pathway plays an important role in the acquisition of radioresistance in cervical cancer, indicating the potential of Hedgehog signaling pathway inhibition as a new and effective therapeutic target. The combination of Hedgehog inhibitor and traditional treatment could improve the therapeutic effect. However, preliminary clinical application of Hedgehog signaling pathway inhibitors has been associated with toxic side effects and drug-resistance problems, so more in-depth research is urgently needed for more effective treatment strategies.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="other" id="fn1-1559325819885293">
+        <p><bold>Authors&#x2019; Note:</bold> Rensheng Wang guided the direction of research and Chang Liu wrote the article.</p>
+      </fn>
+      <fn fn-type="COI-statement" id="fn2-1559325819885293">
+        <p><bold>Declaration of Conflicting Interests:</bold> The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p>
+      </fn>
+      <fn fn-type="financial-disclosure" id="fn3-1559325819885293">
+        <p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the Basic Ability Enhancement Project of Young Teachers in Guangxi Zhuang Autonomous Region (no. 2018KY0134), the Youth Science Foundation of Guangxi Medical University (no. GXMUYSF201505), Central Guided Local Science and Technology Development Project (GK ZY18076006), Guangxi Science and Technology Program Project (GK AD17129013), and Guangxi Zhuang Autonomous Region Health and Wellness Committee Science and Technology Project (no. S201415-07).</p>
+      </fn>
+      <fn fn-type="other" id="fn4-1559325819885293">
+        <p><bold>ORCID iD:</bold> Chang Liu <inline-graphic xlink:href="10.1177_1559325819885293-img1.jpg"/>
+<ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-7047-4901">https://orcid.org/0000-0002-7047-4901</ext-link>
+</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="bibr1-1559325819885293">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bray</surname><given-names>F</given-names></name><name><surname>Ferlay</surname><given-names>J</given-names></name><name><surname>Soerjomataram</surname><given-names>I</given-names></name><name><surname>Siegel</surname><given-names>RL</given-names></name><name><surname>Torre</surname><given-names>LA</given-names></name><name><surname>Jemal</surname><given-names>A.</given-names></name></person-group>
+<article-title>Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>. <source>CA Cancer J Clin</source>. <year>2018</year>;<volume>68</volume>(<issue>6</issue>):<fpage>394</fpage>&#x2013;<lpage>424</lpage>.<pub-id pub-id-type="pmid">30207593</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr2-1559325819885293">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>P</given-names></name><name><surname>Gupta</surname><given-names>S</given-names></name><name><surname>Das</surname><given-names>AM</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Towards global elimination of cervical cancer in all groups of women</article-title>. <source>Lancet Oncol</source>. <year>2019</year>;<volume>20</volume>(<issue>5</issue>):<fpage>601</fpage>&#x2013;<lpage>740</lpage>.<pub-id pub-id-type="pmid">31044699</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr3-1559325819885293">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Devarapalli</surname><given-names>P</given-names></name><name><surname>Labani</surname><given-names>S</given-names></name><name><surname>Nagarjuna</surname><given-names>N</given-names></name><name><surname>Panchal</surname><given-names>P</given-names></name><name><surname>Asthana</surname><given-names>S</given-names></name></person-group>
+<article-title>Barriers affecting uptake of cervical cancer screening in low and middle income countries: a systematic review</article-title>. <source>Indian J Cancer</source>. <year>2018</year>;<volume>55</volume>(<issue>4</issue>):<fpage>318</fpage>&#x2013;<lpage>326</lpage>.<pub-id pub-id-type="pmid">30829264</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr4-1559325819885293">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simms</surname><given-names>KT</given-names></name><name><surname>Steinberg</surname><given-names>J</given-names></name><name><surname>Caruana</surname><given-names>M</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Impact of scaled up human papillomavirus vaccination and cervical screening and the potential for global elimination of cervical cancer in 181 countries, 2020&#x2013;99: a modelling study</article-title>. <source>Lancet Oncol</source>. <year>2019</year>;<volume>20</volume>(<issue>3</issue>):<fpage>394</fpage>&#x2013;<lpage>407</lpage>.<pub-id pub-id-type="pmid">30795950</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr5-1559325819885293">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vishnoi</surname><given-names>K</given-names></name><name><surname>Mahata</surname><given-names>S</given-names></name><name><surname>Tyagi</surname><given-names>A</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Cross-talk between human papillomavirus oncoproteins and Hedgehog signaling synergistically promotes stemness in cervical cancer cells</article-title>. <source>Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>343</fpage>&#x2013;<lpage>377</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr6-1559325819885293">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moore</surname><given-names>DH</given-names></name><name><surname>Blessing</surname><given-names>JA</given-names></name><name><surname>McQuellon</surname><given-names>RP</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Phase III study of cisplatin with or without paclitaxel in stage IVB, recurrent, or persistent squamous cell carcinoma of the cervix: a Gynecologic Oncology Group study</article-title>. <source>J Clin Oncol</source>. <year>2004</year>;<volume>22</volume>(<issue>15</issue>):<fpage>3113</fpage>&#x2013;<lpage>3119</lpage>.<pub-id pub-id-type="pmid">15284262</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr7-1559325819885293">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>DW</given-names></name><name><surname>Liu</surname><given-names>VW</given-names></name><name><surname>Leung</surname><given-names>LY</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Zic2 synergistically enhances Hedgehog signalling through nuclear retention of Gli1 in cervical cancer cells</article-title>. <source>J Pathol</source>. <year>2011</year>;<volume>225</volume>(<issue>4</issue>):<fpage>525</fpage>&#x2013;<lpage>534</lpage>.<pub-id pub-id-type="pmid">21661123</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr8-1559325819885293">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>N&#xFC;sslein-Volhard</surname><given-names>C</given-names></name><name><surname>Wieschaus</surname><given-names>E</given-names></name></person-group>
+<article-title>Mutations affecting segment number and polarity in Drosophila</article-title>. <source>Nature</source>. <year>1980</year>;<volume>287</volume>(<issue>5785</issue>):<fpage>795</fpage>&#x2013;<lpage>801</lpage>.<pub-id pub-id-type="pmid">6776413</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr9-1559325819885293">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lum</surname><given-names>L</given-names></name><name><surname>Beachy</surname><given-names>PA</given-names></name></person-group>
+<article-title>The Hedgehog response network: sensors, switches, and routers</article-title>. <source>Science</source>. <year>2004</year>;<volume>304</volume>(<issue>5678</issue>):<fpage>1755</fpage>&#x2013;<lpage>1759</lpage>.<pub-id pub-id-type="pmid">15205520</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr10-1559325819885293">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Varjosalo</surname><given-names>M</given-names></name><name><surname>Taipale</surname><given-names>J</given-names></name></person-group>
+<article-title>Hedgehog: functions and mechanisms</article-title>. <source>Genes Dev</source>. <year>2008</year>;<volume>22</volume>(<issue>18</issue>):<fpage>2454</fpage>&#x2013;<lpage>2472</lpage>.<pub-id pub-id-type="pmid">18794343</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr11-1559325819885293">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bai</surname><given-names>XY</given-names></name><name><surname>Lin</surname><given-names>JY</given-names></name><name><surname>Zhang</surname><given-names>XC</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>High expression of truncated GLI3 is associated with poor overall survival in patients with non-small cell lung cancer</article-title>. <source>Cancer Biomark</source>. <year>2013</year>;<volume>13</volume>(<issue>1</issue>):<fpage>37</fpage>&#x2013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">23736020</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr12-1559325819885293">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Peng</surname><given-names>Q</given-names></name><name><surname>Jia</surname><given-names>H</given-names></name><name><surname>Du</surname><given-names>X</given-names></name></person-group>
+<article-title>Prognostic value of Hedgehog signaling pathway in digestive system cancers: a systematic review and meta-analysis</article-title>. <source>Cancer Biomark</source>. <year>2016</year>;<volume>16</volume>(<issue>1</issue>):<fpage>71</fpage>&#x2013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">26835707</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr13-1559325819885293">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mao</surname><given-names>J</given-names></name><name><surname>Ligon</surname><given-names>KL</given-names></name><name><surname>Rakhlin</surname><given-names>EY</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>A novel somatic mouse model to survey tumorigenic potential applied to the Hedgehog pathway</article-title>. <source>Cancer Res</source>. <year>2006</year>;<volume>66</volume>(<issue>20</issue>):<fpage>10171</fpage>&#x2013;<lpage>10178</lpage>.<pub-id pub-id-type="pmid">17047082</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr14-1559325819885293">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amakye</surname><given-names>D</given-names></name><name><surname>Jagani</surname><given-names>Z</given-names></name><name><surname>Dorsch</surname><given-names>M</given-names></name></person-group>
+<article-title>Unraveling the therapeutic potential of the Hedgehog pathway in cancer</article-title>. <source>Nat Med</source>. <year>2013</year>;<volume>19</volume>(<issue>11</issue>):<fpage>1410</fpage>&#x2013;<lpage>1422</lpage>.<pub-id pub-id-type="pmid">24202394</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr15-1559325819885293">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leung</surname><given-names>TH</given-names></name><name><surname>Tang</surname><given-names>HW</given-names></name><name><surname>Siu</surname><given-names>MK</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Human papillomavirus E6 protein enriches the CD55(+) population in cervical cancer cells, promoting radioresistance and cancer aggressiveness</article-title>. <source>J Pathol</source>. <year>2018</year>;<volume>244</volume>(<issue>2</issue>):<fpage>151</fpage>&#x2013;<lpage>163</lpage>.<pub-id pub-id-type="pmid">28944962</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr16-1559325819885293">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gerweck</surname><given-names>LE</given-names></name><name><surname>Wakimoto</surname><given-names>H</given-names></name></person-group>
+<article-title>At the crossroads of cancer stem cells, radiation biology, and radiation oncology</article-title>. <source>Cancer Res</source>. <year>2016</year>;<volume>76</volume>(<issue>5</issue>):<fpage>994</fpage>&#x2013;<lpage>998</lpage>.<pub-id pub-id-type="pmid">26880806</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr17-1559325819885293">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurth</surname><given-names>I</given-names></name><name><surname>Hein</surname><given-names>L</given-names></name><name><surname>M&#xE4;bert</surname><given-names>K</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Cancer stem cell related markers of radioresistance in head and neck squamous cell carcinoma</article-title>. <source>Oncotarget</source>. <year>2015</year>;<volume>6</volume>(<issue>33</issue>):<fpage>34494</fpage>&#x2013;<lpage>34509</lpage>.<pub-id pub-id-type="pmid">26460734</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr18-1559325819885293">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janikova</surname><given-names>M</given-names></name><name><surname>Skarda</surname><given-names>J</given-names></name></person-group>
+<article-title>Differentiation pathways in carcinogenesis and in chemo- and radioresistance</article-title>. <source>Neoplasma</source>. <year>2012</year>;<volume>59</volume>(<issue>1</issue>):<fpage>6</fpage>&#x2013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">22017591</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr19-1559325819885293">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yun</surname><given-names>HS</given-names></name><name><surname>Baek</surname><given-names>JH</given-names></name><name><surname>Yim</surname><given-names>JH</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Radiotherapy diagnostic biomarkers in radioresistant human H460 lung cancer stem-like cells</article-title>. <source>Cancer Biol Ther</source>. <year>2016</year>;<volume>17</volume>(<issue>2</issue>):<fpage>208</fpage>&#x2013;<lpage>218</lpage>.<pub-id pub-id-type="pmid">26901847</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr20-1559325819885293">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chaudary</surname><given-names>N</given-names></name><name><surname>Pintilie</surname><given-names>M</given-names></name><name><surname>Hedley</surname><given-names>D</given-names></name><name><surname>Hill</surname><given-names>RP</given-names></name><name><surname>Milosevic</surname><given-names>M</given-names></name><name><surname>Mackay</surname><given-names>H</given-names></name></person-group>
+<article-title>Hedgehog inhibition enhances efficacy of radiation and cisplatin in orthotopic cervical cancer xenografts</article-title>. <source>Br J Cancer</source>. <year>2017</year>;<volume>116</volume>(<issue>1</issue>):<fpage>50</fpage>&#x2013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">27875522</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr21-1559325819885293">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Justilien</surname><given-names>V</given-names></name><name><surname>Fields</surname><given-names>AP</given-names></name></person-group>
+<article-title>Molecular pathways: novel approaches for improved therapeutic targeting of Hedgehog signaling in cancer stem cells</article-title>. <source>Clin Cancer Res</source>. <year>2015</year>;<volume>21</volume>(<issue>3</issue>):<fpage>505</fpage>&#x2013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">25646180</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr22-1559325819885293">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Briscoe</surname><given-names>J</given-names></name><name><surname>Th&#xE9;rond</surname><given-names>PP</given-names></name></person-group>
+<article-title>The mechanisms of Hedgehog signalling and its roles in development and disease</article-title>. <source>J Nat Rev Mol Cell Biol</source>. <year>2013</year>;<volume>14</volume>(<issue>7</issue>):<fpage>416</fpage>&#x2013;<lpage>429</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr23-1559325819885293">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>J</given-names></name><name><surname>Koike</surname><given-names>Y</given-names></name><name><surname>Ohta</surname><given-names>Y</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Anti-cancer stem cell activity of a Hedgehog inhibitor GANT61 in estrogen receptor-positive breast cancer cells</article-title>. <source>Cancer</source>. <year>2017</year>;<volume>108</volume>(<issue>5</issue>):<fpage>918</fpage>&#x2013;<lpage>930</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr24-1559325819885293">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>SY</given-names></name><name><surname>Jeong</surname><given-names>EK</given-names></name><name><surname>Ju</surname><given-names>MK</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Induction of metastasis, cancer stem cell phenotype, and oncogenic metabolism in cancer cells by ionizing radiation</article-title>. <source>Mol Cancer</source>. <year>2017</year>;<volume>16</volume>(<issue>1</issue>):<fpage>10</fpage>.<pub-id pub-id-type="pmid">28137309</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr25-1559325819885293">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woodward</surname><given-names>WA</given-names></name><name><surname>Chen</surname><given-names>MS</given-names></name><name><surname>Behbod</surname><given-names>F</given-names></name><name><surname>Rosen</surname><given-names>JM</given-names></name></person-group>
+<article-title>On mammary stem cells</article-title>. <source>J Cell Sci</source>. <year>2005</year>;<volume>118</volume>(<issue>16</issue>):<fpage>3585</fpage>&#x2013;<lpage>3594</lpage>.<pub-id pub-id-type="pmid">16105882</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr26-1559325819885293">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>WJ</given-names></name><name><surname>Lee</surname><given-names>YJ</given-names></name><name><surname>Kim</surname><given-names>SH</given-names></name></person-group>
+<article-title>Enhanced expression of Hedgehog signaling molecules in squamous cell carcinoma of uterine cervix and its precursor lesions</article-title>. <source>Mod Pathol</source>. <year>2006</year>;<volume>19</volume>(<issue>8</issue>):<fpage>1139</fpage>&#x2013;<lpage>1147</lpage>.<pub-id pub-id-type="pmid">16778829</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr27-1559325819885293">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Samarzija</surname><given-names>I</given-names></name><name><surname>Beard</surname><given-names>P</given-names></name></person-group>
+<article-title>Hedgehog pathway regulators influence cervical cancer cell proliferation, survival and migration</article-title>. <source>Biochem Biophy Res Commun</source>. <year>2012</year>;<volume>425</volume>(<issue>1</issue>):<fpage>64</fpage>&#x2013;<lpage>69</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr28-1559325819885293">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wen</surname><given-names>SY</given-names></name><name><surname>Yu</surname><given-names>YQ</given-names></name><name><surname>Cao</surname><given-names>SJ</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>miR-506 acts as a tumor suppressor by directly targeting the Hedgehog pathway transcription factor Gli3 in human cervical cancer</article-title>. <source>Oncogene</source>. <year>2014</year>;<volume>34</volume>(<issue>6</issue>):<fpage>717</fpage>&#x2013;<lpage>725</lpage>.<pub-id pub-id-type="pmid">24608427</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr29-1559325819885293">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chunxian</surname><given-names>H</given-names></name><name><surname>Huaiwu</surname><given-names>L</given-names></name><name><surname>Jing</surname><given-names>L</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>SOX2 regulates radioresistance in cervical cancer via the Hedgehog signaling pathway</article-title>. <source>Gynecol Oncol</source>. <year>2018</year>;<volume>151</volume>(<issue>3</issue>):<fpage>533</fpage>&#x2013;<lpage>541</lpage>.<pub-id pub-id-type="pmid">30336948</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr30-1559325819885293">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vordermark</surname><given-names>D</given-names></name></person-group>
+<article-title>Radiotherapy of cervical cancer</article-title>. <source>Oncol Res Treat</source>. <year>2016</year>;<volume>39</volume>(<issue>9</issue>):<fpage>516</fpage>&#x2013;<lpage>520</lpage>.<pub-id pub-id-type="pmid">27614991</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr31-1559325819885293">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basset-Seguin</surname><given-names>N</given-names></name><name><surname>Hauschild</surname><given-names>A</given-names></name><name><surname>Grob</surname><given-names>JJ</given-names></name></person-group>, <etal>et al.</etal>
+<article-title>Vismodegib in patients with advanced basal cell carcinoma (STEVIE): a pre-planned interim analysis of an international, open-label trial</article-title>. <source>Lancet Oncol</source>. <year>2015</year>;<volume>16</volume>(<issue>6</issue>):<fpage>729</fpage>&#x2013;<lpage>736</lpage>.<pub-id pub-id-type="pmid">25981813</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr32-1559325819885293">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Onishi</surname><given-names>H.</given-names></name><name><surname>Mitsuo</surname><given-names>K</given-names></name></person-group>
+<article-title>Hedgehog signaling pathway as a new therapeutic target in pancreatic cancer</article-title>. <source>World J Gastroenterol</source>. <year>2014</year>;<volume>20</volume>(<issue>9</issue>):<fpage>2335</fpage>&#x2013;<lpage>2342</lpage>.<pub-id pub-id-type="pmid">24605030</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr33-1559325819885293">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>D&#x2019;Amico</surname><given-names>D</given-names></name><name><surname>Canettieri</surname><given-names>G</given-names></name></person-group>
+<article-title>Translating Hedgehog in cancer: controlling protein synthesis</article-title>. <source>Trends Mol Med</source>. <year>2016</year>;<volume>22</volume>(<issue>10</issue>):<fpage>851</fpage>&#x2013;<lpage>862</lpage>.<pub-id pub-id-type="pmid">27591077</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

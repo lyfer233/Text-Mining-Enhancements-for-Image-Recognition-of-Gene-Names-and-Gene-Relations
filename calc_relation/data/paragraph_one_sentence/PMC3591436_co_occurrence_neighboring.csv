@@ -1,0 +1,6 @@
+gene_name_1,gene_name_2,co_occurrence
+MMP-9,MMP-9,30
+MMP-9,MG132,4
+MMP-9,GM6001,4
+MG132,MG132,4
+GM6001,GM6001,8

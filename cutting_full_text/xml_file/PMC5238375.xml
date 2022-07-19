@@ -1,0 +1,646 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+      <journal-title-group>
+        <journal-title>Scientific Reports</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2045-2322</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">28091615</article-id>
+      <article-id pub-id-type="pmc">5238375</article-id>
+      <article-id pub-id-type="pii">srep40523</article-id>
+      <article-id pub-id-type="doi">10.1038/srep40523</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Pirfenidone controls the feedback loop of the AT1R/p38 MAPK/renin-angiotensin system axis by regulating liver X receptor-&#x3B1; in myocardial infarction-induced cardiac fibrosis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Chunmei</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Han</surname>
+            <given-names>Rui</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kang</surname>
+            <given-names>Le</given-names>
+          </name>
+          <xref ref-type="aff" rid="a2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Jianping</given-names>
+          </name>
+          <xref ref-type="aff" rid="a3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gao</surname>
+            <given-names>Yonglin</given-names>
+          </name>
+          <xref ref-type="corresp" rid="c1">a</xref>
+          <xref ref-type="aff" rid="a2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Yanshen</given-names>
+          </name>
+          <xref ref-type="aff" rid="a2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>He</surname>
+            <given-names>Jie</given-names>
+          </name>
+          <xref ref-type="aff" rid="a2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Jingwei</given-names>
+          </name>
+          <xref ref-type="corresp" rid="c2">b</xref>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <aff id="a1"><label>1</label><institution>School of Pharmacy, Key Laboratory of Molecular Pharmacology and Drug Evaluation (Yantai University), Ministry of Education, Collaborative Innovation Center of Advanced Drug Delivery System and Biotech Drugs in Universities of Shandong, Yantai University</institution>, Yantai, 264005, <country>P.R. China</country></aff>
+        <aff id="a2"><label>2</label><institution>School of Life Sciences, Yantai University</institution>, Yantai, 264005, <country>P.R. China</country></aff>
+        <aff id="a3"><label>3</label><institution>Yantai yuhuangding Hospital</institution>, Yantai, 264005, <country>P.R. China</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="c1">
+          <label>a</label>
+          <email>gylbill@163.com</email>
+        </corresp>
+        <corresp id="c2">
+          <label>b</label>
+          <email>tianjingwei@luye.cn</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>01</month>
+        <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2017</year>
+      </pub-date>
+      <volume>7</volume>
+      <elocation-id>40523</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>07</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2017, The Author(s)</copyright-statement>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>The Author(s)</copyright-holder>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <!--author-paid-->
+          <license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x2019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Pirfenidone (PFD), an anti-fibrotic small molecule drug, is used to treat fibrotic diseases, but its effects on myocardial infarction (MI)-induced cardiac fibrosis are unknown. The aim of this study was to determine the effects of PFD on MI-induced cardiac fibrosis and the possible underlying mechanisms in rats. After establishment of the model, animals were administered PFD by gavage for 4 weeks. During the development of MI-induced cardiac fibrosis, we found activation of a positive feedback loop between the angiotensin II type 1 receptor (AT1R)/phospho-p38 mitogen-activated protein kinase (p38 MAPK) pathway and renin-angiotensin system (RAS), which was accompanied by down-regulation of liver X receptor-&#x3B1; (LXR-&#x3B1;) expression. PFD attenuated body weight, heart weight, left ventricular weight, left ventricular systolic pressure, and &#xB1;dp/dt<sub>max</sub> changes induced by MI, which were associated with a reduction in cardiac fibrosis, infarct size, and hydroxyproline concentration. Moreover, PFD inhibited the AT1R/p38 MAPK pathway, corrected the RAS imbalance [decreased angiotensin-converting enzyme (ACE), angiotensin II, and angiotensin II type 1 receptor expression, but increased ACE2 and angiotensin (1-7) activity and Mas expression] and strongly enhanced heart LXR-&#x3B1; expression. These results indicate that the cardioprotective effects of PFD may be due, in large part, to controlling the feedback loop of the AT1R/p38 MAPK/RAS axis by activation of LXR-&#x3B1;.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <p>Cardiac fibrosis contributes to significant morbidity and mortality worldwide. Although various therapeutic strategies have been developed to treat this condition, cardiac fibrosis is clinically variable, and the underlying mechanism is complex and remains intractable. The renin-angiotensin system (RAS) is a major pathway in cardiac fibrosis and myocardial infarction (MI). The RAS consists of two counter-regulatory axes that control cardiovascular functions. The first axis consists of a series of enzymatic reactions culminating in the generation of angiotensin II (Ang II), which can result in angiotensin II type 1 receptor (AT1R)-dependent MI and cardiac fibrosis by activation of the angiotensin-converting enzyme (ACE)-Ang II-AT1R axis<xref ref-type="bibr" rid="b1">1</xref><xref ref-type="bibr" rid="b2">2</xref>. The second axis is the ACE2-angiotensin(1-7) [Ang(1-7)]-Mas pathway that acts as a physiological antagonist of the ACE-Ang II-AT1R axis. The balance of the ACE/ACE2 ratio and therefore the RAS (<xref ref-type="fig" rid="f1">Fig. 1</xref>) is critical for the pathogenesis of cardiac fibrosis and myocardial hypertrophy<xref ref-type="bibr" rid="b3">3</xref>.</p>
+    <p>Mitogen-activated protein kinases (MAPKs) are involved in various processes that contribute to heart failure. p38 MAPK, a major member of the MAPKs, has been shown to play a vital role in the development of cardiac fibrosis, MI, and cardiac hypertrophy<xref ref-type="bibr" rid="b4">4</xref>. Recent studies have suggested the involvement of the AT1R/p38 MAPK pathway in pancreatic fibrosis<xref ref-type="bibr" rid="b5">5</xref>, renal tubulointerstitial fibrosis<xref ref-type="bibr" rid="b6">6</xref>, and peritoneal fibrosis<xref ref-type="bibr" rid="b7">7</xref>. Importantly, the AT1R/p38 MAPK pathway also affects the RAS by modulation of the ACE/ACE2 ratio<xref ref-type="bibr" rid="b8">8</xref>. These findings indicate a regulatory mechanism that operates between the AT1R/p38 MAPK pathway and RAS in the development of fibrotic disease.</p>
+    <p>Liver X receptor-&#x3B1; (LXR-&#x3B1;) is a member of the nuclear receptor family of transcription factors and is an important regulator of cholesterol, fatty acids, and glucose homeostasis. Recently, LXR-&#x3B1; was reported to be a new target for treatment of cardiac remodelling and myocardial hypertrophy<xref ref-type="bibr" rid="b9">9</xref><xref ref-type="bibr" rid="b10">10</xref>. Interestingly, a growing number of studies have demonstrated that LXR-&#x3B1; not only inhibits the ACE-Ang II-AT1R axis in isoproterenol-induced animal heart failure<xref ref-type="bibr" rid="b11">11</xref>, but also reduces phospho-p38 MAPK expression in leptin-induced liver fibrosis<xref ref-type="bibr" rid="b12">12</xref>. In these previous studies, researchers hypothesised that there is crosstalk among the AT1R/p38 MAPK pathway, RAS, and LXR-&#x3B1;. However, it is unclear whether this mechanism is also involved in cardiac fibrosis.</p>
+    <p>In the current study, we used an MI-induced rat model of cardiac fibrosis. The results showed that myocardial injury activated the AT1R/p38 MAPK pathway that disrupted the ACE/ACE2 ratio and further imbalanced the ACE-Ang II-AT1R and ACE2-Ang(1-7)-Mas axes (including increases in ACE, Ang II, and AT1R, and decreases in ACE2, Ang(1-7), and Mas). Moreover, increasing Ang II and decreasing Ang(1-7) synergistically inhibited LXR-&#x3B1; expression. Consequently, the decrease of LXR-&#x3B1; further activated the AT1R/p38 MAPK pathway. This signalling created a positive feedback loop that amplified AT1R/p38 MAPK signalling, thereby disturbing the RAS balance and inducing cardiac fibrosis (<xref ref-type="fig" rid="f2">Fig. 2</xref>). Interestingly, pirfenidone (5-methyl-1-phenyl-2- [1 H]-pyridone, PFD) activated LXR-&#x3B1; expression, inhibited the AT1R/p38 MAPK pathway, and balanced the RAS in this rat model of cardiac fibrosis (<xref ref-type="fig" rid="f2">Fig. 2</xref>).</p>
+    <p>PFD is a novel anti-fibrotic agent that has shown promising results in various models and clinical trials<xref ref-type="bibr" rid="b13">13</xref><xref ref-type="bibr" rid="b14">14</xref>. Cumulative evidence indicates the anti-fibrotic potential of PFD <italic>via</italic> inhibition of ACE and phospho-p38 MAPK in renal fibrosis and lung fibrosis, respectively<xref ref-type="bibr" rid="b15">15</xref><xref ref-type="bibr" rid="b16">16</xref>. To determine the role and mechanism underlying the anti-fibrotic property of PFD, we established a rat model of cardiac fibrosis to evaluate the AT1R/p38 MAPK pathway, RAS, and LXR-&#x3B1; expression. Our results revealed that PFD protected against cardiac fibrosis, which may be partially controlled by the feedback loop of the AT1R/p38 MAPK/RAS axis <italic>via</italic> LXR-&#x3B1; activation.</p>
+    <sec disp-level="1">
+      <title>Results</title>
+      <sec disp-level="2">
+        <title>Effects of PFD on MI-induced cardiac hypertrophy and left ventricular systolic dysfunction</title>
+        <p>To assess the effects of PFD on heart failure, we administered PFD to MI rats for 4 weeks and evaluated cardiac hypertrophy and functions. As shown in <xref ref-type="table" rid="t1">Table 1</xref>, the heart weight (HW), left ventricle weight (LVW), HW to body weight ratio (HW/BW, mg/g), and LVW to body weight ratio (LVW/BW, mg/g) were significantly increased in MI rats after 4 weeks compared with the sham group. Additionally, the left ventricular end-diastolic pressure (LVEDP) was increased, while the left ventricular systolic pressure (LVSP) and maximum rate of increase/decrease of left ventricle pressure (&#xB1;dP/dt<sub>max</sub>) were decreased in MI rats (<xref ref-type="table" rid="t2">Table 2</xref>). These results indicated that cardiac hypertrophy and dysfunction were already present 4 weeks after MI. We administered 20&#x2009;mg/kg losartan and 300&#x2009;mg/kg PFD to rats, and the results indicated that losartan and PFD restored LVSP and &#xB1;dP/dt <sub>max</sub> to near normal levels (P&#x2009;&lt;&#x2009;0.01 and P&#x2009;&lt;&#x2009;0.05). Moreover, the HW and LVW were decreased compared with the model group (P&#x2009;&lt;&#x2009;0.01 and P&#x2009;&lt;&#x2009;0.05), suggesting that the drugs exerted cardioprotective effects by regulation of systolic and diastolic cardiac functions during the chronic phase of MI-induced heart failure. In addition, PFD and losartan decreased HW/BW and LVW/BW ratios, although these differences were not statistically significant (<xref ref-type="table" rid="t1">Table 1</xref>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Effects of PFD on MI-induced cardiac fibrosis and infarct size</title>
+        <p>We used Masson&#x2019;s trichrome staining to assess cardiac fibrosis and the infarct size. Cardiac fibrosis, especially interstitial fibrosis (collagen staining in blue), was significantly increased in MI hearts compared with sham animal hearts (<xref ref-type="fig" rid="f3">Fig. 3B</xref>). PFD treatment substantially reduced these lesions (<xref ref-type="fig" rid="f3">Fig. 3C</xref>), and losartan also ameliorated these pathological changes (<xref ref-type="fig" rid="f3">Fig. 3D</xref>). Image and quantitative analyses indicated that the cardioprotective effects against cardiac fibrosis in losartan- and PFD-treated rats were consistent with a smaller infarct size (P&#x2009;&lt;&#x2009;0.05 and P&#x2009;&lt;&#x2009;0.01; <xref ref-type="fig" rid="f4">Fig. 4</xref>). Moreover, the collagen volume fraction (CVF) in MI model, losartan, and PFD groups were 10.44&#x2009;&#xB1;&#x2009;3.04%, 5.44&#x2009;&#xB1;&#x2009;2.12% (P&#x2009;&lt;&#x2009;0.05), and 6.26&#x2009;&#xB1;&#x2009;2.07% (P&#x2009;&lt;&#x2009;0.05), respectively (<xref ref-type="fig" rid="f5">Fig. 5</xref>). These results also strongly supported the cardioprotective effects of PFD on MI-induced cardiac fibrosis.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Effects of PFD on fibrosis-related proteins in MI rat hearts</title>
+        <p>The <italic>in vivo</italic> results showed the ameliorating effects of PFD on cardiac dysfunction and fibrotic progression. To detect the expression levels of fibrosis-related proteins, we performed western blot analyses. The results revealed that fibrosis-associated proteins, such as collagen I, collagen III, and &#x3B1;-smooth muscle actin (&#x3B1;-SMA), were strongly induced in rat hearts of the MI group, whereas they were significantly suppressed by losartan and PFD administration (P&#x2009;&lt;&#x2009;0.05 and P&#x2009;&lt;&#x2009;0.01; <xref ref-type="fig" rid="f6">Figs 6</xref> and <xref ref-type="fig" rid="f7">7</xref>). Hydroxyproline, a sensitive biochemical marker indicating collagen fibre changes, was also significantly increased after MI, but it was inhibited by losartan and PFD treatment (P&#x2009;&lt;&#x2009;0.05 and P&#x2009;&lt;&#x2009;0.01; <xref ref-type="fig" rid="f8">Fig. 8</xref>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Effects of PFD on the AT1R/p38 MAPK pathway</title>
+        <p>Because of the role of the AT1R/p38 MAPK pathway in cardiac fibrosis, we assessed the levels of AT1R and phospho-p38 MAPK. As shown in <xref ref-type="fig" rid="f9">Fig. 9</xref>, compared with the control group, the expression of AT1R and phospho-p38 MAPK was increased by 10.90&#x2009;&#xB1;&#x2009;1.12% and 10.33&#x2009;&#xB1;&#x2009;1.61% in the model group, respectively (P&#x2009;&lt;&#x2009;0.01). However, the AT1R blocker losartan notably inhibited this pathway, as shown by the decrease in AT1R and phospho-p38 MAPK expression (AT1R, 4.20&#x2009;&#xB1;&#x2009;1.05%; phospho-p38 MAPK, 5.12&#x2009;&#xB1;&#x2009;1.05%; all P&#x2009;&lt;&#x2009;0.01). PFD also normalised the expression of these two proteins compared with the model group (AT1R, 5.35&#x2009;&#xB1;&#x2009;1.07%; phospho-p38 MAPK, 3.49&#x2009;&#xB1;&#x2009;1.00%; all P&#x2009;&lt;&#x2009;0.01).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Effects of PFD on ACE-Ang II-AT1R and ACE2-Ang(1-7)-Mas axes</title>
+        <p>The balance between ACE-Ang II-AT1R and ACE2-Ang(1-7)-Mas axes is critical in the pathogenesis of cardiac fibrosis and myocardial hypertrophy. In the present study, we measured the related proteins. As shown in <xref ref-type="fig" rid="f9">Figs 9A</xref> and <xref ref-type="fig" rid="f10">10</xref>, compared with the sham group, Ang II, ACE, and AT1R expression was markedly increased, and the expression of ACE2, Ang(1-7), and Mas was down-regulated (P&#x2009;&lt;&#x2009;0.05 and P&#x2009;&lt;&#x2009;0.01). As expected, all of these changes were ameliorated by PFD administration. Additionally, losartan, an AT1R blocker, not only inhibited the ACE-Ang II-AT1R axis but also activated the ACE2-Ang(1-7)-Mas axis. These results showed that PFD treatment strongly influences RAS-related protein expression in MI-induced cardiac failure.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Effects of PFD on LXR-&#x3B1; expression</title>
+        <p>Western blotting of proteins extracted from the left ventricular of rats revealed a substantial decrease in LXR-&#x3B1; after MI. However, LXR-&#x3B1; expression was significantly up-regulated compared with the MI model group after 4 weeks of PFD administration (P&#x2009;&lt;&#x2009;0.01, <xref ref-type="fig" rid="f11">Fig. 11</xref>). Therefore, the protective effects of PFD could be due, in large part, to activation of LXR-&#x3B1;. Losartan also activated LXR-&#x3B1; expression in animal hearts during MI-induced cardiac fibrosis.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1">
+      <title>Discussion</title>
+      <p>Cardiac fibrosis is a critical pathological change in the development of heart failure caused by MI<xref ref-type="bibr" rid="b17">17</xref>. Although several anti-fibrotic drugs (such as &#x3B2;-blockers, calcium channel blockers, ACE inhibitors, and angiotensin receptor blockers) have been used in the clinic, the unsatisfactory efficacy and long-term safety concerns of current therapies necessitate the identification of new targets to effectively prevent and treat cardiac fibrosis. There is an urgent need for novel treatments of this disease. PFD, a small molecule drug, has universal anti-fibrotic effects in various types of fibrotic diseases<xref ref-type="bibr" rid="b14">14</xref><xref ref-type="bibr" rid="b18">18</xref>.</p>
+      <p>Yamazaki <italic>et al</italic>. found that PFD treatment results in a significant reduction of left ventricular hypertrophy and cardiac fibrosis in an Ang II-induced mouse hypertrophic model<xref ref-type="bibr" rid="b14">14</xref>, suggesting that the RAS may be a novel target of PFD for treatment of cardiomyopathy. However, the underlying molecular mechanisms remained unknown. In this study, for the first time, we showed that PFD balances the RAS to prevent MI-induced cardiac fibrosis.</p>
+      <p>The RAS includes two counter-regulatory axes, ACE-Ang II-AT1R and ACE2-Ang(1-7)-Mas, which are important for the formation and development of cardiac fibrosis in MI and chronic heart failure<xref ref-type="bibr" rid="b19">19</xref>. Accumulating evidence suggests that increases in ACE are detrimental to the heart, because they result in impaired contractility and cardiac hypertrophy due in part to the inhibition of ACE2-mediated cardioprotection<xref ref-type="bibr" rid="b20">20</xref><xref ref-type="bibr" rid="b21">21</xref>. ACE inhibitors and AT1R blockers also increase myocardial ACE2 levels and activity in the clinic<xref ref-type="bibr" rid="b22">22</xref>. Additionally, ACE2 overexpression protects against ACE-mediated cardiac hypertrophy and cardiac fibrosis<xref ref-type="bibr" rid="b23">23</xref>. Thus, ACE and ACE2 may regulate each other by feedback inhibition. Our study supports this hypothesis, and the results suggested that the ACE/ACE2 ratio was disrupted during the development of cardiac fibrosis. In addition, the ACE-Ang II-AT1R axis was notably activated as shown by high levels of ACE, Ang II, and AT1R in the heart tissue. However, the ACE2-Ang(1-7)-Mas axis was inhibited, which acts as a physiological antagonist. PFD and losartan rescued the ACE/ACE2 ratio and balanced the RAS. Losartan is an Ang II receptor antagonist with an antihypertensive activity predominantly due to selective inhibition of AT1R and consequentially reduced pressor effect of Ang II. It is used in the treatment of hypertension and heart failure. It has also been used to reduce the risk of stroke in patients with left ventricular hypertrophy and in the management of MI<xref ref-type="bibr" rid="b24">24</xref>. Recently, Wang <italic>et al</italic>. observed that losartan effectively inhibits pressure overload-induced cardiac remodelling by up-regulating ACE2 expression and down-regulating ACE expression<xref ref-type="bibr" rid="b25">25</xref>. Taken together, the previous studies and our results indicate similar cardioprotection of PFD and losartan, which may be attributed to the effects on RAS axes by alteration of the ACE/ACE2 ratio.</p>
+      <p>In terms of how PFD modulates the ACE/ACE2 ratio, we hypothesised that the AT1R/p38 MAPK signalling pathway might play an important role. AT1R/p38 MAPK, an important signalling pathway, is involved in pancreatic fibrosis, renal tubulointerstitial fibrosis, and peritoneal fibrosis. Moreover, previous studies have reported that activation of the AT1R/p38 MAPK pathway induces an imbalance in the ACE/ACE2 ratio in HK-2 cells and neurons<xref ref-type="bibr" rid="b7">7</xref><xref ref-type="bibr" rid="b8">8</xref>.</p>
+      <p>In the current study, we first found up-regulation of AT1R and p38 MAPK in fibrotic hearts, which was associated with an increase in ACE and a decrease in ACE2. Furthermore, losartan strongly ameliorated the expression of these proteins. Based on previous studies<xref ref-type="bibr" rid="b7">7</xref><xref ref-type="bibr" rid="b8">8</xref> and our results, we confirmed that activation of the AT1R/p38 MAPK pathway altered the RAS by up-regulation of the ACE/ACE2 ratio, which increased ACE, Ang II, and AT1R, but decreased ACE2, Ang(1-7) and Mas. Furthermore, AT1R overexpression amplified AT1R/p38 MAPK signalling, thus creating a positive feedback loop. Interestingly, PFD also inhibited AT1R and p38 MAPK expression, and corrected the ACE/ACE2 ratio. Taking these findings together, we conclude that PFD controls the AT1R/p38 MAPK signalling pathway, corrects the ACE/ACE2 ratio, balances the RAS, and then ameliorates MI-induced cardiac fibrosis.</p>
+      <p>LXR-&#x3B1; has been identified as a novel therapeutic target for fibrotic diseases such as dermal fibrosis and liver fibrosis<xref ref-type="bibr" rid="b26">26</xref><xref ref-type="bibr" rid="b27">27</xref>. A recent study showed that treatment of rats with synthetic LXR-&#x3B1; interferes with the Ang II-mediated pressor response<xref ref-type="bibr" rid="b28">28</xref>. Cannon <italic>et al</italic>. also reported that an LXR-&#x3B1; agonist significantly improves transverse aortic constriction-induced cardiac dysfunction and cardiac fibrosis <italic>in vivo</italic><xref ref-type="bibr" rid="b29">29</xref>. Furthermore, Ang II and Ang(1-7), two important elements of the RAS, inhibit and activate LXR-&#x3B1; expression, respectively<xref ref-type="bibr" rid="b30">30</xref><xref ref-type="bibr" rid="b31">31</xref>. Kuipers <italic>et al</italic>. found that T09, an LXR-&#x3B1; agonist, decreases AT1R and p38 MAPK in wild-type mice but not in LXR-&#x3B1;<sup>&#x2212;/&#x2212;</sup> mice<xref ref-type="bibr" rid="b11">11</xref><xref ref-type="bibr" rid="b32">32</xref>. Therefore, the authors speculated that LXR-&#x3B1; plays a vital role in the positive feedback loop between the AT1R/p38 MAPK pathway and RAS. In the present study, we found a significant decrease in the LXR-&#x3B1; expression of animal hearts after MI-induced cardiac fibrosis, which was associated with activation of the AT1R/p38 MAPK pathway and dysfunction of the RAS. However, losartan inhibited the AT1R/p38 MAPK pathway and activated LXR-&#x3B1; expression. These results were consistent with a previous study in which losartan up-regulated LXR-&#x3B1; mRNA expression in human monocyte-macrophages<xref ref-type="bibr" rid="b33">33</xref>. These results indicate that the positive feedback loop between the AT1R/p38 MAPK pathway and RAS is influenced by inhibition of LXR-&#x3B1; activity. Furthermore, PFD not only blocked the AT1R/p38 MAPK pathway and corrected the RAS balance, but also substantially increased LXR-&#x3B1; activity in MI-induced cardiac fibrosis. These results indicate that the cardioprotection of PFD could be due, in large part, to controlling the feedback loop of the AT1R/p38 MAPK/RAS axis by activation of LXR-&#x3B1;.</p>
+      <p>One limitation of our study is that, although we demonstrate that PFD treatment activates LXR-&#x3B1; and controls the feedback loop of the AT1R/p38-MAPK/RAS axis in a rat model of MI-induced cardiac fibrosis <italic>in vivo</italic>, further studies should address this issue with gain- or loss-of-function assays <italic>in vitro</italic>. Moreover, this aspect may be addressed using genetically altered mice with deficiencies in LXR-&#x3B1; or through the use of small interfering RNA, which is currently underway.</p>
+      <p>In summary, our present study provides <italic>in vivo</italic> confirmation that the positive feedback loop between the AT1R/p38 MAPK pathway and RAS is influenced by inhibition of LXR-&#x3B1; activity, offering a new understanding of human fibrotic diseases. Additionally, we demonstrated for the first time that one of the major mechanisms of PFD may be mediated by the feedback loop of the AT1R/p38 MAPK/RAS axis, partially <italic>via</italic> activation of LXR-&#x3B1; expression. This study suggests that LXR-&#x3B1; may be a new target of PFD for fibrotic disease therapy.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Materials and Methods</title>
+      <p>This study was approved by the Ethics Committee of Yantai University. All animal protocols were in accordance with the guidelines on humane use and care of laboratory animals for biomedical research published by the NIH (No. 85&#x2013;23, revised 1996).</p>
+      <sec disp-level="2">
+        <title>Chemicals and reagents</title>
+        <p>PFD was purchased from Wuhan Kang Bao Tai Biotech Co. Ltd. (Wuhan, China). Losartan was purchased from Xi&#x2019;an Kaihong Biological Technology Co., Ltd. (Xi&#x2019;an, China). A Masson trichrome staining kit was purchased from Maixin Biotech. Co., Ltd. (Shanghai, China). Anti-LXR-&#x3B1;, -phospho-p38 MAPK, -p38 MAPK, -Mas, -AT1R, -ACE2, and -ACE antibodies were obtained from Santa Cruz Biotechnology (CA, USA). Anti-&#x3B2;-actin, -collagen I, -collagen III, and -Ang II antibodies were obtained from Abcam (Cambridge, UK).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Animals and surgical preparation</title>
+        <p>Male Sprague-Dawley rats (260&#x2009;&#xB1;&#x2009;20&#x2009;g) were provided by the Experimental Animal Center of Shandong Luye Pharmaceutical Co., Ltd. (specific pathogen-free grade). All rats were housed in cages under hygienic conditions with a 12-h light/dark cycle at 23&#x2009;&#xB1;&#x2009;3&#x2009;&#xB0;C and 40&#x2013;60% humidity for 6 days before experiments. The animals were provided with a commercial standard rat cube diet and water <italic>ad libitum</italic>.</p>
+        <p>An MI model was established by ligation of the left coronary artery as described in our previous study<xref ref-type="bibr" rid="b34">34</xref>. In brief, animals were anaesthetised by injection of sodium pentobarbital (35&#x2009;mg/kg, i.p.) and artificially ventilated using a volume-regulated respirator. The heart was exposed, and the left coronary artery was ligated at 2&#x2013;3 mm from its origin between the left atrium and pulmonary artery conus using a 6-0 prolene suture. A successful operation was confirmed by the occurrence of ST-segment elevation in an electrocardiogram. This operation was performed by an experimenter who was blinded to the group assignments of the animals. The sham-operated group underwent thoracotomy and cardiac exposure without coronary ligation (n&#x2009;=&#x2009;13). After establishment of the model, animals were divided into model (n&#x2009;=&#x2009;13), PFD (300&#x2009;mg/kg; n&#x2009;=&#x2009;13), and losartan (20&#x2009;mg/kg; n&#x2009;=&#x2009;13) groups. Test substances were administrated by gavage daily for 4 weeks.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Cardiac function assessment</title>
+        <p>Animals were anaesthetised by injection of sodium pentobarbital (35&#x2009;mg/kg, i.p.), and their cardiac functions were assessed by invasive haemodynamic evaluation methods as described in a previous study<xref ref-type="bibr" rid="b34">34</xref>. Under anaesthesia, the right carotid artery was isolated, and a micromanometer-tipped catheter (Model SPR-838; Millar Instruments) was inserted into the left ventricular cavity through the carotid artery. After a 10-min equilibrium period, haemodynamic parameters, including LVSP, +dP/dt<sub>max</sub>, &#x2212;dP/dt<sub>max</sub>, and LVEDP, were measured. Moreover, HW and LVW weight were determined to calculate the organ index.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Masson&#x2019;s trichrome staining for assessment of cardiac fibrosis and infarct size</title>
+        <p>To assess the cardioprotective role of PFD on cardiac fibrosis, the collagenous fibrotic area of the heart was determined by Masson&#x2019;s trichrome staining of 4 &#x3BC;m-thick paraffin-embedded sections. Briefly, the sections were deparaffinised in Histo-Clear and rehydrated by sequential passage through 70&#x2013;100% ethanol solutions for 5&#x2013;6&#x2009;min each followed by washing in distilled water three times. The sections were stained with Masson&#x2019;s trichrome for 4&#x2013;5&#x2009;min. The sections were washed and stained with phosphomolybdic acid for 4&#x2013;5&#x2009;min, an aniline blue solution for 4&#x2013;5&#x2009;min, and then differentiated for 60&#x2009;s. After a final wash, the sections were dehydrated using 95% and 100% alcohol solutions followed by dehydration and mounting. The sections were digitally imaged on an Olympus DP25, and the CVF in the peri-infarcted areas was evaluated as a percentage of the fibrotic area (blue staining) to the left ventricular area in an average of five sections of each heart (NIH Image software).</p>
+        <p>Infarct size was determined using a previously described method<xref ref-type="bibr" rid="b35">35</xref>. In this method, sections were stained with Masson&#x2019;s trichrome. Total infarct circumference was calculated as the sum of the endocardial and epicardial infarct lengths from all sections, which were traced manually in the digital images and measured automatically by a computer. Total left ventricular circumference was calculated as the sum of the endocardial and epicardial segment lengths from all sections. Infarct size was calculated as the total infarct circumference divided by the total left ventricular circumference.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Western blot analysis</title>
+        <p>Proteins were separated by sodium dodecyl sulfate-polyacrylamide gel electrophoresis, transferred to a nitrocellulose membrane, and incubated with antibodies against &#x3B2;-actin, &#x3B1;-SMA, collagen I, collagen III, Ang II, ACE, ACE2, AT1R, Mas, LXR-&#x3B1;, p38 MAPK, or phospho-p38 MAPK at 4&#x2009;&#xB0;C overnight. Labelled proteins were detected with horseradish peroxidase-conjugated secondary antibodies and visualised using the enhanced chemiluminescence method.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Enzyme-linked immunosorbent assay</title>
+        <p>Hearts were homogenised for Ang(1-7) analysis by enzyme-linked immunosorbent assays using commercially available kits, according to the manufacturer&#x2019;s instructions (Jiancheng, Nanjing, China).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Statistical analyses</title>
+        <p>Data are reported as the mean&#x2009;&#xB1;&#x2009;standard error of the mean (SEM). Statistical analyses were performed using SPSS 17.0 software. Differences between groups were determined by analysis of variance (ANOVA) followed by Dunnett&#x2019;s test. P&#x2009;&lt;&#x2009;0.05 was considered as statistically significant.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1">
+      <title>Additional Information</title>
+      <p><bold>How to cite this article</bold>: Li, C. <italic>et al</italic>. Pirfenidone controls the feedback loop of the AT1R/p38 MAPK/renin-angiotensin system axis by regulating liver X receptor-&#x3B1; in myocardial infarction-induced cardiac fibrosis. <italic>Sci. Rep.</italic>
+<bold>7</bold>, 40523; doi: 10.1038/srep40523 (2017).</p>
+      <p><bold>Publisher's note:</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="S1">
+      <title>Supplementary Material</title>
+      <supplementary-material id="d32e30" content-type="local-data">
+        <caption>
+          <title>Supplementary Information</title>
+        </caption>
+        <media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-s1.pdf"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This work was supported by the Natural Science Foundation of Shandong Province (No. ZR2014JL048, ZR2015HL125), the National Natural Science Foundation of China (No. 81503059 and No. 81473188) and the Comprehensive Research Platform for Natural Medicine and New Formulation (No. 2013ZX09402201002).</p>
+    </ack>
+    <ref-list>
+      <ref id="b1">
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>N.</given-names></name>
+<etal/>. <article-title>Activation of the cardiac proteasome promotes angiotension II-induced hypertrophy by down-regulation of ATRAP</article-title>. <source>J Mol Cell Cardiol</source>
+<volume>79</volume>, <fpage>303</fpage>&#x2013;<lpage>314</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25526681</pub-id></mixed-citation>
+      </ref>
+      <ref id="b2">
+        <mixed-citation publication-type="journal"><name><surname>Ainscough</surname><given-names>J. F.</given-names></name>
+<etal/>. <article-title>Angiotensin II type-1 receptor activation in the adult heart causes blood pressure-independent hypertrophy and cardiac dysfunction</article-title>. <source>Cardiovasc Res</source>
+<volume>81</volume>, <fpage>592</fpage>&#x2013;<lpage>600</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">18703536</pub-id></mixed-citation>
+      </ref>
+      <ref id="b3">
+        <mixed-citation publication-type="other"><name><surname>Sim&#xF5;es</surname><given-names>E.</given-names></name>, <name><surname>Silva</surname><given-names>A. C.</given-names></name> &amp; <name><surname>Teixeira</surname><given-names>M. M.</given-names></name>
+<article-title>ACE inhibition, ACE2 and angiotensin-(1-7) axis in kidney and cardiac inflammation and fibrosis. Pharmacol Res</article-title> doi: <pub-id pub-id-type="doi">10.1016/j.phrs</pub-id> (<year>2016</year>).</mixed-citation>
+      </ref>
+      <ref id="b4">
+        <mixed-citation publication-type="journal"><name><surname>Matsuo</surname><given-names>T.</given-names></name>
+<etal/>. <article-title>Efficient long-term survival of cell grafts after myocardial infarction with thick viable cardiac tissue entirely from pluripotent stem cells</article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>16842</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26585309</pub-id></mixed-citation>
+      </ref>
+      <ref id="b5">
+        <mixed-citation publication-type="other"><name><surname>Sakurai</surname><given-names>T.</given-names></name>
+<etal/>. <article-title>Involvement of angiotensin II and reactive oxygen species in pancreatic fibrosis. Pancreatology: official journal of the International Association of Pancreatology</article-title>
+<volume>11</volume> Suppl 2, <fpage>7</fpage>&#x2013;<lpage>13</lpage> (<year>2011</year>).</mixed-citation>
+      </ref>
+      <ref id="b6">
+        <mixed-citation publication-type="journal"><name><surname>Zhao</surname><given-names>G.</given-names></name>
+<etal/>. <article-title>Effects and mechanism of irbesartan on tubulointerstitial fibrosis in 5/6 nephrectomized rats</article-title>. <source>J Huazhong Univ Sci Technolog Med Sci</source>
+<volume>30</volume>, <fpage>48</fpage>&#x2013;<lpage>54</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20155455</pub-id></mixed-citation>
+      </ref>
+      <ref id="b7">
+        <mixed-citation publication-type="journal"><name><surname>Koka</surname><given-names>V.</given-names></name>
+<etal/>. <article-title>Angiotensin II up-regulates angiotensin I-converting enzyme (ACE), but down-regulates ACE2 via the AT1-ERK/p38 MAP kinase pathway</article-title>. <source>Am J Pathol</source>
+<volume>172</volume>, <fpage>1174</fpage>&#x2013;<lpage>1183</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18403595</pub-id></mixed-citation>
+      </ref>
+      <ref id="b8">
+        <mixed-citation publication-type="journal"><name><surname>Xiao</surname><given-names>L.</given-names></name>, <name><surname>Haack</surname><given-names>K. K.</given-names></name> &amp; <name><surname>Zucker</surname><given-names>I. H.</given-names></name>
+<article-title>Angiotensin II regulates ACE and ACE2 in neurons through p38 mitogen- 1 activated protein kinase and extracellular signal-regulated kinase 1/2 signaling</article-title>. <source>Am J Physiol Cell Physiol</source>
+<volume>304</volume>, <fpage>C1073</fpage>&#x2013;<lpage>C1079</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23535237</pub-id></mixed-citation>
+      </ref>
+      <ref id="b9">
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>X.</given-names></name>, <name><surname>Gao</surname><given-names>J.</given-names></name>, <name><surname>Xia</surname><given-names>Q.</given-names></name>, <name><surname>Lu</surname><given-names>T.</given-names></name> &amp; <name><surname>Wang</surname><given-names>F.</given-names></name>
+<article-title>Increased mortality and aggravation of heart failure in liver X receptor-&#x3B1; knockout mice after myocardial infarction</article-title>. <source>Heart Vessels</source>
+<volume>31</volume>, <fpage>1370</fpage>&#x2013;<lpage>9</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26753692</pub-id></mixed-citation>
+      </ref>
+      <ref id="b10">
+        <mixed-citation publication-type="journal"><name><surname>Cannon</surname><given-names>M. V.</given-names></name>
+<etal/>. <article-title>Cardiac LXR&#x3B1; protects against pathological cardiac hypertrophy and dysfunction by enhancing glucose uptake and utilization</article-title>. <source>EMBO Mol Med</source>
+<volume>7</volume>, <fpage>1229</fpage>&#x2013;<lpage>43</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26160456</pub-id></mixed-citation>
+      </ref>
+      <ref id="b11">
+        <mixed-citation publication-type="journal"><name><surname>Kuipers</surname><given-names>I.</given-names></name>
+<etal/>. <article-title>Activation of liver X receptor-alpha reduces activation of the renal and cardiac renin&#x2013;angiotensin&#x2013;aldosterone system</article-title>. <source>Lab Invest</source>
+<volume>90</volume>, <fpage>630</fpage>&#x2013;<lpage>636</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20125084</pub-id></mixed-citation>
+      </ref>
+      <ref id="b12">
+        <mixed-citation publication-type="journal"><name><surname>Yan</surname><given-names>K.</given-names></name>
+<etal/>. <article-title>p38 mitogen-activated protein kinase and liver X receptor-&#x3B1; mediate the leptin effect on sterol regulatory element binding protein-1c expression in hepatic stellate cells</article-title>. <source>Mol Med</source>
+<volume>18</volume>, <fpage>10</fpage>&#x2013;<lpage>8</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">21979752</pub-id></mixed-citation>
+      </ref>
+      <ref id="b13">
+        <mixed-citation publication-type="journal"><name><surname>Avila</surname><given-names>G.</given-names></name>, <name><surname>Osornio-Gardu&#xF1;o</surname><given-names>D. S.</given-names></name>, <name><surname>R&#xED;os-P&#xE9;rez</surname><given-names>E. B.</given-names></name> &amp; <name><surname>Ramos-Mondrag&#xF3;n</surname><given-names>R.</given-names></name>
+<article-title>Functional and structural impact of pirfenidone on the alterations of cardiac disease and diabetes mellitus</article-title>. <source>Cell Calcium</source>
+<volume>56</volume>, <fpage>428</fpage>&#x2013;<lpage>435</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25108569</pub-id></mixed-citation>
+      </ref>
+      <ref id="b14">
+        <mixed-citation publication-type="journal"><name><surname>Yamagami</surname><given-names>K.</given-names></name>
+<etal/>. <article-title>Pirfenidone exhibits cardioprotective effects by regulating myocardial fibrosis and vascular permeability in pressure-overloaded hearts</article-title>. <source>Am J Physiol Heart Circ Physiol</source>
+<volume>309</volume>, <fpage>H512</fpage>&#x2013;<lpage>H522</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26055790</pub-id></mixed-citation>
+      </ref>
+      <ref id="b15">
+        <mixed-citation publication-type="journal"><name><surname>Takakuta</surname><given-names>K.</given-names></name>
+<etal/>. <article-title>Renoprotective properties of pirfenidone in subtotally nephrectomized rats</article-title>. <source>Eur J Pharmacol</source>
+<volume>629</volume>, <fpage>118</fpage>&#x2013;<lpage>24</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20006961</pub-id></mixed-citation>
+      </ref>
+      <ref id="b16">
+        <mixed-citation publication-type="journal"><name><surname>Conte</surname><given-names>E.</given-names></name>
+<etal/>. <article-title>Effect of pirfenidone on proliferation, TGF-&#x3B2;-induced myofibroblast differentiation and fibrogenic activity of primary human lung fibroblasts</article-title>. <source>Eur J Pharm Sci</source>
+<volume>58</volume>, <fpage>13</fpage>&#x2013;<lpage>9</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24613900</pub-id></mixed-citation>
+      </ref>
+      <ref id="b17">
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>J. J.</given-names></name>
+<etal/>. <article-title>Improving vagal activity ameliorates cardiac fibrosis induced by angiotensin II: <italic>in vivo</italic> and <italic>in vitro</italic></article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>17108</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26596640</pub-id></mixed-citation>
+      </ref>
+      <ref id="b18">
+        <mixed-citation publication-type="journal"><name><surname>Miyamoto</surname><given-names>A.</given-names></name>
+<etal/>. <article-title>Marked improvement with Pirfenidone in a patient with idiopathic pulmonary fibrosis</article-title>. <source>Intern Med</source>
+<volume>55</volume>, <fpage>657</fpage>&#x2013;<lpage>661</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26984086</pub-id></mixed-citation>
+      </ref>
+      <ref id="b19">
+        <mixed-citation publication-type="journal"><name><surname>Patel</surname><given-names>V. B.</given-names></name>
+<etal/>. <article-title>Loss of angiotensin-converting enzyme-2 exacerbates diabetic cardiovascular complications and leads to systolic and vascular dysfunction: a critical role of the angiotensin II/AT1 receptor axis</article-title>. <source>Circ Res</source>
+<volume>110</volume>, <fpage>1322</fpage>&#x2013;<lpage>1335</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22474255</pub-id></mixed-citation>
+      </ref>
+      <ref id="b20">
+        <mixed-citation publication-type="journal"><name><surname>Patel</surname><given-names>B. M.</given-names></name> &amp; <name><surname>Mehta</surname><given-names>A. A.</given-names></name>
+<article-title>Aldosterone and angiotensin: Role in diabetes and cardiovascular diseases</article-title>. <source>Eur J Pharmacol</source>
+<volume>697</volume>, <fpage>1</fpage>&#x2013;<lpage>12</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">23041273</pub-id></mixed-citation>
+      </ref>
+      <ref id="b21">
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>Q.</given-names></name>
+<etal/>. <article-title>Renal denervation findings on cardiac and renal fibrosis in rats with isoproterenol induced cardiomyopathy</article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>18582</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26689945</pub-id></mixed-citation>
+      </ref>
+      <ref id="b22">
+        <mixed-citation publication-type="journal"><name><surname>Ferrario</surname><given-names>C. M.</given-names></name>
+<etal/>. <article-title>Effect of angiotensin-converting enzyme inhibition and angiotensin II receptor blockers on cardiac angiotensin-converting enzyme 2</article-title>. <source>Circulation</source>
+<volume>111</volume>, <fpage>2605</fpage>&#x2013;<lpage>2610</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">15897343</pub-id></mixed-citation>
+      </ref>
+      <ref id="b23">
+        <mixed-citation publication-type="journal"><name><surname>Der. Sarkissian</surname><given-names>S.</given-names></name>
+<etal/>. <article-title>Cardiac overexpression of angiotensin converting enzyme 2 protects the heart from ischemia-induced pathophysiology</article-title>. <source>Hypertension</source>
+<volume>51</volume>, <fpage>712</fpage>&#x2013;<lpage>718</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18250366</pub-id></mixed-citation>
+      </ref>
+      <ref id="b24">
+        <mixed-citation publication-type="journal"><name><surname>Al-Majed</surname><given-names>A. R.</given-names></name>, <name><surname>Assiri</surname><given-names>E.</given-names></name>, <name><surname>Khalil</surname><given-names>N. Y.</given-names></name> &amp; <name><surname>Abdel-Aziz</surname><given-names>H. A.</given-names></name>
+<article-title>Losartan: comprehensive profile</article-title>. <source>Profiles Drug Subst Excip Relat Methodol</source>
+<volume>40</volume>, <fpage>159</fpage>&#x2013;<lpage>94</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26051686</pub-id></mixed-citation>
+      </ref>
+      <ref id="b25">
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>X.</given-names></name>
+<etal/>. <article-title>The effects of different angiotensin II type 1 receptor blockers on the regulation of the ACE-AngII-AT1 and ACE2-Ang(1-7)-Mas axes in pressure overload-induced cardiac remodeling in male mice</article-title>. <source>J Mol Cell Cardiol</source>
+<volume>97</volume>, <fpage>180</fpage>&#x2013;<lpage>190</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27210827</pub-id></mixed-citation>
+      </ref>
+      <ref id="b26">
+        <mixed-citation publication-type="journal"><name><surname>Beyer</surname><given-names>C.</given-names></name>
+<etal/>. <article-title>Activation of liver X receptors inhibits experimental fibrosis by interfering with interleukin-6 release from macrophages</article-title>. <source>Ann Rheum Dis</source>
+<volume>74</volume>, <fpage>1317</fpage>&#x2013;<lpage>24</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">24618263</pub-id></mixed-citation>
+      </ref>
+      <ref id="b27">
+        <mixed-citation publication-type="journal"><name><surname>Ahn</surname><given-names>S. B.</given-names></name>, <name><surname>Jang</surname><given-names>K.</given-names></name>, <name><surname>Jun</surname><given-names>D. W.</given-names></name>, <name><surname>Lee</surname><given-names>B. H.</given-names></name> &amp; <name><surname>Shin</surname><given-names>K. J.</given-names></name>
+<article-title>Expression of liver X receptor correlates with intrahepatic inflammation and fibrosis in patients with nonalcoholic fatty liver disease</article-title>. <source>Dig Dis Sci</source>
+<volume>59</volume>, <fpage>2975</fpage>&#x2013;<lpage>82</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25102981</pub-id></mixed-citation>
+      </ref>
+      <ref id="b28">
+        <mixed-citation publication-type="journal"><name><surname>Leik</surname><given-names>C. E.</given-names></name>
+<etal/>. <article-title>GW3965, a synthetic liver X receptor (LXR) agonist, reduces angiotensin II-mediated pressor responses in Sprague-Dawley rats</article-title>. <source>Br J Pharmacol</source>
+<volume>151</volume>, <fpage>450</fpage>&#x2013;<lpage>456</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17420776</pub-id></mixed-citation>
+      </ref>
+      <ref id="b29">
+        <mixed-citation publication-type="journal"><name><surname>Cannon</surname><given-names>M. V.</given-names></name>
+<etal/>. <article-title>The liver X receptor agonist AZ876 protects against pathological cardiac hypertrophy and fibrosis without lipogenic side effects</article-title>. <source>Eur J Heart Fail</source>
+<volume>17</volume>, <fpage>273</fpage>&#x2013;<lpage>282</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25684370</pub-id></mixed-citation>
+      </ref>
+      <ref id="b30">
+        <mixed-citation publication-type="journal"><name><surname>Passos-Silva</surname><given-names>D. G.</given-names></name>, <name><surname>Verano-Braga</surname><given-names>T.</given-names></name> &amp; <name><surname>Santos</surname><given-names>R. A.</given-names></name>
+<article-title>Angiotensin-(1-7): beyond the cardio-renal actions</article-title>.<source>Clin Sci (Lond)</source>
+<volume>124</volume>, <fpage>443</fpage>&#x2013;<lpage>456</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23249272</pub-id></mixed-citation>
+      </ref>
+      <ref id="b31">
+        <mixed-citation publication-type="journal"><name><surname>Kang</surname><given-names>X. H.</given-names></name>
+<article-title>Effect of Ang II and Ang (1-7) on PPAR&#x3B3;and LXR-&#x3B1; expression in THP-1 macrophage, and the interaction between them. Shanxi Medical University. Chinese</article-title>
+<source>Journal of Arteriosclerosis</source> (<year>2011</year>).</mixed-citation>
+      </ref>
+      <ref id="b32">
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>Y.</given-names></name>
+<etal/>. <article-title>Activation of liver X receptor improves viability of adipose-derived mesenchymal stem cells to attenuate myocardial ischemia injury through TLR4/NF-&#x3BA;B and Keap-1/Nrf-2 signaling pathways</article-title>. <source>Antioxid Redox Signal</source>
+<volume>21</volume>, <fpage>2543</fpage>&#x2013;<lpage>2557</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24915051</pub-id></mixed-citation>
+      </ref>
+      <ref id="b33">
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>L. N.</given-names></name>, <name><surname>He</surname><given-names>B.</given-names></name>, <name><surname>Wu</surname><given-names>Y. X.</given-names></name>, <name><surname>Liang</surname><given-names>S.</given-names></name> &amp; <name><surname>Shen</surname><given-names>X. Y.</given-names></name>
+<article-title>Effects of rosuvastatin plus losartan on liver X receptor mRNA expression in human monocyte-macrophages induced by oxidized low-density lipoprotein. Chinese Remedies &amp;</article-title>
+<source>Clinics</source>
+<volume>14</volume>, <fpage>721</fpage>&#x2013;<lpage>723</lpage> (<year>2014</year>).</mixed-citation>
+      </ref>
+      <ref id="b34">
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>C.</given-names></name>, <name><surname>Gao</surname><given-names>Y.</given-names></name>, <name><surname>Tian</surname><given-names>J.</given-names></name>, <name><surname>Xing</surname><given-names>Y.</given-names></name>, <name><surname>Zhu</surname><given-names>H.</given-names></name> &amp; <name><surname>Shen</surname><given-names>J.</given-names></name>
+<article-title>Long-term oral Asperosaponin VI attenuates cardiac dysfunction, myocardial fibrosis in a rat model of chronic myocardial infarction</article-title>. <source>Food Chem Toxicol</source>
+<volume>50</volume>, <fpage>1432</fpage>&#x2013;<lpage>1438</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22343037</pub-id></mixed-citation>
+      </ref>
+      <ref id="b35">
+        <mixed-citation publication-type="journal"><name><surname>Takagawa</surname><given-names>J.</given-names></name>
+<etal/>. <article-title>Myocardial infarct size measurement in the mouse chronic infarction model: comparison of area- and length-based approaches</article-title>. <source>J Appl Physiol</source>
+<volume>102</volume>, <fpage>2104</fpage>&#x2013;<lpage>2111</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">17347379</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><bold>Author Contributions</bold> Rui Han and Le Kang performed the experiments. Yanshen Li and Jianping Wang performed the statistical analyses. Yonglin Gao wrote the main manuscript text. Chunmei Li and Jingwei Tian designed the study and prepared figures. All authors reviewed and approved the final manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <floats-group>
+    <fig id="f1">
+      <label>Figure 1</label>
+      <caption>
+        <title>Balance between ACE-Ang II-AT1R and ACE2-Ang(1-7)-Mas axes in the development of cardiac fibrosis.</title>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f1"/>
+    </fig>
+    <fig id="f2">
+      <label>Figure 2</label>
+      <caption>
+        <title>LXR-&#x3B1; involved in the feedback loop of AT1R/p38 MAPK-RAS axis and the interventional effect of PFD.</title>
+        <p>Myocardial injury activated the AT1R/p38 MAPK pathway that disrupted the ACE/ACE2 ratio and further imbalanced ACE-Ang II-AT1R and ACE2-Ang(1-7)-Mas axes, including increases in ACE, Ang II, and AT1R and decreases in ACE2, Ang(1-7) and Mas. Moreover, increasing Ang II and decreasing Ang(1-7) synergistically inhibited LXR-&#x3B1; expression. Consequently, the decrease in LXR-&#x3B1; further activated the AT1R/p38 MAPK pathway. This signalling created a positive feedback loop that amplified AT1R/p38 MAPK signalling, thereby disrupting the RAS balance and inducing cardiac fibrosis. Interestingly, PFD activated LXR-&#x3B1; expression, inhibited the AT1R/p38 MAPK pathway, and balanced the RAS in this rat model of cardiac fibrosis.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f2"/>
+    </fig>
+    <fig id="f3">
+      <label>Figure 3</label>
+      <caption>
+        <title>Effects of PFD on MI-induced cardiac fibrosis (&#xD7;200).</title>
+        <p>(<bold>A</bold>) Sham group, (<bold>B</bold>) model group, (<bold>C</bold>) PFD group, and (<bold>D</bold>) losartan group. Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;13 for sham group, 12 for model group, 13 for PFD group, and 13 for losartan group). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f3"/>
+    </fig>
+    <fig id="f4">
+      <label>Figure 4</label>
+      <caption>
+        <title>Effects of PFD on MI-induced infarct size (IS) (&#xD7;10).</title>
+        <p>(<bold>A</bold>) Sham group, (<bold>B</bold>) model group, (<bold>C</bold>) PFD group, and (<bold>D</bold>) losartan group. Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;13 for sham group, 12 for model group, 13 for PFD group, and 13 for losartan group). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> Sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f4"/>
+    </fig>
+    <fig id="f5">
+      <label>Figure 5</label>
+      <caption>
+        <title>Effects of PFD on MI-induced CVF (n&#x2009;=&#x2009;13 for sham group, 12 for model group, 13 for PFD group, and 13 for losartan group).</title>
+        <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM. Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05 <italic>vs.</italic> model group.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f5"/>
+    </fig>
+    <fig id="f6">
+      <label>Figure 6</label>
+      <caption>
+        <title>Effects of PFD on collagen I and III expression.</title>
+        <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;5). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. *P&#x2009;&lt;&#x2009;0.05, **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group. Cropped blots are shown. Full length gels are included in the <xref ref-type="supplementary-material" rid="S1">Supplementary information</xref>.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f6"/>
+    </fig>
+    <fig id="f7">
+      <label>Figure 7</label>
+      <caption>
+        <title>Effects of PFD on &#x3B1;-SMA expression.</title>
+        <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;5). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group. Cropped blots are shown. Full length gels are included in the <xref ref-type="supplementary-material" rid="S1">Supplementary information</xref>.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f7"/>
+    </fig>
+    <fig id="f8">
+      <label>Figure 8</label>
+      <caption>
+        <title>Effects of PFD on hydroxyproline concentrations (n&#x2009;=&#x2009;13 for sham group, 12 for model group, 13 for PFD group, and 13 for losartan group).</title>
+        <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM. Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. *P&#x2009;&lt;&#x2009;0.05 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f8"/>
+    </fig>
+    <fig id="f9">
+      <label>Figure 9</label>
+      <caption>
+        <title>Effects of PFD on AT1R and phospho-p38 MAPK (p-p38 MAPK) expression.</title>
+        <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;5). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. *P&#x2009;&lt;&#x2009;0.05, **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group. Cropped blots are shown. Full length gels are included in the <xref ref-type="supplementary-material" rid="S1">Supplementary information</xref>.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f9"/>
+    </fig>
+    <fig id="f10">
+      <label>Figure 10</label>
+      <caption>
+        <title>Effects of PFD on ACE, ACE2, Ang II, Ang(1-7), and Mas expression. Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;5).</title>
+        <p>Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. *P&#x2009;&lt;&#x2009;0.05, **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group. Cropped blots are shown. Full length gels are included in the <xref ref-type="supplementary-material" rid="S1">Supplementary information</xref>.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f10"/>
+    </fig>
+    <fig id="f11">
+      <label>Figure 11</label>
+      <caption>
+        <title>Effects of PFD on LXR-&#x3B1; expression (n&#x2009;=&#x2009;5).</title>
+        <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM. Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group. Cropped blots are shown. Full length gels are included in the <xref ref-type="supplementary-material" rid="S1">Supplementary information</xref>.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep40523-f11"/>
+    </fig>
+    <table-wrap position="float" id="t1">
+      <label>Table 1</label>
+      <caption>
+        <title>Effects of PFD on cardiac hypertrophy in rats with cardiac fibrosis.</title>
+      </caption>
+      <table frame="hsides" rules="groups" border="1">
+        <colgroup>
+          <col align="left"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+        </colgroup>
+        <thead valign="bottom">
+          <tr>
+            <th align="left" valign="top" charoff="50">Group</th>
+            <th align="center" valign="top" charoff="50">Dose (mg/kg)</th>
+            <th align="center" valign="top" charoff="50">BW (g)</th>
+            <th align="center" valign="top" charoff="50">HW (mg)</th>
+            <th align="center" valign="top" charoff="50">LVW (mg)</th>
+            <th align="center" valign="top" charoff="50">HW/BW (mg/g)</th>
+            <th align="center" valign="top" charoff="50">LVW/BW (mg/g)</th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td align="left" valign="top" charoff="50">Sham</td>
+            <td align="center" valign="top" charoff="50">&#x2014;</td>
+            <td align="center" valign="top" charoff="50">467&#x2009;&#xB1;&#x2009;32.6</td>
+            <td align="center" valign="top" charoff="50">1231&#x2009;&#xB1;&#x2009;56.3</td>
+            <td align="center" valign="top" charoff="50">849.9&#x2009;&#xB1;&#x2009;40.3</td>
+            <td align="center" valign="top" charoff="50">2.6&#x2009;&#xB1;&#x2009;0.1</td>
+            <td align="center" valign="top" charoff="50">1.8&#x2009;&#xB1;&#x2009;0.1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Model</td>
+            <td align="center" valign="top" charoff="50">&#x2014;</td>
+            <td align="center" valign="top" charoff="50">454.8&#x2009;&#xB1;&#x2009;23.8</td>
+            <td align="center" valign="top" charoff="50">1351&#x2009;&#xB1;&#x2009;77.6<sup>**</sup></td>
+            <td align="center" valign="top" charoff="50">916.5&#x2009;&#xB1;&#x2009;47.4<sup>**</sup></td>
+            <td align="center" valign="top" charoff="50">2.9&#x2009;&#xB1;&#x2009;0.1<sup>**</sup></td>
+            <td align="center" valign="top" charoff="50">2.0&#x2009;&#xB1;&#x2009;0.1<sup>**</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">PFD</td>
+            <td align="center" valign="top" charoff="50">300</td>
+            <td align="center" valign="top" charoff="50">423.7&#x2009;&#xB1;&#x2009;20.3<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">1228&#x2009;&#xB1;&#x2009;66.5<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">844.8&#x2009;&#xB1;&#x2009;50.6<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">2.7&#x2009;&#xB1;&#x2009;0.1</td>
+            <td align="center" valign="top" charoff="50">1.9&#x2009;&#xB1;&#x2009;0.1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Losartan</td>
+            <td align="center" valign="top" charoff="50">20</td>
+            <td align="center" valign="top" charoff="50">430&#x2009;&#xB1;&#x2009;28.8<sup>#</sup></td>
+            <td align="center" valign="top" charoff="50">1237&#x2009;&#xB1;&#x2009;100.7<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">853.9&#x2009;&#xB1;&#x2009;53.1<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">2.8&#x2009;&#xB1;&#x2009;0.1</td>
+            <td align="center" valign="top" charoff="50">1.9&#x2009;&#xB1;&#x2009;0.1</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="t1-fn1">
+          <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;13 for sham group, 12 for model group, 13 for PFD group, and 13 for losartan group). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. PFD, Pirfenidone; BW, the body weight; HW, heart weight; LVH, left ventricular weight. **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="t2">
+      <label>Table 2</label>
+      <caption>
+        <title>Effects of PFD on hemodynamic parameters in rats with cardiac fibrosis.</title>
+      </caption>
+      <table frame="hsides" rules="groups" border="1">
+        <colgroup>
+          <col align="left"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+        </colgroup>
+        <thead valign="bottom">
+          <tr>
+            <th align="left" valign="top" charoff="50">Group</th>
+            <th align="center" valign="top" charoff="50">Dose (mg/kg)</th>
+            <th align="center" valign="top" charoff="50">LVSP (mmHg)</th>
+            <th align="center" valign="top" charoff="50">LVEDP (mmHg)</th>
+            <th align="center" valign="top" charoff="50">+dp/dt<sub>max</sub> (mmHg/sec)</th>
+            <th align="center" valign="top" charoff="50">&#x2212;dp/dt<sub>max</sub> (mmHg/sec)</th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td align="left" valign="top" charoff="50">Sham</td>
+            <td align="center" valign="top" charoff="50">&#x2014;</td>
+            <td align="center" valign="top" charoff="50">148.1&#x2009;&#xB1;&#x2009;7.9</td>
+            <td align="center" valign="top" charoff="50">5.8&#x2009;&#xB1;&#x2009;1.1</td>
+            <td align="center" valign="top" charoff="50">10806&#x2009;&#xB1;&#x2009;702</td>
+            <td align="center" valign="top" charoff="50">9141&#x2009;&#xB1;&#x2009;1173</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Model</td>
+            <td align="center" valign="top" charoff="50">&#x2014;</td>
+            <td align="center" valign="top" charoff="50">115.7&#x2009;&#xB1;&#x2009;13.4<sup>**</sup></td>
+            <td align="center" valign="top" charoff="50">10.1&#x2009;&#xB1;&#x2009;2.2<sup>*</sup></td>
+            <td align="center" valign="top" charoff="50">6526&#x2009;&#xB1;&#x2009;1465<sup>**</sup></td>
+            <td align="center" valign="top" charoff="50">4666&#x2009;&#xB1;&#x2009;1591<sup>**</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">PFD</td>
+            <td align="center" valign="top" charoff="50">300</td>
+            <td align="center" valign="top" charoff="50">129.3&#x2009;&#xB1;&#x2009;15.4<sup>#</sup></td>
+            <td align="center" valign="top" charoff="50">11.5&#x2009;&#xB1;&#x2009;4.2</td>
+            <td align="center" valign="top" charoff="50">8663&#x2009;&#xB1;&#x2009;1596<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">6475&#x2009;&#xB1;&#x2009;1414<sup>##</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Losartan</td>
+            <td align="center" valign="top" charoff="50">20</td>
+            <td align="center" valign="top" charoff="50">134.1&#x2009;&#xB1;&#x2009;7.7<sup>##</sup></td>
+            <td align="center" valign="top" charoff="50">13.2&#x2009;&#xB1;&#x2009;3.4</td>
+            <td align="center" valign="top" charoff="50">8038&#x2009;&#xB1;&#x2009;1137<sup>#</sup></td>
+            <td align="center" valign="top" charoff="50">6147&#x2009;&#xB1;&#x2009;1088<sup>#</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="t2-fn1">
+          <p>Data are reported as means&#x2009;&#xB1;&#x2009;SEM (n&#x2009;=&#x2009;13 for sham group, 12 for model group, 12 for PFD group, and 12 for losartan group). Differences between groups were examined by ANOVA followed by Dunnett&#x2019;s test. PFD, Pirfenidone; LVSP, left ventricular systolic pressure; LVEDP, left ventricular end-diastolic pressure. *P&#x2009;&lt;&#x2009;0.05, **P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> sham group. <sup>#</sup>P&#x2009;&lt;&#x2009;0.05, <sup>##</sup>P&#x2009;&lt;&#x2009;0.01 <italic>vs.</italic> model group.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

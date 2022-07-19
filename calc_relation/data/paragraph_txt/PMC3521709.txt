@@ -1,0 +1,1 @@
+In the pathway for membrane recruitment, which we refer to as the CED-1 pathway, four proteins have been identified, CED-7, CED-1, CED-6 and DYN-1 (Figure 1). These proteins activate DYN-1, a C. elegans dynamin homolog, which might recruit membrane for engulfment; in mammalian cells dynamin promotes extension of lamellipodial membrane protrusions.

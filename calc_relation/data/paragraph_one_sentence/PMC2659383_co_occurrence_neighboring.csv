@@ -1,0 +1,10 @@
+gene_name_1,gene_name_2,co_occurrence
+SHH,SHH,14
+SHH,SUFU,2
+SHH,SMO,6
+SUFU,SUFU,4
+SUFU,SMO,4
+SUFU,GLI,2
+SMO,SMO,10
+SMO,GLI,2
+GLI,GLI,4

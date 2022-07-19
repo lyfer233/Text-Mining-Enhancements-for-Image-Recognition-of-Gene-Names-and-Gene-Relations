@@ -1,0 +1,1457 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Genet</journal-id>
+      <journal-id journal-id-type="iso-abbrev">PLoS Genet</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="pmc">plosgen</journal-id>
+      <journal-title-group>
+        <journal-title>PLoS Genetics</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1553-7390</issn>
+      <issn pub-type="epub">1553-7404</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">23271977</article-id>
+      <article-id pub-id-type="pmc">3521709</article-id>
+      <article-id pub-id-type="publisher-id">PGENETICS-D-12-01786</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pgen.1003115</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>Biology</subject>
+          <subj-group>
+            <subject>Biochemistry</subject>
+            <subj-group>
+              <subject>Proteins</subject>
+              <subj-group>
+                <subject>Cytoskeletal Proteins</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Developmental Biology</subject>
+            <subj-group>
+              <subject>Molecular Development</subject>
+              <subj-group>
+                <subject>Signaling</subject>
+              </subj-group>
+            </subj-group>
+            <subj-group>
+              <subject>Morphogenesis</subject>
+              <subj-group>
+                <subject>Cell Migration</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Genetics</subject>
+            <subj-group>
+              <subject>Animal Genetics</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group>
+            <subject>Model Organisms</subject>
+            <subj-group>
+              <subject>Animal Models</subject>
+              <subj-group>
+                <subject>Caenorhabditis Elegans</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>SLI-1 Cbl Inhibits the Engulfment of Apoptotic Cells in <italic>C. elegans</italic> through a Ligase-Independent Function</article-title>
+        <alt-title alt-title-type="running-head">SLI-1 Inhibits Apoptotic Cell Engulfment</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Anderson</surname>
+            <given-names>Courtney</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Shan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sawin</surname>
+            <given-names>Emma</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Horvitz</surname>
+            <given-names>H. Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hurwitz</surname>
+            <given-names>Michael E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref>
+          <xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>Yale Cancer Center and Department of Medicine, Yale University School of Medicine, New Haven, Connecticut, United States of America</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <addr-line>Howard Hughes Medical Institute (HHMI), Department of Biology, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America</addr-line>
+      </aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Ashrafi</surname>
+            <given-names>Kaveh</given-names>
+          </name>
+          <role>Editor</role>
+          <xref ref-type="aff" rid="edit1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">
+        <addr-line>University of California San Francisco, United States of America</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">* E-mail: <email>michael.hurwitz@yale.edu</email></corresp>
+        <fn fn-type="COI-statement">
+          <p>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Conceived and designed the experiments: CA SZ HRH MEH. Performed the experiments: CA SZ ES MEH. Analyzed the data: CA SZ MEH. Contributed reagents/materials/analysis tools: CA SZ ES HRH MEH. Wrote the paper: MEH HRH.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>12</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>8</volume>
+      <issue>12</issue>
+      <elocation-id>e1003115</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>7</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>10</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2012 Anderson et al</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <copyright-holder>Anderson et al</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The engulfment of apoptotic cells is required for normal metazoan development and tissue remodeling. In <italic>Caenorhabditis elegans</italic>, two parallel and partially redundant conserved pathways act in cell-corpse engulfment. One pathway, which includes the small GTPase CED-10 Rac and the cytoskeletal regulator ABI-1, acts to rearrange the cytoskeleton of the engulfing cell. The CED-10 Rac pathway is also required for proper migration of the distal tip cells (DTCs) during the development of the <italic>C. elegans</italic> gonad. The second pathway includes the receptor tyrosine kinase CED-1 and might recruit membranes to extend the surface of the engulfing cell. Cbl, the mammalian homolog of the <italic>C. elegans</italic> E3 ubiquitin ligase and adaptor protein SLI-1, interacts with Rac and Abi2 and modulates the actin cytoskeleton, suggesting it might act in engulfment. Our genetic studies indicate that SLI-1 inhibits apoptotic cell engulfment and DTC migration independently of the CED-10 Rac and CED-1 pathways. We found that the RING finger domain of SLI-1 is not essential to rescue the effects of SLI-1 deletion on cell migration, suggesting that its role in this process is ubiquitin ligase-independent. We propose that SLI-1 opposes the engulfment of apoptotic cells via a previously unidentified pathway.</p>
+      </abstract>
+      <abstract abstract-type="summary">
+        <title>Author Summary</title>
+        <p>Cell death is a normal part of organismal development. When cells die, other cells engulf them. In the roundworm <italic>C. elegans</italic>, engulfment is facilitated by one pathway that rearranges the actin cytoskeleton and another that recruits membrane. Together they cause the formation of cellular extensions that surround the dead cell. Notably, little is known about how engulfment is inhibited. The cytoskeletal regulatory pathway, which also promotes cell migration, includes CED-10 and ABI-1, homologs of the actin regulators Rac and the Abi proteins, respectively. In mammals, the c-Cbl proto-oncogene interacts with Rac and Abi2 and has been shown to regulate the actin cytoskeleton, so we tested whether the <italic>C. elegans</italic> homolog of Cbl, SLI-1, regulates engulfment and cell migration. We found that SLI-1 inhibits both processes. Our analysis further showed that SLI-1 does not function by inhibiting other known engulfment proteins. Cbl proteins have ubiquitin ligase domains through which they target proteins for destruction or sequestration. Most of the known functions of Cbl proteins require that domain, but we found that SLI-1 did not require it to block engulfment and cell migration. We propose that SLI-1 inhibits engulfment and cell migration through a previously unidentified pathway.</p>
+      </abstract>
+      <funding-group>
+        <funding-statement>CA, SZ, ES, and MEH were supported by direct funding from the Yale Cancer Center to MEH. MEH was supported by Award Number K08CA104890 from the National Cancer Institute. HRH is an Investigator of the Howard Hughes Medical Institute. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+      <counts>
+        <page-count count="14"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>Introduction</title>
+      <p>The engulfment of apoptotic cells requires at least two processes to occur in the engulfing cell at the interface with the dying cell. Actin cytoskeletal elements need to be reorganized and membrane needs to be recruited. Together, these two processes result in the engulfing cell surrounding the dying cell. Two conserved molecular pathways were originally identified in <italic>Caenorhabditis elegans</italic> that are required for apoptotic cell engulfment and regulate these two processes.</p>
+      <p>In the pathway for membrane recruitment, which we refer to as the CED-1 pathway, four proteins have been identified, CED-7, CED-1, CED-6 and DYN-1 (<xref ref-type="fig" rid="pgen-1003115-g001">Figure 1</xref>) <xref rid="pgen.1003115-Mangahas1" ref-type="bibr">[1]</xref>. These proteins activate DYN-1, a <italic>C. elegans</italic> dynamin homolog <xref rid="pgen.1003115-Yu1" ref-type="bibr">[2]</xref>, which might recruit membrane for engulfment; in mammalian cells dynamin promotes extension of lamellipodial membrane protrusions <xref rid="pgen.1003115-Kruchten1" ref-type="bibr">[3]</xref>.</p>
+      <fig id="pgen-1003115-g001" orientation="portrait" position="float">
+        <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g001</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Core molecular pathways required for the engulfment of apoptotic cells.</title>
+          <p>Proteins of the CED-10 Rac pathway are labeled in yellow. Proteins of the CED-1 pathway are labeled in green. <italic>C. elegans</italic> protein names are indicated above and their mammalian homologs below. The Wave Regulatory Complex (WRC) contains ABI-1, GEX-2, GEX-3, WVE-1 and NUO-3. The dashed arrow from CED-6 to CED-10 indicates that CED-1, CED-6 and CED-7 might also signal through CED-10 <xref rid="pgen.1003115-Kinchen1" ref-type="bibr">[6]</xref>. The CED-1 pathway is required for engulfment only, whereas the CED-10 Rac pathway is required for both engulfment and DTC migration.</p>
+        </caption>
+        <graphic xlink:href="pgen.1003115.g001"/>
+      </fig>
+      <p>The pathway for cytoskeletal rearrangement requires the small GTPase CED-10 Rac, the adapter protein CED-2 and the heterodimeric guanine nucleotide exchange factor CED-5/CED-12. CED-2 is thought to activate CED-5/CED-12, which, in turn, activates CED-10 Rac. Rac proteins are members of the Rho family of small GTPases that regulate the cytoskeleton and function in intracellular signaling <xref rid="pgen.1003115-EtienneManneville1" ref-type="bibr">[4]</xref>. CED-10 Rac activation causes actin cytoskeletal rearrangement and promotes engulfment <xref rid="pgen.1003115-Brugnera1" ref-type="bibr">[5]</xref>, <xref rid="pgen.1003115-Kinchen1" ref-type="bibr">[6]</xref>.</p>
+      <p>In addition to the two core engulfment pathways, more recent studies have identified a number of factors that regulate engulfment through these pathways. In <italic>C. elegans</italic>, MIG-2, the mammalian homolog of RhoG, another Rho family GTPase activates CED-5/CED-12 in parallel to CED-2 <xref rid="pgen.1003115-Lundquist1" ref-type="bibr">[7]</xref>, <xref rid="pgen.1003115-deBakker1" ref-type="bibr">[8]</xref>. The phosphatidylserine receptor PSR-1, the integrins INA-1 and PAT-3 and a WNT signaling pathway all appear to act upstream of CED-2 <xref rid="pgen.1003115-Wang1" ref-type="bibr">[9]</xref>, <xref rid="pgen.1003115-Hsu1" ref-type="bibr">[10]</xref>. In <italic>Drosophila</italic>, the Src protein Src42 and the non-receptor tyrosine kinase Shark act through the CED-1 Draper pathway <xref rid="pgen.1003115-Ziegenfuss1" ref-type="bibr">[11]</xref>. Furthermore, Calcium release from the endoplasmic reticulum by a junctophilin-containing complex is also required for CED-1 Draper activity <xref rid="pgen.1003115-Cuttell1" ref-type="bibr">[12]</xref>, <xref rid="pgen.1003115-Gronski1" ref-type="bibr">[13]</xref>.</p>
+      <p>Recently, we reported that the cytoskeletal regulatory protein ABI-1 is also an engulfment protein <xref rid="pgen.1003115-Hurwitz1" ref-type="bibr">[14]</xref>. The mammalian homolog of ABI-1, Abi2, is found in a number of protein complexes, all of which regulate the actin cytoskeleton. One particular complex, the Wave Regulatory Complex (WRC) causes the formation of actin structures in response to activation by Rac <xref rid="pgen.1003115-Miki1" ref-type="bibr">[15]</xref>, <xref rid="pgen.1003115-Eden1" ref-type="bibr">[16]</xref>. The WRC is composed of five proteins in <italic>C. elegans</italic>: WVE-1, GEX-2, GEX-3, ABI-1 and NUO-3. Soto et al. (2002) <xref rid="pgen.1003115-Soto1" ref-type="bibr">[17]</xref> and Patel et al. (2008) <xref rid="pgen.1003115-Patel1" ref-type="bibr">[18]</xref> presented evidence that suggested that GEX-2 and WVE-1, respectively, promote engulfment. Our genetic analysis, however, demonstrated that the CED-10 Rac pathway and ABI-1 act at least partially independently of each other. Our current model, based on all of these data is that the CED-10 Rac pathway activates the WRC but that there are other as yet unidentified molecular pathways that activate the WRC in parallel.</p>
+      <p>Far less studied are proteins that inhibit these two pathways. We showed that the tyrosine kinase and cytoskeletal regulator ABL-1 inhibits engulfment through ABI-1 in parallel to the CED-10 Rac pathway <xref rid="pgen.1003115-Hurwitz1" ref-type="bibr">[14]</xref>. A small number of other proteins have been shown to inhibit apoptotic cell engulfment (compared to 25 proteins that promote engulfment). In mammalian cell culture, the small GTPase RhoA and its effector Rho-kinase have been shown to inhibit engulfment of apoptotic cells <xref rid="pgen.1003115-ToselloTrampont1" ref-type="bibr">[19]</xref>, consistent with the fact that RhoA and Rac oppose each other in many cellular processes. How Rho-kinase inhibits engulfment has not been demonstrated. In <italic>C. elegans</italic>, the Rac GTPase activating protein SRGP-1 inhibits engulfment by inactivating CED-10 <xref rid="pgen.1003115-Neukomm1" ref-type="bibr">[20]</xref>. The myotubularin lipid phosphatase MTM-1 and a CED-10 binding protein, SWAN-1, have also been shown to inhibit engulfment in <italic>C. elegans</italic>
+<xref rid="pgen.1003115-Zou1" ref-type="bibr">[21]</xref>&#x2013;<xref rid="pgen.1003115-Yang1" ref-type="bibr">[23]</xref>. They are both proposed to act through the CED-10 Rac pathway. Recently, PGRN-1, a <italic>C. elegans</italic> progranulin has been shown to act in engulfment <xref rid="pgen.1003115-Kao1" ref-type="bibr">[24]</xref>. Notably, it is unclear how any of these proteins are regulated for their engulfment-inhibitory functions.</p>
+      <p>Cbl family proteins are E3 ubiquitin ligase and adaptor proteins with multiple cellular functions <xref rid="pgen.1003115-Swaminathan1" ref-type="bibr">[25]</xref>. Cbl proteins consist of an N-terminal tyrosine kinase binding (TKB) domain followed by a conserved linker, then a RING finger domain and a C-terminal proline rich domain. The TKB domain is comprised of three subdomains: a 4-helix bundle, an EF hand and a modified SH2 domain. The crystal structure of the TKB domain has revealed that the three subdomains act together to bind to phosphotyrosines <xref rid="pgen.1003115-Meng1" ref-type="bibr">[26]</xref> and orient substrate proteins (usually tyrosine kinases) to allow the RING finger to promote their ubiquitination, targeting them for destruction or sequestration. Thus a major function of Cbl proteins is to downregulate signaling pathways in response to interactions with tyrosine phosphorylated signaling proteins <xref rid="pgen.1003115-Schmidt1" ref-type="bibr">[27]</xref>. Recent data show that Abi proteins are activated by epidermal growth factor (EGF) signaling and then in turn activate c-Cbl to polyubiquitinate the EGF receptor in a negative feedback regulatory loop <xref rid="pgen.1003115-Tanos1" ref-type="bibr">[28]</xref>. In <italic>C. elegans,</italic> the Cbl homolog SLI-1 downregulates EGF signaling by causing ubiquitination of the LET-23 EGFR <xref rid="pgen.1003115-Yoon1" ref-type="bibr">[29]</xref>, <xref rid="pgen.1003115-Yoon2" ref-type="bibr">[30]</xref>, which decreases signaling from the downstream Ras homolog LET-60. Cbl has also been shown to interact with Rac, the CED-2-related protein Crk and Abl kinase <xref rid="pgen.1003115-Scaife1" ref-type="bibr">[31]</xref>&#x2013;<xref rid="pgen.1003115-Soubeyran1" ref-type="bibr">[33]</xref>. We hypothesized that SLI-1 might act in engulfment pathways. In addition, we asked whether it did so by interacting with the <italic>C. elegans</italic> homologs of the above proteins.</p>
+      <p>We now present evidence that SLI-1 inhibits apoptotic cell engulfment. Surprisingly, we find that SLI-1 does so in parallel to the two core engulfment pathways and ABL-1 and independent of LET-60 Ras signaling. Lastly, we demonstrate that the ubiquitin ligase domain is partially dispensable for this process demonstrating that its tyrosine kinase-ubiquitinating function is unrelated to its mechanism of action in engulfment.</p>
+    </sec>
+    <sec id="s2">
+      <title>Results</title>
+      <sec id="s2a">
+        <title>SLI-1 inhibits apoptotic cell corpse engulfment</title>
+        <p>In animals with defects in apoptotic cell engulfment, the number of unengulfed corpses in the heads of first larval stage (L1) animals increases with the strength of the engulfment defect and defines a quantitative assay of engulfment defects <xref rid="pgen.1003115-Ellis1" ref-type="bibr">[34]</xref>. L1 wild-type (N2) animals have no unengulfed corpses in their heads. Neither do animals with <italic>sli-1</italic> mutations alone. We used two alleles of <italic>sli-1</italic> in this study, <italic>sy143</italic> and <italic>n3538</italic>
+<xref rid="pgen.1003115-Jongeward1" ref-type="bibr">[35]</xref>, <xref rid="pgen.1003115-Ceol1" ref-type="bibr">[36]</xref>. <italic>sy143</italic> is a C to T transition that changes Gln152 to an amber stop codon; <italic>n3538</italic> is a C to T transition that changes Ser305 to Leu. To assess whether <italic>sli-1</italic> modulates apoptotic cell engulfment, we tested whether <italic>sli-1</italic> mutations suppressed or enhanced the engulfment defects of engulfment pathway genes.</p>
+        <p>The heads of animals containing a mutation in <italic>sli-1</italic> and null mutations in <italic>ced-1</italic> or <italic>ced-7</italic> or a strong mutation in <italic>ced-6</italic> (alleles <italic>e1735</italic>, <italic>n1996</italic> and <italic>n2095</italic>, respectively) had fewer unengulfed corpses than those with each of the engulfment mutants alone (<xref ref-type="table" rid="pgen-1003115-t001">Table 1</xref>). We did not test <italic>dyn-1</italic> mutants because they die during embryogenesis. Thus, SLI-1 appears to inhibit the engulfment of apoptotic cells. Alternative explanations for the effect of SLI-1 on these engulfment defects are presented in the next section of the paper. The fact that loss of <italic>sli-1</italic> function suppresses the engulfment defects caused by null <italic>ced-1, ced-6</italic> and <italic>ced-7</italic> mutation demonstrates that SLI-1 acts in parallel to or downstream of the CED-1 pathway.</p>
+        <table-wrap id="pgen-1003115-t001" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.t001</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>
+<italic>sli-1</italic> mutations suppress the engulfment defects caused by engulfment <italic>ced</italic> gene mutations.</title>
+          </caption>
+          <alternatives>
+            <graphic id="pgen-1003115-t001-1" xlink:href="pgen.1003115.t001"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Genotype</td>
+                  <td align="left" rowspan="1" colspan="1">Corpses &#xB1; s.d.</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>p-</italic>Value</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">N2</td>
+                  <td align="left" rowspan="1" colspan="1">0.05&#xB1;0.23</td>
+                  <td align="left" rowspan="1" colspan="1">19</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">0.16&#xB1;0.37</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">0.04&#xB1;0.2</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(n2091)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">18.7&#xB1;4.0</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(n2091); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">7.7&#xB1;3.3</td>
+                  <td align="left" rowspan="1" colspan="1">15</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">25.3&#xB1;5.0</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">17.8&#xB1;4.9</td>
+                  <td align="left" rowspan="1" colspan="1">22</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">17.5&#xB1;3.8</td>
+                  <td align="left" rowspan="1" colspan="1">21</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-2(n5101)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">15.8&#xB1;4.9</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-2(n5101); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">18.5&#xB1;6.9</td>
+                  <td align="left" rowspan="1" colspan="1">26</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.06</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">30.4&#xB1;4.9</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">34.2&#xB1;5.9</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.01</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">30.6&#xB1;4.9</td>
+                  <td align="left" rowspan="1" colspan="1">18</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">26.5&#xB1;4.1</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">14.2&#xB1;4.6</td>
+                  <td align="left" rowspan="1" colspan="1">15</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">10.2&#xB1;3.3</td>
+                  <td align="left" rowspan="1" colspan="1">18</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-7(n1996)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">32.1&#xB1;4.0</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-7(n1996); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">23.5&#xB1;6.6</td>
+                  <td align="left" rowspan="1" colspan="1">26</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">20.0&#xB1;3.9</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">14.1&#xB1;6.5</td>
+                  <td align="left" rowspan="1" colspan="1">27</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">13.8&#xB1;5.3</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(tp2)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">20.8&#xB1;3.7</td>
+                  <td align="left" rowspan="1" colspan="1">22</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(tp2); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">17.3&#xB1;4.7</td>
+                  <td align="left" rowspan="1" colspan="1">17</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.008</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(tp2); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">20.3&#xB1;6.0</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(n3261)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">25.2&#xB1;5.2</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(n3261); sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">26.9&#xB1;5.0</td>
+                  <td align="left" rowspan="1" colspan="1">21</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="nt101">
+              <label/>
+              <p>First larval stage (L1) worms were anaesthetized and viewed using DIC microscopy. The numbers of cell corpses in the heads were counted. s.d., standard deviation.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Loss of <italic>sli-1</italic> function did not suppress the engulfment defects of null mutations in the CED-10 Rac pathway. Specifically, the engulfment defects of <italic>ced-2(n5101), ced-5(n1812)</italic> and <italic>ced-12(n3261)</italic> null mutants were not significantly modified by the presence of <italic>sli-1(sy143)</italic> or <italic>sli-1(n3538)</italic> mutations (<xref ref-type="table" rid="pgen-1003115-t001">Table 1</xref>). <italic>ced-10</italic> null mutants die during embryogenesis but we tested the effect of <italic>sli-1</italic> mutations on a partial loss-of-function allele, <italic>ced-10(n1993). ced-10(n1993)</italic> was suppressed by <italic>sli-1</italic>(lf) (for <italic>sy143</italic>, a decrease from 20.0 to 14.1 unengulfed corpses, <italic>p</italic>&lt;0.0001; for <italic>n3538,</italic> a decrease to 13.8, <italic>p</italic>&lt;0.0001). Suppression of a <italic>ced-10</italic> partial loss-of-function defect by <italic>sli-1</italic> mutations is consistent with a general inhibition of engulfment by <italic>sli-1</italic> but suppression of a partial loss-of-function mutation cannot be used to order genes within genetic pathways. In summary, <italic>sli-1</italic>(lf) was not able to suppress the engulfment defects caused by complete loss-of-function CED-10 pathway mutants. Thus, the CED-10 Rac pathway is unlikely to act by inhibiting SLI-1; rather, SLI-1 acts either parallel to or upstream of the CED-10 Rac pathway.</p>
+      </sec>
+      <sec id="s2b">
+        <title>SLI-1 does not affect the cell-death process directly</title>
+        <p>
+<italic>sli-1</italic> mutation might decrease the number of unengulfed cell corpses in engulfment mutants in a number of ways other than by suppressing apoptotic cell engulfment. <italic>sli-1</italic> mutation could (1) decrease programmed cell death, resulting in fewer cell corpses as is seen in <italic>ced-3</italic> caspase mutants <xref rid="pgen.1003115-Ellis2" ref-type="bibr">[37]</xref>, (2) alter the timing of corpse appearance during development like the protein CED-8 <xref rid="pgen.1003115-Stanfield1" ref-type="bibr">[38]</xref>, resulting in fewer corpses at the time of observation, (3) alter cell-corpse morphology so that they could not be identified by DIC microscopy as corpses or, (4) cause the corpses to be unstable and lost rapidly.</p>
+        <p>To address whether <italic>sli-1</italic> normally prevents programmed cell death, we determined whether cells that are known to die by apoptosis normally during development do so in <italic>sli-1</italic> mutants. 16 cells undergo programmed cell death in the anterior pharynx during embryogenesis in wild-type animals <xref rid="pgen.1003115-Sulston1" ref-type="bibr">[39]</xref>. The nuclei of these cells are identified easily using DIC microscopy <xref rid="pgen.1003115-Ellis1" ref-type="bibr">[34]</xref>. Mutations in genes that normally cause cell death, such as <italic>ced-3</italic> or <italic>ced-4</italic>, have up to 14 extra recognizable cell nuclei in the anterior pharynx <xref rid="pgen.1003115-Ellis1" ref-type="bibr">[34]</xref>, <xref rid="pgen.1003115-Shaham1" ref-type="bibr">[40]</xref>. <italic>sli-1(sy143)</italic> animals had no more nuclei than wild-type animals in their anterior pharynges (<xref ref-type="table" rid="pgen-1003115-t002">Table 2</xref>, <italic>sli-1</italic> mutation does not block cell death in the pharynx). To test for apoptosis defects more stringently, we observed whether <italic>sli-1</italic> mutation enhanced the death defect of a partial loss-of-function <italic>ced-3</italic> mutant <italic>(n2427)</italic>
+<xref rid="pgen.1003115-Reddien1" ref-type="bibr">[41]</xref>. We observed no difference between <italic>ced-3(n2427)</italic> and <italic>ced-3(n2427); sli-1(sy143)</italic> animals (1.6 vs. 1.1 extra cells, <xref ref-type="table" rid="pgen-1003115-t002">Table 2</xref>, <italic>sli-1</italic> mutation does not block cell death in the pharynx).</p>
+        <table-wrap id="pgen-1003115-t002" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.t002</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>
+<italic>sli-1</italic> mutation and programmed cell death.</title>
+          </caption>
+          <alternatives>
+            <graphic id="pgen-1003115-t002-2" xlink:href="pgen.1003115.t002"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td colspan="4" align="left" rowspan="1">
+<italic>sli-1</italic> mutation does not block cell death in the pharynx</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Genotype</td>
+                  <td align="left" rowspan="1" colspan="1">Extra cells &#xB1; s.d.</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>p</italic>-Value</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">N2</td>
+                  <td align="left" rowspan="1" colspan="1">0.1&#xB1;0.3</td>
+                  <td align="left" rowspan="1" colspan="1">13</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>sli-1(sy143)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">0.1&#xB1;0.3</td>
+                  <td align="left" rowspan="1" colspan="1">13</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-3(n2427)</italic>
+<xref ref-type="table-fn" rid="nt103">a</xref>
+</td>
+                  <td align="left" rowspan="1" colspan="1">1.6&#xB1;1.4</td>
+                  <td align="left" rowspan="1" colspan="1">13</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-3(n2427); sli-1(sy143)</italic>
+<xref ref-type="table-fn" rid="nt103">a</xref>
+</td>
+                  <td align="left" rowspan="1" colspan="1">1.1&#xB1;0.8</td>
+                  <td align="left" rowspan="1" colspan="1">13</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td colspan="4" align="left" rowspan="1">
+<italic>sli-1</italic> suppresses the cell-killing effect of an engulfment gene</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Genotype</td>
+                  <td align="left" rowspan="1" colspan="1">Extra cells &#xB1; s.d.</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>p</italic>-Value</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(tp2); ced-3(n2427)</italic>
+<xref ref-type="table-fn" rid="nt103">a</xref>
+</td>
+                  <td align="left" rowspan="1" colspan="1">5.4&#xB1;1.3</td>
+                  <td align="left" rowspan="1" colspan="1">10</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-12(tp2); ced-3(n2427); sli-1(sy143)</italic>
+<xref ref-type="table-fn" rid="nt103">a</xref>
+</td>
+                  <td align="left" rowspan="1" colspan="1">2.8&#xB1;1.5</td>
+                  <td align="left" rowspan="1" colspan="1">10</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="nt102">
+              <label/>
+              <p>Third larval stage (L3) worms were anaesthetized and viewed using DIC microscopy. The numbers of extra cell nuclei in the anterior pharynges were counted.</p>
+            </fn>
+            <fn id="nt103">
+              <label>a</label>
+              <p>These strains contained <italic>nIs96</italic> [<italic>lin-11p::gfp</italic>] V.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>We used time-lapse DIC microscopy to assess whether <italic>sli-1</italic> loss-of-function affected the timing, persistence or morphology of cell corpses. The development of wild-type and <italic>sli-1(sy143)</italic> animals was recorded for approximately 150 minutes. We found that <italic>sli-1(sy143)</italic> animals developed on average more slowly than wild-type animals. To account for the difference in the rate of development, we counted the number of cell deaths that occurred from the first cell death up to the comma stage. <italic>sli-1(sy143)</italic> worms take approximately 31 minutes longer than wild-type animals to develop to that stage at 20&#xB0;C (144 minutes compared to 103 minutes). During this time, approximately 60&#x2013;65 cell corpses appear in the wild-type animal. The number of cell corpses that appeared and when they appeared in wild-type and <italic>sli-1(sy143)</italic> embryos did not differ significantly (<xref ref-type="fig" rid="pgen-1003115-g002">Figure 2A</xref>). However, the timing of appearance approaches statistical significance (<italic>p</italic> value&#x200A;=&#x200A;0.053), probably related to the difference in developmental speed. The length of time that corpses persisted was similar in wild-type and <italic>sli-1(sy143)</italic> animals (<xref ref-type="fig" rid="pgen-1003115-g002">Figure 2B</xref>). In addition, apoptotic cell corpses in wild-type and <italic>sli-1(sy143)</italic> animals looked similar (<xref ref-type="fig" rid="pgen-1003115-g002">Figure 2C</xref>). We conclude that the morphology and time of appearance of apoptotic cell corpses is not affected by <italic>sli-1</italic> mutation.</p>
+        <fig id="pgen-1003115-g002" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g002</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>
+<italic>sli-1</italic> does not affect the timing of deaths or morphology of cell corpses.</title>
+            <p>(A) The number and time of appearance of apoptotic cell corpses that occurred from the first cell death to the comma stage were recorded at 3-min intervals in wild-type and <italic>sli-1(sy143)</italic> animals using time-lapse DIC microscopy (see <xref ref-type="sec" rid="s4">Materials and Methods</xref>). Mean numbers of corpses at each time point were calculated from three embryos for both wild-type and <italic>sli-1(sy143)</italic> animals. Statistical analysis was by the Wilcoxon rank-sum test. The curves are similar (<italic>p</italic>&gt;0.05). (B) The duration of cell-corpse visibility is similar in wild-type and <italic>sli-1(sy143)</italic> embryos. The percentage of cell corpses visible for a given period was recorded. The duration of appearance of all cell corpses recorded from three wild-type (n&#x200A;=&#x200A;159 cell corpses) and three <italic>sli-1(sy143)</italic> (n&#x200A;=&#x200A;154) embryos was analyzed. Statistical analysis was by the Wilcoxon rank-sum test. The curves are similar (p&gt;0.5). (C) The morphology of cell corpses in wild-type and <italic>sli-1(sy143)</italic> embryos are similar. Arrowheads, apoptotic corpses. Embryos were at similar stages of development, approximately six minutes prior to the comma stage. Bar&#x200A;=&#x200A;5 microns.</p>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g002"/>
+        </fig>
+      </sec>
+      <sec id="s2c">
+        <title>
+<italic>sli-1</italic> is broadly expressed during embryogenesis</title>
+        <p>To study the expression pattern of SLI-1, we expressed <italic>gfp</italic> under control of the <italic>sli-1</italic> promoter. Specifically, we fused the 5000 bp 5&#x2032; of the <italic>sli-1</italic> ATG to <italic>gfp</italic> and injected that construct into wild type (N2) worms. Fluorescence was seen broadly throughout the embryo beginning prior to gastrulation and continuing through the L1 stage (<xref ref-type="supplementary-material" rid="pgen.1003115.s001">Figure S1</xref>). Higher levels of expression were seen in cells that would form the head beginning at approximately the 1&#xBD; fold stage of embryonic development. This pattern continued through the first larval stage with L1 animals showing GFP expression at high levels in the head and at lower levels throughout the body, including in body wall muscles, hypodermis, intestine, anal depressor muscles, and several neurons. During later larval development expression is seen in the distal tip cells (DTCs) (<xref ref-type="supplementary-material" rid="pgen.1003115.s001">Figure S1</xref> panel ix). In adults, GFP was found in the head, body wall muscles, hypodermis, DTCs and some neurons. This expression pattern is consistent with our results; we observe <italic>sli-1</italic>-dependent phenotypes in the heads and DTCs (see next section in results).</p>
+        <p>We also generated a translational fusion with <italic>sli-1</italic> containing a C-terminal <italic>gfp</italic> expressed under control of the <italic>sli-1</italic> promoter. This transgene was injected as an extrachromosomal array into <italic>ced-10(n1993); sli-1(sy143)</italic> animals. In animals in which high levels of GFP were observed, the animals invariably died during embryogenesis with bizarre morphological defects, indicating that overexpression of <italic>sli-1</italic> is toxic to worms (<xref ref-type="fig" rid="pgen-1003115-g003">Figure 3B</xref>). However, in animals with low levels of SLI-1::GFP expression, morphological abnormalities were not seen. We found that in these low level SLI-1::GFP expressing animals, the <italic>sli-1</italic> mutant engulfment phenotype was rescued (data not shown).</p>
+        <fig id="pgen-1003115-g003" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g003</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Expression pattern of SLI-1::GFP under control of the <italic>sli-1</italic> promoter.</title>
+            <p>SLI-1::GFP was expressed under the control of its own promoter in an extrachromosomal array. (A) Images of morphologically normal animals expressing the SLI-1::GFP transgene. i, iii and v show fluorescence images and ii, iv and vi show accompanying DIC images (i&#x2013;iv, embryos; v&#x2013;vi, L4 larvae). Arrowheads in i&#x2013;iv indicate positions of unengulfed cell corpses. In image iii corpses are not visible. Arrowheads in v and vi indicate the DTC. (B) Images of morphologically abnormal embryos expressing the SLI-1::GFP transgene. i, iii and v show fluorescence images and ii, iv and vi show accompanying DIC images. Arrowheads indicate positions of unengulfed cell corpses. Bar&#x200A;=&#x200A;5 microns.</p>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g003"/>
+        </fig>
+        <p>We analyzed the expression pattern of P<italic><sub>sli-1</sub>sli-1::gfp</italic> in animals that were morphologically normal. The expression profile of this transgene was quite similar to that of the transcriptional fusion but the expression level was far lower (<xref ref-type="fig" rid="pgen-1003115-g003">Figure 3A</xref>). Interestingly, SLI-1::GFP was observed surrounding cell corpses in most transgenic animals though in a small minority of cell corpses in each animal (<xref ref-type="fig" rid="pgen-1003115-g003">Figure 3A</xref>, panel i). While this finding suggests that SLI-1 normally is found at the cell-cell interface at some point during the engulfment process, there are several caveats, some of which argue against and others for this interpretation. SLI-1 might not normally surround cell corpses and only does so in animals in which the SLI-1::GFP transgene is overexpressed (although we suspect that it is not overexpressed at that high a level in morphologically normal animals, as we noted above). Another fact that appears inconsistent with SLI-1 normally being present at the interface between the engulfing and engulfed cell is that most corpses seen on DIC were not surrounded by GFP haloes. However, at least two phenomena could account for the lack of more GFP haloes. First, the embryos where we could analyze unengulfed cells had comparatively low levels of SLI-1::GFP expression, which would decrease the sensitivity of the assay. Second, since SLI-1 inhibits engulfment, it might need to be removed from the cell-cell interface for engulfment to occur. Thus, SLI-1 might only surround cell corpses briefly before being relocated within the engulfing cell.</p>
+        <p>In mammals, the SLI-1 homolog Cbl is found primarily in the cytoplasm, but also at the plasma membrane and bound to the cytoskeleton <xref rid="pgen.1003115-Swaminathan1" ref-type="bibr">[25]</xref>. In our transgenic lines in which SLI-1::GFP was overexpressed at high levels, GFP was seen preferentially at the cell periphery and less so in the cytoplasm (<xref ref-type="fig" rid="pgen-1003115-g003">Figure 3B</xref>) though it is unclear if this localization is physiological given the overexpression. Furthermore, these embryos were very abnormal morphologically so conclusions regarding subcellular localization in these animals should be made very cautiously.</p>
+        <p>Because high levels of SLI-1::GFP cause embryonic lethality we were unable to test whether unengulfed cell corpses accumulated in animals with high levels of SLI-1::GFP. However we did analyze animals with low levels of SLI-1::GFP. We observed the number of unengulfed cell corpses in N2 embryos that were morphologically normal at the two-fold stage and contained the <italic>sli-1::gfp</italic> transgene and compared them to N2 animals without the transgene. Embryos that contained the transgene had 9.2 unengulfed corpses vs. 8.1 for animals without the transgene (<xref ref-type="supplementary-material" rid="pgen.1003115.s002">Table S1</xref>). While this difference is statistically significant (<italic>p</italic>&lt;0.04), it is unclear if this represents a biologically significant difference; this is not surprising since the amount of overexpression appears to be low. At hatching there was no significant difference in the number of unengulfed cell corpses between animals with or without the transgene.</p>
+      </sec>
+      <sec id="s2d">
+        <title>
+<italic>sli-1</italic> mutation suppresses other defects associated with engulfment pathway genes</title>
+        <p>Studies of <italic>C. elegans</italic> mutants partially defective in programmed cell death (such as partial loss-of-function <italic>ced-3</italic> mutants) demonstrated that engulfment dysfunction can enhance apoptotic defects <xref rid="pgen.1003115-Reddien1" ref-type="bibr">[41]</xref>, <xref rid="pgen.1003115-Hoeppner1" ref-type="bibr">[42]</xref>. These studies concluded that engulfment of dying cells promotes their apoptosis. Similar promotion of cell death by engulfment has been observed in <italic>Drosophila</italic>
+<xref rid="pgen.1003115-Li1" ref-type="bibr">[43]</xref>, indicating that the cell-killing effect of engulfment is evolutionarily conserved.</p>
+        <p>In partial loss-of-function <italic>ced-3</italic> mutants, such as <italic>n2427</italic>, some of the cells fated to die will begin the dying process (based on morphological appearance) but then recover and survive. However, in animals with engulfment gene mutations as well as partial <italic>ced-3</italic> loss-of-function mutations a much larger percentage of cells normally fated to die survive.</p>
+        <p>We compared the number of extra nuclei in the pharynges of <italic>ced-12(tp2); ced-3(n2427)</italic> and <italic>ced-12(tp2); ced-3(n2427); sli-1(sy143)</italic> animals to determine if <italic>sli-1</italic> loss-of-function could suppress the apoptotic defect of an engulfment pathway mutation. Fewer extra nuclei were seen in animals that contained the <italic>sli-1(sy143)</italic> mutation (<xref ref-type="table" rid="pgen-1003115-t002">Table 2</xref>, <italic>sli-1</italic> suppresses the cell-killing effect of an engulfment gene), demonstrating that SLI-1 suppresses the cell-killing promoted by engulfment genes, consistent with it engulfment suppression role.</p>
+        <p>The two distal tip cells (DTCs) migrate during development from the center of the animal outward and then back again, meeting approximately in the center of the animal. As they move, the gonads form behind them, resulting in two U-shaped gonads <xref rid="pgen.1003115-Hirsh1" ref-type="bibr">[44]</xref>, <xref rid="pgen.1003115-Kimble1" ref-type="bibr">[45]</xref>. In <italic>ced-10</italic> Rac pathway mutants, the gonads often have extra turns or arms caused by abnormal DTC migration <xref rid="pgen.1003115-Wu1" ref-type="bibr">[46]</xref>. We tested whether <italic>sli-1</italic> mutation suppressed the DTC migration defects of <italic>ced-10</italic> Rac pathway mutants. Mutation of <italic>sli-1</italic> decreased the percentage of gonadal morphology defects in all <italic>ced-10</italic> Rac pathway mutants tested, including null <italic>ced-5</italic> and <italic>ced-12</italic> mutants (<xref ref-type="fig" rid="pgen-1003115-g004">Figure 4</xref>). 48% of the gonads of <italic>ced-5(n1812)</italic> animals were abnormal whereas only 29% of the gonads of <italic>ced-5(n1812); sli-1(sy143)</italic> animals were abnormal (<italic>p</italic>&lt;0.008), while the percentages of abnormal gonads in <italic>ced-12(n3261)</italic> and <italic>ced-12(n3261); sli-1(sy143)</italic> animals were 40% and 12%(<italic>p</italic>&lt;4.9&#xD7;10<sup>&#x2212;6</sup>). These data demonstrate that SLI-1 inhibits DTC migration and that it does so independent of the CED-10 Rac pathway. Notably, since the CED-1 pathway has no role in DTC migration, SLI-1 appears to act in parallel to both engulfment pathways.</p>
+        <fig id="pgen-1003115-g004" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g004</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>
+<italic>sli-1</italic> mutation suppresses the DTC migration defects caused by all CED-10 Rac pathway gene mutations.</title>
+            <p>The gonads of young adult animals mutant for an engulfment gene with or without <italic>sli-1</italic> mutation were observed and scored for morphology using DIC microscopy. Scoring was as described in <xref ref-type="sec" rid="s4">Materials and Methods</xref>. Percentages of abnormal gonad arms are shown. More than 80 gonad arms were scored for all genotypes. <italic>p</italic> values derived using Fisher's exact test are shown.</p>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g004"/>
+        </fig>
+        <p>In summary, loss of <italic>sli-1</italic> suppresses <italic>ced-10</italic> Rac pathway DTC migration defects but does not suppress <italic>ced-10</italic> Rac pathway engulfment defects. At least two models could account for these findings. SLI-1 could act through one molecular pathway to inhibit apoptotic cell engulfment (e.g. the CED-10 Rac pathway) and through another molecular pathway to inhibit DTC migration. Alternatively, SLI-1 might act in a common pathway to inhibit both engulfment and migration but the relative importance of that pathway might be much greater in DTC migration than in engulfment. This difference would account for the ability of <italic>sli-1</italic> mutation to suppress CED-10 Rac pathway DTC migration defects but not CED-10 Rac pathway engulfment defects.</p>
+        <p>For example, the CED-10 Rac pathway and another SLI-1-inhibited pathway might both promote DTC migration and either pathway alone is sufficient for normal DTC migration. If this were the case, loss of SLI-1 function would derepress the SLI-1-regulated pathway and suppress DTC migration defects even if the CED-10 Rac pathway were completely non-functional, as we observed. Engulfment, however, might be totally dependent on the CED-10 Rac pathway. In this case, even if <italic>sli-1</italic> loss-of-function derepressed the other parallel pathway, the defect caused by loss of the CED-10 Rac pathway might not be able to be overcome by derepression of the SLI-1-regulated pathway. We favor this model (i.e. that SLI-1 acts on the same parallel pathway in both engulfment and DTC migration) both because of its parsimony and because of data we will present later in the paper (See last paragraph of the section titled SLI-1 acts independently of ABL-1).</p>
+      </sec>
+      <sec id="s2e">
+        <title>SLI-1 probably acts in engulfing cells</title>
+        <p>To determine whether SLI-1 function is required in the dying cell or the engulfing cell, we used <italic>sli-1</italic> mutant animals containing a <italic>sli-1</italic> transgene that was expressed under the control of heat shock promoters (protocol adapted from Wu and Horvitz (1998) <xref rid="pgen.1003115-Wu1" ref-type="bibr">[46]</xref>). Specifically, the number of cell corpses in the heads of newly hatched worms was counted within 300 minutes of heat shock. Since all apoptotic deaths in the heads occur prior to 300 minutes before hatching, <italic>sli-1</italic> could not be expressed in the dying cells.</p>
+        <p>Expression of <italic>sli-1</italic> in <italic>ced-10(n1993); sli-1(sy143)</italic> animals increased the number of unengulfed corpses in L1 heads from 13.4 to 23.7 (<italic>p</italic>&lt;1&#xD7;10<sup>&#x2212;4</sup>) (for comparison, <italic>ced-10(n1993)</italic> animals had 20.0 corpses (<xref ref-type="table" rid="pgen-1003115-t001">Table 1</xref>)), whereas expression of a <italic>gfp</italic>-only control transgene did not increase the number of unengulfed corpses (17.3 vs. 16.4; <italic>p</italic>&gt;0.2) (<xref ref-type="table" rid="pgen-1003115-t003">Table 3</xref>). Notably, in the <italic>gfp</italic>-expressing animals, GFP was not seen in the cell corpses, in support of our hypothesis that the engulfed cell did not make new proteins (data not shown). Thus, expressing <italic>sli-1</italic> outside of the engulfed cell rescues the <italic>sli-1</italic> mutant phenotype, indicating that <italic>sli-1</italic> acts in the engulfing cell.</p>
+        <table-wrap id="pgen-1003115-t003" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.t003</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Overexpression of <italic>sli-1</italic> reverses the effect of <italic>sli-1(sy143)</italic> on engulfment in <italic>ced-10(n1993); sli-1(sy143)</italic> animals.</title>
+          </caption>
+          <alternatives>
+            <graphic id="pgen-1003115-t003-3" xlink:href="pgen.1003115.t003"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Transgene</td>
+                  <td align="left" rowspan="1" colspan="1">Heat Shock</td>
+                  <td align="left" rowspan="1" colspan="1">Corpses &#xB1; s.d.</td>
+                  <td align="left" rowspan="1" colspan="1">n</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>p</italic>-Value</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">P<italic><sub>hsp</sub>gfp</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2212;</td>
+                  <td align="left" rowspan="1" colspan="1">17.3&#xB1;6.1</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">P<italic><sub>hsp</sub>gfp</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">+</td>
+                  <td align="left" rowspan="1" colspan="1">16.4&#xB1;6.7</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">P<italic><sub>hsp</sub>sli-1wt</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2212;</td>
+                  <td align="left" rowspan="1" colspan="1">13.4&#xB1;4.2</td>
+                  <td align="left" rowspan="1" colspan="1">34</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;1&#xD7;10<sup>&#x2212;4</sup>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">P<italic><sub>hsp</sub>sli-1wt</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">+</td>
+                  <td align="left" rowspan="1" colspan="1">23.7&#xB1;6.2</td>
+                  <td align="left" rowspan="1" colspan="1">27</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">P<italic><sub>hsp</sub>sli-1&#x394;RING</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2212;</td>
+                  <td align="left" rowspan="1" colspan="1">13.9&#xB1;4.7</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.006</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">P<italic><sub>hsp</sub>sli-1&#x394;RING</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">+</td>
+                  <td align="left" rowspan="1" colspan="1">20.0&#xB1;6.9</td>
+                  <td align="left" rowspan="1" colspan="1">15</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="nt104">
+              <label/>
+              <p>
+<italic>ced-10(n1993); sli-1(sy143)</italic> embryos containing the transgenes indicated above were heat shocked at 33&#xB0;C for 1 hour and then allowed to recover for 3&#x2013;3.5 hours at 20&#xB0;<italic>C.</italic> The numbers of cell corpses in the heads of anaesthetized first larval stage (L1) worms were counted using DIC microscopy within 0.5 h of hatching. The number of persistent corpses was determined from two independent transgenic lines for each transgene except for P<italic><sub>hsp</sub>sli-1&#x394;RING</italic> (see text for explanation). s.d., standard deviation.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="s2f">
+        <title>SLI-1 acts independently of ABL-1</title>
+        <p>Five proteins have been identified in <italic>C. elegans</italic> that inhibit the engulfment of apoptotic cells. Three of them, the myotubularin lipid phosphatase MTM-1, the adapter SWAN-1 and the RacGAP SRGP-1, act through the CED-10 Rac pathway <xref rid="pgen.1003115-Neukomm1" ref-type="bibr">[20]</xref>&#x2013;<xref rid="pgen.1003115-Yang1" ref-type="bibr">[23]</xref>. It is unknown how the <italic>C. elegans</italic> progranulin, PGRN-1, suppresses engulfment defects <xref rid="pgen.1003115-Kao1" ref-type="bibr">[24]</xref>. Genetic and biochemical data indicate that ABL-1 inhibits ABI-1 in parallel to the CED-10 Rac pathway <xref rid="pgen.1003115-Hurwitz1" ref-type="bibr">[14]</xref>.</p>
+        <p>Since <italic>abl-1</italic> and <italic>sli-1</italic> both act independently of the <italic>ced-10</italic> Rac pathway, we asked whether <italic>sli-1</italic> and <italic>abl-1</italic> act in the same pathway. We generated triple mutant strains containing mutations in an engulfment gene and in <italic>abl-1</italic> and <italic>sli-1</italic> and compared the engulfment defects and DTC migration defects to those of double mutant strains containing mutations in engulfment genes and either <italic>abl-1</italic> or <italic>sli-1</italic>. We found that the engulfment defect of the null mutant <italic>ced-1(e1735)</italic> was suppressed to a greater degree by the combination of <italic>abl-1(ok171)</italic> and <italic>sli-1(n3538)</italic> than by either mutation alone (<xref ref-type="table" rid="pgen-1003115-t004">Table 4</xref>). The same phenomenon was observed for the partial loss of function <italic>ced-10(n1993)</italic> allele. The engulfment defect of the null mutant <italic>ced-5(n1812)</italic> was not suppressed by the <italic>abl-1</italic> or <italic>sli-1</italic> mutations together or alone, consistent with our prior results that neither <italic>sli-1</italic> nor <italic>abl-1</italic> loss-of-function can suppress null defects in the <italic>ced-10</italic> Rac pathway. The <italic>ced-6(n2095)</italic> engulfment defect was suppressed by both the <italic>abl-1(ok171)</italic> and the <italic>sli-1(n3538)</italic> alleles, but they did not enhance each other. The <italic>ced-6(n2095); sli-1(n3538)</italic> strain had 10.2 unengulfed corpses while the <italic>ced-6(n2095); abl-1(ok171) sli-1(n3538)</italic> strain had 10.4 unengulfed corpses. While it is not clear why these mutations did not enhance each other in the <italic>ced-6</italic> mutant background, the suppression by <italic>sli-1(n3538)</italic> is very strong and we suspect that we are near the threshold of the sensitivity of the engulfment assay so that further enhancement cannot be detected despite independent effects on engulfment.</p>
+        <table-wrap id="pgen-1003115-t004" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.t004</object-id>
+          <label>Table 4</label>
+          <caption>
+            <title>Losses of <italic>sli-1</italic> and <italic>abl-1</italic> enhance each other's suppression of some engulfment gene defects.</title>
+          </caption>
+          <alternatives>
+            <graphic id="pgen-1003115-t004-4" xlink:href="pgen.1003115.t004"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Genotype</td>
+                  <td align="left" rowspan="1" colspan="1">Corpses &#xB1; s.d.</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>p-</italic>Value</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">25.3&#xB1;5.0</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">17.5&#xB1;3.8</td>
+                  <td align="left" rowspan="1" colspan="1">21</td>
+                  <td align="left" rowspan="1" colspan="1">0.0049</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735); abl-1(ok171)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">21.3&#xB1;5.0</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-1(e1735); abl-1(ok171) sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">14.2&#xB1;4.4</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">30.4&#xB1;4.9</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">30.6&#xB1;4.9</td>
+                  <td align="left" rowspan="1" colspan="1">18</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812); abl-1(ok171)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">28.4&#xB1;4.4</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-5(n1812); abl-1(ok171) sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">29.7&#xB1;4.8</td>
+                  <td align="left" rowspan="1" colspan="1">22</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">26.5&#xB1;4.1</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">10.2&#xB1;3.3</td>
+                  <td align="left" rowspan="1" colspan="1">18</td>
+                  <td align="left" rowspan="1" colspan="1">&gt;0.2</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095); abl-1(ok171)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">20.2&#xB1;3.5</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.0001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-6(n2095); abl-1(ok171) sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">10.4&#xB1;2.3</td>
+                  <td align="left" rowspan="1" colspan="1">21</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">20.0&#xB1;3.9</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993); sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">13.8&#xB1;5.3</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">0.0011</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993); abl-1(ok171)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">12.1&#xB1;4.4</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1">0.016</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<italic>ced-10(n1993); abl-1(ok171) sli-1(n3538)</italic>
+</td>
+                  <td align="left" rowspan="1" colspan="1">8.9&#xB1;4.6</td>
+                  <td align="left" rowspan="1" colspan="1">19</td>
+                  <td align="left" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="nt105">
+              <label/>
+              <p>First larval stage (L1) worms were anaesthetized and viewed using DIC microscopy. The numbers of cell corpses in the heads were counted. s.d., standard deviation. <italic>p-</italic>Values refer to comparisons between the double mutant and accompanying triple mutant strains.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>For the DTC migration defect, <italic>ced-5(n1812)</italic> was suppressed by both <italic>abl-1(ok171)</italic> and <italic>sli-1(n3538)</italic> and was significantly more suppressed by the combination of the two mutations (<xref ref-type="fig" rid="pgen-1003115-g005">Figure 5</xref>). By contrast, the DTC migration defect of <italic>ced-10(n1993)</italic> was suppressed so effectively by <italic>sli-1(n3538)</italic> that the addition of the <italic>abl-1(ok171)</italic> mutation did not enhance the suppression, similar to what was observed in engulfment with the <italic>ced-6(n2095)-</italic>containing strains. However, it appears that there is a trend towards increased suppression with <italic>sli-1</italic> and <italic>abl-1</italic> mutations together though the difference does not reach statistical significance (<xref ref-type="fig" rid="pgen-1003115-g005">Figure 5</xref>).</p>
+        <fig id="pgen-1003115-g005" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g005</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Losses of <italic>sli-1</italic> and <italic>abl-1</italic> enhance each other's suppression of some engulfment gene DTC defects.</title>
+            <p>The gonads of <italic>ced-5(n1812)</italic> and <italic>ced-10(n1993)</italic> young adult worms with and without mutations in <italic>abl-1(ok171)</italic> and/or <italic>sli-1(n3538)</italic> were scored for morphology using DIC microscopy. More than 80 gonad arms were scored for all genotypes. <italic>p</italic> values derived using Fisher's exact test are shown.</p>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g005"/>
+        </fig>
+        <p>
+<italic>abi-1</italic> encodes the only <italic>C. elegans</italic> homolog of Abi, a member of the Wave Regulatory Complex (WRC). A combination of genetic and biochemical data suggest that ABL-1 and the CED-10 Rac pathway both act on the WRC through ABI-1 in parallel to each other: CED-10 Rac activates ABI-1 and ABL-1 inhibits it. Since SLI-1 acts in parallel to ABL-1, we asked whether it also acts on ABI-1. The only <italic>abi-1</italic> mutations in existence (and <italic>abi-1</italic> feeding RNAi) are quite weak and have no effect on engulfment alone but do enhance the engulfment defects of mutations in other engulfment genes. Therefore, we analyzed the effects of <italic>abi-1</italic> mutation in combination with another engulfment mutation. Specifically, <italic>ced-1(e1735)</italic> null mutant animals containing combinations of mutations of <italic>abi-1</italic> and/or <italic>sli-1</italic> were assessed for the magnitude of their engulfment defects. <italic>sli-1(sy143)</italic> suppressed the engulfment defect of <italic>ced-1(e1735)</italic> animals in the presence or absence of the <italic>abi-1(tm494)</italic> mutation (<xref ref-type="fig" rid="pgen-1003115-g006">Figure 6A</xref>). <italic>ced-1(e1735)</italic> L1 animals had 25.3 unengulfed corpses and <italic>ced-1(e1735); abi-1(tm494)</italic> animals had 35.0 corpses. <italic>ced-1(e1735); abi-1(tm494); sli-1(sy143)</italic> animals had 30.1 corpses. Similar findings were found for <italic>ced-5(n1812)</italic> mutants (<xref ref-type="fig" rid="pgen-1003115-g006">Figure 6B</xref>). We also tested the effect of <italic>abi-1</italic> on DTC migration using the <italic>ced-5(n1812)</italic> null mutation (<xref ref-type="fig" rid="pgen-1003115-g006">Figure 6C</xref>). Similar to the findings with <italic>ced-1</italic> in engulfment, <italic>sli-1(sy143)</italic> suppressed the DTC migration defect of <italic>ced-5(n1812)</italic> (48% vs. 29%) and <italic>sli-1(sy143)</italic> suppressed the DTC migration defect of an <italic>abi-1(tm494); ced-5(n1812)</italic> double mutant (49% vs. 26%). Thus, mutation of <italic>abi-1</italic> did not completely suppress the effect of <italic>sli-1</italic> on engulfment or DTC migration. <italic>abi-1(tm494)</italic> abolishes the ability of <italic>abl-1</italic> null mutations to suppress defects in engulfment and DTC migration <xref rid="pgen.1003115-Hurwitz1" ref-type="bibr">[14]</xref>. While these results do not prove that <italic>sli-1</italic> acts in a different pathway from <italic>abi-1</italic>, the findings are in stark contrast to those for <italic>abl-1,</italic> since <italic>abi-1</italic> mutation does not abrogate the effects of a <italic>sli-1</italic> null mutation on engulfment and DTC migration. Thus, <italic>abi-1</italic> might act independently of the WRC.</p>
+        <fig id="pgen-1003115-g006" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g006</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Loss of <italic>sli-1</italic> function suppresses engulfment and DTC migration defects in an <italic>abi-1</italic> loss-of-function mutant.</title>
+            <p>(A) The heads of <italic>ced-1(e1735)</italic> L1 animals with or without the <italic>sli-1(sy143)</italic> mutation and with or without treatment with <italic>abi-1</italic> feeding RNAi were scored for engulfment defects using DIC microscopy. The mean &#xB1; standard deviation (s.d.) is indicated within each bar. Error bars are sd. <italic>p</italic> values derived using Student's t test are shown. At least 15 animals were analyzed for each genotype. (B) The heads of <italic>ced-5(n1812)</italic> L1 animals with or without the <italic>sli-1(sy143)</italic> and/or <italic>abi-1(tm494)</italic> mutations were scored as in (A). At least 15 animals were analyzed for each genotype. (C) The gonads of <italic>ced-5(n1812)</italic> young adult worms with and without mutations in <italic>sli-1(sy143)</italic> and/or <italic>abi-1(tm494)</italic> were scored for morphology using DIC microscopy. More than 80 gonad arms were scored for all genotypes. <italic>p</italic> values derived using Fisher's exact test are shown.</p>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g006"/>
+        </fig>
+        <p>The finding that <italic>sli-1(sy143)</italic> suppresses the <italic>abi-1(tm494)</italic> engulfment defect in the presence of a <italic>ced-5(n1812)</italic> null mutation (<xref ref-type="fig" rid="pgen-1003115-g006">Figure 6B</xref>) supports our model that <italic>sli-1</italic> acts in parallel to the <italic>ced-10</italic> Rac pathway rather than upstream of the <italic>ced-10</italic> Rac pathway in engulfment. The <italic>ced-5(n1812)</italic> mutation totally inactivates the <italic>ced-10</italic> Rac pathway. If <italic>sli-1</italic> acted upstream of the <italic>ced-10</italic> Rac pathway, the <italic>ced-5(n1812)</italic> mutation would block the ability of <italic>sli-1(sy143)</italic> to suppress the <italic>abi-1(tm494)</italic> engulfment defect, which we did not observe.</p>
+      </sec>
+      <sec id="s2g">
+        <title>SLI-1 acts independently of LET-60 Ras</title>
+        <p>SLI-1 inhibits the LET-23 EGFR/LET-60 Ras pathway and is thought to do so by ubiquinating the LET-23 protein, targeting it either for destruction or sequestration <xref rid="pgen.1003115-Yoon1" ref-type="bibr">[29]</xref>, <xref rid="pgen.1003115-Yoon2" ref-type="bibr">[30]</xref>. Mammalian Ras activates Rac. Therefore, it was plausible that SLI-1 might inhibit engulfment by suppressing the LET-23/LET-60 pathway and consequently decreasing activation of CED-10 Rac by LET-60. To test this possibility, we generated strains doubly mutant for engulfment genes and the gain-of-function mutation <italic>let-60(n1046gf)</italic>. We would expect gain-of-function mutations in this pathway to suppress engulfment defects if <italic>sli-1</italic> normally inhibits this pathway. We found no consistent effect on the number of unengulfed apoptotic cells in animals with or without the <italic>let-60(n1046gf)</italic> mutation (<xref ref-type="fig" rid="pgen-1003115-g007">Figure 7</xref>). One allele of <italic>ced-12</italic> was slightly enhanced while another allele of <italic>ced-12</italic> and an allele of <italic>ced-2</italic> were slightly suppressed. The only significantly modulated mutation was <italic>ced-6(n2095)</italic>, which was suppressed. Possibly this effect reflects a gene- or allele-specific interaction with <italic>let-60.</italic> Regardless, this pattern does not phenocopy either <italic>sli-1</italic> mutation. Thus, <italic>sli-1</italic> does not appear to act through the <italic>let-23</italic> EGFR/<italic>let-60</italic> Ras pathway to inhibit engulfment.</p>
+        <fig id="pgen-1003115-g007" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g007</object-id>
+          <label>Figure 7</label>
+          <caption>
+            <title>A <italic>let-60</italic> Ras gain-of-function mutation does not affect apoptotic cell engulfment.</title>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g007"/>
+        </fig>
+      </sec>
+      <sec id="s2h">
+        <title>SLI-1 uses the TKB domain to affect engulfment and migration</title>
+        <p>To determine which domain of SLI-1 is required for its suppression of engulfment and DTC migration defects, we ectopically expressed truncated forms of SLI-1 under control of the <italic>C. elegans</italic> heat-shock promoters in <italic>sli-1</italic> mutant animals. The SLI-1 protein contains three domains, an N-terminal domain that binds tyrosine kinases (and several other proteins), a RING finger, which mediates its E3 ubiquitin ligase function and a C-terminal domain, which contains several proline-rich regions. Minigenes encoding wild-type <italic>sli-1</italic> and truncation mutants of <italic>sli-1</italic> lacking each of the three domains expressed under heat-shock promoter control were injected into <italic>ced-10(n1993); sli-1(sy143)</italic> worms. These constructs were generated previously <xref rid="pgen.1003115-Yoon2" ref-type="bibr">[30]</xref> and generously provided to us by Paul Sternberg. <italic>ced-10(n1993); sli-1(sy143)</italic> larvae harboring extrachromosomal arrays were incubated for one hour at 33&#xB0;C, and their gonadal morphologies were analyzed 30 hours later in young adults. The arrays contained <italic>sli-1</italic> minigenes encoding full-length <italic>sli-1</italic> or <italic>sli-1</italic> lacking the N-terminus, RING finger or C-terminus (<italic>sli-1wt, sli-1&#x394;N, sli-1&#x394;RING</italic> or <italic>sli-1&#x394;C,</italic> respectively). <xref ref-type="fig" rid="pgen-1003115-g008">Figure 8</xref> shows that the <italic>sli-1wt</italic> construct rescued the defect completely, while <italic>sli-1&#x394;RING</italic> and <italic>sli-1&#x394;C</italic> both partially rescued the defect and the <italic>sli-1&#x394;N</italic> did not rescue the defect at all. We also tested the <italic>sli-1&#x394;RING</italic> transgene in engulfment and found that it partially rescued the engulfment suppression defect (<xref ref-type="table" rid="pgen-1003115-t003">Table 3</xref>).</p>
+        <fig id="pgen-1003115-g008" orientation="portrait" position="float">
+          <object-id pub-id-type="doi">10.1371/journal.pgen.1003115.g008</object-id>
+          <label>Figure 8</label>
+          <caption>
+            <title>The TKB domain of <italic>sli-1</italic> is required for its cell migration function.</title>
+            <p>(A) Truncation minigene <italic>sli-1</italic> constructs used in this study. Red lines represent proline-rich areas. L, conserved linker domain between the TKB domain (composed of the 4H, EF hand and SH2 domains) and the RING finger. (B) The gonads of <italic>ced-10(n1993); sli-1(sy143)</italic> young adult animals with or without transgenic arrays containing the genes shown in (A) were scored for abnormal morphology after heat shock. 200 gonad arms in two independent strains were analyzed per genotype. <italic>p</italic> values derived using Fisher's exact test are shown.</p>
+          </caption>
+          <graphic xlink:href="pgen.1003115.g008"/>
+        </fig>
+        <p>Thus, the N-terminal tyrosine kinase binding domain was strictly required for the function of <italic>sli-1</italic> in DTC migration, whereas the RING finger and C-terminus were at least partially dispensable, suggesting that the ubiquitin ligase activity is unlikely to be central to the role of <italic>sli-1</italic> in DTC migration. Consistent with our findings in DTC migration, the RING finger was also partially dispensable in engulfment.</p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>Discussion</title>
+      <p>We have demonstrated that SLI-1 negatively regulates the engulfment of apoptotic cells. <italic>sli-1</italic> inhibits the engulfment process as well as the migration of distal tip cells during gonadogenesis and the engulfment-related cell-killing process. Our genetic analysis suggests that SLI-1 acts in a manner that does not require the known engulfment pathways. Ectopic expression experiments indicate that SLI-1 acts in engulfing cells and that its function is dependent on its N-terminal tyrosine kinase binding domain. Interestingly, these experiments demonstrate that the ubiquitin ligase function of SLI-1 is at least partially dispensable.</p>
+      <p>In mammals, the SLI-1 homolog Cbl interacts physically interacts with the CED-2-related protein Crk, Abl, Abi2 and regulates the activity of the CED-10 homolog Rac <xref rid="pgen.1003115-Tanos1" ref-type="bibr">[28]</xref>, <xref rid="pgen.1003115-Scaife1" ref-type="bibr">[31]</xref>. In addition, in both mammals and worms, SLI-1 Cbl downregulates LET-23 EGFR by ubiquitination <xref rid="pgen.1003115-Yoon1" ref-type="bibr">[29]</xref>. These interactions provided the rationale for our study of SLI-1 in engulfment initially. However, we found that the effects of SLI-1 on engulfment were independent of all of these proteins (with the possible exception of ABI-1; we were unable to test an <italic>abi-1</italic> null mutant). This finding highlights the multiple roles signaling proteins play in the regulation of complex cell biological processes. Also, these data emphasize the value of genetic analyses in discerning the physiological relevance of physical interactions discovered <italic>in vitro</italic> for a particular process.</p>
+      <p>Like many other genetic suppressors, <italic>sli-1</italic> mutation has no effect on normal engulfment. Specifically, only two engulfment suppressors, <italic>srgp-1</italic> and <italic>pgrn-1,</italic> have been shown to increase the rate of clearance of apoptotic cells in wild-type animals whereas <italic>abl-1, swan-1</italic> and <italic>mtm-1</italic> do not do so <xref rid="pgen.1003115-Hurwitz1" ref-type="bibr">[14]</xref>, <xref rid="pgen.1003115-Neukomm1" ref-type="bibr">[20]</xref>&#x2013;<xref rid="pgen.1003115-Kao1" ref-type="bibr">[24]</xref>. Notably, the <italic>srgp-1</italic> and <italic>pgrn-1</italic> effects are subtle ones seen in early embryos. Possibly, the engulfment process is so efficient that derepressing it by removing inhibitors has little or no demonstrable effect. Similarly, only <italic>srgp-1</italic> and <italic>mtm-1</italic> cause engulfment defects when overexpressed. However, overexpression of a protein does not always result in increased activity; activation of the protein might be required, explaining the lack of overexpression phenotypes. In the case of <italic>sli-1,</italic> overexpression is toxic to worms so our ability to discern whether overexpression caused increased cell corpse accumulation was limited.</p>
+      <p>The discovery of SLI-1 as an inhibitor of engulfment adds to the small list of engulfment inhibitory proteins. Moreover, our genetic analysis puts SLI-1 into a new genetic pathway. Specifically, <italic>sli-1</italic> loss-of-function mutations suppress the engulfment defects of <italic>ced-1</italic> pathway null mutations and the DTC migration defects of <italic>ced-10</italic> Rac pathway null mutations. Thus, SLI-1 could act in a molecular pathway in parallel to both the <italic>ced-1</italic> and <italic>ced-10</italic> Rac pathways or it might act downstream of one or both pathways. However, the <italic>ced-1</italic> pathway has no role in DTC migration, so it is unlikely that <italic>sli-1</italic> acts downstream of the <italic>ced-1</italic> pathway given its effect on that process. Also, <italic>sli-1</italic> loss-of-function mutations do not suppress the engulfment defects of <italic>ced-10</italic> Rac pathway null mutations and therefore cannot be downstream of the <italic>ced-10</italic> Rac pathway. Thus, the simplest model consistent with the data is that <italic>sli-1</italic> acts in parallel to both <italic>ced-10</italic> Rac and <italic>ced-1</italic> pathways.</p>
+      <p>
+<italic>abl-1,</italic> another inhibitor of engulfment and DTC migration defects, has a very similar pattern of interactions with the two core engulfment pathways, demonstrating that it, too, acts in parallel to the <italic>ced-1</italic> and <italic>ced-10</italic> Rac pathways. We show that <italic>abl-1</italic> and <italic>sli-1</italic> act in parallel to each other in these processes as well. Thus, SLI-1 defines a new pathway of inhibition of engulfment and DTC migration.</p>
+      <p>The genetic interactions between <italic>abl-1</italic> and <italic>abi-1</italic> and <italic>sli-1</italic> and <italic>abi-1</italic> differ considerably. Whereas even very weak loss-of-function of <italic>abi-1</italic> completely suppresses the effects of <italic>abl-1</italic> mutations on engulfment and DTC migration, the same <italic>abi-1</italic> mutation only minimally suppresses the effect of <italic>sli-1</italic> on these processes. These findings are consistent with a model in which <italic>sli-1</italic> acts independently of the Wave Regulatory Complex in engulfment and DTC migration though we cannot conclude that since <italic>abi-1</italic> null mutants were not used in the analysis.</p>
+      <p>Most of our understanding of the function of SLI-1 comes from mammalian studies of its homolog c-Cbl in cell culture. These studies have demonstrated a large number of protein-protein interactions. To discover which of these interactions might be relevant to the engulfment inhibitory function of <italic>sli-1,</italic> we tested which domains were required to rescue SLI-1 function. The only essential domain was the N-terminal TKB domain. While our studies do not preclude a role for the C-terminal proline-rich or RING finger domains, they do indicate that these domains are not central to the engulfment and cell migration functions of SLI-1.</p>
+      <p>The TKB domain includes three motifs: a four helix bundle, a Ca<sup>++</sup> binding EF hand and an SH2 domain. These three motifs together define a unique domain that binds phosphotyrosines of protein tyrosine kinases <xref rid="pgen.1003115-Meng1" ref-type="bibr">[26]</xref>. This binding, in turn, allows the E3 ubiquitin ligase function of the RING finger of Cbl to ubiquitinate and target these tyrosine kinases for destruction or sequestration. However, since the RING finger domain, which is required for ubiquitination, is partially dispensable for inhibition of cell migration by SLI-1, the above mechanism cannot explain our results.</p>
+      <p>In addition to tyrosine kinases, several other proteins have been shown to interact with the N-terminal TKB domain. One of them is APS, an adapter protein that is involved in insulin signaling <xref rid="pgen.1003115-Hu1" ref-type="bibr">[47]</xref>. However there is no obvious APS homolog in <italic>C. elegans</italic>. Furthermore, APS signaling requires the C-terminus of Cbl in mammals and the phenotypes we describe only partially require the C-terminal domain. Another interactor, SLAP, the Src-like adapter protein, also binds to the N-terminus of Cbl <xref rid="pgen.1003115-Tang1" ref-type="bibr">[48]</xref>. It, too, has no obvious homolog in <italic>C. elegans</italic>.</p>
+      <p>A third TKB domain interactor is tubulin. Alpha and beta tubulin bind to the Cbl N-terminus <xref rid="pgen.1003115-Fernandez1" ref-type="bibr">[49]</xref>, <xref rid="pgen.1003115-Teckchandani1" ref-type="bibr">[50]</xref>, and Cbl co-purifies with tubulin in B-cell lysates <xref rid="pgen.1003115-Feshchenko1" ref-type="bibr">[51]</xref>. The idea that an interaction between SLI-1 and tubulin is involved in engulfment suppression is intriguing for several reasons. First, it would support a role for microtubules in apoptotic cell engulfment, which until now has been shown to be regulated solely by actin cytoskeletal rearrangement. Second, it would fit with our genetic findings concerning <italic>sli-1</italic>. Specifically, <italic>sli-1</italic> inhibits both engulfment and DTC migration, two processes totally dependent on appropriate cytoskeletal regulation. Third, <italic>sli-1</italic> appears to act in parallel to all known engulfment genes and engulfment inhibitors. That, too, would be consistent with <italic>sli-1</italic> action affecting an entirely different molecular pathway, namely one regulating microtubules.</p>
+      <p>The discovery that <italic>sli-1</italic> acts through a pathway in parallel to the two core engulfment pathways (<italic>ced-10</italic> Rac and <italic>ced-1</italic>) suggests that there are still other cell biological processes involved in apoptotic cell engulfment yet to be discovered. Since the two core pathways were discovered over 20 years ago, it begs the question of why these processes were not identified previously. Possibly, defects in the unidentified processes result in embryonic lethality so they were not identified in genetic screens. Alternatively, these pathways are redundant with the core pathways and, therefore, would only be discovered in the absence of one or both of them. Regardless of the answer, the existence of other pathways suggests that very tight control of engulfment is required during development.</p>
+      <p>Much of the work on engulfment has been aimed at identifying which signals from the dying cell activate the <italic>ced-10</italic> Rac and <italic>ced-1</italic> pathways. Our findings suggest that in addition to the need for positive signals, engulfing cells require multiple inhibitory signals to prevent inappropriate engulfment. As discussed earlier, engulfment of dying cells promotes their programmed cell deaths. Potentially there are circumstances during development when cells are particularly susceptible to engulfment-mediated death, which, unless prevented, would result in excess cell death and developmental errors. Perhaps these inhibitory pathways exist as a failsafe mechanism to prevent such errors.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s4">
+      <title>Materials and Methods</title>
+      <sec id="s4a">
+        <title>Strains and genetics</title>
+        <p>
+<italic>C. elegans</italic> strains were maintained at 22&#xB0;C as described <xref rid="pgen.1003115-Brenner1" ref-type="bibr">[52]</xref>. The N2 Bristol strain was used as the wild-type strain. Animals were grown on NGM plates and fed OP50 bacteria <xref rid="pgen.1003115-EtienneManneville1" ref-type="bibr">[4]</xref>, <xref rid="pgen.1003115-Wood1" ref-type="bibr">[53]</xref>. The mutations and integrants used were: LGI: <italic>ced-1(e1735, n2091), ced-12(n3261, tp2)</italic>; LGIII: <italic>abi-1(tm494), ced-6(n2095), ced-7(n1996)</italic>; LGIV: <italic>ced-2(n5101), ced-3(n2427), ced-5(n1812), ced-10(n1993), dpy-13(e184sd), let-60(n1046gf)</italic>; LGV: <italic>unc-76(e911), nIs96</italic>
+<xref rid="pgen.1003115-Reddien1" ref-type="bibr">[41]</xref>; LGX: <italic>abl-1(ok171), nIs106</italic>
+<xref rid="pgen.1003115-Reddien1" ref-type="bibr">[41]</xref>, <italic>sli-1(n3538, sy143)</italic>. Mutant alleles for which no citation is given were described previously <xref rid="pgen.1003115-Riddle1" ref-type="bibr">[54]</xref>. Information about <italic>ok</italic> and <italic>tm</italic> alleles can be found at <ext-link ext-link-type="uri" xlink:href="http://www.wormbase.org">www.wormbase.org</ext-link> (<italic>tm</italic> alleles were kindly provided by S. Mitani, Tokyo Women's Medical University, Japan). The following balancer chromosomes were used: LGI; LGIII: <italic>hT2[qIs48],</italic> LGII: <italic>mIn1[mIs14],</italic> LGIV; LGV: <italic>nT1[qIs51].</italic>
+</p>
+        <p>We isolated <italic>ced-2(n5101)</italic> from a <italic>C. elegans</italic> deletion library; genomic DNA pools from the progeny of EMS or UV-TMP mutagenized animals were screened for deletions using PCR as described <xref rid="pgen.1003115-Ceol2" ref-type="bibr">[55]</xref>. <italic>ced-2(n5101)</italic> removes 637 nucleotides from chromosome IV, 242 base pairs 5&#x2032; to the <italic>ced-2</italic> ATG, the entire first exon (439 bp) and 12 bp of the first intron.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Quantitation of engulfment defects</title>
+        <p>Unengulfed apoptotic corpses were visualized in the heads of young larvae as refractile discs directly using Nomarski differential interference contrast (DIC) microscopy <xref rid="pgen.1003115-Sulston2" ref-type="bibr">[56]</xref>, <xref rid="pgen.1003115-Hedgecock1" ref-type="bibr">[57]</xref>. Apoptotic cell corpses were counted in the heads of first larval stage (L1) animals within 30 min of hatching, except for animals treated with RNAi (see below). Animals were anaesthetized in 30 mM sodium azide in M9 <xref rid="pgen.1003115-Wood1" ref-type="bibr">[53]</xref> and viewed using DIC optics on a Zeiss Inverted Axio Observer compound microscope (Thornwood, NY, USA). For animals treated with feeding RNAi, L1 animals were picked, and those with gonads that had not passed the 4-cell stage (all within 60 minutes of hatching) were viewed as described above. <italic>p</italic> values for pairwise comparisons were calculated using the Student's t test.</p>
+      </sec>
+      <sec id="s4c">
+        <title>Quantitation of cell-death defects</title>
+        <p>For quantitation of cell-death defects in the anterior pharynx, animals in the third larval stage (L3) were anaesthetized and viewed with DIC microscopy as described above. Briefly, the locations of the nuclei of the 16 cells that undergo programmed cell death in the anterior pharynx are known <xref rid="pgen.1003115-Sulston1" ref-type="bibr">[39]</xref>. In wild-type animals by the L3 stage, all of those nuclei have disappeared; any nuclei in these locations in the animals examined at the L3 stage were scored as extra cells. <italic>p</italic> values for pairwise comparisons in the pharynges were calculated using Student's t test.</p>
+      </sec>
+      <sec id="s4d">
+        <title>Time-lapse microscopy</title>
+        <p>Single embryos were placed on agar pads, sealed with petroleum jelly and viewed at 20&#xB0;C using a Zeiss Inverted Axio Observer compound microscope equipped with Nomarski DIC accessories, a Zeiss AxioCam HRm digital camera and Zeiss Axiovision image acquisition software. Pictures were taken every 3 min for 200 min, and images were analyzed beginning with the appearance of the first cell corpse and ending at the comma stage. The time of appearance of each corpse was recorded. For each time point, 60&#x2013;80 serial z sections at 0.4 &#xB5;m/section were recorded. Images were analyzed with ImageJ64 1.45 s (<ext-link ext-link-type="uri" xlink:href="http://imagej.nih.gov/ij">http://imagej.nih.gov/ij</ext-link>) using the plugin Cell Counter. <italic>p</italic> values for comparisons between strains were calculated using the Wilcoxon rank-sum test.</p>
+      </sec>
+      <sec id="s4e">
+        <title>Quantitation of DTC defects</title>
+        <p>Adult animals 18 h after the mid-fourth larval stage (L4) were anaesthetized and viewed as described above in Quantitation of engulfment defects and gonads were visualized <xref rid="pgen.1003115-Hirsh1" ref-type="bibr">[44]</xref>, <xref rid="pgen.1003115-Nishiwaki1" ref-type="bibr">[58]</xref>. Only gonads that were completely visualized were scored. Specifically, gonads that were partially occluded by other structures were not scored. DTC migration was scored as defective when the gonad was morphologically abnormal (extra turn, two arms or bizarre twists) or when the gonad was short or long. Gonadal length was defined as abnormal when the gonad tip was distal to the ipsilateral spermatheca (short) or distal to the contralateral spermatheca (long). The vast majority of abnormalities were in morphology rather than in length. <italic>p</italic> values for pairwise comparisons were calculated using Fisher's exact test.</p>
+      </sec>
+      <sec id="s4f">
+        <title>Expression analysis of <italic>sli-1</italic>
+</title>
+        <p>For the transcriptional GFP fusion, a PCR product encoding the 5 kb genomic fragment upstream of the M02A10.3a (<italic>sli-1</italic>) start site was made with SalI/XbaI ends. The product was then digested with SalI and XbaI and ligated to pPD95.75 from the Fire Lab <italic>C. elegans</italic> kit (Addgene). The resulting plasmid contained the 5 kb upstream of M02A10.3a adjacent to <italic>gfp</italic> (GFP[S65C]). The plasmid was injected into gonads of N2 animals with the coinjection marker P<italic><sub>unc-122</sub>::rfp</italic> (50 ng/&#xB5;l for each with 50 ng/&#xB5;l 1 Kb Plus DNA Ladder (Invitrogen) to a total concentration 150 ng/&#xB5;l). Three independent transgenic lines were observed and photographed using fluorescence and DIC microscopy. For the translational GFP fusion, we used <italic>in vivo</italic> recombination (<ext-link ext-link-type="uri" xlink:href="http://wormbook.org/chapters/www_reportergenefusions/reportergenefusions.html">http://wormbook.org/chapters/www_reportergenefusions/reportergenefusions.html</ext-link>). Fosmid WRM0611cB12 was digested with MscI and SpeI, generating a 9 kb fragment which includes 5 kb of sequence upstream of M02A10.3a and 4 kb of the M02A10.3a sequence. To make the second fragment, a 5 kb full length M02A10.3a sequence was PCR amplified from fosmid WRM0611cB12 and then inserted into vector pDEST-MB14 using the Gateway method (Invitrogen), resulting in an in-frame fusion of M02A10.3a with GFP at its C-terminus. Then this plasmid was cut with PstI and SacII, making a 6 kb fragment including the C-terminal 4.5 kb of M02A10.3a fused with <italic>gfp</italic> and some additional sequence from pDEST-MB14. The 2 fragments were mixed with the co-injection marker P<italic><sub>myo-2</sub>::rfp</italic> (50 ng/&#xB5;l for each with 50 ng/&#xB5;l 1 Kb Plus DNA Ladder to a total concentration 200 ng/&#xB5;l) and injected into the gonads of <italic>ced-10(n1993);sli-1(sy143)</italic> animals. Three independent transgenic lines were analyzed. All lines demonstrated rescue of the <italic>sli-1</italic> engulfment suppression defect.</p>
+      </sec>
+      <sec id="s4g">
+        <title>
+<italic>sli-1</italic> rescue</title>
+        <p>P<italic><sub>hsp</sub>sli-1wt,</italic> P<italic><sub>hsp</sub>sli-1&#x394;N,</italic> P<italic><sub>hsp</sub>sli-1&#x394;RING,</italic> and P<italic><sub>hsp</sub>sli-1&#x394;C</italic> were described previously <xref rid="pgen.1003115-Yoon2" ref-type="bibr">[30]</xref>. Briefly, <italic>sli-1&#x394;N</italic> encodes the first 64 amino acids of SLI-1 followed by a short linker (Leu Ala Leu) and then amino acid (aa) 350 through the end of the protein (aa 583). <italic>sli-1&#x394;RING</italic> encodes the first 393 amino acids followed by the following linker (Glu Thr Gly Thr Thr Phe Glu) and then amino acid 432 through the end of the protein. <italic>sli-1&#x394;C</italic> encodes the first 447 amino acids of the protein. The P<italic><sub>hsp</sub>gfp</italic> plasmids have been described previously <xref rid="pgen.1003115-Reddien2" ref-type="bibr">[59]</xref>. Each minigene was expressed under the control of the <italic>hsp16/2</italic> and <italic>hsp16/41</italic> promoters. P<italic><sub>hsp</sub></italic> plasmids were injected into <italic>ced-10(n1993); sli-1(sy143)</italic> animals at a concentration of 20 ng/&#xB5;l with a plasmid containing <italic>myo-2::rfp</italic> as a coinjection marker at 5 ng/&#xB5;l and with 35 ng/&#xB5;l of 1 Kb Plus DNA Ladder for a total concentration of 80 ng/&#xB5;l per injection. The pharynges of transgenic animals were RFP-positive. For quantification of unengulfed apoptotic cell corpses, embryos were grown at 20&#xB0;C, heat-shocked for one hour at 33&#xB0;C, placed at 20&#xB0;C for up to four hours after which cell corpses in the heads of newly hatched first larval stage (L1) animals were counted. For quantification of DTC migration defects, animals were heat shocked for one hour at 33&#xB0;C and placed at 22&#xB0;C for 30 hours. DTC morphology in young adults was then analyzed in an equal number of animals with and without the transgenic arrays. 200 gonad arms were analyzed per genotype. Two independent transgenic lines were analyzed for each transgene combination except for the engulfment analysis of P<italic><sub>hsp</sub>sli-1&#x394;RING,</italic> in which only one line was used. This was because only one of the lines produced viable L1 larvae after heat shock during embryogenesis. Attempts were made with five separate lines. We presume this line had lower expression levels based on the fact that high expression levels of SLI-1 proteins are toxic to worms. Also, the line that produced viable larvae had comparatively faint GFP staining.</p>
+      </sec>
+      <sec id="s4h">
+        <title>RNA interference by feeding</title>
+        <p>Animals were fed bacteria that contained either the RNAi empty feeding vector L4440 <xref rid="pgen.1003115-Timmons1" ref-type="bibr">[60]</xref> or an RNAi feeding vector with part of the <italic>abi-1</italic> gene, <italic>B0336.6</italic>, cloned into it. We obtained the <italic>abi-1</italic> feeding plasmid from Open Biosystems (Huntsville, AL, USA). The DNA sequence of the clone was determined to verify its accuracy. Feeding RNAi was performed as described <xref rid="pgen.1003115-Timmons1" ref-type="bibr">[60]</xref>, <xref rid="pgen.1003115-Kamath1" ref-type="bibr">[61]</xref>. Briefly, bacteria were grown in liquid culture overnight and then transferred to NGM plates containing 1 mM isopropyl-D-&#x3B2;-thiogalactopyranoside (IPTG). Fourth-larval stage (L4) animals were placed on these plates and 24 h later were transferred to fresh plates. Progeny were tested for engulfment or DTC migration defects.</p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material" id="s5">
+      <title>Supporting Information</title>
+      <supplementary-material content-type="local-data" id="pgen.1003115.s001">
+        <label>Figure S1</label>
+        <caption>
+          <p>Expression pattern of <italic>P<sub>sli-1</sub>::gfp. gfp</italic> was expressed under control of the <italic>sli-1</italic> promoter. i, iii, v, vii and ix show fluorescence images and ii, iv, vi, viii and x show accompanying DIC images. i and ii, embryo at gastrulation; iii and iv, embryo at 1&#xBD;-fold stage; v and vi, L1 head; vii and viii, L1 body; ix and x, L4 gonad with arrowheads showing DTC. Bar&#x200A;=&#x200A;5 microns.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pgen.1003115.s001.tif">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="pgen.1003115.s002">
+        <label>Table S1</label>
+        <caption>
+          <p>Overexpression of <italic>sli-1</italic> might cause an engulfment defect in twofold embryos. Twofold embryos were viewed using DIC microscopy. The numbers of cell corpses were counted. s.d., standard deviation.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgen.1003115.s002.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank M. Hammarlund for suggestions concerning the manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pgen.1003115-Mangahas1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Mangahas</surname><given-names>P</given-names></name>, <name><surname>Zhou</surname><given-names>Z</given-names></name> (<year>2005</year>) <article-title>Clearance of apoptotic cells in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Semin Cell Dev Biol</source>
+<volume>16</volume>: <fpage>295</fpage>&#x2013;<lpage>306</lpage>.<pub-id pub-id-type="pmid">15797839</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Yu1">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yu</surname><given-names>X</given-names></name>, <name><surname>Odera</surname><given-names>S</given-names></name>, <name><surname>Chuang</surname><given-names>C</given-names></name>, <name><surname>Lu</surname><given-names>N</given-names></name>, <name><surname>Zhou</surname><given-names>Z</given-names></name> (<year>2006</year>) <article-title>
+<italic>C. elegans</italic> Dynamin mediates the signaling of phagocytic receptor CED-1 for the engulfment and degradation of apoptotic cells</article-title>. <source>Developmental Cell</source>
+<volume>10</volume>: <fpage>743</fpage>&#x2013;<lpage>757</lpage>.<pub-id pub-id-type="pmid">16740477</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Kruchten1">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kruchten</surname><given-names>AE</given-names></name> (<year>2006</year>) <article-title>Dynamin as a mover and pincher during cell migration and invasion</article-title>. <source>Journal of Cell Science</source>
+<volume>119</volume>: <fpage>1683</fpage>&#x2013;<lpage>1690</lpage>.<pub-id pub-id-type="pmid">16636070</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-EtienneManneville1">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Etienne-Manneville</surname><given-names>S</given-names></name>, <name><surname>Hall</surname><given-names>A</given-names></name> (<year>2002</year>) <article-title>Rho GTPases in cell biology</article-title>. <source>Nature</source>
+<volume>420</volume>: <fpage>629</fpage>&#x2013;<lpage>635</lpage>.<pub-id pub-id-type="pmid">12478284</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Brugnera1">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Brugnera</surname><given-names>E</given-names></name>, <name><surname>Haney</surname><given-names>L</given-names></name>, <name><surname>Grimsley</surname><given-names>C</given-names></name>, <name><surname>Lu</surname><given-names>M</given-names></name>, <name><surname>Walk</surname><given-names>SF</given-names></name>, <etal>et al</etal> (<year>2002</year>) <article-title>Unconventional Rac-GEF activity is mediated through the Dock180&#x2013;ELMO complex</article-title>. <source>Nat Cell Biol</source>
+<volume>4</volume>: <fpage>574</fpage>&#x2013;<lpage>582</lpage>.<pub-id pub-id-type="pmid">12134158</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Kinchen1">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kinchen</surname><given-names>JM</given-names></name>, <name><surname>Cabello</surname><given-names>J</given-names></name>, <name><surname>Klingele</surname><given-names>D</given-names></name>, <name><surname>Wong</surname><given-names>K</given-names></name>, <name><surname>Feichtinger</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2005</year>) <article-title>Two pathways converge at CED-10 to mediate actin rearrangement and corpse removal in <italic>C. elegans</italic>
+</article-title>. <source>Nature</source>
+<volume>434</volume>: <fpage>93</fpage>&#x2013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">15744306</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Lundquist1">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Lundquist</surname><given-names>EA</given-names></name>, <name><surname>Reddien</surname><given-names>PW</given-names></name>, <name><surname>Hartwieg</surname><given-names>E</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name>, <name><surname>Bargmann</surname><given-names>CI</given-names></name> (<year>2001</year>) <article-title>Three <italic>C. elegans</italic> Rac proteins and several alternative Rac regulators control axon guidance, cell migration and apoptotic cell phagocytosis</article-title>. <source>Development</source>
+<volume>128</volume>: <fpage>4475</fpage>&#x2013;<lpage>4488</lpage>.<pub-id pub-id-type="pmid">11714673</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-deBakker1">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<name><surname>deBakker</surname><given-names>CD</given-names></name>, <name><surname>Haney</surname><given-names>LB</given-names></name>, <name><surname>Kinchen</surname><given-names>JM</given-names></name>, <name><surname>Grimsley</surname><given-names>C</given-names></name>, <name><surname>Lu</surname><given-names>M</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>Phagocytosis of apoptotic cells is regulated by a UNC-73/TRIO-MIG-2/RhoG signaling module and armadillo repeats of CED-12/ELMO</article-title>. <source>Curr Biol</source>
+<volume>14</volume>: <fpage>2208</fpage>&#x2013;<lpage>2216</lpage>.<pub-id pub-id-type="pmid">15620647</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Wang1">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Wang</surname><given-names>X</given-names></name>, <name><surname>Wu</surname><given-names>Y-C</given-names></name>, <name><surname>Fadok</surname><given-names>VA</given-names></name>, <name><surname>Lee</surname><given-names>M-C</given-names></name>, <name><surname>Gengyo-Ando</surname><given-names>K</given-names></name>, <etal>et al</etal> (<year>2003</year>) <article-title>Cell corpse engulfment mediated by <italic>C. elegans</italic> phosphatidylserine receptor through CED-5 and CED-12</article-title>. <source>Science</source>
+<volume>302</volume>: <fpage>1563</fpage>&#x2013;<lpage>1566</lpage>.<pub-id pub-id-type="pmid">14645848</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Hsu1">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hsu</surname><given-names>T-Y</given-names></name>, <name><surname>Wu</surname><given-names>Y-C</given-names></name> (<year>2010</year>) <article-title>Engulfment of apoptotic cells in <italic>C. elegans</italic> is mediated by Integrin &#x3B1;/SRC signaling</article-title>. <source>Current Biology</source>
+<volume>20</volume>: <fpage>477</fpage>&#x2013;<lpage>486</lpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cub.2010.01.062">10.1016/j.cub.2010.01.062</ext-link></comment>.<pub-id pub-id-type="pmid">20226672</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Ziegenfuss1">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ziegenfuss</surname><given-names>JS</given-names></name>, <name><surname>Biswas</surname><given-names>R</given-names></name>, <name><surname>Avery</surname><given-names>MA</given-names></name>, <name><surname>Hong</surname><given-names>K</given-names></name>, <name><surname>Sheehan</surname><given-names>AE</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Draper-dependent glial phagocytic activity is mediated by Src and Syk family kinase signalling</article-title>. <source>Nature</source>
+<volume>453</volume>: <fpage>935</fpage>&#x2013;<lpage>939</lpage>.<pub-id pub-id-type="pmid">18432193</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Cuttell1">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Cuttell</surname><given-names>L</given-names></name>, <name><surname>Vaughan</surname><given-names>A</given-names></name>, <name><surname>Silva</surname><given-names>E</given-names></name>, <name><surname>Escaron</surname><given-names>C</given-names></name>, <name><surname>Lavine</surname><given-names>M</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Undertaker, a <italic>Drosophila</italic> junctophilin, links Draper-mediated phagocytosis and calcium homeostasis</article-title>. <source>cell</source>
+<volume>135</volume>: <fpage>524</fpage>&#x2013;<lpage>534</lpage>.<pub-id pub-id-type="pmid">18984163</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Gronski1">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Gronski</surname><given-names>MA</given-names></name>, <name><surname>Kinchen</surname><given-names>JM</given-names></name>, <name><surname>Juncadella</surname><given-names>IJ</given-names></name>, <name><surname>Franc</surname><given-names>NC</given-names></name>, <name><surname>Ravichandran</surname><given-names>KS</given-names></name> (<year>2009</year>) <article-title>An essential role for calcium flux in phagocytes for apoptotic cell engulfment and the anti-inflammatory response</article-title>. <source>Cell Death Differ</source>
+<volume>16</volume>: <fpage>1323</fpage>&#x2013;<lpage>1331</lpage>.<pub-id pub-id-type="pmid">19461656</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Hurwitz1">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hurwitz</surname><given-names>ME</given-names></name>, <name><surname>Vanderzalm</surname><given-names>PJ</given-names></name>, <name><surname>Bloom</surname><given-names>L</given-names></name>, <name><surname>Goldman</surname><given-names>J</given-names></name>, <name><surname>Garriga</surname><given-names>G</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>Abl Kinase inhibits the engulfment of apopotic cells in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>PLoS Biol</source>
+<volume>7</volume>: <fpage>e99</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pbio.1000099">10.1371/journal.pbio.1000099</ext-link></comment>.<pub-id pub-id-type="pmid">19402756</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Miki1">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Miki</surname><given-names>H</given-names></name>, <name><surname>Suetsugu</surname><given-names>S</given-names></name>, <name><surname>Takenawa</surname><given-names>T</given-names></name> (<year>1998</year>) <article-title>WAVE, a novel WASP-family protein involved in actin reorganization induced by Rac</article-title>. <source>EMBO J</source>
+<volume>17</volume>: <fpage>6932</fpage>&#x2013;<lpage>6941</lpage>.<pub-id pub-id-type="pmid">9843499</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Eden1">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Eden</surname><given-names>S</given-names></name>, <name><surname>Rohatgi</surname><given-names>R</given-names></name>, <name><surname>Podtelejnikov</surname><given-names>AV</given-names></name>, <name><surname>Mann</surname><given-names>M</given-names></name>, <name><surname>Kirschner</surname><given-names>MW</given-names></name> (<year>2002</year>) <article-title>Mechanism of regulation of WAVE1-induced actin nucleation by Rac1 and Nck</article-title>. <source>Nature</source>
+<volume>418</volume>: <fpage>790</fpage>&#x2013;<lpage>793</lpage>.<pub-id pub-id-type="pmid">12181570</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Soto1">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Soto</surname><given-names>MC</given-names></name>, <name><surname>Qadota</surname><given-names>H</given-names></name>, <name><surname>Kasuya</surname><given-names>K</given-names></name>, <name><surname>Inoue</surname><given-names>M</given-names></name>, <name><surname>Tsuboi</surname><given-names>D</given-names></name>, <etal>et al</etal> (<year>2002</year>) <article-title>The GEX-2 and GEX-3 proteins are required for tissue morphogenesis and cell migrations in <italic>C. elegans</italic>
+</article-title>. <source>Genes Dev</source>
+<volume>16</volume>: <fpage>620</fpage>&#x2013;<lpage>632</lpage>.<pub-id pub-id-type="pmid">11877381</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Patel1">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Patel</surname><given-names>F</given-names></name>, <name><surname>Bernadskaya</surname><given-names>Y</given-names></name>, <name><surname>Chen</surname><given-names>E</given-names></name>, <name><surname>Jobanputra</surname><given-names>A</given-names></name>, <name><surname>Pooladi</surname><given-names>Z</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>The WAVE/SCAR complex promotes polarized cell movements and actin enrichment in epithelia during <italic>C. elegans</italic> embryogenesis</article-title>. <source>Developmental Biology</source>
+<fpage>37</fpage>.<pub-id pub-id-type="pmid">18387173</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-ToselloTrampont1">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Tosello-Trampont</surname><given-names>A-C</given-names></name>, <name><surname>Nakada-Tsukui</surname><given-names>K</given-names></name>, <name><surname>Ravichandran</surname><given-names>KS</given-names></name> (<year>2003</year>) <article-title>Engulfment of apoptotic cells is negatively regulated by Rho-mediated signaling</article-title>. <source>J Biol Chem</source>
+<volume>278</volume>: <fpage>49911</fpage>&#x2013;<lpage>49919</lpage>.<pub-id pub-id-type="pmid">14514696</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Neukomm1">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Neukomm</surname><given-names>LJ</given-names></name>, <name><surname>Frei</surname><given-names>AP</given-names></name>, <name><surname>Cabello</surname><given-names>J</given-names></name>, <name><surname>Kinchen</surname><given-names>JM</given-names></name>, <name><surname>Zaidel-Bar</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2010</year>) <article-title>Loss of the RhoGAP SRGP-1 promotes the clearance of dead and injured cells in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Nat Cell Biol</source>
+<volume>13</volume>: <fpage>79</fpage>&#x2013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">21170032</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Zou1">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Zou</surname><given-names>W</given-names></name>, <name><surname>Lu</surname><given-names>Q</given-names></name>, <name><surname>Zhao</surname><given-names>D</given-names></name>, <name><surname>Li</surname><given-names>W</given-names></name>, <name><surname>Mapes</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>
+<italic>Caenorhabditis elegans</italic> myotubularin MTM-1 negatively regulates the engulfment of apoptotic cells</article-title>. <source>PLoS Genet</source>
+<volume>5</volume>: <fpage>e1000679</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pgen.1000679">10.1371/journal.pgen.1000679</ext-link></comment>.<pub-id pub-id-type="pmid">19816564</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Neukomm2">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Neukomm</surname><given-names>LJ</given-names></name>, <name><surname>Nicot</surname><given-names>A-S</given-names></name>, <name><surname>Kinchen</surname><given-names>JM</given-names></name>, <name><surname>Almendinger</surname><given-names>J</given-names></name>, <name><surname>Pinto</surname><given-names>SM</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>The phosphoinositide phosphatase MTM-1 regulates apoptotic cell corpse clearance through CED-5-CED-12 in <italic>C. elegans</italic>
+</article-title>. <source>Development</source>
+<volume>138</volume>: <fpage>2003</fpage>&#x2013;<lpage>2014</lpage>.<pub-id pub-id-type="pmid">21490059</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Yang1">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yang</surname><given-names>Y</given-names></name>, <name><surname>Lu</surname><given-names>J</given-names></name>, <name><surname>Rovnak</surname><given-names>J</given-names></name>, <name><surname>Quackenbush</surname><given-names>SL</given-names></name>, <name><surname>Lundquist</surname><given-names>EA</given-names></name> (<year>2006</year>) <article-title>SWAN-1, a <italic>Caenorhabditis elegans</italic> WD repeat protein of the AN11 family, is a negative regulator of Rac GTPase function</article-title>. <source>Genetics</source>
+<volume>174</volume>: <fpage>1917</fpage>&#x2013;<lpage>1932</lpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1534/genetics.106.063115">10.1534/genetics.106.063115</ext-link></comment>.<pub-id pub-id-type="pmid">16980389</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Kao1">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kao</surname><given-names>AW</given-names></name>, <name><surname>Eisenhut</surname><given-names>RJ</given-names></name>, <name><surname>Martens</surname><given-names>LH</given-names></name>, <name><surname>Nakamura</surname><given-names>A</given-names></name>, <name><surname>Huang</surname><given-names>A</given-names></name>, <etal>et al</etal> (<year>2011</year>) <article-title>A neurodegenerative disease mutation that accelerates the clearance of apoptotic cells</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>108</volume>: <fpage>4441</fpage>&#x2013;<lpage>4446</lpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1073/pnas.1100650108">10.1073/pnas.1100650108</ext-link></comment>.<pub-id pub-id-type="pmid">21368173</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Swaminathan1">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Swaminathan</surname><given-names>G</given-names></name>, <name><surname>Tsygankov</surname><given-names>AY</given-names></name> (<year>2006</year>) <article-title>The Cbl family proteins: Ring leaders in regulation of cell signaling</article-title>. <source>J Cell Physiol</source>
+<volume>209</volume>: <fpage>21</fpage>&#x2013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">16741904</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Meng1">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Meng</surname><given-names>W</given-names></name>, <name><surname>Sawasdikosol</surname><given-names>S</given-names></name>, <name><surname>Burakoff</surname><given-names>SJ</given-names></name>, <name><surname>Eck</surname><given-names>MJ</given-names></name> (<year>1999</year>) <article-title>Structure of the amino-terminal domain of Cbl complexed to its binding site on ZAP-70 kinase</article-title>. <source>Nature</source>
+<volume>398</volume>: <fpage>84</fpage>&#x2013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">10078535</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Schmidt1">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Schmidt</surname><given-names>MHH</given-names></name>, <name><surname>Dikic</surname><given-names>I</given-names></name> (<year>2005</year>) <article-title>The Cbl interactome and its functions</article-title>. <source>Nat Rev Mol Cell Biol</source>
+<volume>6</volume>: <fpage>907</fpage>&#x2013;<lpage>918</lpage>.<pub-id pub-id-type="pmid">16227975</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Tanos1">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Tanos</surname><given-names>B</given-names></name>, <name><surname>Pendergast</surname><given-names>A</given-names></name> (<year>2007</year>) <article-title>Abi-1 forms an epidermal growth factor-inducible complex with Cbl: Role in receptor endocytosis</article-title>. <source>Cell Signal</source>
+<volume>19</volume>: <fpage>1602</fpage>&#x2013;<lpage>1609</lpage>.<pub-id pub-id-type="pmid">17395426</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Yoon1">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yoon</surname><given-names>CH</given-names></name>, <name><surname>Lee</surname><given-names>J</given-names></name>, <name><surname>Jongeward</surname><given-names>GD</given-names></name>, <name><surname>Sternberg</surname><given-names>PW</given-names></name> (<year>1995</year>) <article-title>Similarity of <italic>sli-1</italic>, a regulator of vulval development in <italic>C. elegans</italic>, to the mammalian proto-oncogene c-cbl</article-title>. <source>Science</source>
+<volume>269</volume>: <fpage>1102</fpage>&#x2013;<lpage>1105</lpage>.<pub-id pub-id-type="pmid">7652556</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Yoon2">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Yoon</surname><given-names>CH</given-names></name>, <name><surname>Chang</surname><given-names>C</given-names></name>, <name><surname>Hopper</surname><given-names>NA</given-names></name>, <name><surname>Lesa</surname><given-names>GM</given-names></name>, <name><surname>Sternberg</surname><given-names>PW</given-names></name> (<year>2000</year>) <article-title>Requirements of multiple domains of SLI-1, a <italic>Caenorhabditis elegans</italic> homologue of c-Cbl, and an inhibitory tyrosine in LET-23 in regulating vulval differentiation</article-title>. <source>Mol Biol Cell</source>
+<volume>11</volume>: <fpage>4019</fpage>&#x2013;<lpage>4031</lpage>.<pub-id pub-id-type="pmid">11071924</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Scaife1">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Scaife</surname><given-names>RM</given-names></name>, <name><surname>Langdon</surname><given-names>WY</given-names></name> (<year>2000</year>) <article-title>c-Cbl localizes to actin lamellae and regulates lamellipodia formation and cell morphology</article-title>. <source>Journal of Cell Science</source>
+<volume>113 Pt 2</volume>: <fpage>215</fpage>&#x2013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">10633073</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Scaife2">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Scaife</surname><given-names>RM</given-names></name>, <name><surname>Job</surname><given-names>D</given-names></name>, <name><surname>Langdon</surname><given-names>WY</given-names></name> (<year>2003</year>) <article-title>Rapid microtubule-dependent induction of neurite-like extensions in NIH 3T3 fibroblasts by inhibition of ROCK and Cbl</article-title>. <source>Mol Biol Cell</source>
+<volume>14</volume>: <fpage>4605</fpage>&#x2013;<lpage>4617</lpage>.<pub-id pub-id-type="pmid">12960437</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Soubeyran1">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Soubeyran</surname><given-names>P</given-names></name>, <name><surname>Barac</surname><given-names>A</given-names></name>, <name><surname>Szymkiewicz</surname><given-names>I</given-names></name>, <name><surname>Dikic</surname><given-names>I</given-names></name> (<year>2003</year>) <article-title>Cbl-ArgBP2 complex mediates ubiquitination and degradation of c-Abl</article-title>. <source>Biochem J</source>
+<volume>370</volume>: <fpage>29</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">12475393</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Ellis1">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ellis</surname><given-names>RE</given-names></name>, <name><surname>Jacobson</surname><given-names>DM</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>1991</year>) <article-title>Genes required for the engulfment of cell corpses during programmed cell death in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Genetics</source>
+<volume>129</volume>: <fpage>79</fpage>&#x2013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">1936965</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Jongeward1">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Jongeward</surname><given-names>GD</given-names></name>, <name><surname>Clandinin</surname><given-names>TR</given-names></name>, <name><surname>Sternberg</surname><given-names>PW</given-names></name> (<year>1995</year>) <article-title>
+<italic>sli-1</italic>, a negative regulator of <italic>let-23</italic>-mediated signaling in <italic>C. elegans</italic>
+</article-title>. <source>Genetics</source>
+<volume>139</volume>: <fpage>1553</fpage>&#x2013;<lpage>1566</lpage>.<pub-id pub-id-type="pmid">7789760</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Ceol1">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ceol</surname><given-names>CJ</given-names></name>, <name><surname>Stegmeier</surname><given-names>F</given-names></name>, <name><surname>Harrison</surname><given-names>MM</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>2006</year>) <article-title>Identification and classification of genes that act antagonistically to <italic>let-60</italic> Ras signaling in <italic>Caenorhabditis elegans</italic> vulval development</article-title>. <source>Genetics</source>
+<volume>173</volume>: <fpage>709</fpage>&#x2013;<lpage>726</lpage>.<pub-id pub-id-type="pmid">16624904</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Ellis2">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ellis</surname><given-names>HM</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>1986</year>) <article-title>Genetic control of programmed cell death in the nematode <italic>C. elegans</italic>
+</article-title>. <source>Cell</source>
+<volume>44</volume>: <fpage>817</fpage>&#x2013;<lpage>829</lpage>.<pub-id pub-id-type="pmid">3955651</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Stanfield1">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Stanfield</surname><given-names>GM</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>2000</year>) <article-title>The <italic>ced-8</italic> gene controls the timing of programmed cell deaths in <italic>C. elegans</italic>
+</article-title>. <source>Mol Cell</source>
+<volume>5</volume>: <fpage>423</fpage>&#x2013;<lpage>433</lpage>.<pub-id pub-id-type="pmid">10882128</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Sulston1">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Sulston</surname><given-names>JE</given-names></name>, <name><surname>Schierenberg</surname><given-names>E</given-names></name>, <name><surname>White</surname><given-names>JG</given-names></name>, <name><surname>Thomson</surname><given-names>JN</given-names></name> (<year>1983</year>) <article-title>The embryonic cell lineage of the nematode <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Developmental Biology</source>
+<volume>100</volume>: <fpage>64</fpage>&#x2013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">6684600</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Shaham1">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Shaham</surname><given-names>S</given-names></name>, <name><surname>Reddien</surname><given-names>PW</given-names></name>, <name><surname>Davies</surname><given-names>B</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>1999</year>) <article-title>Mutational analysis of the <italic>Caenorhabditis elegans</italic> cell-death gene <italic>ced-3</italic>
+</article-title>. <source>Genetics</source>
+<volume>153</volume>: <fpage>1655</fpage>&#x2013;<lpage>1671</lpage>.<pub-id pub-id-type="pmid">10581274</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Reddien1">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Reddien</surname><given-names>PW</given-names></name>, <name><surname>Cameron</surname><given-names>S</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>2001</year>) <article-title>Phagocytosis promotes programmed cell death in <italic>C. elegans</italic>
+</article-title>. <source>Nature</source>
+<volume>412</volume>: <fpage>198</fpage>&#x2013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">11449278</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Hoeppner1">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hoeppner</surname><given-names>DJ</given-names></name>, <name><surname>Hengartner</surname><given-names>MO</given-names></name>, <name><surname>Schnabel</surname><given-names>R</given-names></name> (<year>2001</year>) <article-title>Engulfment genes cooperate with <italic>ced-3</italic> to promote cell death in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Nature</source>
+<volume>412</volume>: <fpage>202</fpage>&#x2013;<lpage>206</lpage>.<pub-id pub-id-type="pmid">11449279</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Li1">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Li</surname><given-names>W</given-names></name>, <name><surname>Baker</surname><given-names>N</given-names></name> (<year>2007</year>) <article-title>Engulfment is required for cell competition</article-title>. <source>Cell</source>
+<volume>129</volume>: <fpage>1215</fpage>&#x2013;<lpage>1225</lpage>.<pub-id pub-id-type="pmid">17574031</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Hirsh1">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hirsh</surname><given-names>D</given-names></name>, <name><surname>Oppenheim</surname><given-names>D</given-names></name>, <name><surname>Klass</surname><given-names>M</given-names></name> (<year>1976</year>) <article-title>Development of the reproductive system of <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Developmental Biology</source>
+<volume>49</volume>: <fpage>200</fpage>&#x2013;<lpage>219</lpage>.<pub-id pub-id-type="pmid">943344</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Kimble1">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kimble</surname><given-names>JE</given-names></name>, <name><surname>White</surname><given-names>JG</given-names></name> (<year>1981</year>) <article-title>On the control of germ cell development in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Developmental Biology</source>
+<volume>81</volume>: <fpage>208</fpage>&#x2013;<lpage>219</lpage>.<pub-id pub-id-type="pmid">7202837</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Wu1">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Wu</surname><given-names>YC</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>1998</year>) <article-title>
+<italic>C. elegans</italic> phagocytosis and cell-migration protein CED-5 is similar to human DOCK180</article-title>. <source>Nature</source>
+<volume>392</volume>: <fpage>501</fpage>&#x2013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">9548255</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Hu1">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hu</surname><given-names>J</given-names></name>, <name><surname>Hubbard</surname><given-names>SR</given-names></name> (<year>2005</year>) <article-title>Structural characterization of a novel Cbl phosphotyrosine recognition motif in the APS family of adapter proteins</article-title>. <source>J Biol Chem</source>
+<volume>280</volume>: <fpage>18943</fpage>&#x2013;<lpage>18949</lpage>.<pub-id pub-id-type="pmid">15737992</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Tang1">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Tang</surname><given-names>J</given-names></name>, <name><surname>Sawasdikosol</surname><given-names>S</given-names></name>, <name><surname>Chang</surname><given-names>JH</given-names></name>, <name><surname>Burakoff</surname><given-names>SJ</given-names></name> (<year>1999</year>) <article-title>SLAP, a dimeric adapter protein, plays a functional role in T cell receptor signaling</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>96</volume>: <fpage>9775</fpage>&#x2013;<lpage>9780</lpage>.<pub-id pub-id-type="pmid">10449770</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Fernandez1">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Fernandez</surname><given-names>JA</given-names></name>, <name><surname>Keshvara</surname><given-names>LM</given-names></name>, <name><surname>Peters</surname><given-names>JD</given-names></name>, <name><surname>Furlong</surname><given-names>MT</given-names></name>, <name><surname>Harrison</surname><given-names>ML</given-names></name>, <etal>et al</etal> (<year>1999</year>) <article-title>Phosphorylation- and activation-independent association of the tyrosine kinase Syk and the tyrosine kinase substrates Cbl and Vav with tubulin in B-cells</article-title>. <source>J Biol Chem</source>
+<volume>274</volume>: <fpage>1401</fpage>&#x2013;<lpage>1406</lpage>.<pub-id pub-id-type="pmid">9880513</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Teckchandani1">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Teckchandani</surname><given-names>AM</given-names></name>, <name><surname>Panetti</surname><given-names>TS</given-names></name>, <name><surname>Tsygankov</surname><given-names>AY</given-names></name> (<year>2005</year>) <article-title>c-Cbl regulates migration of v-Abl-transformed NIH 3T3 fibroblasts via Rac1</article-title>. <source>Experimental Cell Research</source>
+<volume>307</volume>: <fpage>247</fpage>&#x2013;<lpage>258</lpage>.<pub-id pub-id-type="pmid">15922744</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Feshchenko1">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Feshchenko</surname><given-names>EA</given-names></name>, <name><surname>Smirnova</surname><given-names>EV</given-names></name>, <name><surname>Swaminathan</surname><given-names>G</given-names></name>, <name><surname>Teckchandani</surname><given-names>AM</given-names></name>, <name><surname>Agrawal</surname><given-names>R</given-names></name>, <etal>et al</etal> (<year>2004</year>) <article-title>TULA: an SH3- and UBA-containing protein that binds to c-Cbl and ubiquitin</article-title>. <source>Oncogene</source>
+<volume>23</volume>: <fpage>4690</fpage>&#x2013;<lpage>4706</lpage>.<pub-id pub-id-type="pmid">15107835</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Brenner1">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Brenner</surname><given-names>S</given-names></name> (<year>1974</year>) <article-title>The genetics of <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Genetics</source>
+<volume>77</volume>: <fpage>71</fpage>&#x2013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">4366476</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Wood1">
+        <label>53</label>
+        <mixed-citation publication-type="other">Wood W and the C. elegans Research Community (1988) The nematode <italic>Caenorhabditis elegans</italic>. Plainview (New York): Cold Spring Harbor Laboratory Press. 667 p.</mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Riddle1">
+        <label>54</label>
+        <mixed-citation publication-type="other">Riddle DL, Blumenthal T, Meyer BJ, Priess JR (1997) <italic>C. elegans</italic> II: Plainview (New York): Cold Spring Harbor Laboratory. 1222 p.</mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Ceol2">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Ceol</surname><given-names>CJ</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>2001</year>) <article-title>
+<italic>dpl-1</italic> DP and <italic>efl-1</italic> E2F act with <italic>lin-35</italic> Rb to antagonize Ras signaling in <italic>C. elegans</italic> vulval development</article-title>. <source>Mol Cell</source>
+<volume>7</volume>: <fpage>461</fpage>&#x2013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">11463372</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Sulston2">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Sulston</surname><given-names>JE</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>1977</year>) <article-title>Post-embryonic cell lineages of the nematode, <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Developmental Biology</source>
+<volume>56</volume>: <fpage>110</fpage>&#x2013;<lpage>156</lpage>.<pub-id pub-id-type="pmid">838129</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Hedgecock1">
+        <label>57</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Hedgecock</surname><given-names>EM</given-names></name>, <name><surname>Sulston</surname><given-names>JE</given-names></name>, <name><surname>Thomson</surname><given-names>JN</given-names></name> (<year>1983</year>) <article-title>Mutations affecting programmed cell deaths in the nematode <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Science</source>
+<volume>220</volume>: <fpage>1277</fpage>&#x2013;<lpage>1279</lpage>.<pub-id pub-id-type="pmid">6857247</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Nishiwaki1">
+        <label>58</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Nishiwaki</surname><given-names>K</given-names></name> (<year>1999</year>) <article-title>Mutations affecting symmetrical migration of distal tip cells in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Genetics</source>
+<volume>152</volume>: <fpage>985</fpage>&#x2013;<lpage>997</lpage>.<pub-id pub-id-type="pmid">10388818</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Reddien2">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Reddien</surname><given-names>PW</given-names></name>, <name><surname>Horvitz</surname><given-names>HR</given-names></name> (<year>2000</year>) <article-title>CED-2/CrkII and CED-10/Rac control phagocytosis and cell migration in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Nat Cell Biol</source>
+<volume>2</volume>: <fpage>131</fpage>&#x2013;<lpage>136</lpage>.<pub-id pub-id-type="pmid">10707082</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Timmons1">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Timmons</surname><given-names>L</given-names></name>, <name><surname>Fire</surname><given-names>A</given-names></name> (<year>1998</year>) <article-title>Specific interference by ingested dsRNA</article-title>. <source>Nature</source>
+<volume>395</volume>: <fpage>854</fpage>.<pub-id pub-id-type="pmid">9804418</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgen.1003115-Kamath1">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+<name><surname>Kamath</surname><given-names>RS</given-names></name>, <name><surname>Martinez-Campos</surname><given-names>M</given-names></name>, <name><surname>Zipperlen</surname><given-names>P</given-names></name>, <name><surname>Fraser</surname><given-names>AG</given-names></name>, <name><surname>Ahringer</surname><given-names>J</given-names></name> (<year>2001</year>) <article-title>Effectiveness of specific RNA-mediated interference through ingested double-stranded RNA in <italic>Caenorhabditis elegans</italic>
+</article-title>. <source>Genome Biol</source>
+<volume>2</volume>: <fpage>1</fpage>&#x2013;<lpage>10</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

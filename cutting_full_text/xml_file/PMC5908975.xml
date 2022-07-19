@@ -1,0 +1,669 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Mol Neurosci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Mol Neurosci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Mol. Neurosci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Molecular Neuroscience</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1662-5099</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">29706869</article-id>
+      <article-id pub-id-type="pmc">5908975</article-id>
+      <article-id pub-id-type="doi">10.3389/fnmol.2018.00130</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Neuroscience</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Fibronectin Promotes the Malignancy of Glioma Stem-Like Cells Via Modulation of Cell Adhesion, Differentiation, Proliferation and Chemoresistance</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Qi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="http://loop.frontiersin.org/people/430278/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xue</surname>
+            <given-names>Yixue</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff5">
+            <sup>5</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff6">
+            <sup>6</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/302654/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Jing</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xi</surname>
+            <given-names>Zhuo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Zhen</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Yunhui</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="corresp" rid="c001">
+            <sup>*</sup>
+          </xref>
+          <uri xlink:type="simple" xlink:href="https://loop.frontiersin.org/people/373992/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>Department of Neurosurgery, Shengjing Hospital of China Medical University</institution>, <addr-line>Shenyang</addr-line>, <country>China</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Liaoning Clinical Medical Research Center in Nervous System Disease</institution>, <addr-line>Shenyang</addr-line>, <country>China</country></aff>
+      <aff id="aff3"><sup>3</sup><institution>Key Laboratory of Neuro-oncology in Liaoning Province</institution>, <addr-line>Shenyang</addr-line>, <country>China</country></aff>
+      <aff id="aff4"><sup>4</sup><institution>Department of Neurobiology, College of Basic Medicine, China Medical University</institution>, <addr-line>Shenyang</addr-line>, <country>China</country></aff>
+      <aff id="aff5"><sup>5</sup><institution>Key Laboratory of Cell Biology, Ministry of Public Health of China, China Medical University</institution>, <addr-line>Shenyang</addr-line>, <country>China</country></aff>
+      <aff id="aff6"><sup>6</sup><institution>Key Laboratory of Medical Cell Biology, Ministry of Education of China, China Medical University</institution>, <addr-line>Shenyang</addr-line>, <country>China</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Andrei Surguchov, University of Kansas Medical Center, United States</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Sara Galimberti, Universit&#xE0; degli Studi di Pisa, Italy; Brian Gregory George Oliver, University of Technology Sydney, Australia</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Yunhui Liu <email>liuyh_cmuns@163.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>4</month>
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2018</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>130</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>3</month>
+          <year>2018</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2018 Yu, Xue, Liu, Xi, Li and Liu.</copyright-statement>
+        <copyright-year>2018</copyright-year>
+        <copyright-holder>Yu, Xue, Liu, Xi, Li and Liu</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Glioma stem-like cells (GSCs) are regarded as the sources of oncogenesis, recurrence, invasion and chemoresistance in malignant gliomas. Growing evidence suggests that the microenvironment surrounding GSCs interacts with tumor cells to influence biological behavior; however, the functional mechanisms involved are still unclear. In the present study, we investigated the modulation of GSCs triggered by fibronectin (FN), a main component of the extracellular matrix (ECM), in terms of cell adhesion, differentiation, proliferation and chemoresistance. We demonstrated that pre-coated FN prompted increased adherence by GSCs, with increased matrix metallopeptidases (MMPs)-2 and -9 expression, in a concentration-dependent manner. Decreases in sox-2 and nestin levels, and increased levels of glial fibrillary acidic protein (GFAP) and &#x3B2;-tubulin were also found in GSCs, indicating cell differentiation driven by FN. Further investigation revealed that FN promoted cell growth, as demonstrated by the elevation of Ki-67, with the activation of p-ERK1/2 and cyclin D1 also evident. In addition, FN suppressed p53-mediated apoptosis and upregulated P-glycoprotein expression, making GSCs more chemoresistant to alkylating agents such as carmustine. In contrast, this effect was reversed by an integrin inhibitor, cilengitide. Activation of the focal adhesion kinase/paxillin/AKT signaling pathway was involved in the modulation of GSCs by FN. Focusing on the interactions between tumor cells and the ECM may be an encouraging aspect of research on novel chemotherapeutic therapies in future.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>fibronectin</kwd>
+        <kwd>glioma stem-like cells</kwd>
+        <kwd>cell adhesion-mediated drug resistance</kwd>
+        <kwd>p53</kwd>
+        <kwd>P-glycoprotein</kwd>
+        <kwd>cilengitide</kwd>
+        <kwd>focal adhesion kinase</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn001">National Natural Science Foundation of China<named-content content-type="fundref-id">10.13039/501100001809</named-content></funding-source>
+          <award-id rid="cn001">81672511</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="68"/>
+        <page-count count="13"/>
+        <word-count count="9253"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="introduction" id="s1">
+      <title>Introduction</title>
+      <p>Glioblastomas are the most common brain tumors found in humans (Jov&#x10D;evska et al., <xref rid="B33" ref-type="bibr">2013</xref>). With combination therapy of surgery, radiotherapy and chemotherapy (Ajaz et al., <xref rid="B4" ref-type="bibr">2014</xref>), patients still exhibit a poor prognosis and outcome, with a mean survival time of only 14.6 months (Wilson et al., <xref rid="B59" ref-type="bibr">2014</xref>). Increasing evidence has indicated the existence of a key population of glioblastoma cells with stem cell properties, referred to as glioma stem-like cells (GSCs; Nguyen et al., <xref rid="B46" ref-type="bibr">2012</xref>), that are thought responsible for tumor genesis, the propagation of disease, the resistance to current chemotherapy and cancer recurrence (Filatova et al., <xref rid="B22" ref-type="bibr">2013</xref>). Various research groups have proposed diverse hypotheses accounting for treatment failure in some patients with malignant glioma, including O<sup>6</sup>-methylguaninine-DNA-methytransferase gene methylation, isocitrate dehydrogenase gene mutations, aberrant ATP-binding cassette (ABC) transporter expression, p53 mutations and deletions, DNA repair deregulation, micro (mi)RNAs and long non-coding RNAs (Zeng et al., <xref rid="B67" ref-type="bibr">2017</xref>). In addition to such concerns, the impact of the tumor microenvironment in various stem cell niches have been described in recent studies (Faissner and Reinhard, <xref rid="B20" ref-type="bibr">2015</xref>), with several breakthroughs as a result of successfully growing stem cells on naturally-derived and synthesized substrates (Lee et al., <xref rid="B38" ref-type="bibr">2012</xref>). Interactions between the extracellular matrix (ECM), adhesion molecules, soluble factors and other cells form a part of the microenvironment (Scadden, <xref rid="B51" ref-type="bibr">2006</xref>). However, further investigation is required into the mechanisms involved in how the microenvironment contributes to stemness. In particular, knowledge on how the ECM regulates stemness will not only increase our understanding of regenerative medicine, but also suggest new pathways to be exploited in our efforts to counter cancer.</p>
+      <p>Fibronectin (FN) is an important ECM protein that is not only over-expressed in several cancers, but has also been shown to participate in several steps of tumorigenesis (Wang and Hielscher, <xref rid="B58" ref-type="bibr">2017</xref>). Specifically, the elevation of FN has been observed in tumor samples (Caffo et al., <xref rid="B10" ref-type="bibr">2004</xref>) and the peripheral blood (Sawaya et al., <xref rid="B50" ref-type="bibr">1985</xref>) of glioblastoma patients. However, how FN interacts with glioma stem cells and the underlying molecular mechanisms involved are still unclear. Recently, it has been shown that miRNA-1271 inhibits cell proliferation in neuroglioma by targeting FN 1 (Gong et al., <xref rid="B26" ref-type="bibr">2017</xref>), while several other studies have revealed that FN induced cell adhesion-mediated drug resistance in various kinds of tumors (Hazlehurst et al., <xref rid="B30" ref-type="bibr">2006</xref>; Fei et al., <xref rid="B21" ref-type="bibr">2013</xref>; Nakagawa et al., <xref rid="B43" ref-type="bibr">2014</xref>), making FN a promising molecular target for chemotherapy.</p>
+      <p>In the study, we sought to explore the modulatory effect of FN on GSCs with regard to cell adhesion, differentiation, proliferation and chemoresistance, as well as their possible mechanisms.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and Methods</title>
+      <sec id="s2-1">
+        <title>Reagents and Antibodies</title>
+        <p>FN and carmustine (both from Sigma&#x2013;Aldrich, St. Louis, MI, USA) stock solutions were made by dissolving these at 2 mg/mL in phosphate buffered saline (PBS) without Ca<sup>2+</sup> or Mg<sup>2+</sup>. These were aliquoted and stored at &#x2212;80&#xB0;C. Basic fibroblast growth factor (b-FGF) and epidermal growth factor (EGF; both from PeproTech, Rehovot, Israel) were diluted in 0.9% NaCl. Cilengitide was purchased from Life Technologies (Carlsbad, CA, USA). For immunofluorescence staining, the following antibodies were bought: nestin (Thermo Fisher Scientific, Waltham, MA, USA), glial fibrillary acidic protein (GFAP; Aves Lab, Tigard, OR, USA), &#x3B2;-tubulin (Abcam, Cambridge, UK), Ki67 and sox-2 (Millipore, Billerica, MA, USA) and isotype control Ig1 (Cell Signaling Technology, Danvers, MA, USA). Primers for quantitative polymerase chain reaction (qPCR) of sox-2, &#x3B2;-tubulin and GAPDH were obtained from Life Technologies and primers for GFAP were from Thermo Fisher Scientific. Antibodies against GAPDH and secondary antibodies were purchased from Thermo Fisher Scientific. Primary antibodies against matrix metallopeptidase (MMP)-2/-9, t-/p-Focal adhesion kinase (FAK), p-paxillin, t-/p-AKT, P-glycoprotein, p-ERK1/2 and cyclin D1 for western blotting were purchased from Cell Signaling Technology (Danvers, MA, USA).</p>
+      </sec>
+      <sec id="s2-2">
+        <title>Cell Lines and Culture</title>
+        <p>Glioblastoma tumor samples were collected as previously described (Yao et al., <xref rid="B63" ref-type="bibr">2015</xref>). The study was carried out in accordance with the recommendations of the Ethics Committee of Shengjing Hospital of China Medical University. The protocol was approved by the Ethics Committee of Shengjing Hospital of China Medical University. All subjects gave written informed consent in accordance with the Declaration of Helsinki. Primary GBM cells were established from patients in accordance with prior work and processed as previously described (Galli et al., <xref rid="B24" ref-type="bibr">2004</xref>). The human glioblastoma cell line, U87MG, was obtained from the Shanghai Institutes for Biological Sciences and Cell Resource Center, and cultured in Dulbecco&#x2019;s modified Eagle&#x2019;s medium (DMEM; Gibco, Thermo Fisher Scientific, Waltham, MA, USA) supplemented with 10% fetal bovine serum (FBS; Gibco). As previously reported (Yu et al., <xref rid="B66" ref-type="bibr">2017</xref>), GSCs from U87MG and primary GBMs were isolated and maintained in serum-free DMEM/F12 (Gibco) containing 20 ng/mL each of EGF and bFGF, and B-27 serum-free supplement (1:50). A 5% CO<sub>2</sub> humidified incubator was used to culture all cell lines at 37&#xB0;C.</p>
+      </sec>
+      <sec id="s2-3">
+        <title>Cell Adhesion Assays</title>
+        <p>GSCs were grown on FN in a Vybrant&#x2122; cell adhesion assay kit (Thermo Fisher Scientific) in accordance with the manufacturer&#x2019;s instructions. FN (0 [PBS only], 1, 5 and 10 &#x3BC;g/mL) was coated overnight on a 96-well plate at 37&#xB0;C. After pre-incubating cells with 5 &#x3BC;M of a fluorescent probe, calcein AM, for 30 min, wells were seeded with 10,000 cells of a calcein-labeled GSC suspension and cells incubated for another 2 h. Non-adhering cells were washed off twice with serum-free media. After adding 200 &#x3BC;L PBS to each well, a microplate reader was used to measure fluorescence at 490 nm (BioTek, Winooski, VT, USA). The amount of cells that adhered was measured from the fluorescence of adherent cells per well, after background fluorescence was subtracted, divided by that of added cells (after subtraction of background) multiplied by 100%.</p>
+      </sec>
+      <sec id="s2-4">
+        <title>Cell Proliferation and Viability Assays</title>
+        <p>Cell proliferation assays were carried out using a Cell Titer 96&#x2122; tetrazolium compound (MTS) kit according to the manufacturer&#x2019;s instructions. Briefly, 10,000 GSCs/well were pre-incubated in 96-well plates coated with 0, 1, 5, or 10 &#x3BC;g/mL FN for 24 h. Cells were then treated with 200 &#x3BC;M carmustine (Sigma&#x2013;Aldrich, dissolved in 100% ethanol) or 1/1000 diluted ethanol (as control). Cells either formed spheres or adhered onto FN-coated wells after treatment for 72 h, after which 10 &#x3BC;L MTS solution was added to each well. A microplate reader (BioTek, USA) was used to measure the optical density (OD) of each well at 490 nm after incubating plates for another 2 h. Experiments were repeated three times with five replicates per experiment.</p>
+      </sec>
+      <sec id="s2-5">
+        <title>Immunofluorescence</title>
+        <p>Cells were collected and fixed in 4% paraformaldehyde for 20 min at room temperature, rinsed in PBS twice and then in 5% BSA and 0.01% Triton X-100/PBS to permeabilize them and block protein-binding sites. The relevant primary and isotype control (as negative control) antibodies were added and cells were incubated at 4&#xB0;C, overnight. Alexa-488 conjugated secondary antibodies were added at a dilution 1:500 for 2 h. Hoechst 33242 was used to stain nuclei (blue on images) and coverslips mounted on slides using mounting medium (Southern Biotech, Birmingham, AL, USA) for fluorescence. An Olympus BX61 fluorescence microscope was used to record images.</p>
+      </sec>
+      <sec id="s2-6">
+        <title>Lentiviral Construction</title>
+        <p>Plasmid pTA-FLuc, containing a TATA-box basal promoter firefly <italic>luciferase</italic> reporter gene, was constructed as the normalized control, as described previously (Ariazi et al., <xref rid="B5" ref-type="bibr">2007</xref>). A TATA-box promoter (TA) drove the expression of firefly <italic>luciferase</italic> downstream of p53-specific binding sites in multiple copies of a <italic>cis</italic>-acting enhancer element in a p53 reporter plasmid (Bellis et al., <xref rid="B7" ref-type="bibr">2013</xref>). A p53 reporter plasmid together with lentiviral packaging vectors (pMDLGagPol, pRSV-Rev, pIVS-VSV-G) and jetPRIME (Polyplus-transfection, Illkirch, France; Duncan et al., <xref rid="B18" ref-type="bibr">2014</xref>) were co-transfected into HEK-293T cells to produce lentivirus. Supernatants were collected after 48 h and centrifuged to remove cell debris. PEG-it virus concentration reagent (Systems Biosciences, Palo Alto, CA, USA) was used to concentrate the virus suspension and PBS used as a re-suspension medium.</p>
+      </sec>
+      <sec id="s2-7">
+        <title><italic>Luciferase</italic> Reporter Gene Transfection</title>
+        <p>Spinoculation procedures were used to transduce reporter vectors into cells as described previously (O&#x2019;Doherty et al., <xref rid="B47" ref-type="bibr">2000</xref>). Virus at a concentration of 5000 physical particles/cell was used to infect cells during centrifugation at 800&#xD7; <italic>g</italic> for 45 min at 32&#xB0;C. After removal of the supernatant, cells were resuspended in fresh medium and cultured in 24-well plates. TA&#x2013;FLuc and p53-FLuc stable cell lines were created and continuously cultured for 3 days before use in a subsequent luminescence assay.</p>
+      </sec>
+      <sec id="s2-8">
+        <title>Luminescence Assay for Transcription Factor Activity</title>
+        <p>Images of bioluminescence by firefly <italic>luciferase</italic> were captured by an IVIS imaging system (Caliper Life Sciences, Hopkinton, MA, USA) to evaluate transcription factor (TF) activity, as previously described (Bellis et al., <xref rid="B8" ref-type="bibr">2011</xref>). After d-luciferin (1 mM; Caliper), a Fluc substrate, was added to wells, cells were incubated for 1 h. For 4 days, cells were imaged (5 min exposure) every 24 h and the medium then changed in each well. Normalized TF activity was determined by dividing the normalized light emission for p53 by the average normalized light emission for TA. Each condition was performed in triplicate.</p>
+      </sec>
+      <sec id="s2-9">
+        <title>Apoptosis Assay by Flow Cytometry</title>
+        <p>After GSCs grown on different concentrations of FNs were treated with carmustine. A dead cell apoptosis kit (annexin V&#x2013;FITC/propidium iodide (PI), Invitrogen, Carlsbad, CA, USA) was used to assay for apoptosis, according to the manufacturer&#x2019;s instructions. Collected cells were washed with PBS and resuspended in 100 &#x3BC;L of 1&#xD7; annexin-V binding buffer to 1 &#xD7; 10<sup>6</sup> cells/well. Annexin V&#x2013;FITC (10 &#x3BC;L) and PI (2 &#x3BC;L) were added to each tube, and cells incubated in the dark for 15 min at room temperature. Analyses were performed using a BD FACS flow cytometer. Cells containing annexin V<sup>+</sup>/PI<sup>&#x2212;</sup> were defined as an early apoptotic population.</p>
+      </sec>
+      <sec id="s2-10">
+        <title>Quantitative Real-Time PCR</title>
+        <p>An RNeasy Mini Kit (Qiagen, Hilden, Germany) was used to prepare total RNA samples following the manufacturer&#x2019;s instructions. A QuantiTect<sup>&#xAE;</sup> SYBR Green RT&#x2013;PCR Kit and a CFX384 Touch&#x2122; Real-Time PCR Detection System (Bio-Rad, Hercules, CA, USA) were used for one-step qPCR in accordance with the manufacturer&#x2019;s instructions. Optical reaction plates (384-well) containing 20 ng of DNase-digested RNA per 10 &#x3BC;L, with 5 &#x3BC;L of TaqMan Universal Master mix, carboxyfluorescein (FAM)-labeled probe, and forward and reverse primers were used for reactions according to the manufacturer&#x2019;s protocol. Target mRNA expression was normalized to that of GAPDH mRNA. CFX&#x2122; Manager Software 3.1 was used to generate quantification cycle (Cq) values. CFX Manager Software 3.1 was used to generate linear regression calibration curves.</p>
+      </sec>
+      <sec id="s2-11">
+        <title>Western Blots</title>
+        <p>RIPA buffer with 0.01% of a protease and phosphatase inhibitor cocktail was used to lyse cells to prepare GSCs. A bicinchoninic acid protein assay was used to calculate protein concentrations. Sodium dodecyl sulfate&#x2013;polyacrylamide gel electrophoresis on a 4%&#x2013;12% gradient gel was used to separate 40 &#x3BC;g samples of denatured proteins. After transfer to polyvinylidene fluoride membranes, these were blocked in Pierce Protein Free blocking buffer (Thermo Fisher Scientific). Membranes were incubated overnight at 4&#xB0;C with primary antibodies. Anti-GAPDH antibody was used to check for equal loading. Secondary antibodies used were horse radish peroxidase goat anti-mouse IgG or anti-rabbit IgG, and an ECL kit used to visualize immunoreactive protein bands.</p>
+      </sec>
+      <sec id="s2-12">
+        <title>Statistical Analysis</title>
+        <p>Data were expressed as the mean &#xB1; standard deviation (SD). Graphpad Prism 6 software (San Diego, CA, USA) was used for one-way ANOVA in group comparisons to estimate statistical significance with Dunnett&#x2019;s test as a <italic>post hoc</italic> test. Statistical significance was defined as <italic>P</italic> &lt; 0.05.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec id="s3-1">
+        <title>Fibronectin Promoted Cell Adhesion of Glioma Stem-Like Cells</title>
+        <p>U87-GSCs were first identified in culture by immunofluorescence staining prior to further experiments, with GSC spheres staining positively for sox-2 and nestin. Their differentiation potential was also demonstrated by the high expression of &#x3B2;-tubulin and GFAP after spheres were cultured in DMEM containing 10% FBS (Figure <xref ref-type="fig" rid="F1">1A</xref>). To investigate the effect of FN on cell adhesion, U87-GSC and primary-GSC spheres were trypsinized into single cells and then seeded in 96-well plates pre-coated with different concentrations of FN. After culturing for 72 h, FN modified the growth of both U87- and primary-GSCs, with regard to their morphology and growth pattern, in a dose-dependent manner. As the concentration of FN increased from 0 &#x3BC;g/mL to 10 &#x3BC;g/mL, a marked decline in sphere formation occurred, with most GSCs adhering to the bottom of the plate, even if in serum-free medium. Cilengitide, a selective integrin &#x3B1;V receptor antagonist (Becker et al., <xref rid="B6" ref-type="bibr">2015</xref>), detached primary-GSCs rather than U87-GSCs at a concentration of 100 &#x3BC;M (Figure <xref ref-type="fig" rid="F1">1B</xref>). The cell adhesion assay revealed that 5 and 10 &#x3BC;g/mL FN significantly induced a higher percentage of U87-GSC cell adhesion compared to cells not grown on FN. Only 10 &#x3BC;g/mL FN induced a higher percentage of primary-GSC adhesion. The attachment of primary-GSCs, rather than U87-GSCs, was reduced significantly by cilengitide (Figure <xref ref-type="fig" rid="F1">1C</xref>). A previous study demonstrated that FN-mediated cell adhesion is required for the induction of MMP-2 and MMP-9 in human leukemia cells (Xie et al., <xref rid="B62" ref-type="bibr">1998</xref>). Western blots also indicated higher MMP-2 and -9 expression by U87-GSCs in wells pre-coated with 5 and 10 &#x3BC;g/mL FN (Figures <xref ref-type="fig" rid="F1">1D,E</xref>).</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>Fibronectin (FN) promoted adhesion of glioma stem-like cells (GSCs). <bold>(A)</bold> U87 GSCs (U87-GSCs) expressed the stemness biomarkers, sox-2 and nestin, as determined by immunofluorescence. The high expression of &#x3B2;-tubulin and glial fibrillary acidic protein (GFAP) was detected after GSC spheres were cultured in DMEM containing 10% fetal bovine serum (FBS). Hoechst 33242, blue nuclear stain. <bold>(B)</bold> U87-GSCs and primary-GSCs were cultured for 72 h on pre-coated FN that modified the growth of GSCs, in terms of their morphology and growth pattern, in a dose-dependent manner. As the concentration of FN was increased, sphere formation of GSCs decreased dramatically in serum-free medium. Cilengitide markedly detached primary-GSCs at a concentration of 100 &#x3BC;M.<bold> (C)</bold> A cell adhesion assay showed that 5 and 10 &#x3BC;g/mL of FN induced higher percentages of U87-GSC adhesion compared to cells not grown on FN. Only 10 &#x3BC;g/mL FN induced a higher percentage of primary-GSCs adhesion. The attachment of primary-GSCs, rather than U87-GSCs, was markedly reduced by cilengitide.<bold> (D,E)</bold> Western blots indicated higher matrix metallopeptidase (MMP)-2 and -9 expression by U87-GSCs grown on plates coated with 5 and 10 &#x3BC;g/mL FN. *<italic>p</italic> &lt; 0.05, n.s. not significant.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0001"/>
+        </fig>
+      </sec>
+      <sec id="s3-2">
+        <title>Fibronectin Induced Cell Differentiation of Glioma Stem-Like Cells</title>
+        <p>FN has an instructive role during chondrogenesis, directing cells through the differentiation stages of cartilage formation (Singh and Schwarzbauer, <xref rid="B53" ref-type="bibr">2012</xref>). As demonstrated above, FN induced morphologic changes in GSCs. To clarify whether the cell differentiation observed was accompanied by morphologic changes, immunofluorescence staining of the stemness markers, sox-2 and nestin, was performed after 72 h culture of U87-GSCs on different concentrations of FN. We found that cells showed significantly decreased expression of sox-2 and nestin when grown on 5 or 10 &#x3BC;g/mL FN (Figures <xref ref-type="fig" rid="F2">2A,B</xref>; <italic>p</italic> &lt; 0.001 for both for sox-2; <italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.0001 for nestin, respectively). Quantitative PCR data was in accordance with immunofluorescence data in that 5 and 10 &#x3BC;g/mL FN induced a significant decline in sox-2 mRNA expression (Figure <xref ref-type="fig" rid="F2">2C</xref>; <italic>p</italic> &lt; 0.001 for both). In contrast, mRNA expression of GFAP and &#x3B2;-tubulin was significantly upregulated in cells grown on pre-coated FN plates (Figure <xref ref-type="fig" rid="F2">2C</xref>; <italic>p</italic> &lt; 0.01 for both at 5 &#x3BC;g/mL; <italic>p</italic> &lt; 0.0001 for GFAP at 10 &#x3BC;g/mL; <italic>p</italic> &lt; 0.001 for &#x3B2;-tubulin at 10 &#x3BC;g/mL). Furthermore, western blots confirmed significantly downregulated sox-2 and upregulated GFAP expression by cells grown on FN at concentrations of 5 or 10 &#x3BC;g/mL, respectively (Figures <xref ref-type="fig" rid="F2">2D,E</xref>; <italic>p</italic> &lt; 0.01 for both at 5 &#x3BC;g/mL; <italic>p</italic> &lt; 0.001 for sox-2 at 10 &#x3BC;g/mL; <italic>p</italic> &lt; 0.01 for GFAP at 10 &#x3BC;g/mL).</p>
+        <fig id="F2" position="float">
+          <label>Figure 2</label>
+          <caption>
+            <p>FN induced differentiation of GSCs. U87-GSCs were cultured on pre-coated FN plates (0, 1, 5 and 10 &#x3BC;g/mL) for 72 h. <bold>(A,B)</bold> Immunofluorescence staining was performed to investigate changes of the stemness markers, sox-2 and nestin. Images were taken at the same exposure settings. Cells grown without FN and stained without primary antibody were used as a negative control. Decreased expression of sox-2 and nestin was observed by cells grown on 5 and 10 &#x3BC;g/mL FN. Hoechst 33242, nuclear stain. <bold>(C)</bold> Quantitative polymerase chain reaction (qPCR) also indicated a significant decrease in sox-2 mRNA expression, and an increase of GFAP, and &#x3B2;-tubulin mRNA expression in cells grown on 5 and 10 &#x3BC;g/mL FN. <bold>(D,E)</bold> Furthermore, western blots confirmed significantly downregulated sox-2 and upregulated GFAP expression in U87-GSCs grown on 5 and 10 &#x3BC;g/mL of FN. **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001, ****<italic>p</italic> &lt; 0.0001.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0002"/>
+        </fig>
+      </sec>
+      <sec id="s3-3">
+        <title>Fibronectin Upregulated Cell Proliferation of Glioma Stem-Like Cells</title>
+        <p>To assess the effect of FN on cell proliferation, U87-GSCs were cultured on different concentrations of FN for 72 h and proliferation curves measured using an MTS tetrazolium assay. A significant increase in U87-GSC growth was noted with cells grown on 5 or 10 &#x3BC;g/mL FN (Figure <xref ref-type="fig" rid="F3">3A</xref>; <italic>p</italic> &lt; 0.0001 for both). Because Ki-67 protein is expressed in G<sub>1</sub>, S, G<sub>2</sub>, phases and mitosis but not resting cells (G<sub>0</sub>), it can be used as a marker of cell proliferation (Scholzen and Gerdes, <xref rid="B52" ref-type="bibr">2000</xref>). Immunofluorescence staining of Ki-67 was performed and revealed that FN at 5 and 10 &#x3BC;g/mL induced significantly increased expression of Ki-67 by primary-GSCs, indicating FN promoted cell proliferation. Whereas primary-GSCs were detached by cilengitide and Ki67 were decreased markedly comparing to that in the 10 &#x3BC;g/mL FN group (Figure <xref ref-type="fig" rid="F3">3B</xref>; <italic>p</italic> &lt; 0.05 for both). Similar results were obtained from U87-GSCs (Supplementary Figure <xref ref-type="supplementary-material" rid="SM2">S2</xref>). Subsequently, proteins in the proliferation-related signaling pathways, <italic>p</italic>-ERK1/2 and cyclin D1, were investigated using western blots. We found markedly higher expression of <italic>p</italic>-ERK1/2 and cyclin D1 by U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN (Figures <xref ref-type="fig" rid="F3">3C&#x2013;E</xref>; <italic>p</italic> &lt; 0.05 for all). Markedly higher expression of <italic>p</italic>-ERK1/2 and cyclin D1 by primary-GSCs grown on 10 &#x3BC;g/mL FN was also observed, with or without treatment with carmustine, which prevents DNA replication and transcription (Figures <xref ref-type="fig" rid="F3">3C&#x2013;E</xref>; <italic>p</italic> &lt; 0.05 for all). Cilengitide significantly suppressed both <italic>p</italic>-ERK1/2 and cyclin D1 expression of U87-GSCs (Figures <xref ref-type="fig" rid="F3">3C&#x2013;E</xref>; <italic>p</italic> &lt; 0.05 for both). However, cilengitide only suppressed cyclin D1 expression of primary-GSCs (Figures <xref ref-type="fig" rid="F3">3C&#x2013;E</xref>; <italic>p</italic> &lt; 0.05).</p>
+        <fig id="F3" position="float">
+          <label>Figure 3</label>
+          <caption>
+            <p>FN upregulated proliferation of GSCs. <bold>(A)</bold> After U87-GSCs were cultured for 72 h, cells were shown to proliferate when grown on 5 or 10 &#x3BC;g/mL FN. <bold>(B)</bold> Immunofluorescence staining revealed FN at 5 or 10 &#x3BC;g/mL induced increased expression of Ki-67 by primary-GSCs, indicating FN promoted cell proliferation. Whereas primary-GSCs were detached by cilengitide and Ki67 were decreased markedly comparing to that in the 10 &#x3BC;g/mL FN group. Images were taken at the same exposure settings. Cells grown without FN and stained with isotype control Mouse IG1 were used as a negative control. <bold>(C&#x2013;E)</bold> Western blots showed the marked upregulation of p-ERK1/2 and cyclin D1 by U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN. Primary-GSCs showed markedly higher expression of these two proteins when grown on 10 &#x3BC;g/mL FN, with or without carmustine treatment. Cilengitide significantly suppressed both <italic>p</italic>-ERK1/2 and cyclin D1 expression of U87-GSCs. However, cilengitide only suppressed cyclin D1 expression in primary-GSCs. *<italic>p</italic> &lt; 0.05, n.s. not significant.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0003"/>
+        </fig>
+      </sec>
+      <sec id="s3-4">
+        <title>Fibronectin Inhibited p53-Mediated Apoptosis Induced by Carmustine</title>
+        <p>Given that FN has been shown to induce cell adhesion&#x2013;mediated drug resistance in various tumor cells (Pontiggia et al., <xref rid="B49" ref-type="bibr">2012</xref>; Cho et al., <xref rid="B13" ref-type="bibr">2016</xref>), we were interested in whether it had a similar capability in GSCs. The traditional chemotherapeutic reagent, temozolomide, shows very low cytotoxicity for GSCs (Yu et al., <xref rid="B66" ref-type="bibr">2017</xref>). In the current study, we again used carmustine, a clinically used alkylating agent that can induced interstrand crosslinks in DNA to prevent DNA replication and transcription. First, we calculated the dose-inhibition response curve of carmustine on GSC proliferation. As shown in Figure <xref ref-type="fig" rid="F4">4A</xref>, carmustine inhibited cell viability in a dose-dependent manner, with a half maximal inhibitory concentration (IC<sub>50</sub>) of 504.3 &#xB1; 25.3 &#x3BC;M for U87-GSCs and IC<sub>50</sub> of 395 &#xB1; 19.4 &#x3BC;M for primary-GSCs. We then treated GSCs with 200 &#x3BC;M carmustine to investigate whether chemoresistance was induced when cells were grown on different concentrations of FN. We found more cells survived as the concentration of FN increased. At 200 &#x3BC;M, increased numbers of cells died in both U87-GSCs and primary-GSCs when treated by carmustine combined with cilengitide (Supplementary Figure <xref ref-type="supplementary-material" rid="SM1">S1</xref>). Further cell viability assays indicated that compared to the control group, U87-GSCs and primary-GSCs not grown on FN were markedly and significantly inhibited by carmustine (Figure <xref ref-type="fig" rid="F4">4B</xref>; <italic>p</italic> &lt; 0.01 for both). However, growing U87-GSCs on 5 or 10 &#x3BC;g/mL FN totally restored cell viability (Figure <xref ref-type="fig" rid="F4">4B</xref>; <italic>p</italic> &lt; 0.05 and <italic>p</italic> &lt; 0.01, respectively). Only primary-GSCs grown on 10 &#x3BC;g/mL FN showed restored cell viability (Figure <xref ref-type="fig" rid="F4">4B</xref>; <italic>p</italic> &lt; 0.01). Compared to cells grown on 10 &#x3BC;g/mL FN, cilengitide significantly decreased the cell viability of both U87-GSCs and primary-GSCs (Figure <xref ref-type="fig" rid="F4">4B</xref>; <italic>p</italic> &lt; 0.05 and <italic>p</italic> &lt; 0.01, respectively). Apoptosis determined by flow cytometry using annexin V&#x2013;FITC<sup>+</sup>/PI<sup>&#x2212;</sup> showed that growing U87-GSCs on 5 or 10 &#x3BC;g/mL FN significantly decreased the apoptosis induced by carmustine (Figure <xref ref-type="fig" rid="F4">4C</xref>; <italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.001, respectively). We also investigated cleaved poly (ADP-ribose) polymerase (PARP) expression that is required for apoptosis-inducing factor translocation from mitochondria to the nucleus and that is cleaved at the onset of apoptosis by caspase 3. Compared to U87-GSCs grown without FN, higher levels of cleaved PARP expression were present in U87-GSCs grown without FN or grown on 1 &#x3BC;g/mL FN and treated with carmustine (Figures <xref ref-type="fig" rid="F4">4D,E</xref>; <italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.05, respectively). In contrast, cilengitide reversed the anti-apoptotic effect of FN in the presence of carmustine to a slight degree at a concentration of 100 &#x3BC;M (Figures <xref ref-type="fig" rid="F4">4D,E</xref>). For primary-GSCs, cilengitide alone induced higher expression of cleaved PARP (<italic>p</italic> &lt; 0.05). In accordance with U87-GSCs, higher levels of cleaved PARP expression were present in primary-GSCs grown without FN, or grown on 1 &#x3BC;g/mL FN and treated with carmustine (Figure <xref ref-type="fig" rid="F4">4D</xref>; <italic>p</italic> &lt; 0.05 for both). In comparison to U87-GSCs, when primary-GSCs were treated with carmustine and cilengitide, they showed significantly higher expression of cleaved PARP (Figures <xref ref-type="fig" rid="F4">4D,E</xref>; <italic>p</italic> &lt; 0.01). As a tumor suppressor gene, the intrinsic ability of p53 was to mediate apoptotic cell death and to cause cell cycle arrest. Its activity was determined by luciferase luminescence assays. As shown in Figure <xref ref-type="fig" rid="F4">4F</xref>, the p53 activity of U87-GSCs was elevated slightly without carmustine treatment in cells that grew in the absence of FN. However, p53 activity was markedly increased by carmustine to a peak value on day 1, but declined over the following 2 days (Figure <xref ref-type="fig" rid="F4">4F</xref>). Compared to U87-GSCs grown in the absence of FN but with carmustine treatment, the p53 activity of U87-GCSs was suppressed markedly when grown on 5 or 10 &#x3BC;g/mL FN, respectively (Figure <xref ref-type="fig" rid="F4">4F</xref>; <italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.001 for 5 and 10 &#x3BC;g/mL FN, respectively, vs. 0 &#x3BC;g/mL FN). Restoration of p53 activity was observed in U87-GSCs grown on 10 &#x3BC;g/mL FN and treated with cilengitide (Figure <xref ref-type="fig" rid="F4">4F</xref>; <italic>p</italic> &lt; 0.01 vs. 10 &#x3BC;g/mL FN).</p>
+        <fig id="F4" position="float">
+          <label>Figure 4</label>
+          <caption>
+            <p>FN inhibited p53-mediated apoptosis induced by carmustine. <bold>(A)</bold> A dose inhibition curve of carmustine treated GSCs revealed a half maximal inhibitory concentration (IC<sub>50</sub>) of 504.3 &#xB1; 25.3 &#x3BC;M for U87-GSCs and an IC<sub>50</sub> of 395 &#xB1; 19.4 &#x3BC;M for primary-GSCs. <bold>(B)</bold> Cell viability indicated that compared to the control group, U87-GSCs and primary-GSCs in the absence of FN were markedly inhibited by carmustine (<italic>p</italic> &lt; 0.01 for both). Nevertheless, growing U87-GSCs on 5 or 10 &#x3BC;g/mL FN totally restored cell viability (<italic>p</italic> &lt; 0.05 and <italic>p</italic> &lt; 0.01, respectively). Only primary-GSCs grown on 10 &#x3BC;g/mL FN showed restored cell viability (<italic>p</italic> &lt; 0.01). Compared to the cells grown on 10 &#x3BC;g/mL FN, cilengitide decreased cell viability significantly for both U87-GSCs and primary-GSCs (<italic>p</italic> &lt; 0.05 and <italic>p</italic> &lt; 0.01, respectively). <bold>(C)</bold> Apoptosis, as determined by flow cytometry, revealed that U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN showed significantly decreased apoptosis induced by carmustine (<italic>p</italic> &lt; 0.01, <italic>p</italic> &lt; 0.001, respectively). <bold>(D,E)</bold> Western blots also revealed cleaved poly (ADP-ribose) polymerase (PARP) expression increased significantly in U87-GSCs grown in the absence of or on 1 &#x3BC;g/mL FN, but decreased in GSCs grown on 5 or 10 &#x3BC;g/mL FN (<italic>p</italic> &lt; 0.01 and <italic>p</italic> &lt; 0.05, respectively). In contrast, cilengitide reversed the anti-apoptotic effect of FN to a slight degree at a concentration of 100 &#x3BC;M. For primary-GSCs, cilengitide alone induced higher expression of cleaved PARP (<italic>p</italic> &lt; 0.05 and <italic>p</italic> &lt; 0.01 for 0 and 10 &#x3BC;g/mL FN, respectively). In accordance with U87-GSCs, higher levels of cleaved PARP expression were present in primary-GSCs when not grown on FN or grown on 1 &#x3BC;g/mL FN and treated with carmustine (<italic>p</italic> &lt; 0.05 for both). In contrast to U87-GSCs, when primary-GSCs were treated with carmustine and cilengitide, they showed a markedly higher expression of cleaved PARP (<italic>p</italic> &lt; 0.01). <bold>(F)</bold> Luciferase luminescence assays were used to determine <italic>p53</italic> activity. The activity of <italic>p53</italic> was elevated slightly without carmustine treatment in U87-GSCs grown in the absence of FN. However, <italic>p53</italic> activity was increased markedly by carmustine, with a peak on day 1, but declined in the following 2 days. Compared to U87-GSCs grown in the absence of FN and treated with carmustine, the <italic>p53</italic> activity of U87-GCSs was suppressed dramatically when grown on 5 or 10 &#x3BC;g/mL FN. The restoration of <italic>p53</italic> activity was observed when U87-GSCs were grown on 10 &#x3BC;g/mL FN and treated with cilengitide. *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0004"/>
+        </fig>
+      </sec>
+      <sec id="s3-5">
+        <title>Fibronectin Increased Expression of P-Glycoprotein</title>
+        <p>As proteins embedded within cellular membranes, ABC transporters use energy from the hydrolysis of ATP to move substrates across membranes (Glavinas et al., <xref rid="B25" ref-type="bibr">2004</xref>). Various transporter subtypes are involved in multidrug resistance, including: ABCB1 (also known as multidrug resistance protein 1 or P-glycoprotein), ABCC1 (also known as multidrug resistance-associated protein 1), and ABCG2 (also designated as CDw338; Choudhuri and Klaassen, <xref rid="B14" ref-type="bibr">2006</xref>). To identify whether ABC transporter families were involved in the chemoresistant modulation induced by FN, qPCR was performed to quantify the gene changes mentioned above. Compared to the untreated group, carmustine treatment for 72 h slightly upregulated the gene expression of <italic>ABCB1</italic>, <italic>ABCC1</italic> and <italic>ABCG2</italic>, but this was not significant (Figure <xref ref-type="fig" rid="F5">5A</xref>). There was a marked elevation of <italic>ABCB1</italic> in U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN (Figure <xref ref-type="fig" rid="F5">5A</xref>; <italic>p</italic> &lt; 0.01, <italic>p</italic> &lt; 0.001, respectively). Cilengitide significantly reversed this upregulation (Figure <xref ref-type="fig" rid="F5">5A</xref>; <italic>p</italic> &lt; 0.05). The same upregulation of <italic>ABCC1</italic> was observed in U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN (Figure <xref ref-type="fig" rid="F5">5A</xref>; <italic>p</italic> &lt; 0.05 for both), but cilengitide did not reverse this upregulation. A significant difference between each treatment group for <italic>ABCG2</italic> was not observed (Figure <xref ref-type="fig" rid="F5">5A</xref>). Western blots of P-glycoprotein (<italic>ABCB1</italic>) showed that growing U87-GSCs and primary-GSCs on 5 or 10 &#x3BC;g/mL FN led to even higher P-glycoprotein expression compared to the cell lines grown in the absence of FN (Figures <xref ref-type="fig" rid="F5">5B,C</xref>; <italic>p</italic> &lt; 0.05 for all). Cilengitide reversed the upregulation of P-glycoprotein (Figures <xref ref-type="fig" rid="F5">5B,C</xref>; <italic>p</italic> &lt; 0.05 for both).</p>
+        <fig id="F5" position="float">
+          <label>Figure 5</label>
+          <caption>
+            <p>FN increased the expression of P-glycoprotein.<bold> (A)</bold> Quantitative PCR indicated that compared to untreated U87-GSCs, carmustine treatment for 72 h slightly upregulated the gene expression of <italic>ABCB1</italic>, <italic>ABCC1</italic> and <italic>ABCG2</italic> in U87-GSCs, but this was not significant. <italic>ABCB1</italic> was elevated for U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN, which was reversed by cilengitide. The same upregulation of <italic>ABCC1</italic> was observed in U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN, but cilengitide did not reverse this upregulation. A significant difference between each treatment group for <italic>ABCG2</italic> was not noted. <bold>(B,C)</bold> Western blots of P-glycoprotein (<italic>ABCB1</italic>) revealed that growth of U87-GSCs and primary-GSCs on 5 or 10 &#x3BC;g/mL FN led to even higher P-glycoprotein expression compared to U87-GSCs or primary-GSCs grown in the absence of FN. Cilengitide reversed the upregulation of P-glycoprotein. *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001, n.s. not significant.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0005"/>
+        </fig>
+      </sec>
+      <sec id="s3-6">
+        <title>Fibronectin Activated the FAK/Paxillin/AKT Signaling Pathway</title>
+        <p>FAK is a signaling molecule that acts as a biosensor that controls cell motility after being activated by various stimuli (Mitra et al., <xref rid="B42" ref-type="bibr">2005</xref>). Activation of FAK and downstream molecules such as paxillin may contribute to cell proliferation, survival and migration through several different signaling pathways (Natarajan et al., <xref rid="B45" ref-type="bibr">2003</xref>; Toutounchian et al., <xref rid="B55" ref-type="bibr">2017</xref>). To investigate the effect on the FAK signaling pathway, FAK, paxillin and AKT proteins were analyzed by western blots after U87-GSCs and primary-GSCs were grown on different concentrations of FN for 72 h. For U87-GSCs grown on 10 &#x3BC;g/mL FN, total expression of FAK and AKT was not affected by carmustine without cilengitide treatment, whereas cilengitide induced significantly lower FAK and AKT expression than that in the untreated 10 &#x3BC;g/mL FN group (Figures <xref ref-type="fig" rid="F6">6A,B,E</xref>; <italic>p</italic> &lt; 0.05 for both). Compared to the untreated control, only p-FAK was inhibited significantly by carmustine in U87-GSCs grown in the absence of FN (Figure <xref ref-type="fig" rid="F6">6C</xref>; <italic>p</italic> &lt; 0.05), whereas p-paxillin and p-AKT were not suppressed by carmustine in U87-GSCs grown in the absence of FN or grown on 1 &#x3BC;g/mL FN (Figures <xref ref-type="fig" rid="F6">6D,F</xref>). In contrast, U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN showed significantly restored activation of p-FAK, p-paxillin and p-AKT (Figures <xref ref-type="fig" rid="F6">6A,C,D,F</xref>; <italic>p</italic> &lt; 0.05 and <italic>p</italic> &lt; 0.01, respectively, for both treatments except p-paxillin and 5 &#x3BC;g/mL FN). Moreover, a large-scale decline in p-FAK, p-paxillin and p-AKT occurred with cilengitide treatment (Figures <xref ref-type="fig" rid="F6">6A,C,D,F</xref>; <italic>p</italic> &lt; 0.05 for all). For primary-GSCs without carmustine treatment, the expression of p-paxillin and total AKT was not affected by FN (Figures <xref ref-type="fig" rid="F6">6D,E</xref>). Total FAK was elevated in primary-GSCs grown on 10 &#x3BC;g/mL FN (Figure <xref ref-type="fig" rid="F6">6B</xref>; <italic>p</italic> &lt; 0.05), whereas p-FAK was elevated in primary-GSCs grown on 5 or 10 &#x3BC;g/mL FN (<italic>p</italic> &lt; 0.05 for both); p-AKT was elevated in primary-GSCs grown on 1, 5 or 10 &#x3BC;g/mL FN (<italic>p</italic> &lt; 0.05 for both). Cilengitide induced markedly lower total FAK and p-AKT expression in cells grown on 10 &#x3BC;g/mL FN than that in the untreated 10 &#x3BC;g/mL FN group (Figures <xref ref-type="fig" rid="F6">6A,B,F</xref>; <italic>p</italic> &lt; 0.05 for both). The same trend as observed for U87-GSCs occurred when primary-GSCs were treated with carmustine: Primary-GSCs grown on 5 or 10 &#x3BC;g/mL FN showed significantly restored activation of t-/p-FAK and t-AKT compared to carmustine treated cells in the absence of FN, whereas 10 &#x3BC;g/mL FN restored activation of p-paxillin and p-AKT on a large scale. In addition, a marked decline in t-/p-FAK, p-paxillin and t-/p-AKT occurred with cilengitide treatment (Figures <xref ref-type="fig" rid="F6">6A&#x2013;F</xref>; <italic>p</italic> &lt; 0.05 for all). A schematic diagram shows a mechanism of how FN promotes the malignancy of GSCs in cell adhesion, differentiation, proliferation and chemoresistance via a FAK/paxillin/AKT signaling pathway (Figure <xref ref-type="fig" rid="F7">7</xref>).</p>
+        <fig id="F6" position="float">
+          <label>Figure 6</label>
+          <caption>
+            <p>FN activated the focal adhesion kinase (FAK)/paxillin/AKT signaling pathway.<bold> (A&#x2013;F)</bold> Western blotting indicated that for U87-GSCs, total focal adhesion kinase FAK and AKT expression were not affected by carmustine without cilengitide treatment, whereas cilengitide induced markedly lower FAK and AKT expression than that in the untreated 10 &#x3BC;g/mL FN group. Compared to untreated control, only p-FAK was markedly inhibited by carmustine in U87-GSCs grown in the absence of FN, whereas p-paxillin and p-AKT were not suppressed in U87-GSCs grown in the absence of FN, or U87-GSCs grown on 1 &#x3BC;g/mL FN. In contrast, U87-GSCs grown on 5 or 10 &#x3BC;g/mL FN showed an upregulation of p-FAK, paxillin and p-AKT. Moreover, there was a significant decline of p-FAK, paxillin and p-AKT with cilengitide treatment. For primary-GSCs without carmustine treatment, the expression of p-paxillin and total AKT was not affect by FN. Total FAK was elevated by primary-GSCs grown on 10 &#x3BC;g/mL FN, whereas p-FAK was elevated byprimary-GSCs grown on 5 or 10 &#x3BC;g/mL FN and p-AKT was elevated by primary-GSCs grown on 1, 5 or 10 &#x3BC;g/mL FN. Cilengitide induced markedly lower total FAK and p-AKT expression than that in the untreated 10 &#x3BC;g/mL FN group. The same trend as observed for U87-GSCs occurred when Primary-GSCs were treated with carmustine: primary-GSCs grown on 5 or 10 &#x3BC;g/mL FN showed significantly restored activation of t-/p-FAK and t-AKT compared to carmustine treated cells in the absence of FN, whereas 10 &#x3BC;g/mL FN restored activation of p-paxillin and p-AKT on a large scale. In addition, a marked decline in t-/p-FAK, p-paxillin and t-/p-AKT occurred with cilengitide treatment. *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, n.s. not significant.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0006"/>
+        </fig>
+        <fig id="F7" position="float">
+          <label>Figure 7</label>
+          <caption>
+            <p>A schematic diagram showing the mechanism by which FN promotes malignancy in GSCs, through effects on cell adhesion, differentiation, proliferation and chemoresistance, via a FAK/paxillin/AKT signaling pathway.</p>
+          </caption>
+          <graphic xlink:href="fnmol-11-00130-g0007"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>In the present study, we demonstrated that FN modulated the biological characteristics of GSCs in many aspects. FN increased the adhesive properties of GSCs as well as their proliferation and their capacity for differentiation in a concentration-dependent manner. We found that FN induced the suppression of p53-mediated apoptosis and that expression of P-glycoprotein was upregulated so that GSCs became chemoresistant to carmustine. In addition, the activation of the integrin FAK/paxillin/AKT signaling pathway was involved in the modulation process. Meanwhile, the integrin inhibitor, cilengitide, reversed the effect on chemoresistance induced by FN.</p>
+      <p>The establishment of the Cancer Genome Atlas (TCGA) Research Network has led to a classification system based on gene expression patterns that distinguishes four molecular subtypes of GBMs (Cancer Genome Atlas Research Network, <xref rid="B11" ref-type="bibr">2008</xref>). The proneural characteristics of GSCs have been highlighted by past studies (Phillips et al., <xref rid="B48" ref-type="bibr">2006</xref>; Lottaz et al., <xref rid="B40" ref-type="bibr">2010</xref>). Although GSCs present with similar characteristics as neural stem cells, which have multiple potentials to differentiate into all kinds of cells in the central nervous system, glial cells have been the most reported subtype in previous studies (He et al., <xref rid="B31" ref-type="bibr">2011</xref>; Yin et al., <xref rid="B64" ref-type="bibr">2014</xref>). Sox-2 is a key transcriptional factor with a self-renewal potential (Berezovsky et al., <xref rid="B9" ref-type="bibr">2014</xref>), while GFAP and &#x3B2;-tubulin are crucial markers indicating differentiation (Zhang et al., <xref rid="B68" ref-type="bibr">2014</xref>). In the present study, we found increased GFAP and decreased sox-2 at both genetic and protein expression levels, indicating the differentiation of cells in accordance with a previous demonstration. Growing evidence has also revealed that the regulation of the differentiation of GSCs was composed of a complex network that recruited several kinds of regulators and intracellular signaling pathways (Ying et al., <xref rid="B65" ref-type="bibr">2011</xref>; Katsushima and Kondo, <xref rid="B35" ref-type="bibr">2014</xref>). Here, we hypothesize that interaction between FN and its ECM receptor integrin induced the activation of the FAK/AKT/ERK signaling pathway, followed by the suppression of sox-2. However, further investigation is required to support this proposal.</p>
+      <p>In addition to soluble mitogens, cell proliferation is also regulated by cells adhering via transmembrane receptors such as integrins to ECM molecules such as FN (Danen and Yamada, <xref rid="B16" ref-type="bibr">2001</xref>). However, cell proliferation is regulated by cell adhesion and mitogens only when cells are in the G1 phase (Jakel et al., <xref rid="B32" ref-type="bibr">2012</xref>). D-type cyclins have to be expressed for G1 progression (Vanarsdale et al., <xref rid="B56" ref-type="bibr">2015</xref>). In turn, cyclin D1 depends on the interaction between integrin-mediated cell adhesion and mitogens (Chen et al., <xref rid="B12" ref-type="bibr">2012</xref>). This suggest that the increased expression of cyclin D1 we observed may be responsible for integrin-mediated G1 progression. G1 progression is dependent on cyclin D1 in two ways: First, the initial phosphorylation of Rb is induced by cyclin D&#x2013;cdk4/6 (Narasimha et al., <xref rid="B44" ref-type="bibr">2014</xref>) that leads to a de-repressed <italic>cyclin E</italic> gene (Kolupaeva and Basilico, <xref rid="B36" ref-type="bibr">2012</xref>). Second, the localization of p21Cip/Waf and p27Kip1 CDK inhibitors (CKI) changes from cyclin E&#x2013;cdk2 to cyclin D&#x2013;cdk4/6. In turn, the cyclin E&#x2013;cdk2 holoenzyme phosphorylates Rb to de-repress the <italic>cyclin</italic>
+<italic>A</italic> gene (Harbour and Dean, <xref rid="B29" ref-type="bibr">2000</xref>; Aggarwal et al., <xref rid="B3" ref-type="bibr">2007</xref>).</p>
+      <p>Mammalian cells that undergo DNA damage in response to cell stressors such as chemotherapy or ionizing radiation have an active p53 tumor suppressor that acts to protect the genome (Levine, <xref rid="B39" ref-type="bibr">1997</xref>). In turn, this raises cellular levels of p53 protein and activities (Kastan et al., <xref rid="B34" ref-type="bibr">1991</xref>). Hence, this highlights how p53 regulates the expression of a wide variety of genes in response to DNA damage by acting as a TF during apoptosis, cell cycle arrest, or DNA repair (Fischer, <xref rid="B23" ref-type="bibr">2017</xref>). We found a luciferase luminescence assay to be a sensitive and convenient way to quantify p53 activity (Bellis et al., <xref rid="B8" ref-type="bibr">2011</xref>). The activity of p53 was increased by carmustine at a concentration of 200 &#x3BC;M, but decreased as the FN concentration was gradually elevated, indicating the DNA damage induced by carmustine may be reversed in the presence of FN. We hypothesize that the FN incorporated within integrin receptors leads to the activation of AKT, the downstream molecule regulated by FAK/paxillin pathway. As the key regulator of p53 stabilization and activity (Kubbutat et al., <xref rid="B37" ref-type="bibr">1997</xref>), the murine double minute-2 (mdm2) was enhanced by AKT that is able to promote p53 degradation (Abraham and O&#x2019;Neill, <xref rid="B2" ref-type="bibr">2014</xref>). Apoptosis mediated by p53 decreased via a mitochondrial or death receptor-induced apoptotic pathway (Vogelstein et al., <xref rid="B57" ref-type="bibr">2000</xref>). However, G<sub>1</sub> arrest is downregulated due to the decline of p53-dependent p21<sup>Cip/Waf</sup>, which is a CKI (El-Deiry, <xref rid="B19" ref-type="bibr">1998</xref>). The final result is that a decrease of p53 activity induced by FN allowed GSCs to survive.</p>
+      <p>Chemoresistance induced by the elevation of ABC transporter families has been well demonstrated by others (Martin et al., <xref rid="B41" ref-type="bibr">2009</xref>; Haar et al., <xref rid="B28" ref-type="bibr">2012</xref>). In contrast to a previous notion that ABCG2 may be the key subtype in GSCs (Gong et al., <xref rid="B27" ref-type="bibr">2014</xref>), we found ABCB1, also known as P-glycoprotein, to be the most functional subtype. CD133 and DNA-PK upregulate P-glycoprotein via activation of the AKT&#x2013;NF&#x3BA;B pathway in multidrug-resistant glioblastoma cells <italic>in</italic>
+<italic>vitro</italic> (Xi et al., <xref rid="B61" ref-type="bibr">2016</xref>), which is in accordance with our findings.</p>
+      <p>Acting as cell surface transmembrane molecules, integrins are made up of an &#x3B1; and &#x3B2; subunit. In total, these consist of combinations of 18 &#x3B1; subunits, 10 &#x3B2; subunits and 24 different heterodimeric integrins (Cox et al., <xref rid="B15" ref-type="bibr">2010</xref>). FN binds to integrins and triggers intracellular signaling through the activation of FAK and its downstream molecules (Digiacomo et al., <xref rid="B17" ref-type="bibr">2017</xref>). In the present study, we found that attachment to FN led to the activation of the FAK/paxillin/AKT signaling pathway, and this was associated with the proliferation and differentiation of GSCs. Integrins in malignant gliomas have been associated with many cellular functions, including angiogenesis, invasion, migration and adhesion (Abdollahi et al., <xref rid="B1" ref-type="bibr">2005</xref>). The regulation of integrins is typified by both by &#x201C;outside-in&#x201D; and &#x201C;inside-out&#x201D; signaling, the latter causing the extracellular portion of the integrin&#x2019;s subunits to change its conformation, and either become switched on or de-activated. In this manner, the activation of integrins is dependent on a complex crosstalk network causing bidirectional signaling (Tabatabai et al., <xref rid="B54" ref-type="bibr">2011</xref>). Our data showing differences in the degree of the detaching effect of cilengitide on U87-GSCs and primary GSCs may be due to the differing enrichment of integrin &#x3B1;V receptors on the cell surface, which also led to a varied degree of restoration of the activation of FAK/Paxillin/AKT signaling when cells grew on FN. Interestingly, Worthington et al. (<xref rid="B60" ref-type="bibr">2011</xref>) discovered that a latent complex composed of TGF-&#x3B2; and its corresponding receptor is activated by &#x3B1;v&#x3B2;8. In this manner, TGF-&#x3B2; function may be regulated and this may explain how the effects of TGF-&#x3B2; only occur in microenvironments that can activate the latent complex (Worthington et al., <xref rid="B60" ref-type="bibr">2011</xref>).</p>
+      <p>Here, we demonstrate that FN is an important ECM component that can modulate the biological behavior of U87-GSCs and primary-GSCs in terms of cell adhesion, proliferation, and differentiation in a concentration-dependent manner. Particularly, attachment to FN led to chemoresistance to carmustine. The integrin inhibitor, cilengitide, reversed the chemoresistant effect. The activation of FAK/paxillin/AKT was involved in the regulatory effects of FN on U87-GSCs and primary-GSCs. Further investigation targeting the ECM is required to understand the crosstalk between tumor cells and their microenvironment, suggesting a new direction for the development of novel chemotherapies for glioblastoma.</p>
+    </sec>
+    <sec id="s5">
+      <title>Author Contributions</title>
+      <p>YL and YX conceived and designed this study and revised the article critically. QY, JL and ZX performed the main experiments. JL and ZX helped with the lentiviral construction assay. ZL helped with the bioluminescence assay. QY drafted the manuscript and performed the literature review. All authors had final approval of the submitted versions.</p>
+    </sec>
+    <sec id="s6">
+      <title>Conflict of Interest Statement</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding.</bold> This work is supported by grants from the Natural Science Foundation of China (81672511 and 81573010), Liaoning Science and Technology Plan Project (No. 2015225007), special developmental project guided by central government of Liaoning Province (No. 2017011553-301) and outstanding scientific fund of Shengjing Hospital (No. 201304).</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="supplementary material" id="s7">
+      <title>Supplementary Material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link ext-link-type="uri" xlink:href="https://www.frontiersin.org/articles/10.3389/fnmol.2018.00130/full#supplementary-material">https://www.frontiersin.org/articles/10.3389/fnmol.2018.00130/full#supplementary-material</ext-link></p>
+      <supplementary-material content-type="local-data" id="SM1">
+        <label>FIGURE S1</label>
+        <caption>
+          <p>After U87 glioma stem-like cells (U87-GSCs) and primary-GSCs were cultured on pre-coated fibronectin (FN) and treated with 200 &#x3BC;M carmustine for 72 h, increasing numbers of cells survived as the concentration of fibronectin increased. Moreover, increased cell death was observed for both U87-GSCs and primary-GSCs when treated by carmustine combined with 100 &#x3BC;M cilengitide.</p>
+        </caption>
+        <media xlink:href="Image_1.JPEG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SM2">
+        <label>FIGURE S2</label>
+        <caption>
+          <p>After U87-GSCs were cultured on pre-coated FN for 72 h, immunofluorescence staining revealed FN at 5 or 10 &#x3BC;g/mL induced increased expression of Ki-67, indicating FN promoted cell proliferation. Images were taken at the same exposure settings. Cells grown without FN and stained without primary antibody were used as a negative control. <sup>*</sup><italic>p</italic> &lt; 0.05.</p>
+        </caption>
+        <media xlink:href="Image_2.JPEG">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abdollahi</surname><given-names>A.</given-names></name><name><surname>Griggs</surname><given-names>D. W.</given-names></name><name><surname>Zieher</surname><given-names>H.</given-names></name><name><surname>Roth</surname><given-names>A.</given-names></name><name><surname>Lipson</surname><given-names>K. E.</given-names></name><name><surname>Saffrich</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2005</year>). <article-title>Inhibition of &#x3B1;<sub>v</sub>&#x3B2;<sub>3</sub> integrin survival signaling enhances antiangiogenic and antitumor effects of radiotherapy</article-title>. <source>Clin. Cancer Res.</source>
+<volume>11</volume>, <fpage>6270</fpage>&#x2013;<lpage>6279</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.ccr-04-1223</pub-id><pub-id pub-id-type="pmid">16144931</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abraham</surname><given-names>A. G.</given-names></name><name><surname>O&#x2019;Neill</surname><given-names>E.</given-names></name></person-group> (<year>2014</year>). <article-title>PI3K/Akt-mediated regulation of p53 in cancer</article-title>. <source>Biochem. Soc. Trans.</source>
+<volume>42</volume>, <fpage>798</fpage>&#x2013;<lpage>803</lpage>. <pub-id pub-id-type="doi">10.1042/bst20140070</pub-id><pub-id pub-id-type="pmid">25109960</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aggarwal</surname><given-names>B. B.</given-names></name><name><surname>Banerjee</surname><given-names>S.</given-names></name><name><surname>Bharadwaj</surname><given-names>U.</given-names></name><name><surname>Sung</surname><given-names>B.</given-names></name><name><surname>Shishodia</surname><given-names>S.</given-names></name><name><surname>Sethi</surname><given-names>G.</given-names></name></person-group> (<year>2007</year>). <article-title>Curcumin induces the degradation of cyclin E expression through ubiquitin-dependent pathway and up-regulates cyclin-dependent kinase inhibitors p21 and p27 in multiple human tumor cell lines</article-title>. <source>Biochem. Pharmacol.</source>
+<volume>73</volume>, <fpage>1024</fpage>&#x2013;<lpage>1032</lpage>. <pub-id pub-id-type="doi">10.1016/j.bcp.2006.12.010</pub-id><pub-id pub-id-type="pmid">17240359</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ajaz</surname><given-names>M.</given-names></name><name><surname>Jefferies</surname><given-names>S.</given-names></name><name><surname>Brazil</surname><given-names>L.</given-names></name><name><surname>Watts</surname><given-names>C.</given-names></name><name><surname>Chalmers</surname><given-names>A.</given-names></name></person-group> (<year>2014</year>). <article-title>Current and investigational drug strategies for glioblastoma</article-title>. <source>Clin. Oncol. R. Coll. Radiol.</source>
+<volume>26</volume>, <fpage>419</fpage>&#x2013;<lpage>430</lpage>. <pub-id pub-id-type="doi">10.1016/j.clon.2014.03.012</pub-id><pub-id pub-id-type="pmid">24768122</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ariazi</surname><given-names>E. A.</given-names></name><name><surname>Kraus</surname><given-names>R. J.</given-names></name><name><surname>Farrell</surname><given-names>M. L.</given-names></name><name><surname>Jordan</surname><given-names>V. C.</given-names></name><name><surname>Mertz</surname><given-names>J. E.</given-names></name></person-group> (<year>2007</year>). <article-title>Estrogen-related receptor &#x3B1;1 transcriptional activities are regulated in part via the ErbB2/HER2 signaling pathway</article-title>. <source>Mol. Cancer Res.</source>
+<volume>5</volume>, <fpage>71</fpage>&#x2013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1158/1541-7786.mcr-06-0227</pub-id><pub-id pub-id-type="pmid">17259347</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Becker</surname><given-names>A.</given-names></name><name><surname>von Richter</surname><given-names>O.</given-names></name><name><surname>Kovar</surname><given-names>A.</given-names></name><name><surname>Scheible</surname><given-names>H.</given-names></name><name><surname>van Lier</surname><given-names>J. J.</given-names></name><name><surname>Johne</surname><given-names>A.</given-names></name></person-group> (<year>2015</year>). <article-title>Metabolism and disposition of the &#x3B1;v-integrin ss3/ss5 receptor antagonist cilengitide, a cyclic polypeptide, in humans</article-title>. <source>J. Clin. Pharmacol.</source>
+<volume>55</volume>, <fpage>815</fpage>&#x2013;<lpage>824</lpage>. <pub-id pub-id-type="doi">10.1002/jcph.482</pub-id><pub-id pub-id-type="pmid">25683324</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bellis</surname><given-names>A. D.</given-names></name><name><surname>Bernab&#xE9;</surname><given-names>B. P.</given-names></name><name><surname>Weiss</surname><given-names>M. S.</given-names></name><name><surname>Shin</surname><given-names>S.</given-names></name><name><surname>Weng</surname><given-names>S.</given-names></name><name><surname>Broadbelt</surname><given-names>L. J.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Dynamic transcription factor activity profiling in 2D and 3D cell cultures</article-title>. <source>Biotechnol. Bioeng.</source>
+<volume>110</volume>, <fpage>563</fpage>&#x2013;<lpage>572</lpage>. <pub-id pub-id-type="doi">10.1002/bit.24718</pub-id><pub-id pub-id-type="pmid">22949103</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bellis</surname><given-names>A. D.</given-names></name><name><surname>Penalver-Bernab&#xE9;</surname><given-names>B.</given-names></name><name><surname>Weiss</surname><given-names>M. S.</given-names></name><name><surname>Yarrington</surname><given-names>M. E.</given-names></name><name><surname>Barbolina</surname><given-names>M. V.</given-names></name><name><surname>Pannier</surname><given-names>A. K.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Cellular arrays for large-scale analysis of transcription factor activity</article-title>. <source>Biotechnol. Bioeng.</source>
+<volume>108</volume>, <fpage>395</fpage>&#x2013;<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1002/bit.22916</pub-id><pub-id pub-id-type="pmid">20812256</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berezovsky</surname><given-names>A. D.</given-names></name><name><surname>Poisson</surname><given-names>L. M.</given-names></name><name><surname>Cherba</surname><given-names>D.</given-names></name><name><surname>Webb</surname><given-names>C. P.</given-names></name><name><surname>Transou</surname><given-names>A. D.</given-names></name><name><surname>Lemke</surname><given-names>N. W.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Sox2 promotes malignancy in glioblastoma by regulating plasticity and astrocytic differentiation</article-title>. <source>Neoplasia</source>
+<volume>16</volume>, <fpage>193</fpage>&#x2013;<lpage>206</lpage>, <fpage>206.e19</fpage>&#x2013;<lpage>206.e25</lpage>. <pub-id pub-id-type="doi">10.1016/j.neo.2014.03.006</pub-id><pub-id pub-id-type="pmid">24726753</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Caffo</surname><given-names>M.</given-names></name><name><surname>German&#xF2;</surname><given-names>A.</given-names></name><name><surname>Caruso</surname><given-names>G.</given-names></name><name><surname>Meli</surname><given-names>F.</given-names></name><name><surname>Galatioto</surname><given-names>S.</given-names></name><name><surname>Sciacca</surname><given-names>M. P.</given-names></name><etal/></person-group>. (<year>2004</year>). <article-title>An immunohistochemical study of extracellular matrix proteins laminin, fibronectin and type IV collagen in paediatric glioblastoma multiforme</article-title>. <source>Acta Neurochir. Wien.</source>
+<volume>146</volume>, <fpage>1113</fpage>&#x2013;<lpage>1118</lpage>; discussion <fpage>1118</fpage>. <pub-id pub-id-type="doi">10.1007/s00701-004-0344-y</pub-id><pub-id pub-id-type="pmid">15309586</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>Cancer Genome Atlas Research Network</collab></person-group>. (<year>2008</year>). <article-title>Comprehensive genomic characterization defines human glioblastoma genes and core pathways</article-title>. <source>Nature</source>
+<volume>455</volume>, <fpage>1061</fpage>&#x2013;<lpage>1068</lpage>. <pub-id pub-id-type="doi">10.1038/nature07385</pub-id><pub-id pub-id-type="pmid">18772890</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>C. A.</given-names></name><name><surname>Cheng</surname><given-names>Y. C.</given-names></name><name><surname>Hwang</surname><given-names>J. C.</given-names></name><name><surname>Chang</surname><given-names>J. M.</given-names></name><name><surname>Guh</surname><given-names>J. Y.</given-names></name><name><surname>Chen</surname><given-names>H. C.</given-names></name></person-group> (<year>2012</year>). <article-title>Cyclin D1 expression in podocytes: regulated by mitogens in collaboration with integrin-extracellular matrix interaction through extracellular signal-regulated kinase</article-title>. <source>Exp. Biol. Med.</source>
+<volume>237</volume>, <fpage>516</fpage>&#x2013;<lpage>523</lpage>. <pub-id pub-id-type="doi">10.1258/ebm.2012.011156</pub-id><pub-id pub-id-type="pmid">22678010</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cho</surname><given-names>C.</given-names></name><name><surname>Horzempa</surname><given-names>C.</given-names></name><name><surname>Jones</surname><given-names>D.</given-names></name><name><surname>McKeown-Longo</surname><given-names>P. J.</given-names></name></person-group> (<year>2016</year>). <article-title>The fibronectin III-1 domain activates a PI3-Kinase/Akt signaling pathway leading to &#x3B1;v&#x3B2;5 integrin activation and TRAIL resistance in human lung cancer cells</article-title>. <source>BMC Cancer</source>
+<volume>16</volume>:<fpage>574</fpage>. <pub-id pub-id-type="doi">10.1186/s12885-016-2621-6</pub-id><pub-id pub-id-type="pmid">27484721</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Choudhuri</surname><given-names>S.</given-names></name><name><surname>Klaassen</surname><given-names>C. D.</given-names></name></person-group> (<year>2006</year>). <article-title>Structure, function, expression, genomic organization, and single nucleotide polymorphisms of human ABCB1 (MDR1), ABCC (MRP), and ABCG2 (BCRP) efflux transporters</article-title>. <source>Int. J. Toxicol.</source>
+<volume>25</volume>, <fpage>231</fpage>&#x2013;<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1080/10915810600746023</pub-id><pub-id pub-id-type="pmid">16815813</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cox</surname><given-names>D.</given-names></name><name><surname>Brennan</surname><given-names>M.</given-names></name><name><surname>Moran</surname><given-names>N.</given-names></name></person-group> (<year>2010</year>). <article-title>Integrins as therapeutic targets: lessons and opportunities</article-title>. <source>Nat. Rev. Drug Discov.</source>
+<volume>9</volume>, <fpage>804</fpage>&#x2013;<lpage>820</lpage>. <pub-id pub-id-type="doi">10.1038/nrd3266</pub-id><pub-id pub-id-type="pmid">20885411</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Danen</surname><given-names>E. H.</given-names></name><name><surname>Yamada</surname><given-names>K. M.</given-names></name></person-group> (<year>2001</year>). <article-title>Fibronectin, integrins, and growth control</article-title>. <source>J. Cell. Physiol.</source>
+<volume>189</volume>, <fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1002/jcp.1137</pub-id><pub-id pub-id-type="pmid">11573199</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Digiacomo</surname><given-names>G.</given-names></name><name><surname>Tusa</surname><given-names>I.</given-names></name><name><surname>Bacci</surname><given-names>M.</given-names></name><name><surname>Cipolleschi</surname><given-names>M. G.</given-names></name><name><surname>Dello Sbarba</surname><given-names>P.</given-names></name><name><surname>Rovida</surname><given-names>E.</given-names></name></person-group> (<year>2017</year>). <article-title>Fibronectin induces macrophage migration through a SFK-FAK/CSF-1R pathway</article-title>. <source>Cell Adh. Migr.</source>
+<volume>11</volume>, <fpage>327</fpage>&#x2013;<lpage>337</lpage>. <pub-id pub-id-type="doi">10.1080/19336918.2016.1221566</pub-id><pub-id pub-id-type="pmid">27588738</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Duncan</surname><given-names>M. T.</given-names></name><name><surname>Shin</surname><given-names>S.</given-names></name><name><surname>Wu</surname><given-names>J. J.</given-names></name><name><surname>Mays</surname><given-names>Z.</given-names></name><name><surname>Weng</surname><given-names>S.</given-names></name><name><surname>Bagheri</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Dynamic transcription factor activity profiles reveal key regulatory interactions during megakaryocytic and erythroid differentiation</article-title>. <source>Biotechnol. Bioeng.</source>
+<volume>111</volume>, <fpage>2082</fpage>&#x2013;<lpage>2094</lpage>. <pub-id pub-id-type="doi">10.1002/bit.25262</pub-id><pub-id pub-id-type="pmid">24853077</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Deiry</surname><given-names>W. S.</given-names></name></person-group> (<year>1998</year>). <article-title>Regulation of p53 downstream genes</article-title>. <source>Semin. Cancer Biol.</source>
+<volume>8</volume>, <fpage>345</fpage>&#x2013;<lpage>357</lpage>. <pub-id pub-id-type="doi">10.1006/scbi.1998.0097</pub-id><pub-id pub-id-type="pmid">10101800</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Faissner</surname><given-names>A.</given-names></name><name><surname>Reinhard</surname><given-names>J.</given-names></name></person-group> (<year>2015</year>). <article-title>The extracellular matrix compartment of neural stem and glial progenitor cells</article-title>. <source>Glia</source>
+<volume>63</volume>, <fpage>1330</fpage>&#x2013;<lpage>1349</lpage>. <pub-id pub-id-type="doi">10.1002/glia.22839</pub-id><pub-id pub-id-type="pmid">25913849</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fei</surname><given-names>M.</given-names></name><name><surname>Hang</surname><given-names>Q.</given-names></name><name><surname>Hou</surname><given-names>S.</given-names></name><name><surname>Ruan</surname><given-names>C.</given-names></name></person-group> (<year>2013</year>). <article-title>Cell adhesion to fibronectin down-regulates the expression of Spy1 and contributes to drug resistance in multiple myeloma cells</article-title>. <source>Int. J. Hematol.</source>
+<volume>98</volume>, <fpage>446</fpage>&#x2013;<lpage>455</lpage>. <pub-id pub-id-type="doi">10.1007/s12185-013-1435-4</pub-id><pub-id pub-id-type="pmid">24037419</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Filatova</surname><given-names>A.</given-names></name><name><surname>Acker</surname><given-names>T.</given-names></name><name><surname>Garvalov</surname><given-names>B. K.</given-names></name></person-group> (<year>2013</year>). <article-title>The cancer stem cell niche(s): the crosstalk between glioma stem cells and their microenvironment</article-title>. <source>Biochim. Biophys. Acta</source>
+<volume>1830</volume>, <fpage>2496</fpage>&#x2013;<lpage>2508</lpage>. <pub-id pub-id-type="doi">10.1016/j.bbagen.2012.10.008</pub-id><pub-id pub-id-type="pmid">23079585</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fischer</surname><given-names>M.</given-names></name></person-group> (<year>2017</year>). <article-title>Census and evaluation of p53 target genes</article-title>. <source>Oncogene</source>
+<volume>36</volume>, <fpage>3943</fpage>&#x2013;<lpage>3956</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2016.502</pub-id><pub-id pub-id-type="pmid">28288132</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galli</surname><given-names>R.</given-names></name><name><surname>Binda</surname><given-names>E.</given-names></name><name><surname>Orfanelli</surname><given-names>U.</given-names></name><name><surname>Cipelletti</surname><given-names>B.</given-names></name><name><surname>Gritti</surname><given-names>A.</given-names></name><name><surname>De Vitis</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2004</year>). <article-title>Isolation and characterization of tumorigenic, stem-like neural precursors from human glioblastoma</article-title>. <source>Cancer Res.</source>
+<volume>64</volume>, <fpage>7011</fpage>&#x2013;<lpage>7021</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.can-04-1364</pub-id><pub-id pub-id-type="pmid">15466194</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Glavinas</surname><given-names>H.</given-names></name><name><surname>Krajcsi</surname><given-names>P.</given-names></name><name><surname>Cserepes</surname><given-names>J.</given-names></name><name><surname>Sarkadi</surname><given-names>B.</given-names></name></person-group> (<year>2004</year>). <article-title>The role of ABC transporters in drug resistance, metabolism and toxicity</article-title>. <source>Curr. Drug Deliv.</source>
+<volume>1</volume>, <fpage>27</fpage>&#x2013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.2174/1567201043480036</pub-id><pub-id pub-id-type="pmid">16305368</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gong</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>Z. X.</given-names></name><name><surname>Liu</surname><given-names>Z. Y.</given-names></name></person-group> (<year>2017</year>). <article-title>miRNA1271 inhibits cell proliferation in neuroglioma by targeting fibronectin 1</article-title>. <source>Mol. Med. Rep.</source>
+<volume>16</volume>, <fpage>143</fpage>&#x2013;<lpage>150</lpage>. <pub-id pub-id-type="doi">10.3892/mmr.2017.6610</pub-id><pub-id pub-id-type="pmid">28535003</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gong</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Wan</surname><given-names>Y.</given-names></name><name><surname>Shi</surname><given-names>L.</given-names></name><name><surname>Zhou</surname><given-names>Y.</given-names></name></person-group> (<year>2014</year>). <article-title>Downregulation of ABCG2 protein inhibits migration and invasion in U251 glioma stem cells</article-title>. <source>Neuroreport</source>
+<volume>25</volume>, <fpage>625</fpage>&#x2013;<lpage>632</lpage>. <pub-id pub-id-type="doi">10.1097/WNR.0000000000000161</pub-id><pub-id pub-id-type="pmid">24781949</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haar</surname><given-names>C. P.</given-names></name><name><surname>Hebbar</surname><given-names>P.</given-names></name><name><surname>Wallace</surname><given-names>G. C.</given-names><suffix>IV.</suffix></name><name><surname>Das</surname><given-names>A.</given-names></name><name><surname>Vandergrift</surname><given-names>W. A.</given-names><suffix>III.</suffix></name><name><surname>Smith</surname><given-names>J. A.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Drug resistance in glioblastoma: a mini review</article-title>. <source>Neurochem. Res.</source>
+<volume>37</volume>, <fpage>1192</fpage>&#x2013;<lpage>1200</lpage>. <pub-id pub-id-type="doi">10.1007/s11064-011-0701-1</pub-id><pub-id pub-id-type="pmid">22228201</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harbour</surname><given-names>J. W.</given-names></name><name><surname>Dean</surname><given-names>D. C.</given-names></name></person-group> (<year>2000</year>). <article-title>Rb function in cell-cycle regulation and apoptosis</article-title>. <source>Nat. Cell Biol.</source>
+<volume>2</volume>, <fpage>E65</fpage>&#x2013;<lpage>E67</lpage>. <pub-id pub-id-type="doi">10.1038/35008695</pub-id><pub-id pub-id-type="pmid">10783254</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hazlehurst</surname><given-names>L. A.</given-names></name><name><surname>Argilagos</surname><given-names>R. F.</given-names></name><name><surname>Emmons</surname><given-names>M.</given-names></name><name><surname>Boulware</surname><given-names>D.</given-names></name><name><surname>Beam</surname><given-names>C. A.</given-names></name><name><surname>Sullivan</surname><given-names>D. M.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Cell adhesion to fibronectin (CAM-DR) influences acquired mitoxantrone resistance in U937 cells</article-title>. <source>Cancer Res.</source>
+<volume>66</volume>, <fpage>2338</fpage>&#x2013;<lpage>2345</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.can-05-3256</pub-id><pub-id pub-id-type="pmid">16489039</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>He</surname><given-names>J.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Zhu</surname><given-names>T. S.</given-names></name><name><surname>Xie</surname><given-names>X.</given-names></name><name><surname>Costello</surname><given-names>M. A.</given-names></name><name><surname>Talsma</surname><given-names>C. E.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Glycoproteomic analysis of glioblastoma stem cell differentiation</article-title>. <source>J. Proteome Res.</source>
+<volume>10</volume>, <fpage>330</fpage>&#x2013;<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1021/pr101158p</pub-id><pub-id pub-id-type="pmid">21110520</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jakel</surname><given-names>H.</given-names></name><name><surname>Peschel</surname><given-names>I.</given-names></name><name><surname>Kunze</surname><given-names>C.</given-names></name><name><surname>Weinl</surname><given-names>C.</given-names></name><name><surname>Hengst</surname><given-names>L.</given-names></name></person-group> (<year>2012</year>). <article-title>Regulation of p27 (Kip1) by mitogen-induced tyrosine phosphorylation</article-title>. <source>Cell Cycle</source>
+<volume>11</volume>, <fpage>1910</fpage>&#x2013;<lpage>1917</lpage>. <pub-id pub-id-type="doi">10.4161/cc.19957</pub-id><pub-id pub-id-type="pmid">22580455</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jov&#x10D;evska</surname><given-names>I.</given-names></name><name><surname>Ko&#x10D;evar</surname><given-names>N.</given-names></name><name><surname>Komel</surname><given-names>R.</given-names></name></person-group> (<year>2013</year>). <article-title>Glioma and glioblastoma&#x2014;how much do we (not) know?</article-title>
+<source>Mol. Clin. Oncol.</source>
+<volume>1</volume>, <fpage>935</fpage>&#x2013;<lpage>941</lpage>. <pub-id pub-id-type="doi">10.3892/mco.2013.172</pub-id><pub-id pub-id-type="pmid">24649273</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kastan</surname><given-names>M. B.</given-names></name><name><surname>Onyekwere</surname><given-names>O.</given-names></name><name><surname>Sidransky</surname><given-names>D.</given-names></name><name><surname>Vogelstein</surname><given-names>B.</given-names></name><name><surname>Craig</surname><given-names>R. W.</given-names></name></person-group> (<year>1991</year>). <article-title>Participation of p53 protein in the cellular response to DNA damage</article-title>. <source>Cancer Res.</source>
+<volume>51</volume>, <fpage>6304</fpage>&#x2013;<lpage>6311</lpage>. <pub-id pub-id-type="pmid">1933891</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Katsushima</surname><given-names>K.</given-names></name><name><surname>Kondo</surname><given-names>Y.</given-names></name></person-group> (<year>2014</year>). <article-title>Non-coding RNAs as epigenetic regulator of glioma stem-like cell differentiation</article-title>. <source>Front. Genet.</source>
+<volume>5</volume>:<fpage>14</fpage>. <pub-id pub-id-type="doi">10.3389/fgene.2014.00014</pub-id><pub-id pub-id-type="pmid">24550934</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kolupaeva</surname><given-names>V.</given-names></name><name><surname>Basilico</surname><given-names>C.</given-names></name></person-group> (<year>2012</year>). <article-title>Overexpression of cyclin E/CDK2 complexes overcomes FGF-induced cell cycle arrest in the presence of hypophosphorylated Rb proteins</article-title>. <source>Cell Cycle</source>
+<volume>11</volume>, <fpage>2557</fpage>&#x2013;<lpage>2566</lpage>. <pub-id pub-id-type="doi">10.4161/cc.20944</pub-id><pub-id pub-id-type="pmid">22713240</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kubbutat</surname><given-names>M. H.</given-names></name><name><surname>Jones</surname><given-names>S. N.</given-names></name><name><surname>Vousden</surname><given-names>K. H.</given-names></name></person-group> (<year>1997</year>). <article-title>Regulation of p53 stability by Mdm2</article-title>. <source>Nature</source>
+<volume>387</volume>, <fpage>299</fpage>&#x2013;<lpage>303</lpage>. <pub-id pub-id-type="doi">10.1038/387299a0</pub-id><pub-id pub-id-type="pmid">9153396</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>S. T.</given-names></name><name><surname>Yun</surname><given-names>J. I.</given-names></name><name><surname>van der Vlies</surname><given-names>A. J.</given-names></name><name><surname>Kontos</surname><given-names>S.</given-names></name><name><surname>Jang</surname><given-names>M.</given-names></name><name><surname>Gong</surname><given-names>S. P.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Long-term maintenance of mouse embryonic stem cell pluripotency by manipulating integrin signaling within 3D scaffolds without active Stat3</article-title>. <source>Biomaterials</source>
+<volume>33</volume>, <fpage>8934</fpage>&#x2013;<lpage>8942</lpage>. <pub-id pub-id-type="doi">10.1016/j.biomaterials.2012.08.062</pub-id><pub-id pub-id-type="pmid">22998814</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Levine</surname><given-names>A. J.</given-names></name></person-group> (<year>1997</year>). <article-title>p53, the cellular gatekeeper for growth and division</article-title>. <source>Cell</source>
+<volume>88</volume>, <fpage>323</fpage>&#x2013;<lpage>331</lpage>. <pub-id pub-id-type="doi">10.1016/s0092-8674(00)81871-1</pub-id><pub-id pub-id-type="pmid">9039259</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lottaz</surname><given-names>C.</given-names></name><name><surname>Beier</surname><given-names>D.</given-names></name><name><surname>Meyer</surname><given-names>K.</given-names></name><name><surname>Kumar</surname><given-names>P.</given-names></name><name><surname>Hermann</surname><given-names>A.</given-names></name><name><surname>Schwarz</surname><given-names>J.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Transcriptional profiles of CD133<sup>+</sup> and CD133<sup>&#x2212;</sup> glioblastoma-derived cancer stem cell lines suggest different cells of origin</article-title>. <source>Cancer Res.</source>
+<volume>70</volume>, <fpage>2030</fpage>&#x2013;<lpage>2040</lpage>. <pub-id pub-id-type="doi">10.1158/0008-5472.can-09-1707</pub-id><pub-id pub-id-type="pmid">20145155</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>V.</given-names></name><name><surname>Xu</surname><given-names>J.</given-names></name><name><surname>Pabbisetty</surname><given-names>S. K.</given-names></name><name><surname>Alonso</surname><given-names>M. M.</given-names></name><name><surname>Liu</surname><given-names>D.</given-names></name><name><surname>Lee</surname><given-names>O. H.</given-names></name><etal/></person-group>. (<year>2009</year>). <article-title>Tie2-mediated multidrug resistance in malignant gliomas is associated with upregulation of ABC transporters</article-title>. <source>Oncogene</source>
+<volume>28</volume>, <fpage>2358</fpage>&#x2013;<lpage>2363</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2009.103</pub-id><pub-id pub-id-type="pmid">19421150</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitra</surname><given-names>S. K.</given-names></name><name><surname>Hanson</surname><given-names>D. A.</given-names></name><name><surname>Schlaepfer</surname><given-names>D. D.</given-names></name></person-group> (<year>2005</year>). <article-title>Focal adhesion kinase: in command control of cell motility</article-title>. <source>Nat. Rev. Mol. Cell Biol.</source>
+<volume>6</volume>, <fpage>56</fpage>&#x2013;<lpage>68</lpage>. <pub-id pub-id-type="doi">10.1038/nrm1549</pub-id><pub-id pub-id-type="pmid">15688067</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nakagawa</surname><given-names>Y.</given-names></name><name><surname>Nakayama</surname><given-names>H.</given-names></name><name><surname>Nagata</surname><given-names>M.</given-names></name><name><surname>Yoshida</surname><given-names>R.</given-names></name><name><surname>Kawahara</surname><given-names>K.</given-names></name><name><surname>Hirosue</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Overexpression of fibronectin confers cell adhesion-mediated drug resistance (CAM-DR) against 5-FU in oral squamous cell carcinoma cells</article-title>. <source>Int. J. Oncol.</source>
+<volume>44</volume>, <fpage>1376</fpage>&#x2013;<lpage>1384</lpage>. <pub-id pub-id-type="doi">10.3892/ijo.2014.2265</pub-id><pub-id pub-id-type="pmid">24452447</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Narasimha</surname><given-names>A. M.</given-names></name><name><surname>Kaulich</surname><given-names>M.</given-names></name><name><surname>Shapiro</surname><given-names>G. S.</given-names></name><name><surname>Choi</surname><given-names>Y. J.</given-names></name><name><surname>Sicinski</surname><given-names>P.</given-names></name><name><surname>Dowdy</surname><given-names>S. F.</given-names></name></person-group> (<year>2014</year>). <article-title>Cyclin D activates the Rb tumor suppressor by mono-phosphorylation</article-title>. <source>Elife</source>
+<volume>3</volume>:<fpage>e02872</fpage>. <pub-id pub-id-type="doi">10.7554/eLife.02872</pub-id><pub-id pub-id-type="pmid">24876129</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Natarajan</surname><given-names>M.</given-names></name><name><surname>Hecker</surname><given-names>T. P.</given-names></name><name><surname>Gladson</surname><given-names>C. L.</given-names></name></person-group> (<year>2003</year>). <article-title>FAK signaling in anaplastic astrocytoma and glioblastoma tumors</article-title>. <source>Cancer J.</source>
+<volume>9</volume>, <fpage>126</fpage>&#x2013;<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1097/00130404-200303000-00008</pub-id><pub-id pub-id-type="pmid">12784878</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>L. V.</given-names></name><name><surname>Vanner</surname><given-names>R.</given-names></name><name><surname>Dirks</surname><given-names>P.</given-names></name><name><surname>Eaves</surname><given-names>C. J.</given-names></name></person-group> (<year>2012</year>). <article-title>Cancer stem cells: an evolving concept</article-title>. <source>Nat. Rev. Cancer</source>
+<volume>12</volume>, <fpage>133</fpage>&#x2013;<lpage>143</lpage>. <pub-id pub-id-type="doi">10.1038/nrc3184</pub-id><pub-id pub-id-type="pmid">22237392</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O&#x2019;Doherty</surname><given-names>U.</given-names></name><name><surname>Swiggard</surname><given-names>W. J.</given-names></name><name><surname>Malim</surname><given-names>M. H.</given-names></name></person-group> (<year>2000</year>). <article-title>Human immunodeficiency virus type 1 spinoculation enhances infection through virus binding</article-title>. <source>J. Virol.</source>
+<volume>74</volume>, <fpage>10074</fpage>&#x2013;<lpage>10080</lpage>. <pub-id pub-id-type="doi">10.1128/jvi.74.21.10074-10080.2000</pub-id><pub-id pub-id-type="pmid">11024136</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Phillips</surname><given-names>H. S.</given-names></name><name><surname>Kharbanda</surname><given-names>S.</given-names></name><name><surname>Chen</surname><given-names>R.</given-names></name><name><surname>Forrest</surname><given-names>W. F.</given-names></name><name><surname>Soriano</surname><given-names>R. H.</given-names></name><name><surname>Wu</surname><given-names>T. D.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Molecular subclasses of high-grade glioma predict prognosis, delineate a pattern of disease progression and resemble stages in neurogenesis</article-title>. <source>Cancer Cell</source>
+<volume>9</volume>, <fpage>157</fpage>&#x2013;<lpage>173</lpage>. <pub-id pub-id-type="doi">10.1016/j.ccr.2006.02.019</pub-id><pub-id pub-id-type="pmid">16530701</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pontiggia</surname><given-names>O.</given-names></name><name><surname>Sampayo</surname><given-names>R.</given-names></name><name><surname>Raffo</surname><given-names>D.</given-names></name><name><surname>Motter</surname><given-names>A.</given-names></name><name><surname>Xu</surname><given-names>R.</given-names></name><name><surname>Bissell</surname><given-names>M. J.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>The tumor microenvironment modulates tamoxifen resistance in breast cancer: a role for soluble stromal factors and fibronectin through &#x3B2;1 integrin</article-title>. <source>Breast Cancer Res. Treat.</source>
+<volume>133</volume>, <fpage>459</fpage>&#x2013;<lpage>471</lpage>. <pub-id pub-id-type="doi">10.1007/s10549-011-1766-x</pub-id><pub-id pub-id-type="pmid">21935603</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sawaya</surname><given-names>R.</given-names></name><name><surname>Cummins</surname><given-names>C. J.</given-names></name><name><surname>Smith</surname><given-names>B. H.</given-names></name><name><surname>Kornblith</surname><given-names>P. L.</given-names></name></person-group> (<year>1985</year>). <article-title>Plasma fibronectin in patients with brain tumors</article-title>. <source>Neurosurgery</source>
+<volume>16</volume>, <fpage>161</fpage>&#x2013;<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1097/00006123-198502000-00006</pub-id><pub-id pub-id-type="pmid">3974826</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scadden</surname><given-names>D. T.</given-names></name></person-group> (<year>2006</year>). <article-title>The stem-cell niche as an entity of action</article-title>. <source>Nature</source>
+<volume>441</volume>, <fpage>1075</fpage>&#x2013;<lpage>1079</lpage>. <pub-id pub-id-type="doi">10.1038/nature04957</pub-id><pub-id pub-id-type="pmid">16810242</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholzen</surname><given-names>T.</given-names></name><name><surname>Gerdes</surname><given-names>J.</given-names></name></person-group> (<year>2000</year>). <article-title>The Ki-67 protein: from the known and the unknown</article-title>. <source>J. Cell. Physiol.</source>
+<volume>182</volume>, <fpage>311</fpage>&#x2013;<lpage>322</lpage>. <pub-id pub-id-type="doi">10.1002/(SICI)1097-4652(200003)182:3&lt;311::AID-JCP1&gt;3.0.CO;2-9</pub-id><pub-id pub-id-type="pmid">10653597</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Singh</surname><given-names>P.</given-names></name><name><surname>Schwarzbauer</surname><given-names>J. E.</given-names></name></person-group> (<year>2012</year>). <article-title>Fibronectin and stem cell differentiation-lessons from chondrogenesis</article-title>. <source>J. Cell Sci.</source>
+<volume>125</volume>, <fpage>3703</fpage>&#x2013;<lpage>3712</lpage>. <pub-id pub-id-type="doi">10.1242/jcs.095786</pub-id><pub-id pub-id-type="pmid">22976308</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tabatabai</surname><given-names>G.</given-names></name><name><surname>Tonn</surname><given-names>J. C.</given-names></name><name><surname>Stupp</surname><given-names>R.</given-names></name><name><surname>Weller</surname><given-names>M.</given-names></name></person-group> (<year>2011</year>). <article-title>The role of integrins in glioma biology and anti-glioma therapies</article-title>. <source>Curr. Pharm. Des.</source>
+<volume>17</volume>, <fpage>2402</fpage>&#x2013;<lpage>2410</lpage>. <pub-id pub-id-type="doi">10.2174/138161211797249189</pub-id><pub-id pub-id-type="pmid">21827415</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Toutounchian</surname><given-names>J. J.</given-names></name><name><surname>Pagadala</surname><given-names>J.</given-names></name><name><surname>Miller</surname><given-names>D. D.</given-names></name><name><surname>Baudry</surname><given-names>J.</given-names></name><name><surname>Park</surname><given-names>F.</given-names></name><name><surname>Chaum</surname><given-names>E.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Novel small molecule JP-153 targets the Src-FAK-paxillin signaling complex to inhibit vegf-induced retinal angiogenesis</article-title>. <source>Mol. Pharmacol.</source>
+<volume>91</volume>, <fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1124/mol.116.105031</pub-id><pub-id pub-id-type="pmid">27913654</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vanarsdale</surname><given-names>T.</given-names></name><name><surname>Boshoff</surname><given-names>C.</given-names></name><name><surname>Arndt</surname><given-names>K. T.</given-names></name><name><surname>Abraham</surname><given-names>R. T.</given-names></name></person-group> (<year>2015</year>). <article-title>Molecular pathways: targeting the cyclin D-CDK4/6 axis for cancer treatment</article-title>. <source>Clin. Cancer Res.</source>
+<volume>21</volume>, <fpage>2905</fpage>&#x2013;<lpage>2910</lpage>. <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-14-0816</pub-id><pub-id pub-id-type="pmid">25941111</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vogelstein</surname><given-names>B.</given-names></name><name><surname>Lane</surname><given-names>D.</given-names></name><name><surname>Levine</surname><given-names>A. J.</given-names></name></person-group> (<year>2000</year>). <article-title>Surfing the p53 network</article-title>. <source>Nature</source>
+<volume>408</volume>, <fpage>307</fpage>&#x2013;<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1038/35042675</pub-id><pub-id pub-id-type="pmid">11099028</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J. P.</given-names></name><name><surname>Hielscher</surname><given-names>A.</given-names></name></person-group> (<year>2017</year>). <article-title>Fibronectin: how its aberrant expression in tumors may improve therapeutic targeting</article-title>. <source>J. Cancer</source>
+<volume>8</volume>, <fpage>674</fpage>&#x2013;<lpage>682</lpage>. <pub-id pub-id-type="doi">10.7150/jca.16901</pub-id><pub-id pub-id-type="pmid">28367247</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wilson</surname><given-names>T. A.</given-names></name><name><surname>Karajannis</surname><given-names>M. A.</given-names></name><name><surname>Harter</surname><given-names>D. H.</given-names></name></person-group> (<year>2014</year>). <article-title>Glioblastoma multiforme: state of the art and future therapeutics</article-title>. <source>Surg. Neurol. Int.</source>
+<volume>5</volume>:<fpage>64</fpage>. <pub-id pub-id-type="doi">10.4103/2152-7806.132138</pub-id><pub-id pub-id-type="pmid">24991467</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Worthington</surname><given-names>J. J.</given-names></name><name><surname>Klementowicz</surname><given-names>J. E.</given-names></name><name><surname>Travis</surname><given-names>M. A.</given-names></name></person-group> (<year>2011</year>). <article-title>TGF&#x3B2;: a sleeping giant awoken by integrins</article-title>. <source>Trends Biochem. Sci.</source>
+<volume>36</volume>, <fpage>47</fpage>&#x2013;<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.tibs.2010.08.002</pub-id><pub-id pub-id-type="pmid">20870411</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xi</surname><given-names>G.</given-names></name><name><surname>Hayes</surname><given-names>E.</given-names></name><name><surname>Lewis</surname><given-names>R.</given-names></name><name><surname>Ichi</surname><given-names>S.</given-names></name><name><surname>Mania-Farnell</surname><given-names>B.</given-names></name><name><surname>Shim</surname><given-names>K.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>CD133 and DNA-PK regulate MDR1 via the PI3K- or Akt-NF-&#x3BA;B pathway in multidrug-resistant glioblastoma cells <italic>in vitro</italic></article-title>. <source>Oncogene</source>
+<volume>35</volume>, <fpage>241</fpage>&#x2013;<lpage>250</lpage>. <pub-id pub-id-type="doi">10.1038/onc.2015.78</pub-id><pub-id pub-id-type="pmid">25823028</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>B.</given-names></name><name><surname>Laouar</surname><given-names>A.</given-names></name><name><surname>Huberman</surname><given-names>E.</given-names></name></person-group> (<year>1998</year>). <article-title>Fibronectin-mediated cell adhesion is required for induction of 92-kDa type IV collagenase/gelatinase <italic>(MMP-9)</italic> gene expression during macrophage differentiation. The signaling role of protein kinase C-&#x3B2;</article-title>. <source>J. Biol. Chem.</source>
+<volume>273</volume>, <fpage>11576</fpage>&#x2013;<lpage>11582</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.273.19.11576</pub-id><pub-id pub-id-type="pmid">9565574</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yao</surname><given-names>Y.</given-names></name><name><surname>Ma</surname><given-names>J.</given-names></name><name><surname>Xue</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>P.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>MiR-449a exerts tumor-suppressive functions in human glioblastoma by targeting Myc-associated zinc-finger protein</article-title>. <source>Mol. Oncol.</source>
+<volume>9</volume>, <fpage>640</fpage>&#x2013;<lpage>656</lpage>. <pub-id pub-id-type="doi">10.1016/j.molonc.2014.11.003</pub-id><pub-id pub-id-type="pmid">25487955</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yin</surname><given-names>J.</given-names></name><name><surname>Park</surname><given-names>G.</given-names></name><name><surname>Lee</surname><given-names>J. E.</given-names></name><name><surname>Park</surname><given-names>J. Y.</given-names></name><name><surname>Kim</surname><given-names>T. H.</given-names></name><name><surname>Kim</surname><given-names>Y. J.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>CPEB1 modulates differentiation of glioma stem cells via downregulation of HES1 and SIRT1 expression</article-title>. <source>Oncotarget</source>
+<volume>5</volume>, <fpage>6756</fpage>&#x2013;<lpage>6769</lpage>. <pub-id pub-id-type="doi">10.18632/oncotarget.2250</pub-id><pub-id pub-id-type="pmid">25216517</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ying</surname><given-names>M.</given-names></name><name><surname>Sang</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Guerrero-Cazares</surname><given-names>H.</given-names></name><name><surname>Quinones-Hinojosa</surname><given-names>A.</given-names></name><name><surname>Vescovi</surname><given-names>A. L.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Kr&#xFC;ppel-like family of transcription factor 9, a differentiation-associated transcription factor, suppresses Notch1 signaling and inhibits glioblastoma-initiating stem cells</article-title>. <source>Stem Cells</source>
+<volume>29</volume>, <fpage>20</fpage>&#x2013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1002/stem.561</pub-id><pub-id pub-id-type="pmid">21280156</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>Q.</given-names></name><name><surname>Liu</surname><given-names>L.</given-names></name><name><surname>Wang</surname><given-names>P.</given-names></name><name><surname>Yao</surname><given-names>Y.</given-names></name><name><surname>Xue</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name></person-group> (<year>2017</year>). <article-title>EMAP-II sensitize U87MG and glioma stem-like cells to temozolomide via induction of autophagy-mediated cell death and G2/M arrest</article-title>. <source>Cell Cycle</source>
+<volume>16</volume>, <fpage>1085</fpage>&#x2013;<lpage>1092</lpage>. <pub-id pub-id-type="doi">10.1080/15384101.2017.1315492</pub-id><pub-id pub-id-type="pmid">28436750</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zeng</surname><given-names>H.</given-names></name><name><surname>Xu</surname><given-names>N.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>B.</given-names></name><name><surname>Yang</surname><given-names>Z.</given-names></name><name><surname>Fu</surname><given-names>Z.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Genomic profiling of long non-coding RNA and mRNA expression associated with acquired temozolomide resistance in glioblastoma cells</article-title>. <source>Int. J. Oncol.</source>
+<volume>51</volume>, <fpage>445</fpage>&#x2013;<lpage>455</lpage>. <pub-id pub-id-type="doi">10.3892/ijo.2017.4033</pub-id><pub-id pub-id-type="pmid">28714520</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Ren</surname><given-names>X.</given-names></name><name><surname>Cheng</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Allen</surname><given-names>J. E.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>The NF&#x3BA;B inhibitor, SN50, induces differentiation of glioma stem cells and suppresses their oncogenic phenotype</article-title>. <source>Cancer Biol. Ther.</source>
+<volume>15</volume>, <fpage>602</fpage>&#x2013;<lpage>611</lpage>. <pub-id pub-id-type="doi">10.4161/cbt.28158</pub-id><pub-id pub-id-type="pmid">24557012</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
