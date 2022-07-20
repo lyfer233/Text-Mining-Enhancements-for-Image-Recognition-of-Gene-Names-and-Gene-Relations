@@ -1,4 +1,3 @@
-- `paragraph` folder cover
 - `xml_file` contains the XML structure information for 33 articles.
 
 - `newest_extrac_figure_caption.py` is to use the existing XML information of 33 articles to extract the corresponding figure and paragraph information, and save it in `json` format.
