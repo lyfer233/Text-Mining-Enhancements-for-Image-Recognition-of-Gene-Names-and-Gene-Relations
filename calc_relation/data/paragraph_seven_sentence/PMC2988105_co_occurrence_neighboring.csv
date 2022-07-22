@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+P21,P21,4
+P21,P53,4
+P21,NAG,4
+P53,P53,4
+P53,NAG,4
+NAG,NAG,4

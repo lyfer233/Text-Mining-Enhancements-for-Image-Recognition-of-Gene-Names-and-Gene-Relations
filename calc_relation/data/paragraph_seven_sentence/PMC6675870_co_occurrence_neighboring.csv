@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
+MCL,MCL,4
+MCL,MEK,2
+MCL,BCL,2
 MEK,MEK,2
 MEK,BCL,2
-MEK,MCL,2
 BCL,BCL,2
-BCL,MCL,2
-MCL,MCL,4

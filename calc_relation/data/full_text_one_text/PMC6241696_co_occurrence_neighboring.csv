@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-CASP3,CASP3,26
-CASP3,PKA,2
 PKA,PKA,58
+PKA,CASP3,2
+CASP3,CASP3,26

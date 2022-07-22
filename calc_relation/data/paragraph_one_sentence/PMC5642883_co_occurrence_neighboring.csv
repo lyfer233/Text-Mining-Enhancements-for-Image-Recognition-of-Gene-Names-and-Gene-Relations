@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-LCN2,LCN2,16
-LCN2,TPA,14
 TPA,TPA,24
+TPA,LCN2,14
+LCN2,LCN2,16

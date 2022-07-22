@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
+PKM2,PKM2,2
+PKM2,EMT,2
+PKM2,HIF,2
 EMT,EMT,2
 EMT,HIF,2
-EMT,PKM2,2
 HIF,HIF,2
-HIF,PKM2,2
-PKM2,PKM2,2

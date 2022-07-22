@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
 MTOR,MTOR,2
 MTOR,AKT,2
-AKT,AKT,2
 NOS1,NOS1,2
 NOS1,PTEN,2
+AKT,AKT,2
 PTEN,PTEN,4

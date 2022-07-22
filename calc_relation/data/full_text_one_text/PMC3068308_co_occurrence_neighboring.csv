@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
-PI3K,PI3K,22
-PI3K,AKT,16
-AKT,AKT,26
 BCL-X,BCL-X,12
 BCL-X,BCL2,6
+AKT,AKT,26
+AKT,PI3K,16
 BCL2,BCL2,6
+PI3K,PI3K,22

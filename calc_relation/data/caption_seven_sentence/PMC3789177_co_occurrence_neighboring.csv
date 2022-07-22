@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
+KRI-1,KRI-1,2
+KRI-1,DLC-1,2
+KRI-1,LIN-35,2
 DLC-1,DLC-1,4
 DLC-1,LIN-35,2
-DLC-1,KRI-1,2
 LIN-35,LIN-35,2
-LIN-35,KRI-1,2
-KRI-1,KRI-1,2

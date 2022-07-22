@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
+GLI,GLI,24
+GLI,PTCH,8
+GLI,SMO,6
 PTCH,PTCH,14
 PTCH,SMO,10
-PTCH,GLI,8
 SMO,SMO,24
-SMO,GLI,6
-GLI,GLI,24

@@ -1,0 +1,9 @@
+gene_name_1,gene_name_2,co_occurrence
+CD61,CD61,6
+CD61,SNON,4
+SMAD2,SMAD2,4
+SMAD2,APC,2
+SMAD2,SNON,2
+APC,APC,2
+APC,SNON,2
+SNON,SNON,6

@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
 AKT,AKT,6
-AKT,TK,2
 AKT,TKIS,2
-TK,TK,2
-TK,TKIS,2
+AKT,TK,2
 TKIS,TKIS,2
+TKIS,TK,2
+TK,TK,2

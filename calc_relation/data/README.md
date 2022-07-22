@@ -8,9 +8,9 @@
 
 `full_text` folder contains the content of 45 articles extracted from [PubTator](https://www.ncbi.nlm.nih.gov/research/pubtator/).
 
-`figure ` folder contains the caption-level content for 33 articles.
+`figure ` folder contains the caption-level content for 45 articles.
 
-`paragraph_txt` folder contains the paragraph-level content for 33 articles.
+`paragraph_txt` folder contains the paragraph-level content for 45 articles.
 
 ## Result
 

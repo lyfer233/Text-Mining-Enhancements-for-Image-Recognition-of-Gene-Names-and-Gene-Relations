@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-MST1,MST1,14
-MST1,YAP,14
 YAP,YAP,2106
+YAP,MST1,14
+MST1,MST1,14

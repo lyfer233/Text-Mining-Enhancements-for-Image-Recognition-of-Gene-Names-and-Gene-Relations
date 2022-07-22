@@ -1,0 +1,12 @@
+gene_name_1,gene_name_2,co_occurrence
+ATM,ATM,2
+ATM,P53,2
+P21,P21,4
+P21,P53,2
+P21,NAG,4
+P21,PKC,2
+P53,P53,4
+P53,NAG,2
+NAG,NAG,4
+NAG,PKC,2
+PKC,PKC,2

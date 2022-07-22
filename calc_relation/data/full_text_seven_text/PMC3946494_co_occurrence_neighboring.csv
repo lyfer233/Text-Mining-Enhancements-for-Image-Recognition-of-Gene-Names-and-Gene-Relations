@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+PI3K,PI3K,168
+PI3K,PAKT,80
+PI3K,AKT,168
+PAKT,PAKT,140
+PAKT,AKT,140
+AKT,AKT,540

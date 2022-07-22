@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+IL-1B,IL-1B,2
+IL-1B,ROS,2
+IL-1B,PPAR,2
+ROS,ROS,4
+ROS,PPAR,4
+PPAR,PPAR,6

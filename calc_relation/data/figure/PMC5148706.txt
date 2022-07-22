@@ -1,0 +1,1 @@
+Actin polymerization pathway. ITSN-L interacts with the Rho GTPase Cdc42, its effector N-WASP and the WASP interacting protein WIP. N-WASP and WIP also bind each other. Interaction between ITSN-L and N-WASP activates N-WASP, which binds the Arp2/3 complex, resulting in the stimulation of the actin filament nucleation and initiation of actin polymerization. 

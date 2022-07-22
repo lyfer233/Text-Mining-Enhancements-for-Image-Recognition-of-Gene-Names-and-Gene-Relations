@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
 EPC,EPC,10
-EPC,OPG,4
 EPC,CXCR4,2
-OPG,OPG,20
-OPG,CXCR4,2
+EPC,OPG,4
 CXCR4,CXCR4,2
+CXCR4,OPG,2
+OPG,OPG,20

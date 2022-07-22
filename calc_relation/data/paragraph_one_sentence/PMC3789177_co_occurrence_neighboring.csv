@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-DLC-1,DLC-1,20
-DLC-1,KRI-1,18
 KRI-1,KRI-1,20
+KRI-1,DLC-1,18
+DLC-1,DLC-1,20

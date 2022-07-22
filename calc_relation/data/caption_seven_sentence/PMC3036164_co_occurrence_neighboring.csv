@@ -1,0 +1,7 @@
+gene_name_1,gene_name_2,co_occurrence
+EDN1,EDN1,6
+EDN1,NADL1,2
+EDN1,ALCAMA,6
+NADL1,NADL1,2
+NADL1,ALCAMA,2
+ALCAMA,ALCAMA,6

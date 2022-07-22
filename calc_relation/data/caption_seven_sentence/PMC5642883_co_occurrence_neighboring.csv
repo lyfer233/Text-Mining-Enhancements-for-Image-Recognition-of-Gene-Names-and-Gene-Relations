@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
+TPA,TPA,4
+TPA,LCN2,2
+TPA,XS,2
 LCN2,LCN2,2
 LCN2,XS,2
-LCN2,TPA,2
 XS,XS,2
-XS,TPA,2
-TPA,TPA,4

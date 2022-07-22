@@ -1,0 +1,1 @@
+Pathway adapted from by including three missed edges and correcting one reversed edge. Nodes represent proteins, and directed edges represent signal transduction.

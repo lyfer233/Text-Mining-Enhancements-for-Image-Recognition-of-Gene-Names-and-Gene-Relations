@@ -1,0 +1,1 @@
+Schematic representation of a dual signaling pathway downstream of Syx and RhoA that suppresses neural differentiation. Solid lines represent direct regulatory events, whereas dashed lines represent events that either are indirect or have not been shown to be direct.

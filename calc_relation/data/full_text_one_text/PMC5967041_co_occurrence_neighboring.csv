@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-UO126,UO126,20
-UO126,ERK,14
 ERK,ERK,120
+ERK,UO126,14
+UO126,UO126,20

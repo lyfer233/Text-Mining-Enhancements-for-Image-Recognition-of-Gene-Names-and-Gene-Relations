@@ -1,0 +1,9 @@
+gene_name_1,gene_name_2,co_occurrence
+HB-EGF,HB-EGF,2
+HB-EGF,EGFR,2
+HB-EGF,ADAM,2
+EGFR,EGFR,4
+EGFR,ADAM,2
+EGFR,CTF,2
+ADAM,ADAM,8
+CTF,CTF,6

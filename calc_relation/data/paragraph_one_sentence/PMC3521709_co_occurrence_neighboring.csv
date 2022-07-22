@@ -1,7 +1,7 @@
 gene_name_1,gene_name_2,co_occurrence
+DYN-1,DYN-1,4
+DYN-1,CED-6,2
+DYN-1,CED-1,2
 CED-6,CED-6,2
 CED-6,CED-1,2
-CED-6,DYN-1,2
 CED-1,CED-1,4
-CED-1,DYN-1,2
-DYN-1,DYN-1,4

@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-P85,P85,4
-P85,AKT,4
 AKT,AKT,20
+AKT,P85,4
+P85,P85,4

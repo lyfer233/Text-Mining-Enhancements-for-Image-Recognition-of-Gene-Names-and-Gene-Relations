@@ -1,4 +1,4 @@
 gene_name_1,gene_name_2,co_occurrence
-ETS,ETS,548
-ETS,ERK,280
 ERK,ERK,516
+ERK,ETS,280
+ETS,ETS,548
